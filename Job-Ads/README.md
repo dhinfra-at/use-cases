@@ -1,0 +1,1 @@
+This is the pipeline used in the [Job Ads]([https://dhinfra.at](https://historical-job-ads.uni-graz.at/de/)) project to identify and analyse the development of the Austrian labour market from 1850 to 1950 based on job advertisements posted in newspapers.   
