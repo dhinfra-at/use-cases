@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002339_F023278.jpg" imageWidth="800" imageHeight="397">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,396 0,396"/>
+      <TextLine id="r1l1">
+        <Coords points="286,69 527,65 527,100 286,104"/>
+        <Baseline points="286,98 527,94"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="220,98 613,98 613,135 220,135"/>
+        <Baseline points="220,130 613,130"/>
+        <TextEquiv><Unicode>IVLIAE RETORICE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="254,130 589,133 589,166 254,163"/>
+        <Baseline points="254,157 589,160"/>
+        <TextEquiv><Unicode>P RVTILIVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="214,159 609,161 609,199 214,197"/>
+        <Baseline points="214,192 609,194"/>
+        <TextEquiv><Unicode>HELIODORVS COIV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="213,195 608,194 608,227 213,228"/>
+        <Baseline points="213,222 608,221"/>
+        <TextEquiv><Unicode>GI CARISSIMAE FECIT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="214,224 607,223 607,257 214,258"/>
+        <Baseline points="214,253 607,252"/>
+        <TextEquiv><Unicode>ET SIBI ET SVIS LIBER</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="229,252 604,256 604,287 229,283"/>
+        <Baseline points="229,277 604,281"/>
+        <TextEquiv><Unicode>TIS LIBERTABVSQVE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="214,279 567,283 567,318 214,314"/>
+        <Baseline points="214,311 567,315"/>
+        <TextEquiv><Unicode>POSTERISQVAE EO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="363,306 436,306 436,337 363,337"/>
+        <Baseline points="363,331 436,331"/>
+        <TextEquiv><Unicode>RVM</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

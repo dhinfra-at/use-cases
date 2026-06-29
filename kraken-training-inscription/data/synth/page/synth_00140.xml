@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00140.jpg" imageWidth="900" imageHeight="501">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,501 0,501" />
+      <TextLine id="r1l1">
+        <Coords points="132,96 266,106 399,116 533,126 667,135 801,145 801,223 667,214 533,204 399,194 266,184 132,174" />
+        <Baseline points="132,135 266,145 399,155 533,164 667,174 801,184" />
+        <TextEquiv>
+          <Unicode>PEREGRINIO HELIODORO CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="128,166 256,163 385,162 514,161 643,160 772,159 772,220 643,222 514,222 385,223 256,224 128,227" />
+        <Baseline points="128,222 256,220 385,219 514,218 643,217 772,216" />
+        <TextEquiv>
+          <Unicode>SVMMATE PERITIAE MEDICO ET MI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="124,267 253,273 382,280 510,286 639,291 768,297 768,352 639,347 510,341 382,335 253,329 124,322" />
+        <Baseline points="124,301 253,308 382,314 510,321 639,326 768,332" />
+        <TextEquiv>
+          <Unicode>RAE PIETATIS IVVENI COMINIA FAV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="120,340 243,342 367,344 490,346 613,349 736,351 736,395 613,392 490,390 367,387 243,385 120,383" />
+        <Baseline points="120,379 243,381 367,383 490,385 613,388 736,390" />
+        <TextEquiv>
+          <Unicode>STINA MATER INFELICISSIMA F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

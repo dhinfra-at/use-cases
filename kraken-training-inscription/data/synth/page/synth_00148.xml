@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00148.jpg" imageWidth="900" imageHeight="484">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,484 0,484" />
+      <TextLine id="r1l1">
+        <Coords points="123,112 250,117 377,122 504,127 631,133 758,139 758,203 631,197 504,191 377,186 250,181 123,176" />
+        <Baseline points="123,147 250,151 377,156 504,162 631,168 758,173" />
+        <TextEquiv>
+          <Unicode>IMP CAESAR DIVI TRAIANI PARTHICI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="123,178 247,178 371,179 495,180 619,181 743,182 743,218 619,217 495,216 371,215 247,214 123,214" />
+        <Baseline points="123,208 247,208 371,209 495,210 619,211 743,212" />
+        <TextEquiv>
+          <Unicode>DIVI NERVAE N TRAIANVS HADRIANVS AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="129,209 254,203 379,198 504,193 629,187 754,181 754,258 629,264 504,270 379,275 254,280 129,286" />
+        <Baseline points="129,280 254,274 379,269 504,264 629,258 754,252" />
+        <TextEquiv>
+          <Unicode>PONT MAX TRIB POT IIII COS III</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="326,309 410,313 495,317 579,321 663,325 747,329 747,391 663,387 579,383 495,379 410,376 326,372" />
+        <Baseline points="326,348 410,352 495,355 579,359 663,363 747,367" />
+        <TextEquiv>
+          <Unicode>TERNITATI CONSVLVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="655,386 676,387 698,388 720,389 741,390 763,391 763,426 741,425 720,424 698,422 676,421 655,420" />
+        <Baseline points="655,411 676,412 698,413 720,414 741,416 763,417" />
+        <TextEquiv>
+          <Unicode>ERDVXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

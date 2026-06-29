@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00074.jpg" imageWidth="900" imageHeight="624">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,624 0,624" />
+      <TextLine id="r1l1">
+        <Coords points="70,192 138,188 207,185 275,181 344,178 413,174 413,227 344,230 275,234 207,237 138,241 70,244" />
+        <Baseline points="70,239 138,235 207,232 275,228 344,225 413,221" />
+        <TextEquiv>
+          <Unicode>C BARBIO CLEONTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="71,247 128,243 185,238 242,234 299,230 356,227 356,280 299,284 242,288 185,292 128,297 71,301" />
+        <Baseline points="71,296 128,292 185,288 242,283 299,280 356,276" />
+        <TextEquiv>
+          <Unicode>MEDICO SEVIRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="72,315 135,316 199,316 262,317 326,317 389,317 389,370 326,370 262,370 199,370 135,370 72,369" />
+        <Baseline points="72,352 135,353 199,353 262,353 326,354 389,353" />
+        <TextEquiv>
+          <Unicode>AVGVST QVI VIX NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="73,362 133,359 194,355 254,351 314,348 375,344 375,391 314,394 254,397 194,401 133,405 73,408" />
+        <Baseline points="73,404 133,400 194,397 254,393 314,390 375,386" />
+        <TextEquiv>
+          <Unicode>LXXVII VLPIA CRESTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="74,420 133,421 193,422 253,424 313,425 372,426 372,478 313,477 253,476 193,474 133,473 74,472" />
+        <Baseline points="74,451 133,452 193,454 253,455 313,456 372,457" />
+        <TextEquiv>
+          <Unicode>CONIVG ET BARBIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="74,466 136,465 198,464 259,463 321,463 383,462 383,502 321,502 259,503 198,504 136,505 74,506" />
+        <Baseline points="74,496 136,495 198,494 259,493 321,492 383,491" />
+        <TextEquiv>
+          <Unicode>VALENS PATRI FECER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00024.jpg" imageWidth="900" imageHeight="365">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,365 0,365" />
+      <TextLine id="r1l1">
+        <Coords points="345,56 382,56 419,57 456,57 494,57 531,57 531,94 494,94 456,93 419,93 382,93 345,93" />
+        <Baseline points="345,89 382,89 419,90 456,90 494,90 531,90" />
+        <TextEquiv>
+          <Unicode>NOMESI VARIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="290,100 345,100 400,101 455,101 510,102 564,103 564,134 510,134 455,133 400,132 345,132 290,131" />
+        <Baseline points="290,128 345,129 400,130 455,130 510,131 564,132" />
+        <TextEquiv>
+          <Unicode>NVMESIER VAREA FOLENIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

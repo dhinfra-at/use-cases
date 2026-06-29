@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00082.jpg" imageWidth="900" imageHeight="557">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,557 0,557" />
+      <TextLine id="r1l1">
+        <Coords points="397,158 416,158 434,158 453,158 471,158 489,159 489,209 471,209 453,209 434,209 416,208 397,208" />
+        <Baseline points="397,202 416,202 434,203 453,203 471,203 489,203" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="302,223 352,229 402,234 451,240 501,245 551,251 551,308 501,303 451,297 402,292 352,286 302,281" />
+        <Baseline points="302,261 352,266 402,272 451,277 501,283 551,288" />
+        <TextEquiv>
+          <Unicode>Q O MARTIALIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="372,286 398,287 424,288 450,289 476,290 501,291 501,332 476,331 450,330 424,329 398,328 372,327" />
+        <Baseline points="372,322 398,323 424,324 450,325 476,325 501,326" />
+        <TextEquiv>
+          <Unicode>VIXIT AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="396,347 414,348 431,348 449,349 466,350 484,351 484,385 466,384 449,383 431,383 414,382 396,381" />
+        <Baseline points="396,376 414,377 431,378 449,379 466,380 484,381" />
+        <TextEquiv>
+          <Unicode>LXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

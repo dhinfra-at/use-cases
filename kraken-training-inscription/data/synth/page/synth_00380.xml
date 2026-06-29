@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00380.jpg" imageWidth="900" imageHeight="1125">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1125 0,1125" />
+      <TextLine id="r1l1">
+        <Coords points="347,377 388,377 428,377 469,377 510,376 550,376 550,403 510,403 469,403 428,404 388,404 347,404" />
+        <Baseline points="347,401 388,401 428,400 469,400 510,400 550,400" />
+        <TextEquiv>
+          <Unicode>C VOLVSIVS PRIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="370,411 402,409 434,407 465,406 497,404 529,402 529,436 497,438 465,440 434,442 402,443 370,445" />
+        <Baseline points="370,443 402,441 434,439 465,437 497,435 529,433" />
+        <TextEquiv>
+          <Unicode>GENIVS VIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="331,457 377,456 423,455 470,454 516,453 562,452 562,480 516,481 470,482 423,483 377,484 331,485" />
+        <Baseline points="331,482 377,481 423,480 470,479 516,478 562,477" />
+        <TextEquiv>
+          <Unicode>VIVOS SIC FECIT SIBI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="326,497 374,496 422,496 470,495 519,495 567,494 567,519 519,520 470,520 422,521 374,521 326,522" />
+        <Baseline points="326,520 374,519 422,518 470,518 519,517 567,517" />
+        <TextEquiv>
+          <Unicode>C VOLVSIO EVHEMERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="308,532 364,531 420,529 476,528 531,527 587,526 587,553 531,555 476,556 420,557 364,558 308,559" />
+        <Baseline points="308,557 364,556 420,554 476,553 531,552 587,551" />
+        <TextEquiv>
+          <Unicode>CONLIBERT VIVIR AVG ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="270,572 340,572 411,571 481,571 552,571 622,571 622,595 552,595 481,595 411,595 340,596 270,596" />
+        <Baseline points="270,592 340,592 411,592 481,591 552,591 622,591" />
+        <TextEquiv>
+          <Unicode>C VOLVSIO PRIMIGENIO F DEFVNC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="306,608 361,608 415,608 470,609 525,609 579,610 579,637 525,636 470,636 415,635 361,635 306,635" />
+        <Baseline points="306,628 361,628 415,629 470,629 525,630 579,630" />
+        <TextEquiv>
+          <Unicode>NN VIII LIBERTIS LIBERTABVSQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="259,644 333,645 408,646 482,647 556,648 631,649 631,679 556,678 482,677 408,676 333,675 259,674" />
+        <Baseline points="259,663 333,664 408,665 482,666 556,667 631,668" />
+        <TextEquiv>
+          <Unicode>SVIS OSSIBVS INFERENDIS EXTRANIOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="286,678 350,681 414,683 477,686 541,688 605,691 605,727 541,725 477,722 414,720 350,717 286,714" />
+        <Baseline points="286,697 350,699 414,702 477,704 541,707 605,709" />
+        <TextEquiv>
+          <Unicode>NEQVIS OSSA INFERRE VELIT ET TV ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="433,709 439,709 445,709 452,709 458,708 465,708 465,730 458,730 452,730 445,730 439,731 433,731" />
+        <Baseline points="433,728 439,728 445,728 452,728 458,728 465,727" />
+        <TextEquiv>
+          <Unicode>TIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="388,741 412,742 436,742 460,743 484,743 508,744 508,767 484,767 460,766 436,766 412,765 388,765" />
+        <Baseline points="388,759 412,760 436,760 460,761 484,761 508,762" />
+        <TextEquiv>
+          <Unicode>IN FR P XXX IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="406,773 423,774 439,774 456,775 473,775 490,776 490,798 473,798 456,797 439,797 423,796 406,796" />
+        <Baseline points="406,791 423,791 439,792 456,792 473,793 490,793" />
+        <TextEquiv>
+          <Unicode>AGR P XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

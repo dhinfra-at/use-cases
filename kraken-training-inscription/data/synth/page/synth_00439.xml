@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00439.jpg" imageWidth="900" imageHeight="370">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,370 0,370" />
+      <TextLine id="r1l1">
+        <Coords points="72,66 114,67 156,67 198,68 240,68 282,68 282,131 240,131 198,131 156,130 114,129 72,129" />
+        <Baseline points="72,115 114,116 156,116 198,117 240,117 282,117" />
+        <TextEquiv>
+          <Unicode>NEPTV S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="76,149 135,149 194,149 253,149 312,149 370,149 370,206 312,206 253,205 194,205 135,205 76,205" />
+        <Baseline points="76,191 135,192 194,192 253,192 312,192 370,192" />
+        <TextEquiv>
+          <Unicode>L VOLCACIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="80,220 140,220 201,220 262,221 322,221 383,221 383,272 322,272 262,271 201,271 140,271 80,271" />
+        <Baseline points="80,257 140,257 201,257 262,258 322,258 383,258" />
+        <TextEquiv>
+          <Unicode>EQ ALAE FLAVIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

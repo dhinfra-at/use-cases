@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00034.jpg" imageWidth="900" imageHeight="666">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,666 0,666" />
+      <TextLine id="r1l1">
+        <Coords points="215,89 291,86 366,83 441,78 517,73 592,68 592,151 517,157 441,162 366,166 291,170 215,172" />
+        <Baseline points="215,164 291,161 366,158 441,153 517,148 592,143" />
+        <TextEquiv>
+          <Unicode>CERERI AVG SAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="198,201 275,202 352,204 429,207 506,211 583,214 583,289 506,286 429,282 352,279 275,277 198,276" />
+        <Baseline points="198,255 275,256 352,258 429,261 506,265 583,268" />
+        <TextEquiv>
+          <Unicode>P CAECILIVS FAVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="190,298 268,300 346,302 424,305 502,309 580,313 580,389 502,385 424,381 346,379 268,376 190,374" />
+        <Baseline points="190,351 268,353 346,356 424,358 502,362 580,366" />
+        <TextEquiv>
+          <Unicode>TVS AELIANVS BAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="236,391 301,392 366,393 431,394 496,395 561,395 561,460 496,460 431,459 366,458 301,457 236,456" />
+        <Baseline points="236,444 301,445 366,446 431,447 496,448 561,448" />
+        <TextEquiv>
+          <Unicode>IATHO C F MAG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="87,482 199,483 311,484 422,485 534,486 646,487 646,546 534,545 422,544 311,543 199,542 87,541" />
+        <Baseline points="87,529 199,530 311,531 422,532 534,533 646,534" />
+        <TextEquiv>
+          <Unicode>PORTICVS A SOLO F C D D P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

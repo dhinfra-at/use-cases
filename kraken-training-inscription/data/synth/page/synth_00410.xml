@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00410.jpg" imageWidth="900" imageHeight="862">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,862 0,862" />
+      <TextLine id="r1l1">
+        <Coords points="239,164 319,159 398,154 478,149 558,144 637,139 637,208 558,213 478,218 398,222 319,228 239,233" />
+        <Baseline points="239,227 319,222 398,217 478,212 558,207 637,202" />
+        <TextEquiv>
+          <Unicode>MP CAES T AELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="202,250 305,246 408,243 511,239 613,235 716,232 716,289 613,293 511,297 408,300 305,304 202,308" />
+        <Baseline points="202,302 305,299 408,295 511,291 613,287 716,284" />
+        <TextEquiv>
+          <Unicode>ADRIANO ANTONINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="202,328 299,328 395,327 492,327 589,326 686,326 686,390 589,391 492,392 395,392 299,393 202,393" />
+        <Baseline points="202,376 299,376 395,375 492,375 589,374 686,373" />
+        <TextEquiv>
+          <Unicode>AVG PIO P P IIII ET M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="220,397 311,398 401,399 492,400 582,401 673,401 673,471 582,471 492,471 401,469 311,468 220,467" />
+        <Baseline points="220,445 311,446 401,447 492,448 582,449 673,449" />
+        <TextEquiv>
+          <Unicode>AVRELIO CAESARE II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="243,469 326,466 409,464 492,463 575,461 658,460 658,516 575,517 492,518 409,520 326,522 243,524" />
+        <Baseline points="243,516 326,513 409,511 492,510 575,508 658,507" />
+        <TextEquiv>
+          <Unicode>COS PER PRASTINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="246,523 329,516 412,510 495,505 578,499 661,494 661,563 578,569 495,574 412,580 329,586 246,592" />
+        <Baseline points="246,587 329,581 412,575 495,569 578,563 661,558" />
+        <TextEquiv>
+          <Unicode>MESSALINVM LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="263,608 322,608 380,607 439,606 497,606 555,605 555,662 497,663 439,663 380,664 322,665 263,666" />
+        <Baseline points="263,655 322,655 380,654 439,653 497,652 555,652" />
+        <TextEquiv>
+          <Unicode>AVG PR PR V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="211,676 264,674 317,671 371,669 424,667 478,664 478,721 424,723 371,725 317,728 264,730 211,732" />
+        <Baseline points="211,727 264,724 317,722 371,720 424,718 478,715" />
+        <TextEquiv>
+          <Unicode>LEG VI FERR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

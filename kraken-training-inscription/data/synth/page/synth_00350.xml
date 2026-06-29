@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00350.jpg" imageWidth="900" imageHeight="473">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,473 0,473" />
+      <TextLine id="r1l1">
+        <Coords points="405,119 423,119 442,120 460,120 479,121 497,121 497,176 479,176 460,175 442,175 423,174 405,174" />
+        <Baseline points="405,167 423,167 442,168 460,168 479,169 497,169" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="288,194 350,198 413,202 475,207 538,212 600,217 600,276 538,271 475,266 413,261 350,257 288,253" />
+        <Baseline points="288,234 350,238 413,242 475,247 538,251 600,256" />
+        <TextEquiv>
+          <Unicode>QVARTA O AN L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="296,264 357,265 417,267 478,269 538,270 599,272 599,309 538,307 478,306 417,304 357,303 296,301" />
+        <Baseline points="296,296 357,298 417,300 478,301 538,303 599,304" />
+        <TextEquiv>
+          <Unicode>ET TERTIA F O AN V</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

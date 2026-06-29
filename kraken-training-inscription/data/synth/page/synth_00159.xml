@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00159.jpg" imageWidth="900" imageHeight="760">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,760 0,760" />
+      <TextLine id="r1l1">
+        <Coords points="427,190 439,190 451,190 463,190 475,190 487,191 487,230 475,230 463,229 451,229 439,229 427,229" />
+        <Baseline points="427,225 439,225 451,225 463,225 475,226 487,226" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="371,253 404,253 437,254 470,254 504,255 537,255 537,293 504,292 470,292 437,291 404,291 371,290" />
+        <Baseline points="371,286 404,287 437,288 470,288 504,289 537,289" />
+        <TextEquiv>
+          <Unicode>P OFFONIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="399,314 418,316 438,317 458,318 478,320 498,321 498,361 478,360 458,358 438,357 418,356 399,354" />
+        <Baseline points="399,346 418,347 438,349 458,350 478,352 498,353" />
+        <TextEquiv>
+          <Unicode>SATRIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="370,367 401,367 433,367 464,367 496,367 528,366 528,404 496,405 464,405 433,405 401,405 370,405" />
+        <Baseline points="370,402 401,402 433,402 464,401 496,401 528,401" />
+        <TextEquiv>
+          <Unicode>DEF AN XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="362,423 396,423 429,424 463,424 497,424 531,424 531,460 497,460 463,460 429,460 396,460 362,460" />
+        <Baseline points="362,456 396,457 429,457 463,457 497,457 531,457" />
+        <TextEquiv>
+          <Unicode>ANNA ALVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="373,476 401,476 430,476 458,476 486,476 514,476 514,510 486,511 458,511 430,511 401,511 373,511" />
+        <Baseline points="373,508 401,508 430,508 458,507 486,507 514,507" />
+        <TextEquiv>
+          <Unicode>NO PIENTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="410,532 422,532 435,533 448,534 461,534 474,535 474,565 461,565 448,564 435,564 422,563 410,562" />
+        <Baseline points="410,558 422,559 435,560 448,560 461,561 474,561" />
+        <TextEquiv>
+          <Unicode>SIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

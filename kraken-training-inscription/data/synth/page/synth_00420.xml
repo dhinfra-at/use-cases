@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00420.jpg" imageWidth="900" imageHeight="568">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,568 0,568" />
+      <TextLine id="r1l1">
+        <Coords points="89,86 185,86 281,86 377,85 473,83 569,82 569,153 473,154 377,156 281,157 185,157 89,157" />
+        <Baseline points="89,150 185,150 281,149 377,148 473,147 569,146" />
+        <TextEquiv>
+          <Unicode>ITA TIBI CONTINGANT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="89,179 197,180 306,181 414,183 523,186 632,189 632,248 523,244 414,242 306,240 197,239 89,237" />
+        <Baseline points="89,230 197,231 306,232 414,234 523,237 632,241" />
+        <TextEquiv>
+          <Unicode>QVAE CVPIS VT HOC SA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="88,249 170,248 252,248 334,247 416,247 498,247 498,312 416,312 334,313 252,313 170,314 88,314" />
+        <Baseline points="88,307 170,307 252,306 334,306 416,306 498,305" />
+        <TextEquiv>
+          <Unicode>CRVM NON VIOLES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="87,339 197,341 307,343 417,345 527,348 637,350 637,406 527,403 417,401 307,399 197,397 87,394" />
+        <Baseline points="87,387 197,390 307,392 417,394 527,396 637,399" />
+        <TextEquiv>
+          <Unicode>SVILLIVS GENIALIS RVFI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="86,418 154,421 221,423 288,425 355,428 423,430 423,483 355,480 288,478 221,476 154,473 86,471" />
+        <Baseline points="86,462 154,464 221,467 288,469 355,471 423,474" />
+        <TextEquiv>
+          <Unicode>V A I M VII D XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

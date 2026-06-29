@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00075.jpg" imageWidth="900" imageHeight="744">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,744 0,744" />
+      <TextLine id="r1l1">
+        <Coords points="122,108 250,118 378,129 506,141 634,153 762,164 762,246 634,235 506,224 378,212 250,201 122,190" />
+        <Baseline points="122,155 250,165 378,176 506,188 634,200 762,211" />
+        <TextEquiv>
+          <Unicode>L AEMILIO L F QVIR PVDENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="165,184 279,190 393,196 508,203 622,209 736,215 736,276 622,270 508,264 393,258 279,252 165,246" />
+        <Baseline points="165,232 279,238 393,244 508,251 622,257 736,263" />
+        <TextEquiv>
+          <Unicode>IIVIR BIS M M FLAVI MV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="207,262 304,269 400,276 496,282 592,289 689,294 689,361 592,355 496,349 400,342 304,335 207,328" />
+        <Baseline points="207,310 304,317 400,324 496,330 592,337 689,342" />
+        <TextEquiv>
+          <Unicode>NIGVENSIS ACCEPTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="167,332 275,336 382,339 490,342 597,345 705,348 705,407 597,404 490,402 382,399 275,395 167,391" />
+        <Baseline points="167,386 275,390 382,393 490,396 597,399 705,402" />
+        <TextEquiv>
+          <Unicode>LOCO EX DECRETO OR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="206,414 301,422 396,429 490,437 585,445 680,452 680,524 585,516 490,509 396,501 301,493 206,486" />
+        <Baseline points="206,461 301,469 396,476 490,484 585,492 680,499" />
+        <TextEquiv>
+          <Unicode>DINIS EPVLO DATO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="226,488 312,491 397,494 483,498 568,502 654,507 654,563 568,558 483,553 397,550 312,546 226,544" />
+        <Baseline points="226,536 312,539 397,542 483,546 568,550 654,555" />
+        <TextEquiv>
+          <Unicode>VTRIVSQVE SEXVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="397,569 415,569 432,569 449,570 467,570 484,570 484,625 467,624 449,624 432,624 415,624 397,623" />
+        <Baseline points="397,618 415,618 432,618 449,619 467,619 484,619" />
+        <TextEquiv>
+          <Unicode>D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

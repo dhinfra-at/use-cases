@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00195.jpg" imageWidth="900" imageHeight="446">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,446 0,446" />
+      <TextLine id="r1l1">
+        <Coords points="111,127 156,127 201,127 246,126 291,126 335,125 335,188 291,189 246,189 201,190 156,190 111,191" />
+        <Baseline points="111,184 156,184 201,184 246,183 291,183 335,182" />
+        <TextEquiv>
+          <Unicode>LARI PEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,212 153,213 195,214 237,215 279,217 321,218 321,276 279,275 237,273 195,272 153,271 111,270" />
+        <Baseline points="111,260 153,261 195,262 237,263 279,264 321,266" />
+        <TextEquiv>
+          <Unicode>ANEIECO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="111,279 155,278 199,276 243,274 287,272 332,270 332,329 287,331 243,333 199,335 155,337 111,339" />
+        <Baseline points="111,334 155,332 199,330 243,328 287,326 332,324" />
+        <TextEquiv>
+          <Unicode>EXS SIC VIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

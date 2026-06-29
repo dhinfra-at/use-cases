@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00165.jpg" imageWidth="900" imageHeight="819">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,819 0,819" />
+      <TextLine id="r1l1">
+        <Coords points="98,187 167,185 235,183 304,182 373,181 441,180 441,235 373,235 304,236 235,238 167,239 98,241" />
+        <Baseline points="98,233 167,231 235,230 304,229 373,228 441,227" />
+        <TextEquiv>
+          <Unicode>L MINVCIVS L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="98,244 158,241 218,238 279,234 339,230 399,226 399,289 339,294 279,298 218,301 158,305 98,308" />
+        <Baseline points="98,301 158,298 218,295 279,291 339,287 399,282" />
+        <TextEquiv>
+          <Unicode>L ALEXSAND</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="98,315 161,312 225,309 288,305 352,301 415,298 415,357 352,360 288,364 225,367 161,371 98,374" />
+        <Baseline points="98,367 161,364 225,361 288,357 352,354 415,350" />
+        <TextEquiv>
+          <Unicode>C CLODIVS C L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="98,386 154,388 210,389 266,390 323,391 379,393 379,451 323,450 266,449 210,448 154,446 98,445" />
+        <Baseline points="98,427 154,428 210,430 266,431 323,432 379,433" />
+        <TextEquiv>
+          <Unicode>PHILOMVSVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,437 149,434 201,432 253,429 305,426 357,423 357,478 305,481 253,483 201,486 149,489 98,491" />
+        <Baseline points="98,485 149,483 201,480 253,477 305,475 357,472" />
+        <TextEquiv>
+          <Unicode>FILIVS PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="97,504 158,503 218,503 278,502 338,502 399,501 399,548 338,549 278,549 218,550 158,550 97,551" />
+        <Baseline points="97,542 158,541 218,541 278,540 338,540 399,539" />
+        <TextEquiv>
+          <Unicode>SVO QVOD POT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="97,559 110,559 122,560 135,560 147,560 160,561 160,605 147,604 135,604 122,604 110,603 97,603" />
+        <Baseline points="97,595 110,595 122,595 135,596 147,596 160,596" />
+        <TextEquiv>
+          <Unicode>VIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

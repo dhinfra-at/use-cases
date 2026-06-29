@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00273.jpg" imageWidth="900" imageHeight="680">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,680 0,680" />
+      <TextLine id="r1l1">
+        <Coords points="415,155 429,156 444,156 458,156 472,156 486,156 486,210 472,210 458,210 444,209 429,209 415,209" />
+        <Baseline points="415,202 429,203 444,203 458,203 472,203 486,203" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="193,207 273,208 353,210 433,211 513,212 593,213 593,274 513,273 433,272 353,271 273,270 193,269" />
+        <Baseline points="193,262 273,263 353,264 433,265 513,266 593,267" />
+        <TextEquiv>
+          <Unicode>CAETENNIAE PROCLAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="198,269 279,269 359,269 440,269 521,268 602,268 602,335 521,335 440,335 359,336 279,336 198,336" />
+        <Baseline points="198,329 279,329 359,329 440,329 521,328 602,328" />
+        <TextEquiv>
+          <Unicode>CONIVGI CARISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="262,344 322,345 381,345 441,346 500,346 559,347 559,405 500,404 441,404 381,403 322,403 262,403" />
+        <Baseline points="262,396 322,397 381,397 441,398 500,398 559,399" />
+        <TextEquiv>
+          <Unicode>QVAE VIX NN XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="208,416 283,422 358,429 433,435 508,442 582,448 582,516 508,509 433,503 358,496 283,490 208,483" />
+        <Baseline points="208,459 283,465 358,472 433,478 508,485 582,491" />
+        <TextEquiv>
+          <Unicode>M AVRELIVS FILETVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="116,475 216,479 315,485 414,491 513,497 613,503 613,560 513,554 414,548 315,542 216,537 116,532" />
+        <Baseline points="116,516 216,521 315,527 414,533 513,539 613,545" />
+        <TextEquiv>
+          <Unicode>BENE MERENTI TITVLV POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

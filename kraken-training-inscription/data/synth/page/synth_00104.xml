@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00104.jpg" imageWidth="900" imageHeight="823">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,823 0,823" />
+      <TextLine id="r1l1">
+        <Coords points="409,101 423,100 436,99 450,99 464,98 478,97 478,141 464,142 450,142 436,143 423,144 409,145" />
+        <Baseline points="409,139 423,138 436,138 450,137 464,136 478,135" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="242,169 321,170 399,172 477,173 555,175 634,177 634,239 555,237 477,235 399,234 321,232 242,231" />
+        <Baseline points="242,205 321,206 399,207 477,209 555,211 634,213" />
+        <TextEquiv>
+          <Unicode>M AVRELIVS AVG LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="212,233 304,234 396,234 488,235 580,236 672,237 672,297 580,296 488,295 396,294 304,294 212,293" />
+        <Baseline points="212,269 304,270 396,270 488,271 580,272 672,273" />
+        <TextEquiv>
+          <Unicode>HERMES ARCHIMAGIRVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="165,282 276,275 387,269 498,262 608,256 719,249 719,303 608,310 498,316 387,323 276,329 165,336" />
+        <Baseline points="165,331 276,324 387,318 498,311 608,305 719,298" />
+        <TextEquiv>
+          <Unicode>SE VIVO FECIT SIBI ET AVRELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="192,332 293,324 394,317 495,309 596,302 697,295 697,356 596,363 495,371 394,378 293,385 192,393" />
+        <Baseline points="192,388 293,380 394,373 495,365 596,358 697,351" />
+        <TextEquiv>
+          <Unicode>IANVARIO ET CN OCTAVIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="206,392 299,384 393,377 486,370 580,362 674,354 674,415 580,423 486,431 393,438 299,445 206,453" />
+        <Baseline points="206,447 299,440 393,433 486,426 580,418 674,410" />
+        <TextEquiv>
+          <Unicode>MARTIALI FRATRIBVS SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="235,470 319,467 403,464 487,460 571,457 655,453 655,495 571,499 487,502 403,506 319,509 235,512" />
+        <Baseline points="235,507 319,504 403,500 487,497 571,493 655,490" />
+        <TextEquiv>
+          <Unicode>LIBERTIS LIBERTABVSQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="227,531 316,531 406,530 495,530 584,530 673,531 673,584 584,584 495,583 406,584 316,584 227,584" />
+        <Baseline points="227,564 316,564 406,564 495,564 584,564 673,564" />
+        <TextEquiv>
+          <Unicode>POSTERISQVE EORVM ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="186,580 291,574 395,569 500,564 604,558 709,553 709,600 604,605 500,611 395,616 291,621 186,627" />
+        <Baseline points="186,622 291,617 395,611 500,606 604,601 709,595" />
+        <TextEquiv>
+          <Unicode>IIS QVOS EGO DOMINO N DEDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="162,622 277,613 391,603 506,594 621,585 736,577 736,640 621,648 506,657 391,666 277,676 162,685" />
+        <Baseline points="162,680 277,671 391,661 506,652 621,644 736,636" />
+        <TextEquiv>
+          <Unicode>ET VALERIAE HERMIONE CONIVGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="138,680 261,672 385,662 508,652 632,644 755,637 755,697 632,704 508,712 385,722 261,732 138,740" />
+        <Baseline points="138,736 261,727 385,717 508,707 632,699 755,692" />
+        <TextEquiv>
+          <Unicode>ET EDVLO COLLIB SVO DECVR COCORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

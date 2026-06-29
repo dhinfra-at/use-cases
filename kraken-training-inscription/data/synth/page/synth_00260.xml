@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00260.jpg" imageWidth="900" imageHeight="823">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,823 0,823" />
+      <TextLine id="r1l1">
+        <Coords points="393,90 413,89 433,88 453,87 473,86 494,85 494,146 473,147 453,148 433,149 413,150 393,151" />
+        <Baseline points="393,144 413,143 433,142 453,141 473,140 494,139" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="352,177 389,176 426,176 462,176 499,176 536,176 536,237 499,237 462,237 426,237 389,237 352,237" />
+        <Baseline points="352,226 389,225 426,225 462,225 499,225 536,225" />
+        <TextEquiv>
+          <Unicode>AVRELI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="323,263 372,265 422,267 471,269 520,270 569,271 569,339 520,338 471,337 422,336 372,334 323,332" />
+        <Baseline points="323,311 372,313 422,315 471,317 520,318 569,319" />
+        <TextEquiv>
+          <Unicode>CONCOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="346,344 387,343 428,342 468,341 509,340 549,338 549,391 509,392 468,394 428,395 387,396 346,397" />
+        <Baseline points="346,390 387,389 428,388 468,387 509,386 549,385" />
+        <TextEquiv>
+          <Unicode>DI VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="375,420 405,419 435,419 465,418 495,418 525,417 525,468 495,469 465,469 435,470 405,471 375,471" />
+        <Baseline points="375,464 405,463 435,463 465,462 495,461 525,461" />
+        <TextEquiv>
+          <Unicode>NN VN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="375,488 405,485 436,483 467,481 498,478 529,475 529,531 498,534 467,537 436,539 405,542 375,544" />
+        <Baseline points="375,538 405,536 436,533 467,531 498,528 529,525" />
+        <TextEquiv>
+          <Unicode>VM D V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="343,564 387,563 431,562 474,561 518,560 561,558 561,605 518,606 474,607 431,608 387,610 343,611" />
+        <Baseline points="343,605 387,603 431,602 474,601 518,600 561,599" />
+        <TextEquiv>
+          <Unicode>FIL AVREL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="379,631 409,631 440,632 470,632 500,633 531,634 531,684 500,684 470,683 440,682 409,682 379,681" />
+        <Baseline points="379,668 409,669 440,670 470,670 500,671 531,672" />
+        <TextEquiv>
+          <Unicode>IVLIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="413,696 431,696 448,696 466,696 483,696 501,696 501,741 483,741 466,741 448,741 431,741 413,741" />
+        <Baseline points="413,733 431,733 448,733 466,733 483,733 501,733" />
+        <TextEquiv>
+          <Unicode>TRIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

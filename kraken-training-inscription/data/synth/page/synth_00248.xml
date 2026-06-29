@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00248.jpg" imageWidth="900" imageHeight="624">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,624 0,624" />
+      <TextLine id="r1l1">
+        <Coords points="66,181 97,180 128,180 158,180 189,179 220,179 220,228 189,228 158,228 128,229 97,229 66,229" />
+        <Baseline points="66,221 97,221 128,221 158,220 189,220 220,220" />
+        <TextEquiv>
+          <Unicode>LVCIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="69,242 121,242 173,243 226,244 278,244 330,245 330,300 278,299 226,298 173,298 121,297 69,297" />
+        <Baseline points="69,281 121,282 173,283 226,283 278,284 330,285" />
+        <TextEquiv>
+          <Unicode>BONIATI F ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="72,290 122,287 171,283 221,280 271,277 321,274 321,329 271,332 221,335 171,339 122,342 72,345" />
+        <Baseline points="72,339 122,336 171,333 221,329 271,326 321,323" />
+        <TextEquiv>
+          <Unicode>IVLIA PRISCA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="74,344 144,339 214,335 283,331 353,327 423,323 423,379 353,383 283,387 214,391 144,395 74,400" />
+        <Baseline points="74,394 144,390 214,385 283,381 353,377 423,374" />
+        <TextEquiv>
+          <Unicode>CONIVX V F SIBI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="77,412 135,410 193,409 250,407 308,406 366,404 366,447 308,449 250,451 193,452 135,454 77,455" />
+        <Baseline points="77,450 135,448 193,447 250,445 308,444 366,442" />
+        <TextEquiv>
+          <Unicode>BVSSVGNATAE F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="80,469 103,469 126,470 148,470 171,470 194,470 194,515 171,515 148,514 126,514 103,514 80,514" />
+        <Baseline points="80,505 103,505 126,505 148,505 171,506 194,506" />
+        <TextEquiv>
+          <Unicode>NN XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

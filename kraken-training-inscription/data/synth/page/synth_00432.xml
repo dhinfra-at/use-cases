@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00432.jpg" imageWidth="900" imageHeight="535">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,535 0,535" />
+      <TextLine id="r1l1">
+        <Coords points="72,86 126,87 180,87 234,87 288,88 341,88 341,154 288,154 234,153 180,153 126,153 72,152" />
+        <Baseline points="72,146 126,147 180,147 234,148 288,148 341,148" />
+        <TextEquiv>
+          <Unicode>BEVCVS DAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="71,173 115,174 160,174 205,175 250,176 295,177 295,237 250,236 205,235 160,234 115,233 71,232" />
+        <Baseline points="71,226 115,227 160,228 205,229 250,230 295,231" />
+        <TextEquiv>
+          <Unicode>ICI ARA VE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="69,251 90,253 111,254 131,256 152,258 173,259 173,316 152,314 131,313 111,311 90,310 69,308" />
+        <Baseline points="69,299 90,301 111,302 131,304 152,305 173,307" />
+        <TextEquiv>
+          <Unicode>NERI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="68,326 84,326 101,327 117,327 133,328 150,329 150,379 133,379 117,378 101,378 84,377 68,376" />
+        <Baseline points="68,372 84,372 101,373 117,373 133,374 150,375" />
+        <TextEquiv>
+          <Unicode>VO S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

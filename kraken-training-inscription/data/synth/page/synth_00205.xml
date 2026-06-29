@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00205.jpg" imageWidth="900" imageHeight="606">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,606 0,606" />
+      <TextLine id="r1l1">
+        <Coords points="263,58 338,59 413,60 488,61 564,62 639,63 639,107 564,106 488,105 413,104 338,104 263,102" />
+        <Baseline points="263,98 338,100 413,100 488,101 564,102 639,103" />
+        <TextEquiv>
+          <Unicode>IMP CAESAR T AELIVS HADRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="224,112 313,117 402,121 491,126 580,131 670,137 670,166 580,161 491,156 402,151 313,146 224,142" />
+        <Baseline points="224,136 313,140 402,145 491,150 580,155 670,160" />
+        <TextEquiv>
+          <Unicode>ANVS ANTONINVS AVG PIVS PONTIF</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="238,136 322,137 406,138 489,139 573,140 657,141 657,180 573,180 489,179 406,178 322,177 238,176" />
+        <Baseline points="238,173 322,173 406,174 489,175 573,176 657,177" />
+        <TextEquiv>
+          <Unicode>MAXIM TRIB POTEST VI COS III P P IMP II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="282,177 348,178 414,179 481,180 547,181 613,182 613,213 547,212 481,211 414,210 348,209 282,207" />
+        <Baseline points="282,205 348,206 414,207 481,208 547,209 613,210" />
+        <TextEquiv>
+          <Unicode>COLONIAE MINERVIAE NERVIAE AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="365,221 399,225 433,228 468,231 502,235 536,238 536,264 502,260 468,257 433,253 399,250 365,247" />
+        <Baseline points="365,235 399,239 433,242 468,246 502,249 536,253" />
+        <TextEquiv>
+          <Unicode>SCOLACIO AQVAM DAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00324.jpg" imageWidth="900" imageHeight="627">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,627 0,627" />
+      <TextLine id="r1l1">
+        <Coords points="93,75 126,76 160,78 194,79 227,80 261,81 261,146 227,145 194,144 160,142 126,141 93,140" />
+        <Baseline points="93,133 126,134 160,136 194,137 227,138 261,139" />
+        <TextEquiv>
+          <Unicode>LARI VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="92,155 123,156 154,157 185,157 216,158 247,159 247,225 216,225 185,224 154,223 123,222 92,222" />
+        <Baseline points="92,215 123,216 154,217 185,217 216,218 247,219" />
+        <TextEquiv>
+          <Unicode>ALIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="91,241 121,243 151,246 182,248 212,250 243,252 243,319 212,316 182,314 151,312 121,310 91,307" />
+        <Baseline points="91,297 121,299 151,302 182,304 212,306 243,308" />
+        <TextEquiv>
+          <Unicode>PETRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="89,322 111,323 132,324 153,325 175,326 196,327 196,391 175,390 153,389 132,388 111,387 89,386" />
+        <Baseline points="89,379 111,380 132,381 153,382 175,383 196,384" />
+        <TextEquiv>
+          <Unicode>NIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="88,400 112,400 136,400 161,401 185,401 209,401 209,468 185,467 161,467 136,467 112,467 88,467" />
+        <Baseline points="88,460 112,461 136,461 161,461 185,461 209,461" />
+        <TextEquiv>
+          <Unicode>EX VO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

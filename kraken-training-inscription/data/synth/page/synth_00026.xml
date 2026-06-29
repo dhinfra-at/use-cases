@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00026.jpg" imageWidth="900" imageHeight="657">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,657 0,657" />
+      <TextLine id="r1l1">
+        <Coords points="431,86 443,87 456,88 468,89 481,89 493,90 493,130 481,129 468,129 456,128 443,127 431,126" />
+        <Baseline points="431,120 443,121 456,122 468,122 481,123 493,124" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="371,138 406,138 441,138 475,138 510,138 545,139 545,179 510,179 475,179 441,178 406,178 371,178" />
+        <Baseline points="371,174 406,174 441,174 475,175 510,175 545,175" />
+        <TextEquiv>
+          <Unicode>CLAVDIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="366,199 399,201 432,203 465,206 498,208 531,210 531,252 498,250 465,248 432,245 399,243 366,241" />
+        <Baseline points="366,230 399,232 432,235 465,237 498,239 531,242" />
+        <TextEquiv>
+          <Unicode>THAVMASTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="334,252 380,255 427,257 474,261 521,264 568,268 568,312 521,309 474,305 427,302 380,299 334,297" />
+        <Baseline points="334,283 380,286 427,289 474,292 521,296 568,299" />
+        <TextEquiv>
+          <Unicode>AVG VIK SIC VIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="328,296 376,295 424,294 472,293 520,291 568,290 568,337 520,338 472,339 424,340 376,341 328,342" />
+        <Baseline points="328,338 376,337 424,336 472,335 520,334 568,333" />
+        <TextEquiv>
+          <Unicode>NN XIIII PCCLED</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="325,360 373,362 421,364 468,366 516,367 564,369 564,405 516,404 468,402 421,400 373,398 325,397" />
+        <Baseline points="325,391 373,393 421,394 468,396 516,398 564,399" />
+        <TextEquiv>
+          <Unicode>APVLEIO FELICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

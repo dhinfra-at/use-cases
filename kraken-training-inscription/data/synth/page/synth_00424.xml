@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00424.jpg" imageWidth="900" imageHeight="731">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,731 0,731" />
+      <TextLine id="r1l1">
+        <Coords points="98,241 123,241 148,241 173,241 198,242 223,242 223,275 198,275 173,274 148,274 123,274 98,274" />
+        <Baseline points="98,269 123,269 148,270 173,270 198,270 223,271" />
+        <TextEquiv>
+          <Unicode>VILONIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="96,282 123,281 149,280 176,279 202,278 228,276 228,313 202,315 176,316 149,317 123,318 96,320" />
+        <Baseline points="96,316 123,315 149,314 176,313 202,311 228,310" />
+        <TextEquiv>
+          <Unicode>M L DICA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="95,332 115,331 136,330 156,330 177,329 197,328 197,363 177,364 156,365 136,365 115,366 95,367" />
+        <Baseline points="95,364 115,363 136,362 156,361 177,361 197,360" />
+        <TextEquiv>
+          <Unicode>SIBI ET P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="93,377 121,376 148,375 176,374 204,373 231,372 231,407 204,408 176,409 148,410 121,411 93,412" />
+        <Baseline points="93,409 121,408 148,407 176,406 204,405 231,404" />
+        <TextEquiv>
+          <Unicode>TERENTIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="92,430 114,430 136,431 158,432 180,433 202,433 202,467 180,466 158,465 136,465 114,464 92,463" />
+        <Baseline points="92,456 114,457 136,458 158,458 180,459 202,460" />
+        <TextEquiv>
+          <Unicode>T F VIRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="90,468 118,466 146,465 174,464 202,463 230,461 230,496 202,498 174,499 146,500 118,502 90,503" />
+        <Baseline points="90,500 118,498 146,497 174,496 202,495 230,493" />
+        <TextEquiv>
+          <Unicode>SVO FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

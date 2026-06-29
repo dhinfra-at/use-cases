@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00338.jpg" imageWidth="900" imageHeight="792">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,792 0,792" />
+      <TextLine id="r1l1">
+        <Coords points="74,64 99,63 124,61 149,59 174,58 199,56 199,124 174,126 149,127 124,129 99,131 74,132" />
+        <Baseline points="74,126 99,124 124,122 149,121 174,119 199,117" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="77,150 135,147 193,144 251,142 309,140 367,137 367,203 309,205 251,207 193,210 135,213 77,216" />
+        <Baseline points="77,209 135,206 193,203 251,201 309,198 367,196" />
+        <TextEquiv>
+          <Unicode>C OPPIVS C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="80,231 135,228 189,225 244,222 298,219 353,216 353,284 298,287 244,290 189,292 135,295 80,298" />
+        <Baseline points="80,292 135,289 189,286 244,283 298,280 353,277" />
+        <TextEquiv>
+          <Unicode>Q ROGATVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="83,320 138,318 193,317 248,316 304,314 359,313 359,380 304,381 248,382 193,384 138,385 83,387" />
+        <Baseline points="83,376 138,375 193,373 248,372 304,370 359,369" />
+        <TextEquiv>
+          <Unicode>VETERANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="86,404 133,404 179,404 225,404 271,404 317,404 317,476 271,475 225,475 179,475 133,475 86,475" />
+        <Baseline points="86,459 133,459 179,459 225,459 271,459 317,459" />
+        <TextEquiv>
+          <Unicode>LEGIONIS I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="89,483 142,484 194,484 246,485 299,486 351,486 351,560 299,560 246,559 194,558 142,558 89,557" />
+        <Baseline points="89,537 142,538 194,538 246,539 299,540 351,541" />
+        <TextEquiv>
+          <Unicode>ADIVTRICIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="92,556 145,553 197,549 249,546 301,542 353,539 353,606 301,609 249,613 197,616 145,620 92,623" />
+        <Baseline points="92,617 145,614 197,610 249,606 301,603 353,599" />
+        <TextEquiv>
+          <Unicode>PIE FIDELIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="95,639 123,638 151,636 178,635 206,633 234,632 234,692 206,694 178,695 151,697 123,698 95,700" />
+        <Baseline points="95,693 123,692 151,690 178,689 206,687 234,686" />
+        <TextEquiv>
+          <Unicode>V A LV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="98,715 118,713 137,712 156,711 176,709 195,708 195,770 176,771 156,772 137,773 118,775 98,776" />
+        <Baseline points="98,770 118,768 137,767 156,766 176,764 195,763" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00404.jpg" imageWidth="900" imageHeight="772">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,772 0,772" />
+      <TextLine id="r1l1">
+        <Coords points="337,167 384,170 431,173 478,176 525,179 572,182 572,222 525,219 478,216 431,214 384,211 337,208" />
+        <Baseline points="337,193 384,196 431,199 478,202 525,204 572,207" />
+        <TextEquiv>
+          <Unicode>MIRE INNOCENTIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="276,213 346,215 417,217 487,219 557,221 628,223 628,257 557,255 487,253 417,251 346,249 276,247" />
+        <Baseline points="276,237 346,239 417,242 487,244 557,246 628,248" />
+        <TextEquiv>
+          <Unicode>HAC SIC SAPIENTIAE STVDIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,259 354,261 417,263 481,265 544,267 608,269 608,301 544,299 481,297 417,296 354,294 290,291" />
+        <Baseline points="290,283 354,285 417,287 481,289 544,290 608,293" />
+        <TextEquiv>
+          <Unicode>PLENVS QVIRACVS SIC Q NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="257,286 333,285 410,283 487,280 563,278 640,276 640,316 563,319 487,321 410,323 333,325 257,327" />
+        <Baseline points="257,324 333,323 410,320 487,318 563,316 640,314" />
+        <TextEquiv>
+          <Unicode>P M LV D PR IDVS NOBR IN PACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="325,331 375,329 424,327 474,325 524,323 574,321 574,358 524,360 474,362 424,364 375,366 325,368" />
+        <Baseline points="325,365 375,363 424,361 474,359 524,357 574,356" />
+        <TextEquiv>
+          <Unicode>MODESTO ET ARO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="339,384 383,385 426,386 469,386 512,387 556,388 556,413 512,412 469,411 426,410 383,409 339,409" />
+        <Baseline points="339,404 383,405 426,406 469,407 512,408 556,408" />
+        <TextEquiv>
+          <Unicode>MIRE INNOCENTIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="327,422 373,424 420,425 467,426 513,427 560,429 560,455 513,453 467,452 420,451 373,450 327,449" />
+        <Baseline points="327,443 373,444 420,445 467,446 513,448 560,449" />
+        <TextEquiv>
+          <Unicode>NN XXXI MENSIS SIC VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="337,461 380,463 423,466 467,469 510,472 553,475 553,509 510,506 467,503 423,500 380,497 337,495" />
+        <Baseline points="337,481 380,484 423,487 467,489 510,492 553,495" />
+        <TextEquiv>
+          <Unicode>CIT BENE INMERIS A</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

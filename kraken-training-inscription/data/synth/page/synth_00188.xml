@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00188.jpg" imageWidth="900" imageHeight="663">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,663 0,663" />
+      <TextLine id="r1l1">
+        <Coords points="411,152 426,151 440,151 454,150 469,150 483,150 483,192 469,192 454,193 440,193 426,194 411,194" />
+        <Baseline points="411,188 426,188 440,188 454,187 469,187 483,186" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="383,206 409,205 435,204 461,203 487,202 513,201 513,244 487,245 461,246 435,247 409,247 383,248" />
+        <Baseline points="383,242 409,242 435,241 461,240 487,239 513,238" />
+        <TextEquiv>
+          <Unicode>SILICIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="356,263 393,262 430,261 467,260 504,259 540,258 540,301 504,302 467,303 430,304 393,305 356,306" />
+        <Baseline points="356,298 393,297 430,297 467,296 504,295 540,294" />
+        <TextEquiv>
+          <Unicode>DITVEIONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="333,311 378,308 424,305 469,302 514,299 560,296 560,341 514,344 469,348 424,351 378,354 333,357" />
+        <Baseline points="333,353 378,350 424,347 469,344 514,340 560,337" />
+        <TextEquiv>
+          <Unicode>A SELLIO PVB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="386,364 412,362 438,361 464,360 491,358 517,357 517,397 491,398 464,400 438,401 412,403 386,404" />
+        <Baseline points="386,400 412,399 438,397 464,396 491,394 517,393" />
+        <TextEquiv>
+          <Unicode>CONIVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

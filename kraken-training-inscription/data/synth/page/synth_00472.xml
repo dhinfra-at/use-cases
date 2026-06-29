@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00472.jpg" imageWidth="900" imageHeight="982">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,982 0,982" />
+      <TextLine id="r1l1">
+        <Coords points="335,203 373,205 411,207 449,209 487,210 525,212 525,261 487,259 449,257 411,256 373,254 335,252" />
+        <Baseline points="335,240 373,242 411,244 449,245 487,247 525,249" />
+        <TextEquiv>
+          <Unicode>DIIS MAGNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="388,259 409,258 430,257 451,256 472,255 493,254 493,300 472,301 451,302 430,303 409,304 388,305" />
+        <Baseline points="388,301 409,300 430,299 451,298 472,297 493,296" />
+        <TextEquiv>
+          <Unicode>M D I ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="190,311 272,309 354,307 436,305 518,303 600,302 600,352 518,354 436,355 354,357 272,359 190,361" />
+        <Baseline points="190,357 272,355 354,353 436,351 518,350 600,348" />
+        <TextEquiv>
+          <Unicode>ATTIDI SANCTO MENOTYRANNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="209,378 286,378 362,377 438,377 515,377 591,377 591,418 515,418 438,418 362,419 286,419 209,419" />
+        <Baseline points="209,415 286,415 362,415 438,414 515,414 591,414" />
+        <TextEquiv>
+          <Unicode>ALFENIVS CEIONIVS IVLIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="226,428 299,426 372,424 444,422 517,420 590,418 590,467 517,468 444,470 372,472 299,474 226,476" />
+        <Baseline points="226,472 299,470 372,468 444,466 517,464 590,463" />
+        <TextEquiv>
+          <Unicode>KAMENIVS V C VIIVIR EPVL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="217,483 291,481 365,479 439,477 513,475 587,473 587,521 513,523 439,526 365,528 291,530 217,531" />
+        <Baseline points="217,528 291,526 365,524 439,522 513,520 587,517" />
+        <TextEquiv>
+          <Unicode>PATER ET HIEROCERYX SACR S I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="192,547 274,548 356,548 437,548 519,548 601,548 601,585 519,585 437,585 356,585 274,585 192,584" />
+        <Baseline points="192,581 274,581 356,581 437,581 519,581 601,582" />
+        <TextEquiv>
+          <Unicode>MITRAE HIEROFANTA HAECATAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="249,593 312,591 376,589 439,587 503,586 566,584 566,629 503,631 439,632 376,634 312,636 249,638" />
+        <Baseline points="249,634 312,632 376,631 439,629 503,627 566,625" />
+        <TextEquiv>
+          <Unicode>ARCHBVCOLVS DEI LIBERI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="210,635 284,632 358,628 432,624 506,620 580,616 580,672 506,675 432,679 358,684 284,687 210,690" />
+        <Baseline points="210,687 284,684 358,680 432,676 506,672 580,668" />
+        <TextEquiv>
+          <Unicode>ARAM TAVROBOLIO CRIOBOLIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="245,707 309,710 373,713 437,716 501,718 566,720 566,764 501,762 437,760 373,757 309,754 245,751" />
+        <Baseline points="245,737 309,740 373,743 437,745 501,748 566,750" />
+        <TextEquiv>
+          <Unicode>QVE PERCEPTO DICABIT SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="213,754 288,755 362,755 437,755 512,756 586,756 586,789 512,788 437,788 362,787 288,787 213,787" />
+        <Baseline points="213,784 288,784 362,784 437,784 512,785 586,786" />
+        <TextEquiv>
+          <Unicode>DIE XIIII KAL AVG D N GRATIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="250,789 314,787 378,784 442,782 506,779 570,777 570,822 506,824 442,827 378,829 314,832 250,834" />
+        <Baseline points="250,831 314,829 378,826 442,824 506,821 570,819" />
+        <TextEquiv>
+          <Unicode>AVG III ET EQVITIO CONSS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

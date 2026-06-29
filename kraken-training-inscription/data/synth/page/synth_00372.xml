@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00372.jpg" imageWidth="900" imageHeight="448">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,448 0,448" />
+      <TextLine id="r1l1">
+        <Coords points="107,15 243,15 379,13 516,10 652,8 789,9 789,100 652,100 516,101 379,104 243,106 107,106" />
+        <Baseline points="107,100 243,100 379,98 516,95 652,94 789,94" />
+        <TextEquiv>
+          <Unicode>I O M D ET DEO PATERNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="163,138 276,141 390,144 503,147 616,150 729,154 729,215 616,210 503,207 390,204 276,201 163,198" />
+        <Baseline points="163,192 276,196 390,199 503,201 616,205 729,209" />
+        <TextEquiv>
+          <Unicode>COMAGENO M AVR AP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="200,226 295,231 390,237 486,242 581,247 676,251 676,304 581,300 486,295 390,290 295,285 200,279" />
+        <Baseline points="200,269 295,274 390,280 486,285 581,289 676,294" />
+        <TextEquiv>
+          <Unicode>OLLINARIS DEC M MVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="267,298 336,300 406,301 476,303 545,305 615,308 615,356 545,353 476,351 406,349 336,347 267,346" />
+        <Baseline points="267,341 336,343 406,345 476,347 545,349 615,351" />
+        <TextEquiv>
+          <Unicode>SELENSIVM V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00497.jpg" imageWidth="900" imageHeight="412">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,412 0,412" />
+      <TextLine id="r1l1">
+        <Coords points="179,70 282,69 385,68 487,67 590,65 692,64 692,122 590,123 487,125 385,126 282,127 179,128" />
+        <Baseline points="179,122 282,121 385,120 487,119 590,118 692,117" />
+        <TextEquiv>
+          <Unicode>FABIA FILIA HIC IACET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="353,140 390,138 427,136 464,135 501,133 538,132 538,190 501,192 464,193 427,195 390,197 353,198" />
+        <Baseline points="353,193 390,191 427,190 464,188 501,187 538,185" />
+        <TextEquiv>
+          <Unicode>NN XXVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="198,203 292,201 386,199 479,196 573,193 666,190 666,251 573,255 479,258 386,260 292,262 198,264" />
+        <Baseline points="198,259 292,257 386,255 479,252 573,249 666,246" />
+        <TextEquiv>
+          <Unicode>ET ETIAM FABIA MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

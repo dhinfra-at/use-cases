@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00438.jpg" imageWidth="900" imageHeight="426">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,426 0,426" />
+      <TextLine id="r1l1">
+        <Coords points="257,76 331,78 404,79 478,80 551,80 624,81 624,129 551,129 478,128 404,127 331,126 257,125" />
+        <Baseline points="257,105 331,106 404,107 478,108 551,109 624,109" />
+        <TextEquiv>
+          <Unicode>D M AVR AVRELIA VIXSIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="319,124 367,122 415,120 463,118 511,116 559,114 559,145 511,147 463,149 415,151 367,153 319,156" />
+        <Baseline points="319,152 367,150 415,148 463,146 511,144 559,142" />
+        <TextEquiv>
+          <Unicode>ANNOS XXXXI VLPIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="272,176 341,177 411,178 480,179 549,180 618,182 618,224 549,222 480,221 411,220 341,219 272,218" />
+        <Baseline points="272,199 341,199 411,200 480,201 549,203 618,204" />
+        <TextEquiv>
+          <Unicode>APOLINARIS CONIVGI CARISSIME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="416,212 430,211 444,210 458,209 472,208 486,207 486,231 472,232 458,233 444,234 430,235 416,235" />
+        <Baseline points="416,233 430,232 444,231 458,230 472,229 486,229" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

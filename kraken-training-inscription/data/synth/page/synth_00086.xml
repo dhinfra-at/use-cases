@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00086.jpg" imageWidth="900" imageHeight="905">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,905 0,905" />
+      <TextLine id="r1l1">
+        <Coords points="418,192 430,192 442,192 454,192 466,192 477,193 477,236 466,236 454,236 442,236 430,236 418,236" />
+        <Baseline points="418,229 430,229 442,229 454,229 466,229 477,229" />
+        <TextEquiv>
+          <Unicode>DIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="363,254 397,252 432,250 467,248 501,247 536,245 536,287 501,289 467,291 432,293 397,295 363,296" />
+        <Baseline points="363,292 397,291 432,289 467,287 501,285 536,283" />
+        <TextEquiv>
+          <Unicode>MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="360,315 396,314 432,312 467,311 503,309 539,307 539,348 503,350 467,351 432,353 396,355 360,356" />
+        <Baseline points="360,352 396,351 432,349 467,347 503,346 539,344" />
+        <TextEquiv>
+          <Unicode>L MEMMIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="339,371 383,368 427,366 471,363 514,360 558,358 558,400 514,403 471,406 427,408 383,411 339,413" />
+        <Baseline points="339,409 383,407 427,404 471,402 514,399 558,396" />
+        <TextEquiv>
+          <Unicode>AQVILAE VET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="358,425 395,423 431,421 468,418 504,416 541,414 541,454 504,457 468,459 431,461 395,464 358,466" />
+        <Baseline points="358,462 395,460 431,458 468,455 504,453 541,451" />
+        <TextEquiv>
+          <Unicode>LEG V MAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="384,483 410,483 436,483 462,483 489,483 515,482 515,520 489,520 462,521 436,521 410,521 384,521" />
+        <Baseline points="384,514 410,514 436,514 462,513 489,513 515,513" />
+        <TextEquiv>
+          <Unicode>VIX NN LII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="364,527 398,524 432,522 467,519 501,516 535,514 535,554 501,557 467,560 432,562 398,565 364,568" />
+        <Baseline points="364,564 398,561 432,559 467,556 501,553 535,551" />
+        <TextEquiv>
+          <Unicode>L VALERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="351,583 391,584 430,584 469,584 508,584 548,584 548,622 508,622 469,622 430,622 391,621 351,621" />
+        <Baseline points="351,611 391,611 430,611 469,611 508,611 548,611" />
+        <TextEquiv>
+          <Unicode>VALES MIL LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="344,627 386,625 427,623 468,620 509,618 550,616 550,649 509,651 468,654 427,656 386,658 344,661" />
+        <Baseline points="344,657 386,655 427,653 468,650 509,648 550,646" />
+        <TextEquiv>
+          <Unicode>EADEM ET VALE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="359,675 395,675 431,675 468,674 504,674 540,674 540,707 504,707 468,707 431,707 395,708 359,708" />
+        <Baseline points="359,699 395,699 431,699 468,699 504,699 540,699" />
+        <TextEquiv>
+          <Unicode>RIVS RVSTICVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="350,709 390,706 429,703 469,700 509,697 549,694 549,729 509,732 469,735 429,738 390,741 350,744" />
+        <Baseline points="350,741 390,738 429,735 469,732 509,729 549,726" />
+        <TextEquiv>
+          <Unicode>FRATRI FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

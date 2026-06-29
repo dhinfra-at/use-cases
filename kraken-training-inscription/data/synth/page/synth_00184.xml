@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00184.jpg" imageWidth="900" imageHeight="405">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,405 0,405" />
+      <TextLine id="r1l1">
+        <Coords points="117,199 248,209 379,219 510,227 640,235 771,244 771,293 640,284 510,276 379,267 248,258 117,247" />
+        <Baseline points="117,222 248,233 379,242 510,251 640,259 771,268" />
+        <TextEquiv>
+          <Unicode>IMP DOMITIANI AVG GER SVB CVRA EPAGATHI AVG L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="136,223 256,223 377,223 497,224 618,224 739,225 739,275 618,274 497,273 377,272 256,272 136,272" />
+        <Baseline points="136,269 256,269 377,269 497,270 618,271 739,272" />
+        <TextEquiv>
+          <Unicode>PROC FEC MARTIALIS ET ALEXANDER SER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

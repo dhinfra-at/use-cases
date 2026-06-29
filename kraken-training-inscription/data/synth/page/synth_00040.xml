@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00040.jpg" imageWidth="900" imageHeight="689">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,689 0,689" />
+      <TextLine id="r1l1">
+        <Coords points="95,184 105,184 116,183 127,183 137,183 148,183 148,223 137,223 127,223 116,223 105,223 95,223" />
+        <Baseline points="95,219 105,219 116,219 127,219 137,219 148,219" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="95,239 131,240 167,240 203,241 239,242 274,242 274,283 239,283 203,282 167,281 131,281 95,280" />
+        <Baseline points="95,274 131,275 167,275 203,276 239,276 274,277" />
+        <TextEquiv>
+          <Unicode>EVSYNETVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="96,290 122,290 148,289 174,288 200,287 226,286 226,330 200,331 174,332 148,332 122,333 96,334" />
+        <Baseline points="96,330 122,329 148,328 174,328 200,327 226,326" />
+        <TextEquiv>
+          <Unicode>PITHANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="97,349 115,349 133,350 151,350 170,350 188,351 188,390 170,389 151,389 133,389 115,388 97,388" />
+        <Baseline points="97,382 115,383 133,383 151,384 170,384 188,385" />
+        <TextEquiv>
+          <Unicode>AMICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,396 130,395 162,394 193,393 225,392 257,391 257,434 225,435 193,436 162,437 130,438 98,439" />
+        <Baseline points="98,435 130,434 162,433 193,432 225,431 257,430" />
+        <TextEquiv>
+          <Unicode>CARISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="98,454 120,454 141,454 163,454 185,455 206,455 206,493 185,493 163,493 141,492 120,492 98,492" />
+        <Baseline points="98,487 120,488 141,488 163,488 185,488 206,489" />
+        <TextEquiv>
+          <Unicode>B M F ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="148,504 171,503 195,503 218,502 242,502 265,501 265,541 242,542 218,542 195,543 171,543 148,543" />
+        <Baseline points="148,540 171,539 195,539 218,539 242,538 265,538" />
+        <TextEquiv>
+          <Unicode>I ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

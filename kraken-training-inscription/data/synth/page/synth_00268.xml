@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00268.jpg" imageWidth="900" imageHeight="554">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,554 0,554" />
+      <TextLine id="r1l1">
+        <Coords points="90,101 129,102 169,102 208,103 247,103 287,104 287,141 247,140 208,140 169,139 129,139 90,138" />
+        <Baseline points="90,135 129,136 169,136 208,137 247,137 287,138" />
+        <TextEquiv>
+          <Unicode>L PVBLICIVS EV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="90,147 119,149 148,151 177,153 206,156 235,158 235,192 206,190 177,188 148,185 119,183 90,181" />
+        <Baseline points="90,173 119,176 148,178 177,180 206,182 235,185" />
+        <TextEquiv>
+          <Unicode>TYCHVS V F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="89,187 121,190 153,192 185,195 217,197 249,200 249,233 217,231 185,228 153,226 121,223 89,221" />
+        <Baseline points="89,213 121,215 153,218 185,220 217,223 249,225" />
+        <TextEquiv>
+          <Unicode>ABASCANTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="89,224 118,226 147,227 177,228 206,230 235,231 235,259 206,258 177,256 147,255 118,254 89,252" />
+        <Baseline points="89,249 118,250 147,252 177,253 206,254 235,256" />
+        <TextEquiv>
+          <Unicode>FILIO DEFVNC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="89,261 109,262 128,263 148,264 167,265 187,266 187,293 167,292 148,291 128,290 109,288 89,287" />
+        <Baseline points="89,284 109,285 128,286 148,287 167,288 187,289" />
+        <TextEquiv>
+          <Unicode>NN XVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

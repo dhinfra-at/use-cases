@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00052.jpg" imageWidth="900" imageHeight="873">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,873 0,873" />
+      <TextLine id="r1l1">
+        <Coords points="85,270 124,270 163,271 201,271 240,271 279,271 279,305 240,304 201,304 163,304 124,304 85,304" />
+        <Baseline points="85,298 124,298 163,298 201,298 240,299 279,299" />
+        <TextEquiv>
+          <Unicode>FONTI ET NYM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="86,303 138,300 189,297 240,294 291,292 342,289 342,331 291,334 240,337 189,339 138,342 86,345" />
+        <Baseline points="86,342 138,339 189,336 240,333 291,331 342,328" />
+        <TextEquiv>
+          <Unicode>PHIS PRO SALVTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="88,351 126,349 165,348 203,346 241,345 280,344 280,379 241,380 203,382 165,383 126,385 88,386" />
+        <Baseline points="88,383 126,382 165,380 203,379 241,377 280,376" />
+        <TextEquiv>
+          <Unicode>GAETVLICI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="89,397 124,397 160,396 195,396 231,395 266,395 266,425 231,425 195,425 160,426 124,426 89,427" />
+        <Baseline points="89,424 124,423 160,423 195,422 231,422 266,421" />
+        <TextEquiv>
+          <Unicode>GAETVLICIAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="90,433 135,431 180,429 225,427 270,426 315,424 315,460 270,461 225,463 180,465 135,467 90,469" />
+        <Baseline points="90,465 135,464 180,462 225,460 270,458 315,456" />
+        <TextEquiv>
+          <Unicode>ET VENERANDAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="91,477 132,477 172,476 213,475 254,474 294,474 294,503 254,504 213,505 172,505 132,506 91,507" />
+        <Baseline points="91,504 132,503 172,502 213,501 254,501 294,500" />
+        <TextEquiv>
+          <Unicode>ET LAETAE DOM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="92,519 136,519 181,519 225,519 270,519 314,519 314,548 270,548 225,548 181,548 136,548 92,548" />
+        <Baseline points="92,543 136,543 181,543 225,543 270,543 314,543" />
+        <TextEquiv>
+          <Unicode>INORVM MEORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="93,555 129,556 164,556 200,557 236,557 271,558 271,588 236,588 200,587 164,587 129,586 93,586" />
+        <Baseline points="93,579 129,579 164,580 200,580 236,581 271,581" />
+        <TextEquiv>
+          <Unicode>HILARVS VIKA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="94,593 127,592 160,592 193,592 226,592 259,591 259,617 226,617 193,617 160,618 127,618 94,618" />
+        <Baseline points="94,615 127,615 160,615 193,614 226,614 259,614" />
+        <TextEquiv>
+          <Unicode>RIVS SIC V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="95,627 122,627 150,626 177,626 205,626 232,625 232,650 205,651 177,651 150,652 122,652 95,653" />
+        <Baseline points="95,650 122,649 150,649 177,648 205,648 232,648" />
+        <TextEquiv>
+          <Unicode>X KAL MAIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="96,663 136,663 176,663 217,663 257,662 297,662 297,686 257,686 217,687 176,687 136,687 96,688" />
+        <Baseline points="96,685 136,685 176,684 217,684 257,684 297,683" />
+        <TextEquiv>
+          <Unicode>APRO ET MAXIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="97,694 105,693 114,693 122,692 131,692 139,691 139,716 131,717 122,718 114,718 105,719 97,719" />
+        <Baseline points="97,717 105,716 114,716 122,715 131,715 139,714" />
+        <TextEquiv>
+          <Unicode>COS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

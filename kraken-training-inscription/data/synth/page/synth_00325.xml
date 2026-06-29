@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00325.jpg" imageWidth="900" imageHeight="405">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,405 0,405" />
+      <TextLine id="r1l1">
+        <Coords points="107,150 156,147 205,144 253,141 302,138 351,135 351,177 302,180 253,183 205,186 156,189 107,192" />
+        <Baseline points="107,189 156,186 205,183 253,180 302,177 351,174" />
+        <TextEquiv>
+          <Unicode>DOMISI AIONIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="107,203 160,201 213,198 265,195 318,192 371,190 371,224 318,226 265,229 213,232 160,235 107,237" />
+        <Baseline points="107,234 160,232 213,229 265,226 318,224 371,221" />
+        <TextEquiv>
+          <Unicode>AN LX H S E ET BECNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="108,250 138,251 168,252 198,253 228,254 258,254 258,283 228,282 198,281 168,280 138,279 108,279" />
+        <Baseline points="108,269 138,270 168,270 198,271 228,272 258,273" />
+        <TextEquiv>
+          <Unicode>COIVX VIVA P FI P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

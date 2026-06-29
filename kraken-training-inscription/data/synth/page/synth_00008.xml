@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00008.jpg" imageWidth="900" imageHeight="967">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,967 0,967" />
+      <TextLine id="r1l1">
+        <Coords points="397,109 414,108 431,106 447,105 464,104 481,103 481,149 464,150 447,151 431,153 414,154 397,155" />
+        <Baseline points="397,151 414,149 431,148 447,147 464,146 481,144" />
+        <TextEquiv>
+          <Unicode>SOLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="302,189 354,188 407,188 459,187 512,186 565,186 565,236 512,237 459,238 407,238 354,239 302,240" />
+        <Baseline points="302,228 354,227 407,227 459,226 512,225 565,225" />
+        <TextEquiv>
+          <Unicode>Q MARCIVS VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="309,265 357,265 405,264 453,263 501,262 549,261 549,309 501,311 453,312 405,313 357,313 309,314" />
+        <Baseline points="309,304 357,303 405,303 453,302 501,301 549,300" />
+        <TextEquiv>
+          <Unicode>CTOR FELIX MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="275,340 338,338 402,336 466,335 530,334 594,332 594,380 530,382 466,383 402,384 338,386 275,388" />
+        <Baseline points="275,378 338,376 402,374 466,373 530,371 594,370" />
+        <TextEquiv>
+          <Unicode>XIMILLIANVS LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="287,413 347,412 406,411 465,410 525,409 584,408 584,457 525,458 465,459 406,460 347,461 287,462" />
+        <Baseline points="287,451 347,449 406,448 465,447 525,446 584,445" />
+        <TextEquiv>
+          <Unicode>AVGG LEG XIII G ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="280,487 343,484 406,482 469,479 532,476 595,473 595,516 532,519 469,522 406,524 343,527 280,530" />
+        <Baseline points="280,525 343,523 406,520 469,517 532,514 595,512" />
+        <TextEquiv>
+          <Unicode>PVLLAIENA CAEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="321,554 370,551 418,548 467,546 516,543 564,540 564,586 516,589 467,591 418,594 370,597 321,600" />
+        <Baseline points="321,596 370,593 418,590 467,587 516,584 564,582" />
+        <TextEquiv>
+          <Unicode>IANA C F EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="293,624 351,620 409,615 467,611 525,607 582,602 582,654 525,658 467,662 409,667 351,671 293,675" />
+        <Baseline points="293,671 351,667 409,662 467,658 525,654 582,650" />
+        <TextEquiv>
+          <Unicode>ET P MARCIVS VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="307,703 359,700 412,698 464,695 516,692 569,690 569,733 516,735 464,738 412,741 359,743 307,746" />
+        <Baseline points="307,741 359,739 412,736 464,734 516,731 569,729" />
+        <TextEquiv>
+          <Unicode>CTOR MAXIMILLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="318,770 369,767 420,764 471,760 523,756 574,752 574,801 523,805 471,809 420,813 369,816 318,819" />
+        <Baseline points="318,815 369,811 420,808 471,805 523,801 574,796" />
+        <TextEquiv>
+          <Unicode>ANVS C P FILIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="399,843 421,841 443,840 465,838 487,837 509,835 509,880 487,881 465,883 443,884 421,886 399,888" />
+        <Baseline points="399,883 421,882 443,880 465,878 487,877 509,875" />
+        <TextEquiv>
+          <Unicode>VOTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

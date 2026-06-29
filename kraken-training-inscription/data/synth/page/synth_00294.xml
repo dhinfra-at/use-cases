@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00294.jpg" imageWidth="900" imageHeight="590">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,590 0,590" />
+      <TextLine id="r1l1">
+        <Coords points="112,96 123,96 133,96 144,97 155,97 166,97 166,131 155,131 144,130 133,130 123,130 112,130" />
+        <Baseline points="112,125 123,126 133,126 144,126 155,127 166,127" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="110,138 175,137 239,136 304,134 368,133 433,132 433,175 368,176 304,178 239,179 175,180 110,181" />
+        <Baseline points="110,178 175,177 239,176 304,174 368,173 433,172" />
+        <TextEquiv>
+          <Unicode>T AVRELIO APOLINARIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="108,197 125,196 141,196 157,196 173,195 189,195 189,230 173,230 157,230 141,231 125,231 108,231" />
+        <Baseline points="108,228 125,228 141,228 157,227 173,227 189,227" />
+        <TextEquiv>
+          <Unicode>MILITI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="107,244 144,243 182,243 219,243 257,242 294,242 294,278 257,278 219,279 182,279 144,280 107,280" />
+        <Baseline points="107,277 144,277 182,276 219,276 257,275 294,275" />
+        <TextEquiv>
+          <Unicode>LEG XV APOL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="105,298 145,300 184,302 224,304 263,307 303,308 303,345 263,343 224,341 184,339 145,337 105,335" />
+        <Baseline points="105,325 145,327 184,329 224,331 263,333 303,335" />
+        <TextEquiv>
+          <Unicode>DOMO CAESAR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="104,345 173,348 242,351 311,354 380,356 449,359 449,395 380,393 311,390 242,387 173,385 104,382" />
+        <Baseline points="104,371 173,374 242,376 311,379 380,382 449,385" />
+        <TextEquiv>
+          <Unicode>STIP VI VEXILL LEG EIVSDEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="102,393 111,393 120,393 128,393 137,393 145,393 145,421 137,420 128,420 120,420 111,420 102,420" />
+        <Baseline points="102,417 111,417 120,417 128,418 137,418 145,418" />
+        <TextEquiv>
+          <Unicode>B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

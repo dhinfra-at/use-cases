@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00493.jpg" imageWidth="900" imageHeight="419">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,419 0,419" />
+      <TextLine id="r1l1">
+        <Coords points="184,64 281,54 378,44 476,35 573,26 670,17 670,84 573,94 476,103 378,112 281,122 184,131" />
+        <Baseline points="184,125 281,116 378,106 476,97 573,88 670,78" />
+        <TextEquiv>
+          <Unicode>MENSA SABASSANE VICS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="280,133 345,128 411,123 477,118 542,112 608,107 608,156 542,161 477,166 411,171 345,176 280,181" />
+        <Baseline points="280,176 345,171 411,166 477,161 542,155 608,150" />
+        <TextEquiv>
+          <Unicode>NN VNV MEN TRES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,189 353,186 416,182 479,179 541,175 604,171 604,207 541,210 479,214 416,218 353,221 290,224" />
+        <Baseline points="290,220 353,217 416,213 479,210 541,206 604,202" />
+        <TextEquiv>
+          <Unicode>DIES XVII PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="259,233 334,228 409,224 484,219 559,215 634,210 634,241 559,246 484,250 409,255 334,259 259,264" />
+        <Baseline points="259,260 334,256 409,251 484,247 559,242 634,238" />
+        <TextEquiv>
+          <Unicode>AMANTI POSVERVNT P CCXCV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

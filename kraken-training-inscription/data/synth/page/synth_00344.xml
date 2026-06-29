@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00344.jpg" imageWidth="900" imageHeight="504">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,504 0,504" />
+      <TextLine id="r1l1">
+        <Coords points="86,80 154,82 222,85 291,87 359,90 427,92 427,139 359,136 291,134 222,131 154,129 86,126" />
+        <Baseline points="86,122 154,124 222,127 291,129 359,132 427,134" />
+        <TextEquiv>
+          <Unicode>INFAS DISCESSIT NO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="84,147 155,152 227,157 298,163 369,168 441,173 441,221 369,215 298,210 227,205 155,200 84,195" />
+        <Baseline points="84,182 155,187 227,192 298,197 369,202 441,208" />
+        <TextEquiv>
+          <Unicode>MINE ONORATA MEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="81,187 171,187 261,188 351,188 440,189 530,190 530,244 440,243 351,243 261,242 171,242 81,241" />
+        <Baseline points="81,237 171,238 261,238 351,239 440,239 530,240" />
+        <TextEquiv>
+          <Unicode>S V XIII KL IVLIAS A P CCCLXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

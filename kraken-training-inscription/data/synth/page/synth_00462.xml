@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00462.jpg" imageWidth="900" imageHeight="1125">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1125 0,1125" />
+      <TextLine id="r1l1">
+        <Coords points="419,130 435,129 451,129 467,129 483,129 499,129 499,181 483,181 467,181 451,181 435,181 419,182" />
+        <Baseline points="419,176 435,176 451,176 467,176 483,176 499,175" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="268,195 340,193 412,191 484,189 556,188 628,186 628,249 556,250 484,252 412,254 340,255 268,257" />
+        <Baseline points="268,252 340,250 412,248 484,247 556,245 628,243" />
+        <TextEquiv>
+          <Unicode>V MAX ET C VERA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="212,274 304,273 396,272 488,272 579,272 671,271 671,329 579,329 488,329 396,330 304,330 212,332" />
+        <Baseline points="212,326 304,325 396,324 488,324 579,324 671,323" />
+        <TextEquiv>
+          <Unicode>CVM DOLVM TANTVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="219,337 307,333 395,329 483,324 571,320 659,316 659,391 571,395 483,399 395,404 307,409 219,412" />
+        <Baseline points="219,407 307,403 395,399 483,394 571,390 659,386" />
+        <TextEquiv>
+          <Unicode>HABERENT DE VALERIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="195,436 290,436 385,436 480,437 575,440 669,444 669,498 575,494 480,491 385,490 290,490 195,490" />
+        <Baseline points="195,481 290,482 385,482 480,483 575,486 669,490" />
+        <TextEquiv>
+          <Unicode>DELICATO QVAM VT FI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="223,509 307,510 392,511 476,511 561,510 646,510 646,563 561,563 476,563 392,563 307,563 223,562" />
+        <Baseline points="223,557 307,558 392,558 476,558 561,558 646,558" />
+        <TextEquiv>
+          <Unicode>LIO INFELICISSIMO IV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="265,587 332,590 400,593 467,596 534,599 601,602 601,661 534,658 467,655 400,652 332,649 265,646" />
+        <Baseline points="265,630 332,633 400,636 467,639 534,642 601,645" />
+        <TextEquiv>
+          <Unicode>VENI D NN XXIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="199,648 291,648 383,646 475,644 567,642 660,640 660,701 567,703 475,706 383,708 291,709 199,709" />
+        <Baseline points="199,704 291,704 383,702 475,700 567,698 660,696" />
+        <TextEquiv>
+          <Unicode>DVNC SIC DOLVM HABE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="257,736 327,738 398,740 468,743 539,746 609,749 609,807 539,803 468,800 398,798 327,795 257,793" />
+        <Baseline points="257,778 327,781 398,783 468,786 539,789 609,792" />
+        <TextEquiv>
+          <Unicode>RIT SIC C VENDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="207,805 293,806 380,806 467,806 553,805 640,805 640,858 553,858 467,859 380,859 293,859 207,858" />
+        <Baseline points="207,853 293,854 380,854 467,854 553,853 640,853" />
+        <TextEquiv>
+          <Unicode>MIA DE MARITO VALE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="242,874 314,874 387,874 460,873 533,872 606,871 606,926 533,927 460,928 387,929 314,929 242,929" />
+        <Baseline points="242,924 314,924 387,924 460,923 533,922 606,921" />
+        <TextEquiv>
+          <Unicode>RIO ET SOCERO P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="253,948 320,948 386,948 453,948 520,947 586,946 586,999 520,1000 453,1001 386,1001 320,1001 253,1001" />
+        <Baseline points="253,996 320,996 386,996 453,996 520,995 586,995" />
+        <TextEquiv>
+          <Unicode>TITVLVM POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

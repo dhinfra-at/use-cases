@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00196.jpg" imageWidth="900" imageHeight="1093">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1093 0,1093" />
+      <TextLine id="r1l1">
+        <Coords points="233,139 315,143 397,146 479,149 561,152 643,155 643,229 561,226 479,223 397,220 315,216 233,213" />
+        <Baseline points="233,191 315,195 397,198 479,201 561,204 643,207" />
+        <TextEquiv>
+          <Unicode>IMP CAES M AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="208,208 301,207 393,207 485,205 578,203 670,201 670,270 578,272 485,274 393,276 301,277 208,277" />
+        <Baseline points="208,270 301,269 393,268 485,267 578,265 670,263" />
+        <TextEquiv>
+          <Unicode>TONIO GORDIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="236,292 316,292 396,292 476,293 556,293 636,292 636,354 556,354 476,354 396,354 316,353 236,353" />
+        <Baseline points="236,345 316,346 396,346 476,346 556,347 636,346" />
+        <TextEquiv>
+          <Unicode>NO PIO FELICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="244,374 323,375 402,376 481,376 560,377 639,377 639,437 560,437 481,437 402,436 323,435 244,434" />
+        <Baseline points="244,426 323,427 402,428 481,428 560,429 639,429" />
+        <TextEquiv>
+          <Unicode>INVICTO AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="190,449 292,454 394,461 497,466 599,470 701,473 701,553 599,551 497,547 394,541 292,535 190,529" />
+        <Baseline points="190,501 292,506 394,513 497,518 599,522 701,525" />
+        <TextEquiv>
+          <Unicode>PONTIF MAX TRIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="193,530 295,532 398,535 500,537 602,541 705,545 705,615 602,612 500,608 398,605 295,603 193,601" />
+        <Baseline points="193,582 295,584 398,587 500,589 602,593 705,597" />
+        <TextEquiv>
+          <Unicode>POTEST II COS P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="213,584 308,580 403,576 497,571 592,567 687,563 687,646 592,651 497,655 403,659 308,663 213,667" />
+        <Baseline points="213,660 308,656 403,651 497,647 592,643 687,639" />
+        <TextEquiv>
+          <Unicode>PROCOS RES PVB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="151,671 269,670 387,668 505,665 622,663 740,661 740,734 622,736 505,738 387,740 269,742 151,744" />
+        <Baseline points="151,737 269,735 387,733 505,730 622,728 740,726" />
+        <TextEquiv>
+          <Unicode>CASTELLI TIDDITANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="214,763 311,765 407,768 504,770 600,772 697,775 697,842 600,840 504,837 407,835 311,833 214,830" />
+        <Baseline points="214,814 311,816 407,819 504,821 600,823 697,826" />
+        <TextEquiv>
+          <Unicode>RVM NVMINI MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="211,828 307,826 404,824 500,822 597,821 693,819 693,890 597,891 500,893 404,895 307,897 211,899" />
+        <Baseline points="211,891 307,889 404,887 500,886 597,884 693,882" />
+        <TextEquiv>
+          <Unicode>IESTATIQVE EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="235,898 326,895 416,891 506,887 596,884 686,880 686,959 596,962 506,966 416,970 326,974 235,977" />
+        <Baseline points="235,969 326,966 416,963 506,959 596,955 686,951" />
+        <TextEquiv>
+          <Unicode>DEVOTA P P D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

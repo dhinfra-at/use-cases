@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00066.jpg" imageWidth="900" imageHeight="578">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,578 0,578" />
+      <TextLine id="r1l1">
+        <Coords points="86,111 143,109 199,107 256,105 313,103 370,101 370,148 313,150 256,152 199,155 143,157 86,158" />
+        <Baseline points="86,153 143,151 199,149 256,147 313,145 370,142" />
+        <TextEquiv>
+          <Unicode>FELIX FIDELIS IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="88,171 131,170 173,170 216,169 258,168 300,167 300,209 258,210 216,210 173,211 131,212 88,212" />
+        <Baseline points="88,207 131,206 173,205 216,205 258,204 300,203" />
+        <TextEquiv>
+          <Unicode>PACE VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="91,214 132,211 173,209 215,206 256,204 297,201 297,250 256,253 215,255 173,258 132,260 91,263" />
+        <Baseline points="91,258 132,255 173,253 215,250 256,248 297,245" />
+        <TextEquiv>
+          <Unicode>ANNIS XXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="93,277 134,277 176,278 217,278 259,279 300,279 300,325 259,324 217,324 176,323 134,323 93,323" />
+        <Baseline points="93,312 134,312 176,312 217,313 259,313 300,314" />
+        <TextEquiv>
+          <Unicode>DP DIE V KL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="95,331 120,331 146,331 171,330 196,330 221,330 221,371 196,371 171,371 146,371 120,372 95,372" />
+        <Baseline points="95,366 120,365 146,365 171,365 196,365 221,365" />
+        <TextEquiv>
+          <Unicode>IVNIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

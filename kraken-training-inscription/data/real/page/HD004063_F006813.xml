@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD004063_F006813.jpg" imageWidth="1000" imageHeight="690">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,689 0,689"/>
+      <TextLine id="r1l1">
+        <Coords points="54,127 744,120 744,229 54,236"/>
+        <Baseline points="54,218 744,211"/>
+        <TextEquiv><Unicode>C·MARIVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="178,219 901,221 901,334 178,332"/>
+        <Baseline points="178,315 901,317"/>
+        <TextEquiv><Unicode>AMPHIO·HIC</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="51,306 618,323 603,437 51,416"/>
+        <Baseline points="51,401 603,422"/>
+        <TextEquiv><Unicode>SITVS·EST</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="32,409 189,421 189,421 186,517 32,504"/>
+        <Baseline points="32,488 186,501"/>
+        <TextEquiv><Unicode>C·MA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="49,490 310,484 419,471 470,492 844,508 844,611 49,592"/>
+        <Baseline points="49,575 844,594"/>
+        <TextEquiv><Unicode>MARIA·C·L·COREN</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

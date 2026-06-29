@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00093.jpg" imageWidth="900" imageHeight="808">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,808 0,808" />
+      <TextLine id="r1l1">
+        <Coords points="384,146 403,147 423,147 443,148 462,148 482,148 482,210 462,210 443,210 423,210 403,209 384,209" />
+        <Baseline points="384,197 403,198 423,198 443,199 462,199 482,199" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="331,220 372,219 413,217 454,216 496,215 537,214 537,269 496,270 454,271 413,272 372,273 331,275" />
+        <Baseline points="331,268 372,267 413,265 454,264 496,263 537,262" />
+        <TextEquiv>
+          <Unicode>IVLIAE C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="241,284 314,278 387,272 460,266 533,261 606,256 606,322 533,327 460,333 387,339 314,345 241,351" />
+        <Baseline points="241,345 314,339 387,333 460,328 533,322 606,317" />
+        <TextEquiv>
+          <Unicode>MAXIMAE A XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="266,364 333,361 400,358 467,355 534,353 601,350 601,400 534,403 467,406 400,408 333,411 266,414" />
+        <Baseline points="266,409 333,406 400,403 467,400 534,398 601,395" />
+        <TextEquiv>
+          <Unicode>C IVLIVS SEVERVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="326,429 374,429 422,430 470,430 518,430 566,431 566,485 518,484 470,484 422,484 374,484 326,483" />
+        <Baseline points="326,469 374,469 422,469 470,470 518,470 566,470" />
+        <TextEquiv>
+          <Unicode>P ET PATERNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="389,484 415,485 441,485 467,486 493,486 519,487 519,537 493,536 467,536 441,535 415,535 389,534" />
+        <Baseline points="389,523 415,523 441,524 467,524 493,525 519,525" />
+        <TextEquiv>
+          <Unicode>MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="436,542 446,542 456,541 466,541 475,541 485,541 485,581 475,581 466,581 456,582 446,582 436,582" />
+        <Baseline points="436,577 446,577 456,577 466,577 475,577 485,576" />
+        <TextEquiv>
+          <Unicode>F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

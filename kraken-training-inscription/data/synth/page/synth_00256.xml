@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00256.jpg" imageWidth="900" imageHeight="1073">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1073 0,1073" />
+      <TextLine id="r1l1">
+        <Coords points="286,148 336,145 387,142 438,138 488,135 539,132 539,196 488,199 438,202 387,205 336,209 286,212" />
+        <Baseline points="286,205 336,201 387,198 438,195 488,192 539,189" />
+        <TextEquiv>
+          <Unicode>IMP CAES DIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="278,232 330,230 382,229 434,227 486,226 538,224 538,278 486,280 434,281 382,283 330,284 278,285" />
+        <Baseline points="278,278 330,277 382,275 434,274 486,272 538,271" />
+        <TextEquiv>
+          <Unicode>HADRIANI FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="249,288 313,283 376,278 440,274 504,269 567,266 567,331 504,334 440,338 376,343 313,348 249,352" />
+        <Baseline points="249,346 313,341 376,336 440,331 504,327 567,324" />
+        <TextEquiv>
+          <Unicode>DIVI TRAIA PART</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="256,360 317,357 377,354 438,351 499,348 560,345 560,401 499,404 438,407 377,410 317,413 256,415" />
+        <Baseline points="256,409 317,406 377,403 438,400 499,397 560,394" />
+        <TextEquiv>
+          <Unicode>NEPOT DIVI NERV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="247,429 311,428 374,427 437,426 501,425 564,423 564,474 501,475 437,476 374,477 311,479 247,480" />
+        <Baseline points="247,471 311,470 374,469 437,468 501,466 564,465" />
+        <TextEquiv>
+          <Unicode>PRONEP T AELIO HA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="281,489 334,490 387,491 440,491 493,492 546,493 546,548 493,548 440,547 387,546 334,546 281,545" />
+        <Baseline points="281,529 334,530 387,530 440,531 493,532 546,532" />
+        <TextEquiv>
+          <Unicode>DRIANO ANTONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="232,551 302,551 372,551 442,551 512,551 583,551 583,603 512,603 442,603 372,603 302,603 232,603" />
+        <Baseline points="232,589 302,589 372,589 442,589 512,589 583,589" />
+        <TextEquiv>
+          <Unicode>NO AVG PIO PONT MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="282,603 337,602 391,600 446,599 500,597 555,596 555,639 500,640 446,642 391,643 337,645 282,646" />
+        <Baseline points="282,641 337,639 391,638 446,636 500,635 555,633" />
+        <TextEquiv>
+          <Unicode>XIM TRIB POT VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="299,653 348,651 397,649 445,647 494,645 543,643 543,687 494,689 445,691 397,693 348,695 299,697" />
+        <Baseline points="299,692 348,690 397,688 445,686 494,684 543,682" />
+        <TextEquiv>
+          <Unicode>IMP II COS IIII P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="275,708 331,706 387,704 443,703 499,702 555,700 555,738 499,740 443,741 387,742 331,744 275,746" />
+        <Baseline points="275,741 331,739 387,738 443,736 499,735 555,734" />
+        <TextEquiv>
+          <Unicode>RES PVBLICA MVNIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="302,755 348,755 394,755 440,756 486,756 532,756 532,800 486,799 440,799 394,799 348,798 302,798" />
+        <Baseline points="302,787 348,787 394,787 440,787 486,788 532,788" />
+        <TextEquiv>
+          <Unicode>HADRIANI DROBET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="387,797 408,796 429,795 450,794 471,793 492,792 492,829 471,830 450,831 429,832 408,833 387,834" />
+        <Baseline points="387,830 408,829 429,828 450,827 471,825 492,824" />
+        <TextEquiv>
+          <Unicode>DEC DEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

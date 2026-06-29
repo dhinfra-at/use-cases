@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00292.jpg" imageWidth="900" imageHeight="513">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,513 0,513" />
+      <TextLine id="r1l1">
+        <Coords points="71,69 136,65 202,62 267,59 333,55 398,52 398,95 333,98 267,101 202,105 136,108 71,111" />
+        <Baseline points="71,108 136,104 202,101 267,98 333,94 398,91" />
+        <TextEquiv>
+          <Unicode>MEMORIA LAVRENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="70,133 144,134 218,135 292,137 366,137 440,138 440,182 366,181 292,181 218,179 144,178 70,177" />
+        <Baseline points="70,160 144,161 218,162 292,163 366,164 440,165" />
+        <TextEquiv>
+          <Unicode>MEDICI ET VSSOR SIC EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="69,177 106,175 142,173 179,171 215,169 252,166 252,197 215,199 179,201 142,203 106,206 69,208" />
+        <Baseline points="69,205 106,203 142,201 179,199 215,196 252,194" />
+        <TextEquiv>
+          <Unicode>PROSDOCIA SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

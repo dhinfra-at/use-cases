@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00158.jpg" imageWidth="900" imageHeight="633">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,633 0,633" />
+      <TextLine id="r1l1">
+        <Coords points="111,160 129,160 147,161 165,161 183,161 201,162 201,200 183,200 165,199 147,199 129,199 111,198" />
+        <Baseline points="111,194 129,195 147,195 165,195 183,196 201,196" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="109,212 155,213 201,213 247,214 293,214 339,215 339,257 293,257 247,256 201,256 155,255 109,254" />
+        <Baseline points="109,250 155,251 201,252 247,252 293,253 339,253" />
+        <TextEquiv>
+          <Unicode>AVRELIA CVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="107,274 172,276 236,279 300,282 364,284 429,287 429,323 364,320 300,318 236,315 172,312 107,309" />
+        <Baseline points="107,305 172,308 236,311 300,313 364,316 429,318" />
+        <TextEquiv>
+          <Unicode>TA SIC VIXIT ANNOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="105,325 147,328 189,332 231,336 272,339 314,343 314,388 272,384 231,380 189,376 147,373 105,370" />
+        <Baseline points="105,356 147,359 189,362 231,366 272,370 314,374" />
+        <TextEquiv>
+          <Unicode>XXVI AVR EPE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="103,376 193,379 282,382 372,384 461,387 551,389 551,427 461,425 372,422 282,420 193,417 103,414" />
+        <Baseline points="103,410 193,413 282,416 372,419 461,421 551,424" />
+        <TextEquiv>
+          <Unicode>RECIVS SIC VXORI AMANTISSIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="101,429 110,429 118,429 126,429 134,429 143,429 143,465 134,465 126,465 118,465 110,465 101,465" />
+        <Baseline points="101,461 110,461 118,461 126,461 134,461 143,461" />
+        <TextEquiv>
+          <Unicode>E F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

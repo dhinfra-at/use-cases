@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00411.jpg" imageWidth="900" imageHeight="307">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,307 0,307" />
+      <TextLine id="r1l1">
+        <Coords points="116,91 170,89 223,87 277,85 331,83 384,82 384,118 331,119 277,121 223,123 170,125 116,127" />
+        <Baseline points="116,122 170,120 223,118 277,117 331,115 384,113" />
+        <TextEquiv>
+          <Unicode>IVLI MERCATORIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="87,145 143,144 199,144 255,144 311,144 367,145 367,182 311,182 255,181 199,181 143,181 87,182" />
+        <Baseline points="87,171 143,171 199,171 255,171 311,171 367,172" />
+        <TextEquiv>
+          <Unicode>DIASMYRN POS IMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

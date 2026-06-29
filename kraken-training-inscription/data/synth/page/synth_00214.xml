@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00214.jpg" imageWidth="900" imageHeight="595">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,595 0,595" />
+      <TextLine id="r1l1">
+        <Coords points="385,126 413,128 441,131 468,134 496,136 523,139 523,206 496,203 468,201 441,198 413,196 385,193" />
+        <Baseline points="385,179 413,181 441,184 468,187 496,189 523,192" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="357,216 395,219 432,221 470,223 508,224 545,226 545,283 508,281 470,280 432,278 395,276 357,273" />
+        <Baseline points="357,265 395,268 432,270 470,272 508,273 545,275" />
+        <TextEquiv>
+          <Unicode>IVLIA M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="367,301 399,304 432,308 464,311 496,314 529,316 529,377 496,374 464,371 432,368 399,365 367,361" />
+        <Baseline points="367,347 399,350 432,353 464,356 496,359 529,362" />
+        <TextEquiv>
+          <Unicode>AXIMA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="323,372 371,373 420,375 469,376 518,378 566,379 566,434 518,432 469,430 420,429 371,428 323,426" />
+        <Baseline points="323,420 371,421 420,423 469,424 518,426 566,427" />
+        <TextEquiv>
+          <Unicode>V A XXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="399,451 416,452 433,452 451,452 468,452 485,452 485,503 468,503 451,502 433,502 416,502 399,502" />
+        <Baseline points="399,496 416,496 433,496 451,496 468,497 485,497" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

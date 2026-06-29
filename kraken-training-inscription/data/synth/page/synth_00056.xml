@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00056.jpg" imageWidth="900" imageHeight="875">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,875 0,875" />
+      <TextLine id="r1l1">
+        <Coords points="363,268 394,267 424,267 454,266 485,266 515,265 515,297 485,298 454,298 424,299 394,299 363,300" />
+        <Baseline points="363,292 394,292 424,291 454,291 485,290 515,290" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="284,321 348,321 411,322 475,322 538,322 601,322 601,366 538,366 475,366 411,366 348,365 284,365" />
+        <Baseline points="284,345 348,346 411,346 475,346 538,347 601,347" />
+        <TextEquiv>
+          <Unicode>M VLPIVS AGATHANGELVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="364,365 397,365 430,364 463,364 497,363 530,363 530,396 497,396 463,397 430,397 397,398 364,398" />
+        <Baseline points="364,389 397,389 430,389 463,388 497,388 530,387" />
+        <TextEquiv>
+          <Unicode>AVG LIBERTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="261,418 335,415 409,412 483,410 557,407 631,405 631,436 557,439 483,441 409,444 335,447 261,449" />
+        <Baseline points="261,442 335,440 409,437 483,434 557,432 631,429" />
+        <TextEquiv>
+          <Unicode>ET CONSILIA TYCHE FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="209,466 304,467 399,467 494,468 590,469 685,470 685,523 590,523 494,522 399,521 304,520 209,520" />
+        <Baseline points="209,491 304,491 399,492 494,493 590,494 685,494" />
+        <TextEquiv>
+          <Unicode>SIBI ET SVIS LIBERIS LIBERTIS LIBERTAB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="224,515 314,511 404,508 494,504 584,500 674,496 674,526 584,530 494,534 404,538 314,541 224,545" />
+        <Baseline points="224,539 314,536 404,532 494,528 584,524 674,520" />
+        <TextEquiv>
+          <Unicode>QVE POSTERISQVE EORVM ITV AMBITV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="194,561 294,562 394,562 495,563 595,563 695,564 695,617 595,617 495,616 394,616 294,615 194,615" />
+        <Baseline points="194,586 294,586 394,587 495,587 595,588 695,588" />
+        <TextEquiv>
+          <Unicode>HOC MONIM SIC EREDE NON SEQVETVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="275,604 346,602 417,599 488,597 559,594 630,591 630,621 559,624 488,627 417,629 346,632 275,635" />
+        <Baseline points="275,628 346,625 417,623 488,620 559,618 630,615" />
+        <TextEquiv>
+          <Unicode>IN FR PED XVIII IN AGR PED XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

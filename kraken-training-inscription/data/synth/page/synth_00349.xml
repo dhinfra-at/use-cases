@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00349.jpg" imageWidth="900" imageHeight="503">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,503 0,503" />
+      <TextLine id="r1l1">
+        <Coords points="83,21 140,23 197,24 254,26 311,28 368,30 368,86 311,84 254,83 197,81 140,79 83,78" />
+        <Baseline points="83,71 140,72 197,74 254,76 311,78 368,79" />
+        <TextEquiv>
+          <Unicode>PATRI LIBERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="79,94 112,97 145,100 178,103 210,106 243,109 243,161 210,158 178,155 145,151 112,149 79,146" />
+        <Baseline points="79,133 112,136 145,139 178,142 210,145 243,148" />
+        <TextEquiv>
+          <Unicode>SACRVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="77,152 117,154 158,155 199,157 239,159 280,160 280,200 239,198 199,197 158,195 117,193 77,191" />
+        <Baseline points="77,186 117,188 158,190 199,192 239,193 280,195" />
+        <TextEquiv>
+          <Unicode>G R T AVO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="74,205 90,206 106,206 122,207 139,208 155,209 155,241 139,240 122,239 106,239 90,238 74,237" />
+        <Baseline points="74,233 90,233 106,234 122,235 139,236 155,236" />
+        <TextEquiv>
+          <Unicode>V A L S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

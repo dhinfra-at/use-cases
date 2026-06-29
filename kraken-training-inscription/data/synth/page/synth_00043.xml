@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00043.jpg" imageWidth="900" imageHeight="537">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,537 0,537" />
+      <TextLine id="r1l1">
+        <Coords points="379,99 404,99 430,99 456,99 482,100 507,100 507,134 482,134 456,134 430,134 404,133 379,133" />
+        <Baseline points="379,129 404,130 430,130 456,130 482,131 507,131" />
+        <TextEquiv>
+          <Unicode>VIGILIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="378,142 406,142 434,142 461,142 489,142 517,142 517,176 489,176 461,176 434,176 406,176 378,176" />
+        <Baseline points="378,173 406,173 434,173 461,173 489,173 517,172" />
+        <TextEquiv>
+          <Unicode>CVM SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="378,183 406,182 434,182 463,181 491,180 519,179 519,216 491,217 463,217 434,218 406,219 378,220" />
+        <Baseline points="378,217 406,216 434,215 463,214 491,213 519,213" />
+        <TextEquiv>
+          <Unicode>FECET SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="403,231 422,231 440,231 459,231 478,231 496,231 496,261 478,261 459,261 440,261 422,261 403,261" />
+        <Baseline points="403,257 422,258 440,258 459,258 478,258 496,258" />
+        <TextEquiv>
+          <Unicode>PEDES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="425,272 434,272 443,272 452,272 462,272 471,273 471,300 462,300 452,300 443,300 434,300 425,300" />
+        <Baseline points="425,296 434,296 443,297 452,297 462,297 471,297" />
+        <TextEquiv>
+          <Unicode>XXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

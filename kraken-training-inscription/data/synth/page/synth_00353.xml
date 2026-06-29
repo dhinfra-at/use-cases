@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00353.jpg" imageWidth="900" imageHeight="583">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,583 0,583" />
+      <TextLine id="r1l1">
+        <Coords points="92,132 151,133 210,135 270,136 329,138 388,141 388,193 329,191 270,189 210,187 151,186 92,184" />
+        <Baseline points="92,179 151,180 210,182 270,184 329,186 388,188" />
+        <TextEquiv>
+          <Unicode>DEXTRIAE NEVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="87,192 143,193 198,194 253,195 309,197 364,198 364,249 309,248 253,247 198,246 143,245 87,244" />
+        <Baseline points="87,239 143,240 198,241 253,242 309,243 364,244" />
+        <TextEquiv>
+          <Unicode>RIOLAE CONIVGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="83,251 154,253 225,254 296,256 367,258 438,260 438,310 367,308 296,306 225,304 154,303 83,301" />
+        <Baseline points="83,297 154,298 225,300 296,301 367,303 438,305" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMAE FELIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="80,300 149,300 218,300 287,300 356,300 426,300 426,356 356,356 287,356 218,356 149,356 80,355" />
+        <Baseline points="80,351 149,351 218,351 287,351 356,351 426,352" />
+        <TextEquiv>
+          <Unicode>MEMORIAE VIX AN XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

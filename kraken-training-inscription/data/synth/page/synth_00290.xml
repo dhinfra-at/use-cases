@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00290.jpg" imageWidth="900" imageHeight="644">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,644 0,644" />
+      <TextLine id="r1l1">
+        <Coords points="87,79 192,73 296,68 401,62 506,57 611,52 611,113 506,118 401,123 296,129 192,134 87,140" />
+        <Baseline points="87,135 192,129 296,124 401,118 506,113 611,108" />
+        <TextEquiv>
+          <Unicode>IVLIA MVNTANA SIBI VIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="93,172 171,169 249,167 327,165 405,163 483,160 483,208 405,211 327,214 249,216 171,218 93,220" />
+        <Baseline points="93,215 171,212 249,210 327,208 405,206 483,203" />
+        <TextEquiv>
+          <Unicode>POS ET AVR PATIENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="98,253 193,254 288,255 383,256 478,257 573,259 573,327 478,325 383,323 288,322 193,321 98,320" />
+        <Baseline points="98,295 193,296 288,297 383,298 478,299 573,301" />
+        <TextEquiv>
+          <Unicode>CONIVGI SVO INTER AREAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="103,329 210,327 316,325 422,323 528,320 634,318 634,368 528,371 422,373 316,375 210,377 103,379" />
+        <Baseline points="103,370 210,368 316,366 422,364 528,361 634,359" />
+        <TextEquiv>
+          <Unicode>IN MEDIO IN ORTO ET VIAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="108,404 225,401 341,398 458,395 574,392 690,388 690,433 574,436 458,439 341,443 225,446 108,449" />
+        <Baseline points="108,443 225,440 341,437 458,434 574,430 690,427" />
+        <TextEquiv>
+          <Unicode>PROSPICIENTEM INTER AVRELIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="113,477 229,479 345,481 461,483 577,485 693,487 693,556 577,554 461,552 345,550 229,548 113,546" />
+        <Baseline points="113,513 229,516 345,518 461,520 577,522 693,524" />
+        <TextEquiv>
+          <Unicode>VET ET CALVENTIAM INGENVAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="118,545 235,545 352,546 469,547 587,549 704,552 704,614 587,612 469,610 352,608 235,607 118,607" />
+        <Baseline points="118,578 235,579 352,580 469,581 587,583 704,585" />
+        <TextEquiv>
+          <Unicode>LOCO CONCESSO AB ELIO MARVLLIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

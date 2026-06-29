@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00364.jpg" imageWidth="900" imageHeight="807">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,807 0,807" />
+      <TextLine id="r1l1">
+        <Coords points="421,192 432,192 444,192 456,192 468,192 479,192 479,239 468,239 456,239 444,238 432,238 421,238" />
+        <Baseline points="421,234 432,234 444,234 456,234 468,234 479,234" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="334,240 373,241 412,241 451,242 490,242 529,243 529,290 490,289 451,289 412,288 373,288 334,287" />
+        <Baseline points="334,283 373,283 412,284 451,284 490,285 529,286" />
+        <TextEquiv>
+          <Unicode>SEX POMPEIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="365,298 393,298 422,299 450,300 478,301 506,302 506,344 478,343 450,342 422,341 393,340 365,340" />
+        <Baseline points="365,335 393,336 422,337 450,337 478,338 506,339" />
+        <TextEquiv>
+          <Unicode>MARTIALI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="277,348 332,351 387,353 442,356 497,359 552,361 552,399 497,397 442,394 387,391 332,389 277,386" />
+        <Baseline points="277,382 332,385 387,387 442,390 497,392 552,395" />
+        <TextEquiv>
+          <Unicode>CAESENIA FELICVLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="268,398 327,403 386,407 444,412 503,416 562,420 562,464 503,460 444,455 386,451 327,446 268,442" />
+        <Baseline points="268,430 327,434 386,439 444,443 503,448 562,452" />
+        <TextEquiv>
+          <Unicode>CONIVGI KARISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="283,444 336,446 388,449 440,452 493,456 545,459 545,494 493,491 440,488 388,485 336,482 283,479" />
+        <Baseline points="283,473 336,476 388,479 440,482 493,485 545,488" />
+        <TextEquiv>
+          <Unicode>CVM QVO VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="292,488 342,491 392,494 442,497 491,500 541,503 541,538 491,535 442,532 392,529 342,526 292,523" />
+        <Baseline points="292,517 342,520 392,522 442,525 491,528 541,532" />
+        <TextEquiv>
+          <Unicode>XXVII ITEM POMPEIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="281,531 334,534 387,537 440,540 493,543 546,546 546,579 493,576 440,573 387,570 334,567 281,563" />
+        <Baseline points="281,557 334,560 387,563 440,566 493,570 546,573" />
+        <TextEquiv>
+          <Unicode>MARTIALIS FILIVS PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="308,571 352,574 397,578 441,581 486,584 531,587 531,622 486,618 441,615 397,612 352,609 308,605" />
+        <Baseline points="308,597 352,600 397,603 441,606 486,610 531,613" />
+        <TextEquiv>
+          <Unicode>INDVLGENTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

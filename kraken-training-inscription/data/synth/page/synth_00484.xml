@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00484.jpg" imageWidth="900" imageHeight="558">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,558 0,558" />
+      <TextLine id="r1l1">
+        <Coords points="402,71 420,71 438,72 457,72 475,73 494,73 494,128 475,128 457,127 438,127 420,127 402,126" />
+        <Baseline points="402,118 420,118 438,119 457,119 475,119 494,120" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="177,138 284,143 391,148 498,151 605,154 711,156 711,221 605,219 498,216 391,213 284,208 177,203" />
+        <Baseline points="177,184 284,189 391,194 498,197 605,200 711,202" />
+        <TextEquiv>
+          <Unicode>C PETRONIVS C F GAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="201,187 299,184 397,181 495,177 592,173 690,169 690,244 592,248 495,252 397,255 299,259 201,262" />
+        <Baseline points="201,255 299,252 397,249 495,245 592,241 690,238" />
+        <TextEquiv>
+          <Unicode>FELIX PVB HARVSPEX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="282,274 349,275 416,275 483,276 550,276 617,277 617,329 550,328 483,327 416,327 349,326 282,326" />
+        <Baseline points="282,319 349,320 416,320 483,321 550,321 617,322" />
+        <TextEquiv>
+          <Unicode>VARRONIA C L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="202,341 301,343 399,347 498,350 596,354 695,357 695,415 596,412 498,409 399,405 301,402 202,399" />
+        <Baseline points="202,382 301,385 399,389 498,392 596,396 695,398" />
+        <TextEquiv>
+          <Unicode>FORTVNATA HIC ADQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="255,404 329,408 403,412 477,416 552,419 626,422 626,484 552,481 477,478 403,474 329,470 255,466" />
+        <Baseline points="255,446 329,450 403,454 477,458 552,461 626,464" />
+        <TextEquiv>
+          <Unicode>PARENTES PIISSIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

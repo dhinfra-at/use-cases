@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00076.jpg" imageWidth="900" imageHeight="445">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,445 0,445" />
+      <TextLine id="r1l1">
+        <Coords points="270,76 327,75 385,73 442,71 499,70 557,69 557,132 499,134 442,135 385,137 327,138 270,140" />
+        <Baseline points="270,134 327,133 385,131 442,130 499,128 557,127" />
+        <TextEquiv>
+          <Unicode>ANTONIA VRRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="335,165 374,166 413,168 452,169 491,170 529,171 529,222 491,221 452,219 413,218 374,217 335,215" />
+        <Baseline points="335,205 374,206 413,207 452,209 491,210 529,211" />
+        <TextEquiv>
+          <Unicode>FILIA VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="370,224 396,224 422,223 448,222 474,222 500,221 500,260 474,260 448,261 422,262 396,262 370,263" />
+        <Baseline points="370,259 396,259 422,258 448,257 474,257 500,256" />
+        <TextEquiv>
+          <Unicode>AN XXXVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

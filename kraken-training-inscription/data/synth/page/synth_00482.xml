@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00482.jpg" imageWidth="900" imageHeight="538">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,538 0,538" />
+      <TextLine id="r1l1">
+        <Coords points="87,69 195,68 303,68 410,66 518,64 626,62 626,143 518,146 410,148 303,149 195,150 87,150" />
+        <Baseline points="87,144 195,143 303,143 410,142 518,140 626,137" />
+        <TextEquiv>
+          <Unicode>CAMIRA SVNVAE LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="88,159 152,157 216,156 279,154 343,153 407,151 407,223 343,224 279,226 216,228 152,229 88,231" />
+        <Baseline points="88,225 152,223 216,222 279,220 343,218 407,217" />
+        <TextEquiv>
+          <Unicode>AN XXV H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="89,249 184,255 279,261 374,265 469,270 564,274 564,339 469,335 374,330 279,325 184,320 89,314" />
+        <Baseline points="89,295 184,301 279,306 374,311 469,316 564,320" />
+        <TextEquiv>
+          <Unicode>DOCQVIRVS CATVENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="90,318 166,322 243,327 320,332 397,336 473,341 473,402 397,397 320,392 243,388 166,383 90,378" />
+        <Baseline points="90,359 166,363 243,368 320,372 397,377 473,382" />
+        <TextEquiv>
+          <Unicode>ET SVNVA DOCQVIRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="91,377 125,377 160,377 194,378 229,378 263,379 263,422 229,421 194,421 160,420 125,420 91,419" />
+        <Baseline points="91,415 125,415 160,416 194,416 229,417 263,417" />
+        <TextEquiv>
+          <Unicode>LIB FIL F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

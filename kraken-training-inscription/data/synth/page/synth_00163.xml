@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00163.jpg" imageWidth="900" imageHeight="613">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,613 0,613" />
+      <TextLine id="r1l1">
+        <Coords points="410,212 425,212 440,212 454,211 469,211 484,211 484,247 469,247 454,247 440,248 425,248 410,248" />
+        <Baseline points="410,241 425,241 440,241 454,241 469,241 484,241" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="273,271 339,270 405,268 471,267 537,265 604,263 604,304 537,306 471,308 405,309 339,311 273,312" />
+        <Baseline points="273,301 339,299 405,298 471,296 537,295 604,293" />
+        <TextEquiv>
+          <Unicode>IVNIA TERTVLLA PIA HIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="271,320 340,319 409,318 479,317 548,316 617,315 617,358 548,359 479,360 409,361 340,362 271,363" />
+        <Baseline points="271,349 340,348 409,347 479,346 548,345 617,344" />
+        <TextEquiv>
+          <Unicode>SITA EST QVAE V A XXIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="322,366 372,365 422,365 473,364 523,363 573,363 573,403 523,404 473,404 422,405 372,406 322,406" />
+        <Baseline points="322,395 372,394 422,393 473,392 523,392 573,391" />
+        <TextEquiv>
+          <Unicode>APRONIVS FELIX MIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="299,418 362,416 425,414 487,412 550,410 613,408 613,444 550,446 487,448 425,450 362,452 299,454" />
+        <Baseline points="299,445 362,443 425,441 487,439 550,437 613,435" />
+        <TextEquiv>
+          <Unicode>L PR P V MIS PRAECO PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="341,457 385,454 429,451 473,448 517,445 561,443 561,478 517,481 473,483 429,486 385,489 341,493" />
+        <Baseline points="341,489 385,486 429,483 473,480 517,477 561,474" />
+        <TextEquiv>
+          <Unicode>CONIVGI INCOMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00249.jpg" imageWidth="900" imageHeight="545">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,545 0,545" />
+      <TextLine id="r1l1">
+        <Coords points="88,163 141,164 195,166 249,167 303,168 357,169 357,215 303,214 249,213 195,211 141,210 88,209" />
+        <Baseline points="88,191 141,193 195,194 249,195 303,197 357,198" />
+        <TextEquiv>
+          <Unicode>C IVLIO COMMODO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="90,217 159,215 228,213 298,211 367,209 436,206 436,238 367,240 298,242 228,244 159,246 90,248" />
+        <Baseline points="90,245 159,243 228,241 298,239 367,237 436,234" />
+        <TextEquiv>
+          <Unicode>ORFITIANO LEG AVGG PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="92,270 149,272 206,273 264,275 321,276 378,277 378,321 321,320 264,319 206,317 149,316 92,314" />
+        <Baseline points="92,297 149,298 206,300 264,301 321,302 378,304" />
+        <TextEquiv>
+          <Unicode>PR PROVINC SYR PAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="94,319 172,321 251,323 329,325 407,327 486,329 486,377 407,375 329,372 251,370 172,368 94,367" />
+        <Baseline points="94,343 172,345 251,347 329,349 407,351 486,353" />
+        <TextEquiv>
+          <Unicode>L VAL VALERI MARTIALIS P P FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="96,350 164,345 232,340 300,335 368,330 437,325 437,366 368,371 300,376 232,381 164,386 96,391" />
+        <Baseline points="96,388 164,383 232,378 300,373 368,369 437,364" />
+        <TextEquiv>
+          <Unicode>MARTIALIS IIVIR COL I FL CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="97,410 145,411 193,412 241,413 289,414 337,416 337,451 289,450 241,449 193,447 145,446 97,445" />
+        <Baseline points="97,430 145,431 193,433 241,434 289,435 337,436" />
+        <TextEquiv>
+          <Unicode>OB EX SECVNDA MIL M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

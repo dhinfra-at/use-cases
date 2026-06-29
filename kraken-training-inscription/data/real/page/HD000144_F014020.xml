@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000144_F014020.jpg" imageWidth="800" imageHeight="553">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,552 0,552"/>
+      <TextLine id="r1l1">
+        <Coords points="235,0 594,0 594,70 235,70"/>
+        <Baseline points="235,56 594,57"/>
+        <TextEquiv><Unicode>DM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="30,58 736,65 743,141 30,141"/>
+        <Baseline points="30,129 666,135 668,135 694,131 732,133"/>
+        <TextEquiv><Unicode>AVRELI·THIRE·QVI·VIXI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="32,133 779,136 779,212 32,209"/>
+        <Baseline points="32,198 779,201"/>
+        <TextEquiv><Unicode>DVLCISSIMO·CVMQVE·VIX</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="99,194 742,210 742,279 99,263"/>
+        <Baseline points="99,251 742,267"/>
+        <TextEquiv><Unicode>AVRELI·IVLIA·B·M·FE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="91,261 444,262 448,339 91,338"/>
+        <Baseline points="91,326 430,329"/>
+        <TextEquiv><Unicode>ET·SORO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="91,325 593,335 600,400 91,399"/>
+        <Baseline points="91,387 589,390"/>
+        <TextEquiv><Unicode>BENE·MEREN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="81,391 647,400 647,477 81,468"/>
+        <Baseline points="81,456 647,465"/>
+        <TextEquiv><Unicode>·EQ·ROMANO·POS</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

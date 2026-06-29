@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00087.jpg" imageWidth="900" imageHeight="781">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,781 0,781" />
+      <TextLine id="r1l1">
+        <Coords points="401,316 420,315 439,315 458,314 477,314 497,313 497,341 477,341 458,342 439,342 420,343 401,343" />
+        <Baseline points="401,340 420,340 439,339 458,339 477,338 497,338" />
+        <TextEquiv>
+          <Unicode>M IVLIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="388,357 413,356 437,354 462,353 486,351 511,350 511,380 486,381 462,383 437,384 413,385 388,387" />
+        <Baseline points="388,384 413,383 437,381 462,380 486,378 511,377" />
+        <TextEquiv>
+          <Unicode>T F PROCV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="388,406 413,407 438,407 463,407 488,407 513,407 513,436 488,436 463,436 438,436 413,436 388,436" />
+        <Baseline points="388,429 413,429 438,429 463,429 488,429 513,429" />
+        <TextEquiv>
+          <Unicode>LO PATRI L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="396,445 418,444 441,443 463,442 486,441 508,440 508,465 486,466 463,467 441,469 418,470 396,471" />
+        <Baseline points="396,469 418,467 441,466 463,465 486,464 508,463" />
+        <TextEquiv>
+          <Unicode>IVLIO PRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="395,487 418,487 441,488 463,488 486,488 509,488 509,514 486,514 463,513 441,513 418,513 395,512" />
+        <Baseline points="395,505 418,506 441,506 463,506 486,507 509,507" />
+        <TextEquiv>
+          <Unicode>CVLO FRATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="418,521 432,520 447,520 461,519 475,518 490,518 490,538 475,539 461,539 447,540 432,541 418,541" />
+        <Baseline points="418,539 432,539 447,538 461,537 475,537 490,536" />
+        <TextEquiv>
+          <Unicode>M IVLIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="418,555 432,555 446,554 460,554 474,554 488,553 488,572 474,572 460,572 446,573 432,573 418,574" />
+        <Baseline points="418,572 432,571 446,571 460,570 474,570 488,570" />
+        <TextEquiv>
+          <Unicode>SEVERVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00181.jpg" imageWidth="900" imageHeight="512">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,512 0,512" />
+      <TextLine id="r1l1">
+        <Coords points="61,93 86,93 111,93 135,93 160,93 184,93 184,131 160,131 135,131 111,131 86,131 61,131" />
+        <Baseline points="61,126 86,126 111,126 135,126 160,126 184,126" />
+        <TextEquiv>
+          <Unicode>C BENNIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="63,142 92,141 121,141 150,141 179,140 208,140 208,173 179,174 150,174 121,174 92,175 63,175" />
+        <Baseline points="63,171 92,171 121,170 150,170 179,170 208,169" />
+        <TextEquiv>
+          <Unicode>VXORI SVAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="65,178 103,176 141,175 179,173 217,171 255,170 255,205 217,207 179,208 141,210 103,212 65,214" />
+        <Baseline points="65,210 103,208 141,207 179,205 217,204 255,202" />
+        <TextEquiv>
+          <Unicode>CAESIAE OPTATAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="67,224 106,224 144,224 183,223 221,223 260,222 260,249 221,249 183,250 144,251 106,251 67,251" />
+        <Baseline points="67,248 106,248 144,248 183,247 221,246 260,245" />
+        <TextEquiv>
+          <Unicode>NON LVBENS SIC FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="68,259 99,259 130,260 160,260 191,261 221,261 221,288 191,288 160,287 130,287 99,286 68,286" />
+        <Baseline points="68,279 99,280 130,280 160,280 191,281 221,281" />
+        <TextEquiv>
+          <Unicode>SED FATVM SIC FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

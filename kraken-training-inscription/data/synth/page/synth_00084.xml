@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00084.jpg" imageWidth="900" imageHeight="645">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,645 0,645" />
+      <TextLine id="r1l1">
+        <Coords points="261,61 334,64 406,67 479,69 552,69 624,70 624,148 552,148 479,147 406,145 334,143 261,140" />
+        <Baseline points="261,120 334,122 406,125 479,127 552,128 624,128" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="264,150 333,150 401,149 470,148 538,147 606,146 606,209 538,210 470,211 401,211 333,212 264,213" />
+        <Baseline points="264,205 333,205 401,204 470,203 538,202 606,201" />
+        <TextEquiv>
+          <Unicode>C POMPONIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="232,224 316,221 400,218 484,215 568,212 652,209 652,277 568,280 484,283 400,286 316,289 232,292" />
+        <Baseline points="232,286 316,283 400,280 484,277 568,274 652,271" />
+        <TextEquiv>
+          <Unicode>POTHINO PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="274,301 342,298 410,296 478,293 547,291 615,288 615,352 547,354 478,357 410,359 342,362 274,365" />
+        <Baseline points="274,359 342,356 410,354 478,351 547,349 615,346" />
+        <TextEquiv>
+          <Unicode>C POMPONIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="304,370 361,366 418,361 475,357 532,352 589,348 589,419 532,423 475,428 418,432 361,437 304,441" />
+        <Baseline points="304,435 361,431 418,427 475,422 532,418 589,413" />
+        <TextEquiv>
+          <Unicode>GENIALIS F ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="295,447 353,444 411,441 469,438 528,436 586,433 586,493 528,495 469,498 411,501 353,504 295,507" />
+        <Baseline points="295,502 353,498 411,496 469,493 528,490 586,488" />
+        <TextEquiv>
+          <Unicode>C POMPONIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="319,526 370,526 420,526 470,525 520,525 571,524 571,574 520,574 470,575 420,575 370,576 319,576" />
+        <Baseline points="319,569 370,569 420,568 470,568 520,567 571,567" />
+        <TextEquiv>
+          <Unicode>C F IVSTVS N</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

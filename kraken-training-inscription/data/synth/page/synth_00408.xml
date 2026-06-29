@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00408.jpg" imageWidth="900" imageHeight="608">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,608 0,608" />
+      <TextLine id="r1l1">
+        <Coords points="377,132 412,131 446,129 481,127 516,125 551,123 551,184 516,186 481,187 446,189 412,191 377,193" />
+        <Baseline points="377,187 412,185 446,184 481,182 516,180 551,178" />
+        <TextEquiv>
+          <Unicode>LERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="250,218 322,215 395,213 467,210 539,207 611,204 611,265 539,268 467,271 395,274 322,277 250,280" />
+        <Baseline points="250,274 322,271 395,269 467,266 539,263 611,259" />
+        <TextEquiv>
+          <Unicode>CERIALIS NN X</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="191,308 287,310 383,312 480,314 576,316 672,318 672,387 576,385 480,383 383,381 287,379 191,377" />
+        <Baseline points="191,353 287,355 383,357 480,359 576,361 672,363" />
+        <TextEquiv>
+          <Unicode>PIVS IN SVIS H S E S T T</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="139,359 248,354 357,349 465,343 574,335 683,326 683,397 574,407 465,415 357,421 248,425 139,431" />
+        <Baseline points="139,426 248,420 357,415 465,410 574,402 683,392" />
+        <TextEquiv>
+          <Unicode>M VALER M L TERTVLLVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="216,446 309,442 402,438 495,434 588,431 681,428 681,483 588,486 495,489 402,493 309,496 216,501" />
+        <Baseline points="216,496 309,492 402,488 495,484 588,481 681,478" />
+        <TextEquiv>
+          <Unicode>VIR AVG NN LVII S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

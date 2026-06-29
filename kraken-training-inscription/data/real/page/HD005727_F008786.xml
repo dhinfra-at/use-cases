@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD005727_F008786.jpg" imageWidth="800" imageHeight="395">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,394 0,394"/>
+      <TextLine id="r1l1">
+        <Coords points="49,68 787,67 787,161 49,162"/>
+        <Baseline points="49,153 787,152"/>
+        <TextEquiv><Unicode>L·MARCIVS·PRINCEPS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="71,149 795,159 791,213 69,213"/>
+        <Baseline points="69,205 791,205"/>
+        <TextEquiv><Unicode>MONVMENTVM·FECIT·SIBI·ET·LIBERTIS·LIBER</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="613,266 84,269 84,203 610,206"/>
+        <Baseline points="84,253 605,254"/>
+        <TextEquiv><Unicode>TABVSQVE·POSTERISQVE·EORVM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="602,283 602,352 62,361 62,293"/>
+        <Baseline points="62,345 602,336"/>
+        <TextEquiv><Unicode>H·M·S·S·E·H·N·S</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000319_F036315.jpg" imageWidth="800" imageHeight="1268">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1267 0,1267"/>
+      <TextLine id="r1l1">
+        <Coords points="101,69 683,73 681,188 100,195"/>
+        <Baseline points="100,184 667,191"/>
+        <TextEquiv><Unicode>D·M·S</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="109,198 713,196 713,346 109,348"/>
+        <Baseline points="109,326 713,324"/>
+        <TextEquiv><Unicode>L·CIPIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="39,333 739,330 739,466 39,469"/>
+        <Baseline points="39,448 739,445"/>
+        <TextEquiv><Unicode>FAVSTO·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="79,461 723,443 723,573 79,591"/>
+        <Baseline points="79,573 723,555"/>
+        <TextEquiv><Unicode>FRVNITAE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="43,571 729,567 729,680 43,684"/>
+        <Baseline points="43,666 729,662"/>
+        <TextEquiv><Unicode>FIL·L·PACONI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="46,669 727,669 727,785 46,785"/>
+        <Baseline points="46,766 727,766"/>
+        <TextEquiv><Unicode>VS·BARBARIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="50,773 702,770 702,888 50,891"/>
+        <Baseline points="50,873 702,870"/>
+        <TextEquiv><Unicode>COGNATVS·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="46,869 743,871 743,959 42,982"/>
+        <Baseline points="50,965 727,957"/>
+        <TextEquiv><Unicode>LVRIA·FRVNITA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="57,980 738,968 738,1076 57,1088"/>
+        <Baseline points="57,1072 738,1060"/>
+        <TextEquiv><Unicode>FRATRI·ET·NEPTI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="141,1074 571,1068 571,1173 141,1179"/>
+        <Baseline points="141,1160 571,1154"/>
+        <TextEquiv><Unicode>B·M·P</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

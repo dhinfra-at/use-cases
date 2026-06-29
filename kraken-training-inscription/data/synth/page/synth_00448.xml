@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00448.jpg" imageWidth="900" imageHeight="431">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,431 0,431" />
+      <TextLine id="r1l1">
+        <Coords points="302,56 328,56 355,56 381,57 407,57 434,57 434,122 407,122 381,121 355,121 328,121 302,120" />
+        <Baseline points="302,114 328,115 355,115 381,115 407,116 434,116" />
+        <TextEquiv>
+          <Unicode>B M P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="325,153 375,156 425,160 474,163 524,166 573,170 573,240 524,237 474,234 425,230 375,227 325,224" />
+        <Baseline points="325,207 375,210 425,214 474,217 524,220 573,224" />
+        <TextEquiv>
+          <Unicode>VI ANIS P L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="297,237 357,237 417,237 478,237 538,237 599,237 599,303 538,303 478,303 417,303 357,303 297,303" />
+        <Baseline points="297,297 357,297 417,297 478,297 538,297 599,297" />
+        <TextEquiv>
+          <Unicode>REQEBIT SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="351,337 388,339 425,340 462,341 500,342 537,343 537,399 500,398 462,398 425,397 388,395 351,394" />
+        <Baseline points="351,387 388,389 425,390 462,391 500,392 537,393" />
+        <TextEquiv>
+          <Unicode>IN PACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

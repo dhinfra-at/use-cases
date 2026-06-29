@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000129_F042755.jpg" imageWidth="800" imageHeight="198">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,197 0,197"/>
+      <TextLine id="r1l1">
+        <Coords points="0,4 780,8 780,48 0,44"/>
+        <Baseline points="0,37 780,41"/>
+        <TextEquiv><Unicode>L·LICINIVS·POM·PVDENS·DERTONA·MILITAVIT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="9,36 791,45 791,87 9,78"/>
+        <Baseline points="9,72 791,81"/>
+        <TextEquiv><Unicode>COH·IIII·PR·ANNIS·XVI·VIXIT·AN·XXXVI·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="2,73 790,84 790,123 2,112"/>
+        <Baseline points="2,106 790,117"/>
+        <TextEquiv><Unicode>FRATER·SEX·LICINIVS·POM·MASVETVS·DERT·</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="0,107 794,120 794,157 0,144"/>
+        <Baseline points="0,139 794,152"/>
+        <TextEquiv><Unicode>MILITAVIT·COH·XV·VRB·ANN·X·VIXIT·AN·XXIIIX</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="0,142 766,151 766,185 0,176"/>
+        <Baseline points="0,170 766,179"/>
+        <TextEquiv><Unicode>ET·POMPEIVS·PRIMVS·SORORIS·FILIVS·VIX·ANN·XV</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

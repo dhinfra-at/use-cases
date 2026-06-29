@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00335.jpg" imageWidth="900" imageHeight="589">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,589 0,589" />
+      <TextLine id="r1l1">
+        <Coords points="97,100 149,102 202,104 254,106 307,108 360,110 360,147 307,145 254,143 202,141 149,139 97,137" />
+        <Baseline points="97,132 149,134 202,136 254,138 307,140 360,142" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="93,151 176,154 260,158 343,162 427,166 510,169 510,205 427,201 343,197 260,193 176,190 93,186" />
+        <Baseline points="93,182 176,185 260,189 343,193 427,197 510,200" />
+        <TextEquiv>
+          <Unicode>MEMMIO EVPORIONI VIBIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="88,203 157,209 226,216 295,222 363,228 432,234 432,284 363,278 295,271 226,265 157,259 88,252" />
+        <Baseline points="88,232 157,239 226,245 295,252 363,258 432,264" />
+        <TextEquiv>
+          <Unicode>BENEDICTA CONIVGI SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="84,236 145,236 205,236 265,236 326,235 386,235 386,285 326,285 265,285 205,286 145,286 84,286" />
+        <Baseline points="84,282 145,282 205,281 265,281 326,281 386,280" />
+        <TextEquiv>
+          <Unicode>BENE DE SE MERITO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="80,295 101,295 122,294 143,294 164,294 185,294 185,334 164,334 143,334 122,334 101,334 80,334" />
+        <Baseline points="80,329 101,329 122,329 143,329 164,329 185,329" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

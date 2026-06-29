@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00157.jpg" imageWidth="900" imageHeight="695">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,695 0,695" />
+      <TextLine id="r1l1">
+        <Coords points="258,107 334,105 409,103 485,101 560,100 636,98 636,152 560,154 485,155 409,157 334,159 258,161" />
+        <Baseline points="258,156 334,154 409,152 485,150 560,149 636,147" />
+        <TextEquiv>
+          <Unicode>DEO AETERNO ET IVNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="341,177 385,177 429,178 473,178 517,178 561,179 561,215 517,215 473,214 429,214 385,214 341,213" />
+        <Baseline points="341,209 385,209 429,210 473,210 517,210 561,211" />
+        <TextEquiv>
+          <Unicode>NI ET ANGELIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="292,226 355,227 417,227 480,228 542,229 604,229 604,264 542,263 480,263 417,262 355,261 292,260" />
+        <Baseline points="292,256 355,257 417,257 480,258 542,259 604,259" />
+        <TextEquiv>
+          <Unicode>M PROCILIVS APHRODI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="282,261 348,261 414,260 480,260 545,260 611,259 611,298 545,298 480,298 414,299 348,299 282,300" />
+        <Baseline points="282,296 348,295 414,295 480,294 545,294 611,294" />
+        <TextEquiv>
+          <Unicode>SIVS AVG COL METROPOL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="306,314 362,316 417,318 473,319 529,321 584,323 584,352 529,350 473,349 417,347 362,345 306,343" />
+        <Baseline points="306,337 362,338 417,340 473,342 529,344 584,345" />
+        <TextEquiv>
+          <Unicode>ET SEXIMIA HERMIONE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="360,344 395,343 430,342 465,341 499,340 534,338 534,371 499,372 465,373 430,375 395,376 360,377" />
+        <Baseline points="360,373 395,372 430,371 465,370 499,369 534,368" />
+        <TextEquiv>
+          <Unicode>ET PROCILIA FILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="358,384 393,385 428,385 463,386 498,387 533,387 533,408 498,407 463,407 428,406 393,406 358,405" />
+        <Baseline points="358,402 393,403 428,403 463,404 498,405 533,405" />
+        <TextEquiv>
+          <Unicode>COLITORIBVS D D P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

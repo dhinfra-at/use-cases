@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00245.jpg" imageWidth="900" imageHeight="595">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,595 0,595" />
+      <TextLine id="r1l1">
+        <Coords points="99,98 171,97 242,97 313,96 385,95 456,93 456,160 385,162 313,163 242,164 171,164 99,165" />
+        <Baseline points="99,159 171,158 242,157 313,157 385,156 456,153" />
+        <TextEquiv>
+          <Unicode>MAXSVMA SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="99,182 174,182 249,182 324,182 398,181 473,181 473,239 398,240 324,240 249,240 174,240 99,240" />
+        <Baseline points="99,235 174,235 249,235 324,234 398,234 473,234" />
+        <TextEquiv>
+          <Unicode>RVFILA IVLAE FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="99,246 141,244 183,243 226,242 268,240 311,239 311,296 268,297 226,299 183,300 141,301 99,303" />
+        <Baseline points="99,298 141,296 183,295 226,293 268,292 311,291" />
+        <TextEquiv>
+          <Unicode>SILITANA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="98,310 170,308 243,307 315,305 387,304 459,303 459,357 387,358 315,359 243,361 170,362 98,363" />
+        <Baseline points="98,359 170,357 243,356 315,355 387,353 459,352" />
+        <TextEquiv>
+          <Unicode>ANORVM XXVI T R P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,377 122,378 145,378 169,378 192,379 216,379 216,418 192,417 169,417 145,417 122,416 98,416" />
+        <Baseline points="98,411 122,411 145,412 169,412 192,412 216,413" />
+        <TextEquiv>
+          <Unicode>D S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

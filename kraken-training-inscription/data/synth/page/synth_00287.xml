@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00287.jpg" imageWidth="900" imageHeight="482">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,482 0,482" />
+      <TextLine id="r1l1">
+        <Coords points="290,84 355,82 419,81 483,79 547,78 611,76 611,121 547,123 483,124 419,126 355,127 290,129" />
+        <Baseline points="290,124 355,123 419,121 483,120 547,118 611,117" />
+        <TextEquiv>
+          <Unicode>SEX CVRFIDIVS C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="335,139 381,142 427,144 474,146 520,148 566,150 566,193 520,191 474,189 427,187 381,185 335,183" />
+        <Baseline points="335,169 381,171 427,173 474,176 520,178 566,180" />
+        <TextEquiv>
+          <Unicode>M CAESIVS L F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="324,183 373,186 421,188 469,190 518,193 566,195 566,237 518,234 469,232 421,230 373,227 324,225" />
+        <Baseline points="324,211 373,213 421,216 469,218 518,220 566,223" />
+        <TextEquiv>
+          <Unicode>MINERVAE P XXS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="392,221 415,220 438,220 461,219 485,219 508,218 508,252 485,253 461,254 438,254 415,255 392,255" />
+        <Baseline points="392,251 415,251 438,250 461,250 485,249 508,248" />
+        <TextEquiv>
+          <Unicode>D S S F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="407,264 424,265 441,265 457,265 474,266 491,266 491,297 474,297 457,297 441,296 424,296 407,295" />
+        <Baseline points="407,290 424,290 441,291 457,291 474,291 491,292" />
+        <TextEquiv>
+          <Unicode>IIIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

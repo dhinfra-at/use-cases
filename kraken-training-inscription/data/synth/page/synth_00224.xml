@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00224.jpg" imageWidth="900" imageHeight="412">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,412 0,412" />
+      <TextLine id="r1l1">
+        <Coords points="109,53 153,57 196,61 239,65 283,69 326,72 326,127 283,123 239,119 196,115 153,111 109,107" />
+        <Baseline points="109,89 153,93 196,97 239,101 283,105 326,109" />
+        <TextEquiv>
+          <Unicode>ECII ALBANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="95,107 113,107 131,108 150,108 168,108 187,108 187,151 168,151 150,151 131,151 113,151 95,151" />
+        <Baseline points="95,145 113,145 131,145 150,145 168,145 187,145" />
+        <TextEquiv>
+          <Unicode>VPER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00109.jpg" imageWidth="900" imageHeight="731">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,731 0,731" />
+      <TextLine id="r1l1">
+        <Coords points="411,292 427,293 442,294 458,295 474,296 489,297 489,333 474,332 458,331 442,329 427,328 411,327" />
+        <Baseline points="411,320 427,321 442,322 458,324 474,325 489,326" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="388,335 412,337 437,338 461,340 486,342 511,344 511,379 486,378 461,376 437,374 412,372 388,370" />
+        <Baseline points="388,361 412,363 437,365 461,367 486,369 511,370" />
+        <TextEquiv>
+          <Unicode>M AEMILI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="395,372 417,372 439,373 461,373 483,374 504,374 504,403 483,402 461,402 439,402 417,401 395,401" />
+        <Baseline points="395,397 417,397 439,398 461,398 483,399 504,399" />
+        <TextEquiv>
+          <Unicode>VS M F Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="402,408 420,408 438,409 455,409 473,410 491,410 491,436 473,435 455,435 438,434 420,434 402,433" />
+        <Baseline points="402,430 420,431 438,431 455,432 473,432 491,432" />
+        <TextEquiv>
+          <Unicode>PEREGRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="390,433 414,433 437,433 461,432 484,432 508,432 508,460 484,460 461,460 437,461 414,461 390,462" />
+        <Baseline points="390,459 414,458 437,458 461,458 484,457 508,457" />
+        <TextEquiv>
+          <Unicode>NVS V A CV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="430,468 438,468 445,468 453,468 460,468 468,468 468,488 460,488 453,488 445,488 438,488 430,488" />
+        <Baseline points="430,486 438,486 445,486 453,486 460,486 468,486" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00022.jpg" imageWidth="900" imageHeight="634">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,634 0,634" />
+      <TextLine id="r1l1">
+        <Coords points="413,89 426,89 439,89 452,90 465,90 478,90 478,133 465,133 452,133 439,133 426,133 413,132" />
+        <Baseline points="413,127 426,127 439,127 452,127 465,128 478,128" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="192,149 286,156 380,162 473,167 567,172 660,177 660,242 567,236 473,231 380,226 286,220 192,214" />
+        <Baseline points="192,187 286,193 380,199 473,205 567,210 660,215" />
+        <TextEquiv>
+          <Unicode>XENARA RESPECCTO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="256,213 325,216 394,219 464,221 533,224 603,225 603,275 533,273 464,271 394,268 325,265 256,263" />
+        <Baseline points="256,250 325,253 394,256 464,258 533,260 603,262" />
+        <TextEquiv>
+          <Unicode>COIVGI SVO BENE M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="249,274 320,275 391,277 461,278 532,279 603,280 603,321 532,320 461,319 391,318 320,317 249,316" />
+        <Baseline points="249,310 320,311 391,312 461,313 532,314 603,316" />
+        <TextEquiv>
+          <Unicode>ERENTI FECIT VRBICIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="202,333 292,336 382,340 471,343 561,347 651,351 651,403 561,399 471,395 382,392 292,389 202,385" />
+        <Baseline points="202,369 292,372 382,375 471,379 561,383 651,386" />
+        <TextEquiv>
+          <Unicode>RESPECCTO SIC PATRI SVO B</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="230,393 311,396 391,400 472,404 552,408 633,412 633,465 552,461 472,457 391,454 311,450 230,446" />
+        <Baseline points="230,427 311,431 391,435 472,439 552,443 633,447" />
+        <TextEquiv>
+          <Unicode>ENE MERENTI FECIT Q V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="233,448 313,448 393,449 473,450 553,452 632,453 632,493 553,492 473,490 393,489 313,488 233,488" />
+        <Baseline points="233,483 313,483 393,484 473,485 553,487 632,488" />
+        <TextEquiv>
+          <Unicode>IXIT AN XXXVII MENS II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="385,506 410,506 434,506 458,506 483,506 507,507 507,546 483,546 458,546 434,546 410,546 385,546" />
+        <Baseline points="385,541 410,541 434,541 458,541 483,541 507,541" />
+        <TextEquiv>
+          <Unicode>DIES VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

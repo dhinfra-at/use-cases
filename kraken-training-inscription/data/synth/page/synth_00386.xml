@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00386.jpg" imageWidth="900" imageHeight="597">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,597 0,597" />
+      <TextLine id="r1l1">
+        <Coords points="411,138 428,139 445,141 462,142 480,144 497,145 497,197 480,196 462,194 445,193 428,191 411,190" />
+        <Baseline points="411,180 428,182 445,183 462,185 480,186 497,188" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="272,209 343,214 413,219 484,225 555,230 625,235 625,295 555,289 484,284 413,279 343,274 272,268" />
+        <Baseline points="272,252 343,257 413,262 484,268 555,273 625,278" />
+        <TextEquiv>
+          <Unicode>SILLIAE TERTIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="282,286 348,288 414,291 480,293 546,295 611,297 611,348 546,346 480,343 414,341 348,339 282,336" />
+        <Baseline points="282,331 348,333 414,336 480,338 546,340 611,343" />
+        <TextEquiv>
+          <Unicode>SILLIA FORTVNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="307,368 362,371 416,374 471,378 526,382 580,386 580,440 526,436 471,432 416,429 362,425 307,422" />
+        <Baseline points="307,411 362,414 416,417 471,421 526,425 580,429" />
+        <TextEquiv>
+          <Unicode>TA FIL MATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="287,444 349,446 411,448 473,451 535,454 597,457 597,506 535,503 473,500 411,498 349,495 287,493" />
+        <Baseline points="287,488 349,490 411,492 473,495 535,498 597,501" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

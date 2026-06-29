@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00015.jpg" imageWidth="900" imageHeight="801">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,801 0,801" />
+      <TextLine id="r1l1">
+        <Coords points="319,99 374,98 429,97 485,97 540,97 595,98 595,157 540,157 485,156 429,156 374,157 319,158" />
+        <Baseline points="319,151 374,149 429,149 485,149 540,149 595,149" />
+        <TextEquiv>
+          <Unicode>D IOVI O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="317,189 371,188 426,188 481,188 535,188 590,188 590,243 535,243 481,243 426,243 371,243 317,243" />
+        <Baseline points="317,236 371,235 426,235 481,235 535,235 590,236" />
+        <TextEquiv>
+          <Unicode>M METTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="254,272 330,274 407,275 483,277 560,278 636,280 636,340 560,338 483,336 407,335 330,333 254,331" />
+        <Baseline points="254,316 330,317 407,319 483,321 560,322 636,324" />
+        <TextEquiv>
+          <Unicode>EVLONGHVS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="335,342 381,340 427,339 473,337 520,335 566,333 566,390 520,392 473,394 427,395 381,397 335,398" />
+        <Baseline points="335,392 381,391 427,389 473,387 520,385 566,383" />
+        <TextEquiv>
+          <Unicode>D IOVI O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="330,420 376,422 421,423 467,424 512,425 557,426 557,477 512,477 467,475 421,474 376,473 330,471" />
+        <Baseline points="330,459 376,460 421,462 467,463 512,464 557,465" />
+        <TextEquiv>
+          <Unicode>M METTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="297,481 355,480 413,479 470,478 528,477 586,475 586,522 528,523 470,525 413,526 355,527 297,528" />
+        <Baseline points="297,522 355,521 413,520 470,519 528,518 586,516" />
+        <TextEquiv>
+          <Unicode>EVLONGHVS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="395,544 415,544 435,543 455,542 475,541 495,541 495,582 475,582 455,583 435,584 415,585 395,585" />
+        <Baseline points="395,581 415,580 435,579 455,578 475,578 495,577" />
+        <TextEquiv>
+          <Unicode>VOTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="391,601 412,600 433,600 454,599 475,598 496,597 496,635 475,636 454,637 433,638 412,638 391,639" />
+        <Baseline points="391,635 412,634 433,633 454,632 475,632 496,631" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

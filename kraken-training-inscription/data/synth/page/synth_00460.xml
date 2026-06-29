@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00460.jpg" imageWidth="900" imageHeight="549">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,549 0,549" />
+      <TextLine id="r1l1">
+        <Coords points="217,55 289,56 361,57 434,59 506,60 578,61 578,139 506,138 434,137 361,136 289,135 217,134" />
+        <Baseline points="217,108 289,109 361,110 434,112 506,113 578,114" />
+        <TextEquiv>
+          <Unicode>SEX ALLIVS IVLLVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="254,139 314,139 373,140 432,141 492,141 551,142 551,215 492,214 432,213 373,213 314,212 254,212" />
+        <Baseline points="254,191 314,191 373,192 432,193 492,193 551,194" />
+        <TextEquiv>
+          <Unicode>VET MONVMEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="238,219 303,217 369,216 434,215 499,213 565,211 565,274 499,275 434,277 369,278 303,280 238,281" />
+        <Baseline points="238,270 303,268 369,267 434,266 499,264 565,262" />
+        <TextEquiv>
+          <Unicode>TVM OCHMAEAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="302,297 349,296 395,295 441,293 487,292 533,290 533,347 487,349 441,350 395,352 349,353 302,354" />
+        <Baseline points="302,346 349,345 395,344 441,342 487,341 533,339" />
+        <TextEquiv>
+          <Unicode>VIRGINI VATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="253,368 317,364 380,360 444,356 508,351 571,347 571,409 508,413 444,418 380,422 317,426 253,430" />
+        <Baseline points="253,424 317,420 380,416 444,412 508,408 571,403" />
+        <TextEquiv>
+          <Unicode>DEAE SYR NIHAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="394,446 413,445 432,445 451,445 470,444 489,444 489,499 470,499 451,499 432,500 413,500 394,500" />
+        <Baseline points="394,492 413,492 432,492 451,492 470,491 489,491" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

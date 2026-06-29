@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00359.jpg" imageWidth="900" imageHeight="325">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,325 0,325" />
+      <TextLine id="r1l1">
+        <Coords points="72,113 185,107 297,101 410,95 523,89 636,82 636,161 523,168 410,174 297,180 185,185 72,191" />
+        <Baseline points="72,186 185,180 297,174 410,168 523,162 636,155" />
+        <TextEquiv>
+          <Unicode>L ORBIVS M F HOR MAG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="72,213 144,214 216,215 288,216 359,217 431,219 431,268 359,266 288,265 216,264 144,263 72,262" />
+        <Baseline points="72,250 144,251 216,252 288,253 359,254 431,256" />
+        <TextEquiv>
+          <Unicode>PALAESTRAE DEDIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

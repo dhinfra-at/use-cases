@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00369.jpg" imageWidth="900" imageHeight="741">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,741 0,741" />
+      <TextLine id="r1l1">
+        <Coords points="139,91 264,94 389,98 514,103 639,108 764,114 764,168 639,162 514,157 389,152 264,148 139,145" />
+        <Baseline points="139,126 264,130 389,134 514,139 639,144 764,149" />
+        <TextEquiv>
+          <Unicode>C MOLLIO C F TROM SECVNDINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="138,147 263,147 388,145 512,143 637,142 762,140 762,202 637,204 512,206 388,208 263,209 138,210" />
+        <Baseline points="138,204 263,203 388,202 512,200 637,198 762,196" />
+        <TextEquiv>
+          <Unicode>IIVIR M F V CVRAT PEC LEG ET NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="156,239 279,246 402,253 524,259 647,267 770,275 770,341 647,334 524,326 402,319 279,313 156,306" />
+        <Baseline points="156,275 279,282 402,288 524,295 647,302 770,310" />
+        <TextEquiv>
+          <Unicode>ODAL HERCVLEI PAT DIGN OB ME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="203,310 311,316 420,324 529,331 637,338 746,343 746,411 637,406 529,399 420,392 311,385 203,378" />
+        <Baseline points="203,349 311,355 420,363 529,370 637,376 746,381" />
+        <TextEquiv>
+          <Unicode>A AERE COLL MERENTI POSVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="257,371 356,369 454,369 552,370 651,372 749,372 749,423 651,423 552,422 454,421 356,421 257,422" />
+        <Baseline points="257,416 356,415 454,415 552,416 651,417 749,417" />
+        <TextEquiv>
+          <Unicode>OB CVIVS DEDICATIONEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="276,448 373,450 470,451 567,452 664,453 761,454 761,499 664,497 567,496 470,495 373,494 276,493" />
+        <Baseline points="276,487 373,488 470,489 567,491 664,492 761,493" />
+        <TextEquiv>
+          <Unicode>N DIVISIT ET DONAVIT HIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="340,526 426,529 512,532 598,535 684,539 770,543 770,589 684,584 598,580 512,577 426,574 340,571" />
+        <Baseline points="340,557 426,559 512,562 598,566 684,570 770,574" />
+        <TextEquiv>
+          <Unicode>T EX VSVRIS EORVM DIAE SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="358,584 441,585 525,585 608,586 691,587 774,588 774,627 691,626 608,625 525,624 441,624 358,623" />
+        <Baseline points="358,618 441,619 525,620 608,621 691,622 774,622" />
+        <TextEquiv>
+          <Unicode>COL S S SPORT DIVIDANT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

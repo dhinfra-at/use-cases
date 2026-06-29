@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00234.jpg" imageWidth="900" imageHeight="444">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,444 0,444" />
+      <TextLine id="r1l1">
+        <Coords points="368,62 442,66 516,69 590,72 664,74 739,75 739,136 664,135 590,133 516,130 442,127 368,124" />
+        <Baseline points="368,111 442,115 516,118 590,121 664,123 739,124" />
+        <TextEquiv>
+          <Unicode>S F CLA HISPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="247,134 330,134 413,133 495,133 578,132 661,132 661,192 578,193 495,193 413,194 330,194 247,195" />
+        <Baseline points="247,189 330,189 413,189 495,188 578,187 661,187" />
+        <TextEquiv>
+          <Unicode>IIIVIR AED IIIIVIR I D</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="239,222 323,225 406,228 490,230 573,233 656,235 656,290 573,287 490,285 406,282 323,279 239,277" />
+        <Baseline points="239,265 323,268 406,271 490,273 573,276 656,278" />
+        <TextEquiv>
+          <Unicode>AVG QVINQ CENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="372,293 402,293 432,293 462,294 492,294 522,295 522,343 492,342 462,342 432,341 402,341 372,341" />
+        <Baseline points="372,336 402,336 432,336 462,337 492,337 522,338" />
+        <TextEquiv>
+          <Unicode>POTEST</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

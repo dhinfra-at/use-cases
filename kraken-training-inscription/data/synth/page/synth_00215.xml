@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00215.jpg" imageWidth="900" imageHeight="1029">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1029 0,1029" />
+      <TextLine id="r1l1">
+        <Coords points="110,225 196,224 282,223 369,222 455,222 541,222 541,284 455,284 369,284 282,285 196,286 110,287" />
+        <Baseline points="110,282 196,280 282,279 369,279 455,278 541,279" />
+        <TextEquiv>
+          <Unicode>C HOSIDIO CN F CLAVD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="112,297 180,296 249,295 317,293 385,291 453,288 453,353 385,356 317,358 249,360 180,361 112,362" />
+        <Baseline points="112,356 180,355 249,354 317,352 385,350 453,348" />
+        <TextEquiv>
+          <Unicode>SEVERO PRAEF FABR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="113,380 197,385 280,389 364,394 447,399 530,403 530,473 447,469 364,465 280,460 197,455 113,451" />
+        <Baseline points="113,426 197,431 280,435 364,440 447,444 530,449" />
+        <TextEquiv>
+          <Unicode>PRAEF COH I BOSPHO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="115,449 192,449 269,450 346,450 423,451 500,452 500,502 423,501 346,500 269,500 192,499 115,499" />
+        <Baseline points="115,494 192,494 269,494 346,495 423,496 500,496" />
+        <TextEquiv>
+          <Unicode>RANORVM PRAEF COH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="116,517 199,518 282,519 365,520 448,522 531,524 531,574 448,572 365,571 282,569 199,568 116,567" />
+        <Baseline points="116,559 199,560 282,561 365,562 448,564 531,566" />
+        <TextEquiv>
+          <Unicode>IIII RAETORVM TRIB MIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="118,579 212,584 307,590 402,595 496,600 591,606 591,673 496,668 402,663 307,657 212,652 118,647" />
+        <Baseline points="118,619 212,624 307,630 402,635 496,640 591,645" />
+        <TextEquiv>
+          <Unicode>LEG VII CL P F PRAEF EQ ALAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="119,639 198,640 277,641 356,642 435,643 514,645 514,690 435,688 356,687 277,686 198,685 119,684" />
+        <Baseline points="119,677 198,678 277,679 356,680 435,681 514,683" />
+        <TextEquiv>
+          <Unicode>CLAVDIAE NOVAE PROC AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="120,694 181,695 242,696 303,697 364,697 425,698 425,740 364,739 303,738 242,737 181,737 120,736" />
+        <Baseline points="120,729 181,730 242,731 303,732 364,733 425,734" />
+        <TextEquiv>
+          <Unicode>AD CENSVS IN BRITTAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="122,745 131,745 140,745 149,744 158,744 167,744 167,783 158,783 149,783 140,783 131,783 122,783" />
+        <Baseline points="122,779 131,779 140,779 149,779 158,779 167,779" />
+        <TextEquiv>
+          <Unicode>NIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="123,778 205,775 288,772 371,769 454,765 537,761 537,816 454,820 371,823 288,827 205,830 123,832" />
+        <Baseline points="123,829 205,826 288,823 371,820 454,816 537,812" />
+        <TextEquiv>
+          <Unicode>L MARIVS L F CLAVD RVFVS SEVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="124,843 190,844 257,844 324,845 390,846 457,846 457,880 390,880 324,879 257,878 190,878 124,877" />
+        <Baseline points="124,872 190,873 257,874 324,875 390,875 457,876" />
+        <TextEquiv>
+          <Unicode>RIANVS CONSOBRINO OPTIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

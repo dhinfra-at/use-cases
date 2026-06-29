@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00021.jpg" imageWidth="900" imageHeight="916">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,916 0,916" />
+      <TextLine id="r1l1">
+        <Coords points="397,141 415,142 433,142 452,142 470,143 489,143 489,202 470,201 452,201 433,200 415,200 397,200" />
+        <Baseline points="397,189 415,190 433,190 452,190 470,191 489,191" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="321,210 367,208 413,207 459,205 505,203 551,202 551,261 505,262 459,264 413,266 367,267 321,269" />
+        <Baseline points="321,262 367,260 413,258 459,257 505,255 551,253" />
+        <TextEquiv>
+          <Unicode>CL SVPESTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="334,288 374,288 415,288 455,288 495,288 536,288 536,341 495,341 455,341 415,341 374,342 334,342" />
+        <Baseline points="334,333 374,333 415,333 455,333 495,333 536,333" />
+        <TextEquiv>
+          <Unicode>IVVENI IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="306,358 359,358 411,357 464,357 517,356 569,355 569,405 517,405 464,406 411,407 359,407 306,408" />
+        <Baseline points="306,401 359,401 411,400 464,400 517,399 569,398" />
+        <TextEquiv>
+          <Unicode>FELICISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="334,426 377,426 420,426 463,427 506,427 548,427 548,479 506,479 463,479 420,478 377,478 334,478" />
+        <Baseline points="334,468 377,468 420,468 463,468 506,469 548,469" />
+        <TextEquiv>
+          <Unicode>QVI VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="333,484 377,483 420,481 464,480 507,478 550,476 550,529 507,530 464,532 420,534 377,535 333,537" />
+        <Baseline points="333,531 377,529 420,528 464,526 507,524 550,523" />
+        <TextEquiv>
+          <Unicode>NN XXX M X</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="353,544 390,542 427,540 463,538 500,536 537,534 537,586 500,588 463,590 427,592 390,594 353,596" />
+        <Baseline points="353,590 390,588 427,586 463,584 500,582 537,580" />
+        <TextEquiv>
+          <Unicode>D XIIII CL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="366,610 398,610 430,610 462,610 494,611 525,611 525,658 494,657 462,657 430,657 398,656 366,656" />
+        <Baseline points="366,648 398,648 430,648 462,648 494,649 525,649" />
+        <TextEquiv>
+          <Unicode>SVPER ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="377,665 405,664 433,663 461,663 489,662 517,661 517,705 489,706 461,706 433,707 405,708 377,709" />
+        <Baseline points="377,703 405,702 433,702 461,701 489,700 517,699" />
+        <TextEquiv>
+          <Unicode>VICTRIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="358,722 393,723 429,724 464,725 499,727 535,728 535,776 499,774 464,773 429,772 393,771 358,770" />
+        <Baseline points="358,757 393,758 429,759 464,760 499,761 535,763" />
+        <TextEquiv>
+          <Unicode>PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

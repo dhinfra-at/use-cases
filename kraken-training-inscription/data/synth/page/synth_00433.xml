@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00433.jpg" imageWidth="900" imageHeight="723">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,723 0,723" />
+      <TextLine id="r1l1">
+        <Coords points="189,114 292,115 395,115 499,116 602,116 705,117 705,189 602,188 499,188 395,187 292,187 189,186" />
+        <Baseline points="189,167 292,168 395,168 499,169 602,169 705,170" />
+        <TextEquiv>
+          <Unicode>C PAPIRIVS P F QVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="186,170 288,163 391,156 493,150 596,144 698,138 698,216 596,222 493,227 391,233 288,240 186,248" />
+        <Baseline points="186,242 288,234 391,227 493,221 596,216 698,210" />
+        <TextEquiv>
+          <Unicode>NIGRINVS NN LXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="139,247 260,242 381,237 503,232 624,226 745,217 745,287 624,296 503,303 381,308 260,312 139,318" />
+        <Baseline points="139,312 260,306 381,302 503,297 624,290 745,281" />
+        <TextEquiv>
+          <Unicode>C PAPIRIVS C F QVIR NIGER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="174,339 281,340 387,340 494,339 601,340 707,341 707,402 601,401 494,401 387,401 281,401 174,400" />
+        <Baseline points="174,383 281,384 387,383 494,383 601,383 707,385" />
+        <TextEquiv>
+          <Unicode>NN XXXX BAEDRONENSES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="138,405 260,403 382,401 505,400 627,400 749,400 749,449 627,448 505,449 382,449 260,451 138,453" />
+        <Baseline points="138,441 260,439 382,438 505,437 627,437 749,437" />
+        <TextEquiv>
+          <Unicode>HIS ORDO BAEDRONENS LOCVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="138,449 254,444 370,439 486,433 602,427 718,421 718,480 602,486 486,492 370,498 254,504 138,509" />
+        <Baseline points="138,504 254,499 370,494 486,488 602,482 718,476" />
+        <TextEquiv>
+          <Unicode>SEPVLTVRAE FVNERIS INPENSA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="194,500 294,494 394,487 495,481 595,474 695,467 695,530 595,537 495,544 394,550 294,557 194,563" />
+        <Baseline points="194,559 294,553 394,546 495,539 595,532 695,526" />
+        <TextEquiv>
+          <Unicode>LAVDATIONEM DECREVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="348,562 388,559 428,557 469,554 509,551 549,549 549,595 509,598 469,600 428,603 388,606 348,608" />
+        <Baseline points="348,604 388,602 428,599 469,596 509,594 549,591" />
+        <TextEquiv>
+          <Unicode>H S S S V T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

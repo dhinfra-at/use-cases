@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00443.jpg" imageWidth="900" imageHeight="633">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,633 0,633" />
+      <TextLine id="r1l1">
+        <Coords points="304,98 370,102 436,105 501,108 567,111 632,114 632,166 567,163 501,160 436,157 370,153 304,150" />
+        <Baseline points="304,136 370,139 436,143 501,146 567,149 632,152" />
+        <TextEquiv>
+          <Unicode>I VGVSTO SACRVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="278,162 349,164 421,166 493,169 565,171 636,173 636,218 565,216 493,214 421,212 349,209 278,207" />
+        <Baseline points="278,199 349,201 421,203 493,205 565,208 636,210" />
+        <TextEquiv>
+          <Unicode>CIIS IMP CAESARIS AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="256,217 335,217 414,218 493,218 572,219 651,219 651,266 572,265 493,265 414,265 335,264 256,264" />
+        <Baseline points="256,259 335,260 414,260 493,261 572,261 651,261" />
+        <TextEquiv>
+          <Unicode>TIFICIS MAXVMI PATRIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="173,283 266,287 358,290 451,294 543,297 635,301 635,350 543,347 451,344 358,340 266,336 173,333" />
+        <Baseline points="173,320 266,324 358,327 451,331 543,334 635,337" />
+        <TextEquiv>
+          <Unicode>PATRIAE DVCTV COSSI LENTVLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="154,337 255,338 356,340 457,341 558,341 660,340 660,386 558,387 457,387 356,386 255,385 154,383" />
+        <Baseline points="154,379 255,381 356,382 457,383 558,383 660,382" />
+        <TextEquiv>
+          <Unicode>COS XVVIRI SACRIS FACIVNDIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="184,389 273,388 363,386 452,384 541,382 631,381 631,437 541,438 452,439 363,441 273,443 184,445" />
+        <Baseline points="184,441 273,439 363,437 452,435 541,434 631,433" />
+        <TextEquiv>
+          <Unicode>PROCOS PROVINCIA AFRICA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="187,442 274,439 361,437 449,434 536,431 623,429 623,488 536,491 449,493 361,496 274,499 187,502" />
+        <Baseline points="187,498 274,495 361,492 449,489 536,487 623,484" />
+        <TextEquiv>
+          <Unicode>BELLO GAETVLICO LIBERATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="278,520 332,521 385,520 439,521 493,521 547,522 547,562 493,562 439,561 385,561 332,561 278,561" />
+        <Baseline points="278,557 332,557 385,557 439,557 493,558 547,558" />
+        <TextEquiv>
+          <Unicode>CIVITAS LEPCITANA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

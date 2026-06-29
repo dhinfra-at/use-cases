@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00247.jpg" imageWidth="900" imageHeight="548">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,548 0,548" />
+      <TextLine id="r1l1">
+        <Coords points="416,92 427,92 438,93 449,93 459,93 470,93 470,128 459,128 449,128 438,128 427,128 416,128" />
+        <Baseline points="416,122 427,122 438,122 449,122 459,122 470,122" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="339,133 380,130 421,126 462,123 503,119 543,116 543,159 503,163 462,166 421,170 380,173 339,177" />
+        <Baseline points="339,173 380,169 421,166 462,162 503,159 543,156" />
+        <TextEquiv>
+          <Unicode>VLPIA HELIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="298,191 356,188 414,185 472,183 531,180 589,177 589,212 531,215 472,218 414,221 356,223 298,226" />
+        <Baseline points="298,223 356,220 414,217 472,215 531,212 589,209" />
+        <TextEquiv>
+          <Unicode>PRIMITIVO CONIVGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="367,235 400,233 432,231 465,229 498,227 531,225 531,259 498,261 465,263 432,265 400,267 367,269" />
+        <Baseline points="367,265 400,263 432,261 465,259 498,258 531,256" />
+        <TextEquiv>
+          <Unicode>B M F V A LX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

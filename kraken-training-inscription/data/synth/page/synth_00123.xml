@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00123.jpg" imageWidth="900" imageHeight="821">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,821 0,821" />
+      <TextLine id="r1l1">
+        <Coords points="105,112 160,112 216,111 271,110 326,110 382,109 382,176 326,177 271,178 216,178 160,179 105,180" />
+        <Baseline points="105,171 160,171 216,170 271,169 326,169 382,168" />
+        <TextEquiv>
+          <Unicode>IMP CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="105,208 176,210 247,210 317,211 388,210 458,209 458,278 388,279 317,279 247,279 176,278 105,277" />
+        <Baseline points="105,264 176,266 247,267 317,267 388,266 458,265" />
+        <TextEquiv>
+          <Unicode>C IVL VERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="106,287 172,284 239,281 305,279 372,277 438,274 438,347 372,349 305,351 239,354 172,356 106,359" />
+        <Baseline points="106,351 172,348 239,346 305,343 372,341 438,339" />
+        <TextEquiv>
+          <Unicode>MAXIMINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="106,381 163,379 219,377 275,375 332,373 388,371 388,440 332,442 275,444 219,447 163,448 106,450" />
+        <Baseline points="106,442 163,440 219,439 275,436 332,434 388,432" />
+        <TextEquiv>
+          <Unicode>PIO FELICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="106,458 163,454 219,451 275,448 331,445 387,443 387,515 331,517 275,520 219,523 163,526 106,530" />
+        <Baseline points="106,522 163,519 219,515 275,512 331,510 387,507" />
+        <TextEquiv>
+          <Unicode>AVG N A TI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="107,545 170,542 233,539 297,537 360,534 423,531 423,600 360,603 297,606 233,608 170,611 107,614" />
+        <Baseline points="107,606 170,603 233,601 297,598 360,595 423,592" />
+        <TextEquiv>
+          <Unicode>GIT CAP VR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

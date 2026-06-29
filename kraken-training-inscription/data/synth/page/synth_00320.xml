@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00320.jpg" imageWidth="900" imageHeight="606">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,606 0,606" />
+      <TextLine id="r1l1">
+        <Coords points="188,40 292,45 395,51 499,56 602,61 706,65 706,116 602,112 499,107 395,102 292,96 188,91" />
+        <Baseline points="188,84 292,89 395,95 499,100 602,105 706,109" />
+        <TextEquiv>
+          <Unicode>L PETRONIVS L F PRIMVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="292,108 355,109 419,111 482,112 545,114 608,116 608,172 545,170 482,169 419,167 355,166 292,165" />
+        <Baseline points="292,158 355,159 419,161 482,162 545,164 608,166" />
+        <TextEquiv>
+          <Unicode>HIC SITVS EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="123,155 249,158 374,161 500,164 626,166 751,168 751,217 626,216 500,214 374,211 249,207 123,205" />
+        <Baseline points="123,201 249,203 374,207 500,210 626,212 751,213" />
+        <TextEquiv>
+          <Unicode>VXOR CARA VIRO MONVMENTVM FECIT AMANTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="122,232 257,237 391,242 525,246 660,250 794,256 794,298 660,293 525,288 391,284 257,280 122,275" />
+        <Baseline points="122,270 257,275 391,280 525,284 660,288 794,294" />
+        <TextEquiv>
+          <Unicode>OPTARAM IN MANIBVS CONIVGIS OCCIDERE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="121,306 253,315 384,324 515,333 646,341 778,350 778,389 646,380 515,372 384,363 253,354 121,345" />
+        <Baseline points="121,331 253,340 384,349 515,358 646,366 778,374" />
+        <TextEquiv>
+          <Unicode>QVEM QVIA FATA NIMIS RAPVERVNT TEMPORE INIQVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="121,369 249,379 378,390 506,400 635,410 763,419 763,476 635,467 506,457 378,447 249,437 121,426" />
+        <Baseline points="121,404 249,414 378,425 506,435 635,444 763,454" />
+        <TextEquiv>
+          <Unicode>OSSIBVS OPTO TVIS SIT PIA TERRA LEVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

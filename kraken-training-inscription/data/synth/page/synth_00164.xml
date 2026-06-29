@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00164.jpg" imageWidth="900" imageHeight="644">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,644 0,644" />
+      <TextLine id="r1l1">
+        <Coords points="414,51 433,52 452,52 471,53 490,53 509,53 509,116 490,116 471,115 452,115 433,115 414,114" />
+        <Baseline points="414,108 433,109 452,109 471,109 490,110 509,110" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="202,128 300,134 399,140 498,146 596,153 695,160 695,225 596,218 498,211 399,205 300,199 202,193" />
+        <Baseline points="202,181 300,187 399,193 498,199 596,206 695,213" />
+        <TextEquiv>
+          <Unicode>P POMPONI CELERIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="223,210 313,217 403,224 493,231 583,238 673,245 673,313 583,306 493,299 403,292 313,285 223,279" />
+        <Baseline points="223,261 313,268 403,275 493,282 583,289 673,296" />
+        <TextEquiv>
+          <Unicode>V A XII M VIII D XXI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="168,293 278,302 388,311 498,318 608,326 718,332 718,400 608,393 498,386 388,378 278,369 168,360" />
+        <Baseline points="168,343 278,352 388,361 498,368 608,375 718,382" />
+        <TextEquiv>
+          <Unicode>POMPONIA ZOSIME FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="148,370 264,377 380,383 496,390 612,396 728,402 728,459 612,453 496,447 380,440 264,433 148,427" />
+        <Baseline points="148,419 264,425 380,432 496,439 612,445 728,451" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMO FEC ET SIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="123,450 243,462 364,472 484,483 605,495 725,508 725,587 605,574 484,563 364,552 243,542 123,530" />
+        <Baseline points="123,498 243,510 364,520 484,531 605,543 725,555" />
+        <TextEquiv>
+          <Unicode>POSTERISQVE SVIS IN FR P III</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="319,534 366,537 412,539 459,542 505,544 551,546 551,600 505,598 459,595 412,593 366,590 319,588" />
+        <Baseline points="319,582 366,585 412,587 459,590 505,592 551,594" />
+        <TextEquiv>
+          <Unicode>IN AGR P V</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00030.jpg" imageWidth="900" imageHeight="605">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,605 0,605" />
+      <TextLine id="r1l1">
+        <Coords points="418,101 429,101 440,100 451,100 462,100 473,99 473,133 462,134 451,134 440,135 429,135 418,135" />
+        <Baseline points="418,131 429,130 440,130 451,130 462,129 473,129" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="281,150 347,148 412,145 477,143 542,141 607,138 607,171 542,174 477,176 412,179 347,181 281,183" />
+        <Baseline points="281,179 347,176 412,174 477,172 542,169 607,167" />
+        <TextEquiv>
+          <Unicode>FLAVIO MOCIANO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="241,190 321,186 402,183 482,179 562,176 643,172 643,208 562,211 482,214 402,218 321,222 241,226" />
+        <Baseline points="241,221 321,217 402,214 482,210 562,206 643,203" />
+        <TextEquiv>
+          <Unicode>EQVITI SINGVLARI CASTRE SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="244,234 322,231 399,228 476,225 553,222 630,220 630,250 553,252 476,255 399,258 322,261 244,264" />
+        <Baseline points="244,260 322,257 399,254 476,251 553,248 630,246" />
+        <TextEquiv>
+          <Unicode>PRIME SIC T MESSORIS MILITAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="287,257 350,251 414,246 477,241 540,235 604,230 604,273 540,278 477,284 414,289 350,294 287,300" />
+        <Baseline points="287,296 350,291 414,285 477,280 540,275 604,269" />
+        <TextEquiv>
+          <Unicode>XXII M IIII AELIA FESTIVA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="252,309 329,307 406,305 482,303 559,301 636,299 636,330 559,332 482,334 406,336 329,338 252,340" />
+        <Baseline points="252,332 329,330 406,328 482,326 559,324 636,322" />
+        <TextEquiv>
+          <Unicode>CON SIC FILILIS SIC SVIS EREDES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="424,337 435,337 446,337 457,337 468,337 479,337 479,365 468,365 457,365 446,365 435,365 424,365" />
+        <Baseline points="424,359 435,359 446,359 457,359 468,359 479,359" />
+        <TextEquiv>
+          <Unicode>B M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,22 @@
+SAMPLE DATA LICENCE
+===================
+
+Real inscriptions  (data/real/)
+-------------------------------
+50 inscriptions from the Epigraphic Database Heidelberg (EDH),
+https://edh.ub.uni-heidelberg.de — reused under the Creative Commons
+Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution: "Epigraphic Database Heidelberg (CC BY-SA 4.0)".
+EDH inscription identifiers (HD numbers) in this sample:
+HD000008 HD000027 HD000030 HD000049 HD000052 HD000099 HD000126 HD000129 HD000144 HD000150 HD000307 HD000319 HD000322 HD000364 HD000365 HD000588 HD000598 HD000649 HD000662 HD002090 HD002271 HD002289 HD002298 HD002304 HD002312 HD002324 HD002339 HD002351 HD002361 HD002364 HD002384 HD002421 HD002425 HD002451 HD002692 HD002790 HD003988 HD003991 HD004063 HD004097 HD004139 HD004381 HD005727 
+
+Synthetic inscriptions  (data/synth/)
+-------------------------------------
+500 procedurally rendered stone images, generated from EDH transcriptions of
+inscriptions that have NO photograph. As derivatives of EDH text they are
+released under the same licence, CC BY-SA 4.0.
+
+You may share and adapt this data, under the same licence and with attribution
+to the Epigraphic Database Heidelberg.

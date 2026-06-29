@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00278.jpg" imageWidth="900" imageHeight="558">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,558 0,558" />
+      <TextLine id="r1l1">
+        <Coords points="166,190 254,191 342,192 430,193 517,195 605,197 605,269 517,266 430,264 342,263 254,262 166,261" />
+        <Baseline points="166,240 254,241 342,242 430,243 517,245 605,247" />
+        <TextEquiv>
+          <Unicode>AELIAE TYNDARIDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="189,266 271,268 353,270 434,272 516,274 597,276 597,343 516,342 434,340 353,338 271,335 189,333" />
+        <Baseline points="189,311 271,313 353,315 434,317 516,319 597,321" />
+        <TextEquiv>
+          <Unicode>L AELIVS ASCLEPIADES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="205,316 283,311 362,306 440,301 518,297 596,292 596,357 518,362 440,367 362,372 283,377 205,382" />
+        <Baseline points="205,376 283,371 362,366 440,361 518,356 596,351" />
+        <TextEquiv>
+          <Unicode>CONIVGI CARISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="334,397 373,398 411,399 450,400 489,402 527,403 527,453 489,452 450,451 411,449 373,448 334,447" />
+        <Baseline points="334,432 373,434 411,435 450,436 489,437 527,439" />
+        <TextEquiv>
+          <Unicode>ET F POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

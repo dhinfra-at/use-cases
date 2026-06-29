@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00187.jpg" imageWidth="900" imageHeight="952">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,952 0,952" />
+      <TextLine id="r1l1">
+        <Coords points="219,169 303,168 387,166 471,163 554,161 638,158 638,215 554,218 471,221 387,223 303,225 219,227" />
+        <Baseline points="219,211 303,209 387,207 471,205 554,203 638,200" />
+        <TextEquiv>
+          <Unicode>DIVI IVLI FLAMINI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="277,236 340,236 404,236 467,236 531,236 594,236 594,299 531,299 467,298 404,298 340,298 277,298" />
+        <Baseline points="277,277 340,276 404,276 467,276 531,277 594,277" />
+        <TextEquiv>
+          <Unicode>C ANTONIO M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="225,294 306,287 388,281 470,273 551,266 633,257 633,320 551,328 470,336 388,343 306,350 225,357" />
+        <Baseline points="225,351 306,344 388,337 470,330 551,322 633,314" />
+        <TextEquiv>
+          <Unicode>VOLT RVFO FLAMINI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="205,378 299,376 393,373 488,371 582,370 676,368 676,424 582,425 488,427 393,429 299,431 205,434" />
+        <Baseline points="205,416 299,413 393,411 488,409 582,407 676,406" />
+        <TextEquiv>
+          <Unicode>DIVI AVG COL CL APRENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="202,445 299,442 395,439 492,436 588,432 685,428 685,476 588,480 492,484 395,487 299,490 202,493" />
+        <Baseline points="202,482 299,479 395,476 492,472 588,468 685,464" />
+        <TextEquiv>
+          <Unicode>ET COL IVL PHILIPPENSIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="184,484 290,475 395,465 501,453 606,443 712,433 712,498 606,508 501,518 395,530 290,540 184,549" />
+        <Baseline points="184,543 290,535 395,524 501,513 606,502 712,493" />
+        <TextEquiv>
+          <Unicode>EORVNDEM ET PRINCIPI ITEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="217,562 310,557 403,551 495,545 588,540 681,533 681,578 588,584 495,590 403,596 310,601 217,606" />
+        <Baseline points="217,601 310,596 403,591 495,585 588,579 681,573" />
+        <TextEquiv>
+          <Unicode>COL IVL PARIANAE TRIBVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="222,623 316,623 410,622 504,622 598,621 691,620 691,676 598,677 504,678 410,678 316,679 222,679" />
+        <Baseline points="222,655 316,654 410,654 504,654 598,653 691,652" />
+        <TextEquiv>
+          <Unicode>MILIT COH XXXII VOLVNTAR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="266,663 343,657 420,650 497,644 574,637 651,631 651,680 574,687 497,693 420,699 343,706 266,712" />
+        <Baseline points="266,708 343,701 420,695 497,688 574,682 651,675" />
+        <TextEquiv>
+          <Unicode>TRIB MILIT LEG XIII GEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="248,714 333,707 417,700 502,693 587,685 671,677 671,726 587,734 502,742 417,749 333,756 248,763" />
+        <Baseline points="248,759 333,752 417,745 502,738 587,730 671,722" />
+        <TextEquiv>
+          <Unicode>PRAEFECTO EQVIT ALAE I SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="425,769 443,768 462,766 480,765 498,763 517,762 517,797 498,798 480,800 462,801 443,803 425,804" />
+        <Baseline points="425,800 443,798 462,797 480,795 498,794 517,792" />
+        <TextEquiv>
+          <Unicode>VIC IX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

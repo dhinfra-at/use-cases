@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00347.jpg" imageWidth="900" imageHeight="479">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,479 0,479" />
+      <TextLine id="r1l1">
+        <Coords points="195,32 217,34 239,36 261,37 284,39 306,40 306,104 284,103 261,101 239,100 217,98 195,96" />
+        <Baseline points="195,86 217,87 239,89 261,90 284,92 306,93" />
+        <TextEquiv>
+          <Unicode>O VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="103,96 157,97 211,97 264,98 318,98 372,98 372,168 318,167 264,167 211,167 157,166 103,166" />
+        <Baseline points="103,158 157,159 211,159 264,159 318,160 372,160" />
+        <TextEquiv>
+          <Unicode>TVLI LIBE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="102,183 146,186 190,188 234,190 278,193 322,196 322,259 278,256 234,254 190,251 146,249 102,247" />
+        <Baseline points="102,235 146,238 190,240 234,242 278,245 322,248" />
+        <TextEquiv>
+          <Unicode>RTO A L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

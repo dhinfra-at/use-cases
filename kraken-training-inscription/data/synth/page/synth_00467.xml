@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00467.jpg" imageWidth="900" imageHeight="412">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,412 0,412" />
+      <TextLine id="r1l1">
+        <Coords points="162,112 172,113 183,113 194,113 205,113 215,113 215,156 205,156 194,156 183,156 172,156 162,156" />
+        <Baseline points="162,151 172,151 183,151 194,151 205,151 215,151" />
+        <TextEquiv>
+          <Unicode>TO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="139,236 193,238 247,241 301,243 355,246 409,248 409,281 355,279 301,276 247,274 193,271 139,269" />
+        <Baseline points="139,265 193,267 247,269 301,272 355,274 409,276" />
+        <TextEquiv>
+          <Unicode>ELIS VIXIT IN PACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

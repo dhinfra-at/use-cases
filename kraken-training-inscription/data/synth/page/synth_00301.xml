@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00301.jpg" imageWidth="900" imageHeight="524">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,524 0,524" />
+      <TextLine id="r1l1">
+        <Coords points="133,75 264,66 395,57 527,48 658,39 789,29 789,98 658,107 527,116 395,125 264,134 133,143" />
+        <Baseline points="133,138 264,130 395,121 527,112 658,103 789,93" />
+        <TextEquiv>
+          <Unicode>L ANTISTIVS MYRO ET L ANTISTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="132,173 256,169 380,166 504,163 628,160 752,158 752,197 628,199 504,202 380,205 256,208 132,212" />
+        <Baseline points="132,207 256,204 380,200 504,197 628,195 752,193" />
+        <TextEquiv>
+          <Unicode>NARCISSVS LIBERTI EIVS ET T FLAVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="131,244 262,244 392,244 523,244 653,244 783,243 783,293 653,293 523,293 392,293 262,293 131,294" />
+        <Baseline points="131,278 262,278 392,278 523,277 653,277 783,277" />
+        <TextEquiv>
+          <Unicode>MASCVLVS FILIVS EIVS HEREDES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="131,287 256,280 382,272 508,264 633,257 759,250 759,313 633,320 508,328 382,335 256,343 131,350" />
+        <Baseline points="131,345 256,338 382,331 508,323 633,315 759,308" />
+        <TextEquiv>
+          <Unicode>FECERVNT ANTISTIAE HERMAIDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="265,370 336,368 407,366 477,364 548,362 619,360 619,420 548,422 477,424 407,426 336,428 265,430" />
+        <Baseline points="265,423 336,421 407,419 477,417 548,415 619,413" />
+        <TextEquiv>
+          <Unicode>DVLCISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00396.jpg" imageWidth="900" imageHeight="449">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,449 0,449" />
+      <TextLine id="r1l1">
+        <Coords points="79,114 94,113 109,112 124,111 139,110 154,109 154,153 139,154 124,155 109,155 94,156 79,157" />
+        <Baseline points="79,152 94,151 109,150 124,149 139,148 154,148" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="79,163 114,160 150,157 186,154 222,151 257,148 257,198 222,201 186,204 150,207 114,210 79,213" />
+        <Baseline points="79,208 114,205 150,202 186,199 222,196 257,193" />
+        <TextEquiv>
+          <Unicode>C COMINIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="79,222 111,220 144,218 177,217 209,215 242,213 242,256 209,258 177,260 144,261 111,263 79,265" />
+        <Baseline points="79,260 111,258 144,256 177,255 209,253 242,251" />
+        <TextEquiv>
+          <Unicode>GANVS V A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="79,279 101,279 123,279 144,279 166,279 188,279 188,319 166,319 144,319 123,319 101,319 79,319" />
+        <Baseline points="79,311 101,311 123,311 144,311 166,311 188,311" />
+        <TextEquiv>
+          <Unicode>LV H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00398.jpg" imageWidth="900" imageHeight="587">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,587 0,587" />
+      <TextLine id="r1l1">
+        <Coords points="285,221 350,219 415,216 481,214 546,212 611,209 611,253 546,255 481,257 415,260 350,262 285,265" />
+        <Baseline points="285,261 350,258 415,255 481,253 546,251 611,249" />
+        <TextEquiv>
+          <Unicode>P CORNELIVS P LIBER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="264,262 337,257 410,253 483,249 556,245 629,242 629,293 556,297 483,301 410,305 337,309 264,313" />
+        <Baseline points="264,309 337,305 410,300 483,296 556,292 629,289" />
+        <TextEquiv>
+          <Unicode>THEODVLVS NN XXXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="270,329 340,329 410,329 479,328 549,328 619,327 619,361 549,362 479,362 410,363 340,363 270,363" />
+        <Baseline points="270,357 340,357 410,357 479,357 549,356 619,356" />
+        <TextEquiv>
+          <Unicode>PIVS IN SVOS HIC SITVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="398,373 418,373 438,372 459,371 479,371 500,370 500,405 479,406 459,407 438,407 418,408 398,408" />
+        <Baseline points="398,404 418,403 438,403 459,402 479,402 500,401" />
+        <TextEquiv>
+          <Unicode>E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

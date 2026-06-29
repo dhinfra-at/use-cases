@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00395.jpg" imageWidth="900" imageHeight="577">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,577 0,577" />
+      <TextLine id="r1l1">
+        <Coords points="315,98 369,97 423,95 478,93 532,91 586,89 586,154 532,157 478,159 423,161 369,163 315,164" />
+        <Baseline points="315,156 369,154 423,153 478,151 532,148 586,146" />
+        <TextEquiv>
+          <Unicode>MAGILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="337,180 382,178 427,175 472,173 517,170 562,167 562,229 517,232 472,235 427,237 382,240 337,242" />
+        <Baseline points="337,235 382,233 427,230 472,228 517,225 562,222" />
+        <TextEquiv>
+          <Unicode>DVRVITI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="343,265 385,264 426,263 467,263 509,262 550,261 550,313 509,314 467,315 426,315 385,316 343,317" />
+        <Baseline points="343,308 385,307 426,306 467,306 509,305 550,304" />
+        <TextEquiv>
+          <Unicode>SEPVLTA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="312,334 366,334 421,333 475,332 529,331 583,330 583,375 529,376 475,377 421,378 366,378 312,379" />
+        <Baseline points="312,370 366,369 421,368 475,367 529,367 583,366" />
+        <TextEquiv>
+          <Unicode>HAVE ET VALE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

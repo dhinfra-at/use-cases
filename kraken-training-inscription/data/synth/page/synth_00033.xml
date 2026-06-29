@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00033.jpg" imageWidth="900" imageHeight="645">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,645 0,645" />
+      <TextLine id="r1l1">
+        <Coords points="352,205 389,202 425,200 462,198 499,195 535,193 535,258 499,261 462,263 425,266 389,268 352,271" />
+        <Baseline points="352,263 389,260 425,258 462,256 499,253 535,251" />
+        <TextEquiv>
+          <Unicode>NVNIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="275,281 344,275 414,271 484,266 554,262 624,259 624,326 554,330 484,334 414,338 344,343 275,348" />
+        <Baseline points="275,340 344,335 414,330 484,326 554,322 624,318" />
+        <TextEquiv>
+          <Unicode>STATTI F AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="370,362 403,361 436,360 470,359 503,359 536,359 536,418 503,418 470,419 436,419 403,420 370,421" />
+        <Baseline points="370,411 403,410 436,409 470,408 503,408 536,408" />
+        <TextEquiv>
+          <Unicode>XXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="393,432 418,431 443,429 468,428 493,427 518,425 518,481 493,482 468,484 443,485 418,486 393,488" />
+        <Baseline points="393,481 418,479 443,478 468,477 493,475 518,474" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

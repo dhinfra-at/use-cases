@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00321.jpg" imageWidth="900" imageHeight="695">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,695 0,695" />
+      <TextLine id="r1l1">
+        <Coords points="296,149 357,149 417,149 478,149 539,149 600,149 600,221 539,221 478,221 417,221 357,221 296,221" />
+        <Baseline points="296,207 357,207 417,207 478,207 539,207 600,207" />
+        <TextEquiv>
+          <Unicode>GORGIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="232,241 318,240 404,238 490,237 576,236 662,235 662,298 576,299 490,300 404,301 318,303 232,304" />
+        <Baseline points="232,294 318,293 404,291 490,290 576,289 662,288" />
+        <TextEquiv>
+          <Unicode>MILIS SIC AST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="401,320 421,319 440,319 460,318 480,318 499,318 499,372 480,373 460,373 440,374 421,374 401,375" />
+        <Baseline points="401,368 421,368 440,367 460,367 480,366 499,366" />
+        <TextEquiv>
+          <Unicode>ARI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="338,394 383,392 429,390 474,389 519,387 564,385 564,438 519,440 474,442 429,444 383,446 338,448" />
+        <Baseline points="338,442 383,440 429,438 474,436 519,434 564,433" />
+        <TextEquiv>
+          <Unicode>CINEDVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="338,467 383,469 429,471 474,472 520,474 565,476 565,531 520,530 474,528 429,527 383,525 338,523" />
+        <Baseline points="338,505 383,507 429,508 474,510 520,512 565,513" />
+        <TextEquiv>
+          <Unicode>CANDIDVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="384,528 410,527 436,526 461,526 487,525 512,525 512,562 487,562 461,563 436,564 410,564 384,565" />
+        <Baseline points="384,560 410,560 436,559 461,559 487,558 512,557" />
+        <TextEquiv>
+          <Unicode>INISTR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

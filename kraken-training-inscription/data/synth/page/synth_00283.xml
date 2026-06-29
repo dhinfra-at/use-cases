@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00283.jpg" imageWidth="900" imageHeight="481">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,481 0,481" />
+      <TextLine id="r1l1">
+        <Coords points="89,47 170,46 250,46 331,45 412,43 492,41 492,102 412,104 331,106 250,107 170,108 89,108" />
+        <Baseline points="89,103 170,102 250,102 331,101 412,99 492,97" />
+        <TextEquiv>
+          <Unicode>AVRELIO ONESIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="86,140 163,140 240,141 317,141 395,141 472,142 472,194 395,194 317,194 240,193 163,193 86,192" />
+        <Baseline points="86,187 163,188 240,188 317,188 395,189 472,189" />
+        <TextEquiv>
+          <Unicode>AVRELIO PAPIRIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="83,216 176,215 269,214 361,214 454,214 547,214 547,268 454,269 361,269 269,269 176,269 83,270" />
+        <Baseline points="83,266 176,265 269,264 361,264 454,264 547,264" />
+        <TextEquiv>
+          <Unicode>AVRELIAE PRIME VIRG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="80,302 169,305 259,308 349,312 438,316 528,320 528,383 438,379 349,375 259,372 169,369 80,366" />
+        <Baseline points="80,346 169,349 259,352 349,356 438,360 528,364" />
+        <TextEquiv>
+          <Unicode>AVRELIVS FELICISSIMVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="77,380 190,384 303,387 417,389 530,391 643,394 643,452 530,449 417,447 303,445 190,442 77,438" />
+        <Baseline points="77,423 190,427 303,430 417,432 530,434 643,437" />
+        <TextEquiv>
+          <Unicode>FRATRIS ET COLIBERT B M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

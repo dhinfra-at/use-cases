@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00394.jpg" imageWidth="900" imageHeight="795">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,795 0,795" />
+      <TextLine id="r1l1">
+        <Coords points="405,128 421,127 437,127 453,126 469,126 485,125 485,163 469,163 453,164 437,165 421,165 405,166" />
+        <Baseline points="405,161 421,160 437,160 453,159 469,159 485,158" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="330,182 374,184 418,186 462,188 506,190 550,192 550,237 506,235 462,233 418,231 374,229 330,227" />
+        <Baseline points="330,212 374,214 418,216 462,217 506,219 550,221" />
+        <TextEquiv>
+          <Unicode>M AVREL EXVPE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="331,225 375,223 419,221 462,219 506,217 550,216 550,257 506,258 462,260 419,262 375,264 331,266" />
+        <Baseline points="331,262 375,260 419,258 462,256 506,254 550,252" />
+        <TextEquiv>
+          <Unicode>RAS ADVLESCEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="365,280 397,280 428,279 459,279 490,278 522,277 522,311 490,312 459,312 428,313 397,313 365,314" />
+        <Baseline points="365,309 397,309 428,308 459,308 490,307 522,307" />
+        <TextEquiv>
+          <Unicode>S VIX AN XXI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="346,320 384,318 421,316 458,314 495,311 533,309 533,349 495,352 458,354 421,356 384,358 346,360" />
+        <Baseline points="346,356 384,354 421,352 458,350 495,348 533,345" />
+        <TextEquiv>
+          <Unicode>HOC FECIT M A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="357,369 392,368 427,366 461,365 496,364 531,362 531,397 496,399 461,400 427,401 392,403 357,404" />
+        <Baseline points="357,400 392,399 427,397 461,396 496,395 531,393" />
+        <TextEquiv>
+          <Unicode>VR EMERITVS P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="323,419 369,419 416,420 463,420 509,421 556,421 556,454 509,453 463,453 416,452 369,451 323,451" />
+        <Baseline points="323,443 369,444 416,444 463,445 509,445 556,446" />
+        <TextEquiv>
+          <Unicode>ATER EIIVS SIC DEDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="414,460 428,460 442,459 456,459 469,459 483,459 483,487 469,487 456,487 442,487 428,487 414,488" />
+        <Baseline points="414,484 428,484 442,484 456,483 469,483 483,483" />
+        <TextEquiv>
+          <Unicode>CAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

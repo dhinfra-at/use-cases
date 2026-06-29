@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00113.jpg" imageWidth="900" imageHeight="948">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,948 0,948" />
+      <TextLine id="r1l1">
+        <Coords points="95,121 205,125 315,128 425,131 536,134 646,139 646,204 536,200 425,197 315,193 205,190 95,187" />
+        <Baseline points="95,165 205,168 315,171 425,175 536,178 646,182" />
+        <TextEquiv>
+          <Unicode>HIC LOCVS MACERIA CLVSVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="95,195 153,199 212,202 270,205 329,208 387,211 387,275 329,272 270,269 212,266 153,262 95,259" />
+        <Baseline points="95,238 153,241 212,245 270,248 329,251 387,254" />
+        <TextEquiv>
+          <Unicode>CVM TABERNA ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="94,269 172,271 250,272 327,273 405,273 482,273 482,324 405,324 327,324 250,324 172,322 94,320" />
+        <Baseline points="94,312 172,314 250,315 327,316 405,316 482,315" />
+        <TextEquiv>
+          <Unicode>VIGILIARIO QVAE SVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="94,328 150,325 205,323 261,320 317,317 373,315 373,375 317,378 261,380 205,383 150,386 94,388" />
+        <Baseline points="94,384 150,381 205,378 261,376 317,373 373,370" />
+        <TextEquiv>
+          <Unicode>APPLICITA ARCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="94,409 205,411 316,411 427,409 539,408 650,408 650,444 539,445 427,446 316,447 205,447 94,446" />
+        <Baseline points="94,441 205,442 316,442 427,441 539,440 650,440" />
+        <TextEquiv>
+          <Unicode>PERTINENT AT SIC CVSTODIAM MONVMENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="93,466 160,463 226,460 293,456 359,453 426,449 426,511 359,515 293,518 226,522 160,525 93,528" />
+        <Baseline points="93,523 160,520 226,517 293,514 359,510 426,506" />
+        <TextEquiv>
+          <Unicode>AELIORVM ZOTICI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="93,542 133,540 173,538 213,537 254,535 294,533 294,586 254,587 213,589 173,591 133,593 93,595" />
+        <Baseline points="93,590 133,588 173,587 213,585 254,583 294,581" />
+        <TextEquiv>
+          <Unicode>POMPONIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="93,620 164,622 235,623 306,625 378,626 449,628 449,678 378,676 306,674 235,673 164,672 93,670" />
+        <Baseline points="93,658 164,660 235,661 306,663 378,664 449,666" />
+        <TextEquiv>
+          <Unicode>ET LIVIAE RHODOPES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="92,684 143,684 193,684 243,685 294,685 344,685 344,727 294,727 243,726 193,726 143,726 92,726" />
+        <Baseline points="92,721 143,721 193,721 243,721 294,722 344,722" />
+        <TextEquiv>
+          <Unicode>HEREDEM NON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="92,746 179,749 266,751 354,754 441,757 528,759 528,813 441,811 354,808 266,805 179,802 92,800" />
+        <Baseline points="92,783 179,785 266,788 354,791 441,794 528,796" />
+        <TextEquiv>
+          <Unicode>SEQVITVR SET SIC LIBERTOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

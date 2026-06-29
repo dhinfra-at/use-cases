@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00028.jpg" imageWidth="900" imageHeight="425">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,425 0,425" />
+      <TextLine id="r1l1">
+        <Coords points="79,42 153,39 228,35 302,31 376,27 450,24 450,90 376,94 302,98 228,101 153,105 79,109" />
+        <Baseline points="79,102 153,99 228,95 302,91 376,88 450,84" />
+        <TextEquiv>
+          <Unicode>L APPONIO HI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="87,145 147,145 207,144 267,144 327,143 387,142 387,211 327,212 267,213 207,213 147,213 87,214" />
+        <Baseline points="87,199 147,199 207,198 267,198 327,197 387,196" />
+        <TextEquiv>
+          <Unicode>LARIONI FAV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="93,235 142,237 190,238 239,239 288,240 336,241 336,314 288,313 239,312 190,311 142,310 93,309" />
+        <Baseline points="93,289 142,290 190,291 239,292 288,293 336,294" />
+        <TextEquiv>
+          <Unicode>STVS L ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="100,325 168,322 236,320 304,317 372,313 440,309 440,370 372,374 304,378 236,381 168,383 100,386" />
+        <Baseline points="100,380 168,377 236,375 304,372 372,368 440,364" />
+        <TextEquiv>
+          <Unicode>RVFAE VXORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

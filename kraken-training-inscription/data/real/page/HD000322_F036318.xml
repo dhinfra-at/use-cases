@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000322_F036318.jpg" imageWidth="800" imageHeight="608">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,607 0,607"/>
+      <TextLine id="r1l1">
+        <Coords points="135,81 670,74 670,220 135,227"/>
+        <Baseline points="135,206 670,199"/>
+        <TextEquiv><Unicode>Q·VALERIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="130,215 689,201 689,334 130,348"/>
+        <Baseline points="130,326 689,312"/>
+        <TextEquiv><Unicode>QVADRA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="125,326 684,325 684,464 125,465"/>
+        <Baseline points="125,441 684,440"/>
+        <TextEquiv><Unicode>TO·AN·LXI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="119,454 437,446 434,595 119,603"/>
+        <Baseline points="119,579 439,571"/>
+        <TextEquiv><Unicode>L·VAL·</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

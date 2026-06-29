@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00126.jpg" imageWidth="900" imageHeight="1125">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1125 0,1125" />
+      <TextLine id="r1l1">
+        <Coords points="103,174 129,176 155,177 181,178 207,180 233,181 233,242 207,241 181,240 155,238 129,237 103,235" />
+        <Baseline points="103,223 129,225 155,226 181,227 207,229 233,230" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="102,235 170,234 239,232 307,231 376,230 444,229 444,295 376,296 307,297 239,298 170,299 102,300" />
+        <Baseline points="102,293 170,292 239,291 307,290 376,288 444,287" />
+        <TextEquiv>
+          <Unicode>ATIMETI LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="100,309 152,308 204,308 256,306 309,305 361,304 361,365 309,367 256,368 204,369 152,370 100,371" />
+        <Baseline points="100,364 152,363 204,362 256,361 309,360 361,359" />
+        <TextEquiv>
+          <Unicode>FABIA MER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="99,371 153,370 207,368 261,366 314,365 368,363 368,426 314,428 261,429 207,431 153,433 99,434" />
+        <Baseline points="99,428 153,426 207,425 261,423 314,421 368,420" />
+        <TextEquiv>
+          <Unicode>OPE ANNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="97,450 149,452 201,455 253,457 305,459 357,462 357,520 305,518 253,516 201,513 149,511 97,508" />
+        <Baseline points="97,494 149,496 201,499 253,501 305,503 357,506" />
+        <TextEquiv>
+          <Unicode>RVM LXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="96,505 147,504 199,502 250,501 302,499 353,498 353,558 302,559 250,561 199,562 147,564 96,565" />
+        <Baseline points="96,559 147,557 199,556 250,555 302,553 353,551" />
+        <TextEquiv>
+          <Unicode>PIA IN SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="95,577 141,578 188,579 235,579 282,580 329,581 329,628 282,627 235,627 188,626 141,625 95,624" />
+        <Baseline points="95,618 141,619 188,620 235,620 282,621 329,622" />
+        <TextEquiv>
+          <Unicode>H S E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="93,638 208,644 322,650 436,656 551,663 665,670 665,741 551,734 436,727 322,720 208,714 93,708" />
+        <Baseline points="93,677 208,683 322,690 436,696 551,703 665,710" />
+        <TextEquiv>
+          <Unicode>SI QVANTVM PIETAS POTV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="92,690 191,691 290,691 388,691 487,690 586,690 586,741 487,742 388,742 290,743 191,742 92,742" />
+        <Baseline points="92,736 191,737 290,737 388,737 487,736 586,736" />
+        <TextEquiv>
+          <Unicode>IT TANTVM FORTVNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="91,752 187,756 284,761 381,766 477,771 574,776 574,836 477,831 381,826 284,821 187,816 91,812" />
+        <Baseline points="91,789 187,793 284,798 381,803 477,808 574,813" />
+        <TextEquiv>
+          <Unicode>DEDISSET LITTERIS AV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="90,806 173,811 255,816 338,822 421,827 503,831 503,893 421,888 338,883 255,877 173,872 90,867" />
+        <Baseline points="90,841 173,847 255,852 338,857 421,862 503,867" />
+        <TextEquiv>
+          <Unicode>RATIS SCRIBERE HVNC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="89,859 124,861 158,862 193,864 228,865 263,867 263,912 228,910 193,909 158,907 124,906 89,904" />
+        <Baseline points="89,894 124,895 158,897 193,898 228,900 263,902" />
+        <TextEquiv>
+          <Unicode>TITVLVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

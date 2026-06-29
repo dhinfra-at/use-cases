@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD004139_F012515.jpg" imageWidth="1000" imageHeight="930">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,929 0,929"/>
+      
+      <TextLine id="r1l2">
+        <Coords points="299,498 808,501 808,596 299,593"/>
+        <Baseline points="299,582 808,585"/>
+        <TextEquiv><Unicode>MAIORIS</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

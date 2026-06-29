@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00457.jpg" imageWidth="900" imageHeight="448">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,448 0,448" />
+      <TextLine id="r1l1">
+        <Coords points="65,69 206,69 347,69 489,68 630,68 771,68 771,118 630,118 489,118 347,119 206,119 65,119" />
+        <Baseline points="65,95 206,96 347,95 489,95 630,94 771,94" />
+        <TextEquiv>
+          <Unicode>IMP CAES DIVI TRAIANI PARTHICI F DIVI NERVAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="70,139 212,143 353,145 495,146 637,149 779,154 779,225 637,220 495,217 353,216 212,214 70,210" />
+        <Baseline points="70,169 212,173 353,175 495,177 637,180 779,184" />
+        <TextEquiv>
+          <Unicode>NEPOS TRAIANVS HADRIANVS AVGVSTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="74,200 214,196 355,192 496,187 636,183 777,179 777,214 636,219 496,223 355,227 214,231 74,236" />
+        <Baseline points="74,231 214,227 355,223 496,218 636,214 777,210" />
+        <TextEquiv>
+          <Unicode>PONT MAXIMVS TRIB POT XVI COS III P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="77,249 211,244 344,239 478,234 611,230 745,225 745,263 611,268 478,272 344,277 211,282 77,287" />
+        <Baseline points="77,283 211,278 344,273 478,268 611,263 745,258" />
+        <TextEquiv>
+          <Unicode>L VARIO AMBIBVLO LEG AVG PR PR LEG III AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

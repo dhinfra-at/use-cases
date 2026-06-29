@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00276.jpg" imageWidth="900" imageHeight="558">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,558 0,558" />
+      <TextLine id="r1l1">
+        <Coords points="96,90 111,89 126,89 141,89 156,89 170,89 170,133 156,133 141,133 126,133 111,133 96,133" />
+        <Baseline points="96,128 111,128 126,128 141,127 156,127 170,127" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="95,126 196,122 297,119 397,115 498,112 599,109 599,174 498,177 397,180 297,184 196,187 95,191" />
+        <Baseline points="95,185 196,182 297,178 397,175 498,171 599,168" />
+        <TextEquiv>
+          <Unicode>M IVLIVS SABINIANVS MILES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="94,208 221,213 348,219 475,224 602,229 729,235 729,292 602,287 475,282 348,277 221,271 94,265" />
+        <Baseline points="94,240 221,246 348,251 475,257 602,262 729,267" />
+        <TextEquiv>
+          <Unicode>EX CLAS PRAETORIAE MISENESIS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="94,237 206,233 318,228 430,224 542,220 655,216 655,285 542,289 430,294 318,298 206,302 94,307" />
+        <Baseline points="94,301 206,297 318,292 430,288 542,284 655,280" />
+        <TextEquiv>
+          <Unicode>ANTONI PRISCI VIXIT ANNIS XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="93,303 218,300 343,297 468,295 593,293 718,291 718,352 593,353 468,355 343,358 218,360 93,363" />
+        <Baseline points="93,358 218,355 343,352 468,350 593,348 718,346" />
+        <TextEquiv>
+          <Unicode>MILITAVIT ANNIS VIII NATIO BESVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

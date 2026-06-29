@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00293.jpg" imageWidth="900" imageHeight="782">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,782 0,782" />
+      <TextLine id="r1l1">
+        <Coords points="112,87 126,88 141,89 156,90 171,91 185,92 185,136 171,135 156,134 141,133 126,132 112,131" />
+        <Baseline points="112,124 126,125 141,127 156,128 171,129 185,130" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,134 160,135 209,135 258,135 306,135 355,136 355,186 306,186 258,185 209,185 160,185 111,185" />
+        <Baseline points="111,180 160,180 209,181 258,181 306,181 355,182" />
+        <TextEquiv>
+          <Unicode>FELICITATIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="110,200 174,203 238,206 302,208 365,211 429,213 429,254 365,252 302,249 238,247 174,244 110,241" />
+        <Baseline points="110,236 174,239 238,242 302,244 365,247 429,249" />
+        <TextEquiv>
+          <Unicode>QVINTA OCTAVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="110,253 155,257 200,260 245,264 290,267 335,271 335,316 290,313 245,309 200,306 155,302 110,298" />
+        <Baseline points="110,287 155,290 200,294 245,297 290,301 335,304" />
+        <TextEquiv>
+          <Unicode>AE LVCANAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="109,302 169,307 229,312 289,317 349,322 409,327 409,376 349,371 289,366 229,361 169,356 109,351" />
+        <Baseline points="109,335 169,340 229,345 289,350 349,355 409,360" />
+        <TextEquiv>
+          <Unicode>VERNAE SVAE FEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="109,351 190,355 271,359 352,362 434,366 515,370 515,406 434,402 352,398 271,394 190,391 109,387" />
+        <Baseline points="109,382 190,386 271,389 352,393 434,397 515,401" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNO I M VIII D XXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="108,397 128,398 148,399 168,400 188,401 208,403 208,437 188,436 168,435 148,434 128,433 108,431" />
+        <Baseline points="108,426 128,427 148,429 168,430 188,431 208,432" />
+        <TextEquiv>
+          <Unicode>S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

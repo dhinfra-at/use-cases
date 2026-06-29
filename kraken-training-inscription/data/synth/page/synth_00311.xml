@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00311.jpg" imageWidth="900" imageHeight="966">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,966 0,966" />
+      <TextLine id="r1l1">
+        <Coords points="260,220 340,218 419,216 499,214 579,212 658,210 658,284 579,286 499,288 419,290 340,292 260,294" />
+        <Baseline points="260,288 340,286 419,284 499,282 579,280 658,278" />
+        <TextEquiv>
+          <Unicode>M IVL PHILIPPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="285,308 353,306 421,304 489,302 557,300 625,300 625,369 557,369 489,370 421,372 353,375 285,377" />
+        <Baseline points="285,371 353,369 421,366 489,364 557,363 625,363" />
+        <TextEquiv>
+          <Unicode>NOBILISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="232,384 317,382 402,380 487,378 572,376 657,374 657,443 572,445 487,447 402,449 317,451 232,453" />
+        <Baseline points="232,447 317,446 402,444 487,441 572,439 657,438" />
+        <TextEquiv>
+          <Unicode>CAES PRINC IVVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="283,478 348,480 413,482 478,484 543,486 608,489 608,542 543,540 478,538 413,536 348,534 283,531" />
+        <Baseline points="283,522 348,524 413,526 478,528 543,530 608,533" />
+        <TextEquiv>
+          <Unicode>NTVTIS FILIO I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="293,553 352,554 412,555 472,556 531,558 591,559 591,605 531,604 472,603 412,602 352,600 293,599" />
+        <Baseline points="293,594 352,595 412,596 472,597 531,598 591,600" />
+        <TextEquiv>
+          <Unicode>MP M IVL PHIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="283,617 345,621 407,625 469,629 532,633 594,637 594,696 532,692 469,688 407,684 345,680 283,676" />
+        <Baseline points="283,657 345,661 407,665 469,669 532,673 594,677" />
+        <TextEquiv>
+          <Unicode>IPPI IN AVG AL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="314,687 362,689 411,691 460,693 509,694 558,696 558,741 509,739 460,738 411,736 362,734 314,732" />
+        <Baseline points="314,724 362,726 411,728 460,729 509,731 558,733" />
+        <TextEquiv>
+          <Unicode>I HISP CAMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="258,743 324,743 391,744 458,745 524,746 591,747 591,788 524,787 458,786 391,785 324,784 258,784" />
+        <Baseline points="258,779 324,780 391,780 458,781 524,782 591,784" />
+        <TextEquiv>
+          <Unicode>PHILIPP DEVOTI SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="255,803 324,806 393,809 462,812 531,815 600,819 600,864 531,861 462,857 393,854 324,852 255,849" />
+        <Baseline points="255,836 324,839 393,842 462,845 531,848 600,852" />
+        <TextEquiv>
+          <Unicode>NVM MAIESTATQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

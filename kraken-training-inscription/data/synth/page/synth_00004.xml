@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00004.jpg" imageWidth="900" imageHeight="931">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,931 0,931" />
+      <TextLine id="r1l1">
+        <Coords points="375,69 402,69 430,69 457,68 484,68 512,67 512,127 484,128 457,128 430,129 402,129 375,130" />
+        <Baseline points="375,124 402,123 430,123 457,122 484,122 512,121" />
+        <TextEquiv>
+          <Unicode>I O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="312,164 359,165 405,165 451,166 498,166 544,167 544,229 498,229 451,228 405,228 359,227 312,227" />
+        <Baseline points="312,216 359,217 405,217 451,218 498,218 544,219" />
+        <TextEquiv>
+          <Unicode>DEPVLSORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="275,245 336,244 397,242 458,241 519,239 580,237 580,300 519,302 458,303 397,305 336,306 275,308" />
+        <Baseline points="275,302 336,300 397,299 458,297 519,296 580,294" />
+        <TextEquiv>
+          <Unicode>APOLLINARIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="341,336 379,336 417,337 455,337 493,338 531,338 531,397 493,396 455,396 417,396 379,395 341,395" />
+        <Baseline points="341,386 379,386 417,387 455,387 493,388 531,388" />
+        <TextEquiv>
+          <Unicode>Q SABINI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="324,424 368,425 412,426 455,427 499,427 542,428 542,489 499,488 455,487 412,486 368,485 324,485" />
+        <Baseline points="324,473 368,474 412,475 455,476 499,476 542,477" />
+        <TextEquiv>
+          <Unicode>VERANI T P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="254,498 322,496 390,494 457,492 525,490 592,488 592,549 525,551 457,553 390,555 322,557 254,559" />
+        <Baseline points="254,553 322,551 390,549 457,548 525,545 592,543" />
+        <TextEquiv>
+          <Unicode>COND PORTORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="362,588 391,589 420,591 450,592 479,593 508,594 508,652 479,651 450,650 420,649 391,648 362,646" />
+        <Baseline points="362,634 391,635 420,636 450,638 479,639 508,640" />
+        <TextEquiv>
+          <Unicode>ILLYRICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="410,666 424,666 437,666 450,667 464,667 477,668 477,720 464,720 450,719 437,719 424,719 410,718" />
+        <Baseline points="410,710 424,711 437,711 450,712 464,712 477,712" />
+        <TextEquiv>
+          <Unicode>SER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="324,737 366,735 409,733 451,732 494,730 536,729 536,784 494,786 451,787 409,789 366,790 324,792" />
+        <Baseline points="324,787 366,785 409,784 451,782 494,780 536,779" />
+        <TextEquiv>
+          <Unicode>TABVLARIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="379,818 404,818 428,818 452,817 476,817 500,817 500,865 476,865 452,866 428,866 404,866 379,866" />
+        <Baseline points="379,861 404,861 428,861 452,860 476,860 500,860" />
+        <TextEquiv>
+          <Unicode>V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

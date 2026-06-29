@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002361_F023653.jpg" imageWidth="1000" imageHeight="915">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,914 0,914"/>
+      <TextLine id="r1l1">
+        <Coords points="336,118 543,122 543,251 336,247"/>
+        <Baseline points="336,225 543,229"/>
+        <TextEquiv><Unicode>M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="68,230 845,236 845,374 68,368"/>
+        <Baseline points="68,348 845,354"/>
+        <TextEquiv><Unicode>MVSCELLVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="102,356 831,356 831,478 102,478"/>
+        <Baseline points="102,461 831,461"/>
+        <TextEquiv><Unicode>TELESPHORIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="124,466 685,463 685,571 124,574"/>
+        <Baseline points="124,556 685,553"/>
+        <TextEquiv><Unicode>NT SIBI ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="152,559 176,559 836,560 836,675 176,674 152,674"/>
+        <Baseline points="152,654 176,654 836,655"/>
+        <TextEquiv><Unicode>RTABVSQVE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="150,660 852,660 852,787 150,787"/>
+        <Baseline points="150,767 852,767"/>
+        <TextEquiv><Unicode>ISQVE EORVM</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

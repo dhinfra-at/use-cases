@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00000.jpg" imageWidth="900" imageHeight="613">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,613 0,613" />
+      <TextLine id="r1l1">
+        <Coords points="103,114 186,117 269,121 353,125 436,129 519,135 519,212 436,206 353,202 269,198 186,194 103,191" />
+        <Baseline points="103,168 186,171 269,175 353,179 436,183 519,189" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="98,198 193,200 287,203 381,206 475,210 570,213 570,281 475,278 381,274 287,271 193,268 98,266" />
+        <Baseline points="98,249 193,251 287,254 381,257 475,261 570,264" />
+        <TextEquiv>
+          <Unicode>BABRIAE EVTER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="95,262 192,261 288,260 385,258 482,256 579,252 579,321 482,324 385,326 288,328 192,329 95,330" />
+        <Baseline points="95,324 192,323 288,322 385,320 482,317 579,314" />
+        <TextEquiv>
+          <Unicode>PE FECIT BABRIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="91,351 188,352 284,353 381,354 477,357 574,360 574,413 477,410 381,408 284,407 188,406 91,404" />
+        <Baseline points="91,394 188,396 284,397 381,398 477,400 574,403" />
+        <TextEquiv>
+          <Unicode>CINVRA MATRI PIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="88,412 119,411 150,411 181,410 212,409 242,409 242,458 212,459 181,460 150,460 119,461 88,461" />
+        <Baseline points="88,456 119,455 150,455 181,454 212,454 242,453" />
+        <TextEquiv>
+          <Unicode>SIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

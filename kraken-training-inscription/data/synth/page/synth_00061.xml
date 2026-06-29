@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00061.jpg" imageWidth="900" imageHeight="536">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,536 0,536" />
+      <TextLine id="r1l1">
+        <Coords points="357,89 396,89 436,89 476,89 516,88 556,88 556,143 516,143 476,143 436,144 396,144 357,144" />
+        <Baseline points="357,139 396,139 436,139 476,139 516,138 556,138" />
+        <TextEquiv>
+          <Unicode>M MALLO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="343,159 386,159 428,160 470,160 513,161 555,161 555,209 513,209 470,208 428,207 386,207 343,206" />
+        <Baseline points="343,202 386,203 428,203 470,204 513,204 555,205" />
+        <TextEquiv>
+          <Unicode>NIVS LALVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="351,227 390,230 430,233 469,237 508,240 547,243 547,288 508,285 469,282 430,279 390,276 351,273" />
+        <Baseline points="351,262 390,265 430,268 469,271 508,274 547,277" />
+        <TextEquiv>
+          <Unicode>SIBI ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="328,284 375,286 422,288 468,289 515,291 562,293 562,328 515,326 468,324 422,322 375,320 328,319" />
+        <Baseline points="328,315 375,317 422,319 468,321 515,323 562,325" />
+        <TextEquiv>
+          <Unicode>ET AVRELIAE SY</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="285,320 348,320 412,320 475,320 538,319 601,319 601,366 538,366 475,367 412,367 348,367 285,367" />
+        <Baseline points="285,364 348,364 412,364 475,363 538,363 601,363" />
+        <TextEquiv>
+          <Unicode>NEMNE SIC VXORI V F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

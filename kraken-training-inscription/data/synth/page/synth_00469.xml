@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00469.jpg" imageWidth="900" imageHeight="658">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,658 0,658" />
+      <TextLine id="r1l1">
+        <Coords points="386,74 414,73 442,73 470,73 498,73 526,73 526,125 498,125 470,125 442,126 414,126 386,126" />
+        <Baseline points="386,120 414,120 442,120 470,120 498,120 526,119" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="149,135 268,140 387,144 506,149 625,153 744,157 744,212 625,208 506,204 387,199 268,195 149,190" />
+        <Baseline points="149,174 268,179 387,184 506,189 625,193 744,197" />
+        <TextEquiv>
+          <Unicode>CRETONIA MAXIMA PAP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="147,192 264,198 380,204 497,209 614,215 730,221 730,279 614,274 497,268 380,262 264,257 147,251" />
+        <Baseline points="147,230 264,236 380,241 497,247 614,253 730,258" />
+        <TextEquiv>
+          <Unicode>PACENSIS AN LXXX H S EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="205,251 300,256 395,261 490,265 585,270 680,274 680,327 585,322 490,317 395,313 300,308 205,304" />
+        <Baseline points="205,286 300,291 395,295 490,300 585,304 680,309" />
+        <TextEquiv>
+          <Unicode>S T T L P APLANIVS MARCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="248,295 327,295 405,296 484,296 562,296 641,297 641,340 562,340 484,340 405,339 327,339 248,339" />
+        <Baseline points="248,334 327,335 405,335 484,335 562,336 641,336" />
+        <TextEquiv>
+          <Unicode>ANVS PAP EMERITE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="258,338 332,337 407,336 481,335 556,334 630,333 630,379 556,380 481,381 407,382 332,383 258,384" />
+        <Baseline points="258,380 332,379 407,378 481,377 556,376 630,375" />
+        <TextEquiv>
+          <Unicode>AN XXXIII H S E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="289,394 349,396 410,399 470,402 531,405 591,408 591,447 531,443 470,440 410,437 349,435 289,433" />
+        <Baseline points="289,422 349,424 410,426 470,429 531,432 591,436" />
+        <TextEquiv>
+          <Unicode>MATER SIBI ET F F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

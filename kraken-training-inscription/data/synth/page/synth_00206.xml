@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00206.jpg" imageWidth="900" imageHeight="501">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,501 0,501" />
+      <TextLine id="r1l1">
+        <Coords points="360,104 396,104 433,104 469,104 506,104 542,103 542,158 506,158 469,158 433,158 396,158 360,158" />
+        <Baseline points="360,152 396,152 433,152 469,152 506,152 542,151" />
+        <TextEquiv>
+          <Unicode>CHO VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="404,182 422,181 441,180 460,179 478,179 497,178 497,229 478,230 460,231 441,232 422,232 404,233" />
+        <Baseline points="404,229 422,228 441,227 460,226 478,225 497,224" />
+        <TextEquiv>
+          <Unicode>FENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="402,256 421,257 440,257 459,258 478,258 496,259 496,304 478,304 459,303 440,303 421,302 402,302" />
+        <Baseline points="402,294 421,294 440,295 459,295 478,296 496,296" />
+        <TextEquiv>
+          <Unicode>ALEX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000662_F024242.jpg" imageWidth="800" imageHeight="1166">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1165 0,1165"/>
+      <TextLine id="r1l1">
+        <Coords points="221,130 535,123 535,219 221,226"/>
+        <Baseline points="221,211 535,204"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="60,212 734,212 734,309 60,309"/>
+        <Baseline points="60,293 734,293"/>
+        <TextEquiv><Unicode>CARIANO BEL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="16,298 772,296 772,393 16,395"/>
+        <Baseline points="16,381 772,379"/>
+        <TextEquiv><Unicode>LIANI FIL ET FELI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="14,381 794,387 794,476 14,470"/>
+        <Baseline points="14,454 794,460"/>
+        <TextEquiv><Unicode>CI CARIANI FIL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="25,464 771,459 771,555 25,560"/>
+        <Baseline points="25,546 771,541"/>
+        <TextEquiv><Unicode>BELLIANVS BOVD</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="19,548 764,547 764,631 19,632"/>
+        <Baseline points="19,620 764,619"/>
+        <TextEquiv><Unicode>ILLI ET AVGVSTA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="34,623 758,612 758,693 34,704"/>
+        <Baseline points="34,691 758,680"/>
+        <TextEquiv><Unicode>CROBI FIL PATR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="39,696 598,682 598,767 39,781"/>
+        <Baseline points="39,766 598,752"/>
+        <TextEquiv><Unicode>ES P C</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

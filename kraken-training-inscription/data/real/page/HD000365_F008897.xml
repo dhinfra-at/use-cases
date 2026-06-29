@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000365_F008897.jpg" imageWidth="800" imageHeight="515">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,514 0,514"/>
+      <TextLine id="r1l1">
+        <Coords points="27,31 768,3 758,89 12,111"/>
+        <Baseline points="27,109 760,81"/>
+        <TextEquiv><Unicode>T·CORNELIVS·FELIX</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="22,107 768,91 768,177 22,193"/>
+        <Baseline points="22,178 768,162"/>
+        <TextEquiv><Unicode>VALERIA·Q·F·TVSCA·VXOR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="8,181 770,168 757,252 11,272"/>
+        <Baseline points="8,259 769,240"/>
+        <TextEquiv><Unicode>C·VALERIVS·LVCANVS·FRAT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="11,264 771,251 771,352 11,365"/>
+        <Baseline points="11,350 771,337"/>
+        <TextEquiv><Unicode>T CORNELIVS TVSCVS F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="14,342 682,340 669,414 5,429 9,409"/>
+        <Baseline points="16,423 647,413"/>
+        <TextEquiv><Unicode>ALFIA·MAVRA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="57,417 580,416 583,490 51,488"/>
+        <Baseline points="51,473 583,475"/>
+        <TextEquiv><Unicode>H·S·S·S·V·T·I</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

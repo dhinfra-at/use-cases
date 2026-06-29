@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00332.jpg" imageWidth="900" imageHeight="661">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,661 0,661" />
+      <TextLine id="r1l1">
+        <Coords points="416,300 427,300 438,300 450,300 461,300 473,300 473,332 461,332 450,332 438,332 427,332 416,332" />
+        <Baseline points="416,329 427,329 438,329 450,329 461,329 473,329" />
+        <TextEquiv>
+          <Unicode>DIVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="386,344 406,344 427,345 448,346 468,347 489,348 489,376 468,376 448,375 427,374 406,373 386,372" />
+        <Baseline points="386,369 406,370 427,371 448,372 468,372 489,373" />
+        <TextEquiv>
+          <Unicode>PERTINACI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="414,386 425,386 436,387 447,387 457,388 468,388 468,416 457,415 447,415 436,414 425,414 414,413" />
+        <Baseline points="414,410 425,411 436,411 447,412 457,412 468,413" />
+        <TextEquiv>
+          <Unicode>PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="388,426 407,427 427,429 446,430 466,431 485,433 485,463 466,461 446,460 427,458 407,457 388,456" />
+        <Baseline points="388,449 407,451 427,452 446,453 466,455 485,456" />
+        <TextEquiv>
+          <Unicode>ALA I PAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="379,462 400,463 422,463 443,464 465,464 486,464 486,491 465,491 443,491 422,490 400,490 379,490" />
+        <Baseline points="379,487 400,487 422,488 443,488 465,488 486,489" />
+        <TextEquiv>
+          <Unicode>NONIORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

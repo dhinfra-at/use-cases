@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00498.jpg" imageWidth="900" imageHeight="646">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,646 0,646" />
+      <TextLine id="r1l1">
+        <Coords points="75,110 90,111 104,112 118,113 133,114 147,114 147,148 133,147 118,146 104,145 90,144 75,143" />
+        <Baseline points="75,138 90,138 104,139 118,140 133,141 147,142" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="74,159 107,160 140,162 173,163 205,165 238,166 238,197 205,196 173,194 140,193 107,191 74,190" />
+        <Baseline points="74,185 107,187 140,188 173,190 205,191 238,193" />
+        <TextEquiv>
+          <Unicode>PRIMIGENIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="72,198 100,198 128,198 156,198 183,198 211,198 211,233 183,233 156,234 128,234 100,234 72,234" />
+        <Baseline points="72,230 100,230 128,230 156,230 183,229 211,229" />
+        <TextEquiv>
+          <Unicode>AN XXV PIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="71,247 97,249 124,252 150,254 176,256 202,259 202,292 176,289 150,287 124,285 97,282 71,280" />
+        <Baseline points="71,270 97,273 124,275 150,277 176,280 202,282" />
+        <TextEquiv>
+          <Unicode>IN SVIS HIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="70,287 97,288 125,289 153,290 181,291 209,292 209,319 181,318 153,317 125,316 97,315 70,314" />
+        <Baseline points="70,310 97,311 125,312 153,313 181,314 209,315" />
+        <TextEquiv>
+          <Unicode>SITA E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

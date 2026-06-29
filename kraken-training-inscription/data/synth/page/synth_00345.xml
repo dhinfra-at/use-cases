@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00345.jpg" imageWidth="900" imageHeight="770">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,770 0,770" />
+      <TextLine id="r1l1">
+        <Coords points="106,104 203,96 300,90 397,85 494,80 591,76 591,157 494,162 397,167 300,172 203,178 106,186" />
+        <Baseline points="106,179 203,172 300,165 397,160 494,156 591,151" />
+        <TextEquiv>
+          <Unicode>M LVCILIVS SECV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="105,206 187,204 270,201 352,199 435,196 517,194 517,259 435,261 352,264 270,266 187,269 105,271" />
+        <Baseline points="105,265 187,262 270,260 352,257 435,255 517,253" />
+        <TextEquiv>
+          <Unicode>NDVS DECVRIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="104,289 195,290 287,292 378,294 469,295 561,295 561,369 469,369 378,368 287,366 195,364 104,363" />
+        <Baseline points="104,341 195,342 287,344 378,346 469,347 561,347" />
+        <TextEquiv>
+          <Unicode>MIS EX ALA FRONT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="103,346 188,339 274,333 359,326 445,320 531,314 531,393 445,399 359,406 274,412 188,419 103,426" />
+        <Baseline points="103,420 188,413 274,407 359,400 445,393 531,387" />
+        <TextEquiv>
+          <Unicode>DOMO CAMPPILI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="102,430 174,426 246,421 318,417 391,412 463,408 463,476 391,481 318,485 246,490 174,494 102,498" />
+        <Baseline points="102,493 174,488 246,484 318,479 391,475 463,471" />
+        <TextEquiv>
+          <Unicode>LVCILIAE M L PAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="101,515 164,516 228,517 291,519 354,521 418,523 418,587 354,585 291,583 228,581 164,580 101,579" />
+        <Baseline points="101,560 164,561 228,562 291,564 354,566 418,568" />
+        <TextEquiv>
+          <Unicode>LADI M LVCILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="100,562 187,556 275,550 363,543 451,537 538,531 538,601 451,607 363,614 275,620 187,626 100,632" />
+        <Baseline points="100,627 187,621 275,615 363,608 451,602 538,596" />
+        <TextEquiv>
+          <Unicode>BLANDO LIB H E T F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

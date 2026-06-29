@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000099_F023530.jpg" imageWidth="800" imageHeight="1432">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1431 0,1431"/>
+      <TextLine id="r1l1">
+        <Coords points="136,147 686,137 686,260 136,270"/>
+        <Baseline points="136,250 686,240"/>
+        <TextEquiv><Unicode>NVNNIA·MVSA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="158,255 670,246 670,369 158,378"/>
+        <Baseline points="158,359 670,350"/>
+        <TextEquiv><Unicode>HICIACET·VIXIT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="134,366 694,354 694,474 134,486"/>
+        <Baseline points="134,467 694,455"/>
+        <TextEquiv><Unicode>ANNISII·MENS·VII</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="132,471 668,461 668,582 132,592"/>
+        <Baseline points="132,573 668,563"/>
+        <TextEquiv><Unicode>DIEBVS·VTVTV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="129,580 648,567 648,685 129,698"/>
+        <Baseline points="129,678 648,665"/>
+        <TextEquiv><Unicode>QV·ILEGIS·SIC</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="163,683 634,671 634,796 163,808"/>
+        <Baseline points="163,786 634,774"/>
+        <TextEquiv><Unicode>FRVARVSTE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="155,796 687,777 687,914 155,933"/>
+        <Baseline points="155,913 687,894"/>
+        <TextEquiv><Unicode>PARCEPVELLA</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

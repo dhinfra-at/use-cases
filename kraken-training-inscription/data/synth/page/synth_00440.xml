@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00440.jpg" imageWidth="900" imageHeight="563">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,563 0,563" />
+      <TextLine id="r1l1">
+        <Coords points="85,146 129,147 174,148 219,149 263,151 308,152 308,194 263,192 219,191 174,190 129,188 85,187" />
+        <Baseline points="85,180 129,181 174,182 219,183 263,184 308,186" />
+        <TextEquiv>
+          <Unicode>EX AVCT P C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="83,195 120,197 157,199 193,201 230,203 267,205 267,248 230,246 193,244 157,242 120,240 83,238" />
+        <Baseline points="83,227 120,229 157,230 193,232 230,234 267,236" />
+        <TextEquiv>
+          <Unicode>ASSI SECVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="81,234 118,233 154,232 191,230 227,229 264,228 264,271 227,272 191,273 154,274 118,276 81,277" />
+        <Baseline points="81,273 118,272 154,271 191,269 227,268 264,267" />
+        <TextEquiv>
+          <Unicode>DI LEG AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="79,286 100,287 122,287 143,288 164,289 185,289 185,323 164,323 143,322 122,321 100,321 79,320" />
+        <Baseline points="79,315 100,315 122,316 143,317 164,317 185,318" />
+        <TextEquiv>
+          <Unicode>A P SIG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

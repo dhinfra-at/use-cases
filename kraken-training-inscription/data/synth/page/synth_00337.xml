@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00337.jpg" imageWidth="900" imageHeight="724">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,724 0,724" />
+      <TextLine id="r1l1">
+        <Coords points="243,84 322,86 400,88 479,89 557,91 636,93 636,152 557,150 479,148 400,146 322,145 243,143" />
+        <Baseline points="243,136 322,138 400,140 479,141 557,143 636,145" />
+        <TextEquiv>
+          <Unicode>D N FL GRATIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="114,145 238,147 363,148 488,149 612,151 737,154 737,218 612,215 488,214 363,212 238,211 114,209" />
+        <Baseline points="114,203 238,204 363,206 488,207 612,209 737,212" />
+        <TextEquiv>
+          <Unicode>PIO FELICI VICTORI AC TRIVMFA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="248,235 324,242 400,248 476,255 552,261 629,267 629,333 552,328 476,322 400,315 324,309 248,302" />
+        <Baseline points="248,279 324,286 400,292 476,299 552,305 629,311" />
+        <TextEquiv>
+          <Unicode>TORI SEMPER AV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="240,286 318,285 396,283 475,282 553,281 631,281 631,351 553,351 475,352 396,353 318,354 240,356" />
+        <Baseline points="240,350 318,348 396,347 475,345 553,345 631,345" />
+        <TextEquiv>
+          <Unicode>GVSTO OCTAVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="240,374 318,378 395,383 473,389 550,394 628,399 628,457 550,452 473,446 395,441 318,436 240,432" />
+        <Baseline points="240,416 318,420 395,425 473,430 550,436 628,441" />
+        <TextEquiv>
+          <Unicode>CLARVS V C AGENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="271,444 335,450 398,456 462,462 525,467 589,473 589,537 525,531 462,526 398,520 335,514 271,508" />
+        <Baseline points="271,486 335,492 398,498 462,503 525,509 589,515" />
+        <TextEquiv>
+          <Unicode>VICARIAM PFEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="294,506 349,507 404,509 459,510 514,511 569,512 569,565 514,564 459,563 404,562 349,561 294,560" />
+        <Baseline points="294,553 349,555 404,556 459,557 514,558 569,559" />
+        <TextEquiv>
+          <Unicode>TVRAM FAMV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="267,574 332,576 396,578 461,580 526,583 590,585 590,634 526,631 461,629 396,626 332,624 267,622" />
+        <Baseline points="267,616 332,618 396,620 461,623 526,625 590,628" />
+        <TextEquiv>
+          <Unicode>LVS EIVS POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

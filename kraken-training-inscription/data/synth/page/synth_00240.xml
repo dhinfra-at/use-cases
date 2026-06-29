@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00240.jpg" imageWidth="900" imageHeight="595">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,595 0,595" />
+      <TextLine id="r1l1">
+        <Coords points="120,76 243,66 366,56 489,45 612,36 736,29 736,104 612,112 489,121 366,131 243,141 120,151" />
+        <Baseline points="120,145 243,135 366,124 489,114 612,105 736,98" />
+        <TextEquiv>
+          <Unicode>Q MEMMIVS OPTATI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="220,164 308,159 397,154 486,148 574,142 663,136 663,199 574,205 486,211 397,217 308,222 220,227" />
+        <Baseline points="220,221 308,216 397,210 486,204 574,199 663,193" />
+        <TextEquiv>
+          <Unicode>QVIRINA NIGER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="89,257 240,257 390,258 541,260 691,262 842,263 842,332 691,331 541,328 390,326 240,326 89,326" />
+        <Baseline points="89,284 240,284 390,284 541,286 691,289 842,290" />
+        <TextEquiv>
+          <Unicode>STATVAS DVAS AEREAS VNAM NOMINIS SVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="96,337 236,332 376,328 516,325 656,324 796,323 796,386 656,387 516,388 376,391 236,395 96,400" />
+        <Baseline points="96,377 236,373 376,369 516,366 656,364 796,364" />
+        <TextEquiv>
+          <Unicode>ALTERAM PATRIS PONI IVSSIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="101,410 189,411 278,411 366,411 455,411 544,411 544,476 455,477 366,477 278,477 189,476 101,476" />
+        <Baseline points="101,451 189,451 278,452 366,452 455,452 544,451" />
+        <TextEquiv>
+          <Unicode>C MEMMIVS SEVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

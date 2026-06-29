@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00202.jpg" imageWidth="900" imageHeight="481">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,481 0,481" />
+      <TextLine id="r1l1">
+        <Coords points="317,75 356,77 396,79 435,81 474,83 513,85 513,126 474,124 435,122 396,120 356,118 317,116" />
+        <Baseline points="317,103 356,106 396,108 435,110 474,112 513,114" />
+        <TextEquiv>
+          <Unicode>VG PONT MAX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="248,95 287,94 326,93 365,92 404,91 443,89 443,127 404,128 365,129 326,130 287,132 248,133" />
+        <Baseline points="248,130 287,128 326,127 365,126 404,125 443,124" />
+        <TextEquiv>
+          <Unicode>XIIII COS XIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="208,129 268,127 327,125 387,123 447,121 507,118 507,158 447,160 387,162 327,165 268,167 208,169" />
+        <Baseline points="208,166 268,164 327,162 387,160 447,157 507,155" />
+        <TextEquiv>
+          <Unicode>ATRIAE VICTORIAE SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="161,167 242,165 324,164 405,162 486,160 568,158 568,193 486,195 405,197 324,199 242,201 161,203" />
+        <Baseline points="161,200 242,198 324,197 405,195 486,193 568,191" />
+        <TextEquiv>
+          <Unicode>MILIVS L F NIGELLVS AED IIVIR D S P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

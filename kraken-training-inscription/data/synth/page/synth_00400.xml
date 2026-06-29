@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00400.jpg" imageWidth="900" imageHeight="528">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,528 0,528" />
+      <TextLine id="r1l1">
+        <Coords points="364,162 399,164 433,166 467,169 502,171 536,173 536,232 502,230 467,228 433,225 399,223 364,221" />
+        <Baseline points="364,207 399,209 433,211 467,214 502,216 536,218" />
+        <TextEquiv>
+          <Unicode>SALVTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="381,226 408,225 436,224 464,223 491,222 519,221 519,278 491,279 464,280 436,281 408,282 381,283" />
+        <Baseline points="381,277 408,277 436,276 464,275 491,274 519,273" />
+        <TextEquiv>
+          <Unicode>S EX V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="324,296 374,297 423,297 473,297 523,298 572,298 572,351 523,351 473,350 423,350 374,350 324,349" />
+        <Baseline points="324,344 374,344 423,344 473,345 523,345 572,345" />
+        <TextEquiv>
+          <Unicode>M MARIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="324,363 373,363 423,363 472,363 521,363 571,364 571,416 521,415 472,415 423,415 373,415 324,415" />
+        <Baseline points="324,409 373,409 423,410 472,410 521,410 571,410" />
+        <TextEquiv>
+          <Unicode>CAESIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

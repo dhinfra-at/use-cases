@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00315.jpg" imageWidth="900" imageHeight="1003">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1003 0,1003" />
+      <TextLine id="r1l1">
+        <Coords points="403,93 420,92 436,91 453,90 470,90 486,89 486,125 470,126 453,126 436,127 420,128 403,129" />
+        <Baseline points="403,125 420,124 436,123 453,122 470,122 486,121" />
+        <TextEquiv>
+          <Unicode>I O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="320,142 397,139 473,137 550,134 626,132 702,129 702,164 626,167 550,169 473,171 397,174 320,177" />
+        <Baseline points="320,174 397,170 473,168 550,165 626,163 702,160" />
+        <TextEquiv>
+          <Unicode>VTE IMP CAES T AELI HA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="266,178 345,172 424,166 503,161 582,155 660,149 660,199 582,205 503,211 424,217 345,222 266,228" />
+        <Baseline points="266,225 345,219 424,213 503,207 582,201 660,196" />
+        <TextEquiv>
+          <Unicode>ANI ANTONINI AVG PII ET VE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="305,248 376,249 446,250 517,251 588,253 659,255 659,304 588,302 517,301 446,299 376,298 305,298" />
+        <Baseline points="305,277 376,277 446,278 517,280 588,282 659,283" />
+        <TextEquiv>
+          <Unicode>S TEMPLVM ET STATVAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="279,300 357,301 434,301 511,301 589,302 666,303 666,351 589,349 511,349 434,349 357,348 279,347" />
+        <Baseline points="279,328 357,329 434,329 511,330 589,330 666,332" />
+        <TextEquiv>
+          <Unicode>ET CONSISSTENTIBVS IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="286,344 354,345 422,345 490,346 558,347 626,348 626,393 558,392 490,391 422,391 354,390 286,389" />
+        <Baseline points="286,371 354,372 422,373 490,374 558,374 626,375" />
+        <TextEquiv>
+          <Unicode>ANABIS AELIS LEG XI CL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="266,392 342,393 418,394 494,394 570,394 646,394 646,440 570,440 494,439 418,439 342,438 266,437" />
+        <Baseline points="266,420 342,421 418,421 494,422 570,422 646,422" />
+        <TextEquiv>
+          <Unicode>N OPPIVS SOTERICHVS ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="291,435 361,434 431,433 500,432 570,430 639,427 639,461 570,464 500,466 431,467 361,468 291,469" />
+        <Baseline points="291,463 361,462 431,461 500,459 570,457 639,455" />
+        <TextEquiv>
+          <Unicode>PIVS SEVERVS FIL EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="258,463 334,457 409,451 484,444 559,438 634,432 634,482 559,488 484,494 409,500 334,507 258,513" />
+        <Baseline points="258,510 334,504 409,497 484,491 559,485 634,478" />
+        <TextEquiv>
+          <Unicode>D SVO FECERVNT DEDICA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="302,510 374,505 446,500 518,495 591,490 663,484 663,529 591,534 518,539 446,544 374,550 302,555" />
+        <Baseline points="302,552 374,546 446,541 518,536 591,531 663,526" />
+        <TextEquiv>
+          <Unicode>EST PER TIB CL SATVRNI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="292,563 369,560 446,556 523,552 599,548 676,545 676,581 599,585 523,589 446,592 369,596 292,599" />
+        <Baseline points="292,596 369,593 446,589 523,586 599,582 676,578" />
+        <TextEquiv>
+          <Unicode>LEG AVG PR PR TIB CL IVLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="356,613 393,614 431,614 468,614 505,614 543,615 543,651 505,651 468,651 431,651 393,650 356,650" />
+        <Baseline points="356,640 393,640 431,640 468,641 505,641 543,641" />
+        <TextEquiv>
+          <Unicode>ANO LEG AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

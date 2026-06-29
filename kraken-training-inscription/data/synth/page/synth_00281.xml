@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00281.jpg" imageWidth="900" imageHeight="599">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,599 0,599" />
+      <TextLine id="r1l1">
+        <Coords points="420,213 431,213 441,213 452,213 462,213 472,213 472,244 462,244 452,244 441,244 431,245 420,245" />
+        <Baseline points="420,240 431,239 441,239 452,239 462,239 472,239" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="324,254 373,252 422,250 470,248 519,247 568,245 568,276 519,278 470,280 422,282 373,283 324,285" />
+        <Baseline points="324,281 373,279 422,278 470,276 519,274 568,272" />
+        <TextEquiv>
+          <Unicode>C VALERIO NASONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="277,277 344,272 412,267 479,261 546,256 614,250 614,296 546,302 479,307 412,313 344,318 277,324" />
+        <Baseline points="277,320 344,315 412,309 479,304 546,298 614,293" />
+        <TextEquiv>
+          <Unicode>MIL EX CLASSE PRET MISE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="251,314 328,308 406,303 483,298 560,293 638,288 638,331 560,336 483,341 406,346 328,352 251,357" />
+        <Baseline points="251,354 328,348 406,342 483,337 560,332 638,327" />
+        <TextEquiv>
+          <Unicode>CENTVRIA SECVNDI VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="332,364 379,364 427,364 474,364 522,364 569,364 569,395 522,395 474,395 427,395 379,395 332,395" />
+        <Baseline points="332,385 379,385 427,385 474,385 522,385 569,385" />
+        <TextEquiv>
+          <Unicode>XXXX MIL ANNIS XXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="311,382 367,378 424,374 480,370 536,366 592,362 592,398 536,403 480,407 424,411 367,415 311,419" />
+        <Baseline points="311,416 367,412 424,408 480,404 536,399 592,395" />
+        <TextEquiv>
+          <Unicode>AMATIA CALLYTICHE CONIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="330,425 381,426 432,427 482,428 533,430 584,431 584,465 533,464 482,463 432,462 381,461 330,460" />
+        <Baseline points="330,444 381,446 432,447 482,448 533,449 584,450" />
+        <TextEquiv>
+          <Unicode>GI BENE MERENTI FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

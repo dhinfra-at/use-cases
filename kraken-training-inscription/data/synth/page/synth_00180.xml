@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00180.jpg" imageWidth="900" imageHeight="613">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,613 0,613" />
+      <TextLine id="r1l1">
+        <Coords points="295,127 359,130 423,132 487,135 551,138 616,142 616,199 551,196 487,193 423,190 359,187 295,184" />
+        <Baseline points="295,175 359,178 423,180 487,183 551,186 616,190" />
+        <TextEquiv>
+          <Unicode>L ANTONIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="358,206 396,207 434,209 471,210 509,211 546,212 546,265 509,264 471,263 434,261 396,260 358,259" />
+        <Baseline points="358,253 396,254 434,255 471,256 509,257 546,258" />
+        <TextEquiv>
+          <Unicode>RVFINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="376,281 405,283 435,284 464,285 493,287 522,288 522,335 493,334 464,333 435,332 405,330 376,329" />
+        <Baseline points="376,322 405,324 435,325 464,326 493,327 522,329" />
+        <TextEquiv>
+          <Unicode>IIVIRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="316,333 368,333 420,333 471,333 523,332 575,332 575,387 523,387 471,387 420,388 368,388 316,388" />
+        <Baseline points="316,383 368,382 420,382 471,382 523,381 575,381" />
+        <TextEquiv>
+          <Unicode>THALLVS ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="351,406 385,408 419,409 454,410 488,412 522,413 522,452 488,450 454,449 419,448 385,446 351,445" />
+        <Baseline points="351,440 385,441 419,443 454,444 488,445 522,447" />
+        <TextEquiv>
+          <Unicode>RYTHMVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="414,462 425,462 436,462 446,463 457,463 468,464 468,499 457,499 446,498 436,498 425,498 414,497" />
+        <Baseline points="414,493 425,493 436,493 446,494 457,494 468,494" />
+        <TextEquiv>
+          <Unicode>LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

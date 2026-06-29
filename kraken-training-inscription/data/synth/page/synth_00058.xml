@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00058.jpg" imageWidth="900" imageHeight="594">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,594 0,594" />
+      <TextLine id="r1l1">
+        <Coords points="371,141 408,140 445,138 481,137 518,135 555,134 555,193 518,194 481,196 445,197 408,199 371,200" />
+        <Baseline points="371,193 408,191 445,190 481,188 518,186 555,185" />
+        <TextEquiv>
+          <Unicode>TILLAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="316,217 337,216 357,215 378,214 399,213 420,212 420,268 399,269 378,270 357,271 337,272 316,274" />
+        <Baseline points="316,266 337,265 357,264 378,263 399,262 420,260" />
+        <TextEquiv>
+          <Unicode>N III</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="282,294 303,293 324,292 344,290 365,289 386,288 386,340 365,342 344,343 324,344 303,346 282,347" />
+        <Baseline points="282,340 303,339 324,338 344,337 365,335 386,334" />
+        <TextEquiv>
+          <Unicode>VS XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="272,377 285,376 297,376 310,376 323,376 335,376 335,425 323,426 310,426 297,426 285,426 272,426" />
+        <Baseline points="272,418 285,418 297,418 310,418 323,418 335,418" />
+        <TextEquiv>
+          <Unicode>VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="323,430 348,429 372,427 396,426 420,425 444,424 444,471 420,472 396,473 372,474 348,476 323,477" />
+        <Baseline points="323,471 348,470 372,468 396,467 420,466 444,465" />
+        <TextEquiv>
+          <Unicode>TINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

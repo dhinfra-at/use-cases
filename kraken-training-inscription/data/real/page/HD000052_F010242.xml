@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000052_F010242.jpg" imageWidth="800" imageHeight="707">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,706 0,706"/>
+      <TextLine id="r1l1">
+        <Coords points="49,177 778,177 778,255 49,255"/>
+        <Baseline points="49,241 778,241"/>
+        <TextEquiv><Unicode>PRO·SALVTE·ET·REDITV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="51,245 772,245 772,329 51,329"/>
+        <Baseline points="51,317 772,317"/>
+        <TextEquiv><Unicode>ET·VICTORIAS·DOM·N</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="42,324 732,320 742,329 741,357 744,387 42,396"/>
+        <Baseline points="42,386 730,374"/>
+        <TextEquiv><Unicode>IMP·CAES·M·AVRELI·ANT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="42,390 734,382 749,446 42,456"/>
+        <Baseline points="42,444 749,435"/>
+        <TextEquiv><Unicode>NIN·I·PI·I·FEL·AVG·BRIT·MA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="44,441 765,440 765,516 44,517"/>
+        <Baseline points="44,505 765,504"/>
+        <TextEquiv><Unicode>ET·IVLIAE·AVG·MAT·AVG·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="194,514 643,501 643,574 194,587"/>
+        <Baseline points="194,578 643,565"/>
+        <TextEquiv><Unicode>CASTRORVM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="41,574 764,564 764,630 41,640"/>
+        <Baseline points="41,628 764,618"/>
+        <TextEquiv><Unicode>L·VALERIO·DATO·PR·VIG·E·V·ET</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00143.jpg" imageWidth="900" imageHeight="469">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,469 0,469" />
+      <TextLine id="r1l1">
+        <Coords points="147,125 184,127 221,129 258,131 294,133 331,134 331,184 294,183 258,181 221,179 184,177 147,175" />
+        <Baseline points="147,164 184,166 221,168 258,170 294,171 331,173" />
+        <TextEquiv>
+          <Unicode>Q POMPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="147,180 178,182 209,183 239,185 270,187 301,188 301,238 270,237 239,235 209,233 178,232 147,230" />
+        <Baseline points="147,219 178,220 209,222 239,224 270,225 301,227" />
+        <TextEquiv>
+          <Unicode>VS LVPVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="107,224 159,222 212,220 265,218 317,216 370,214 370,270 317,272 265,273 212,275 159,277 107,279" />
+        <Baseline points="107,275 159,273 212,271 265,269 317,267 370,265" />
+        <TextEquiv>
+          <Unicode>V Q POMPONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="131,295 186,296 240,297 294,298 348,298 403,299 403,342 348,341 294,341 240,340 186,339 131,338" />
+        <Baseline points="131,333 186,334 240,335 294,335 348,336 403,337" />
+        <TextEquiv>
+          <Unicode>S Q F THALLIO F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="137,350 199,352 261,355 323,357 385,359 447,362 447,412 385,410 323,407 261,405 199,403 137,400" />
+        <Baseline points="137,388 199,390 261,392 323,395 385,397 447,399" />
+        <TextEquiv>
+          <Unicode>VI ET PAMPHILVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

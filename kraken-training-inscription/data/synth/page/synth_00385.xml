@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00385.jpg" imageWidth="900" imageHeight="516">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,516 0,516" />
+      <TextLine id="r1l1">
+        <Coords points="401,144 452,143 504,143 555,143 607,143 659,143 659,193 607,194 555,194 504,194 452,194 401,194" />
+        <Baseline points="401,186 452,185 504,185 555,185 607,185 659,185" />
+        <TextEquiv>
+          <Unicode>VL INGENVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="278,212 341,214 404,216 467,218 530,220 593,222 593,283 530,280 467,278 404,276 341,274 278,272" />
+        <Baseline points="278,251 341,253 404,255 467,258 530,260 593,262" />
+        <TextEquiv>
+          <Unicode>IO INFELICISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="257,269 320,268 383,267 446,266 510,266 573,265 573,308 510,309 446,309 383,310 320,311 257,313" />
+        <Baseline points="257,307 320,306 383,305 446,304 510,303 573,303" />
+        <TextEquiv>
+          <Unicode>DEFVNCTO NN XVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

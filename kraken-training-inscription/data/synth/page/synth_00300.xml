@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00300.jpg" imageWidth="900" imageHeight="717">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,717 0,717" />
+      <TextLine id="r1l1">
+        <Coords points="397,83 416,83 435,83 453,83 472,83 491,83 491,135 472,135 453,135 435,135 416,135 397,135" />
+        <Baseline points="397,128 416,128 435,128 453,128 472,128 491,128" />
+        <TextEquiv>
+          <Unicode>I O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="297,138 350,138 402,137 455,137 508,136 561,136 561,195 508,195 455,196 402,196 350,196 297,197" />
+        <Baseline points="297,190 350,190 402,190 455,189 508,189 561,188" />
+        <TextEquiv>
+          <Unicode>SVLPICIVS CAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="270,193 335,192 401,191 466,190 532,188 597,187 597,252 532,254 466,255 401,256 335,257 270,258" />
+        <Baseline points="270,252 335,251 401,250 466,248 532,247 597,246" />
+        <TextEquiv>
+          <Unicode>VIO C LEG I M PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="289,263 346,262 403,262 460,262 517,261 574,261 574,320 517,321 460,321 403,321 346,321 289,322" />
+        <Baseline points="289,315 346,315 403,315 460,315 517,314 574,314" />
+        <TextEquiv>
+          <Unicode>AEPOSITVS CH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="279,322 341,321 403,321 465,320 527,320 589,320 589,381 527,381 465,381 403,382 341,383 279,384" />
+        <Baseline points="279,377 341,376 403,376 465,375 527,375 589,374" />
+        <TextEquiv>
+          <Unicode>O I BELG HOC IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="288,400 347,404 405,408 464,412 522,416 581,420 581,478 522,474 464,470 405,466 347,462 288,458" />
+        <Baseline points="288,442 347,446 405,450 464,454 522,458 581,462" />
+        <TextEquiv>
+          <Unicode>LOCO MAIESTA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="318,454 366,454 414,454 462,453 510,453 558,453 558,509 510,509 462,509 414,510 366,510 318,510" />
+        <Baseline points="318,504 366,504 414,504 462,503 510,503 558,503" />
+        <TextEquiv>
+          <Unicode>TE ET NVMIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="325,525 370,527 416,529 462,532 507,534 553,536 553,585 507,583 462,581 416,579 370,577 325,575" />
+        <Baseline points="325,566 370,568 416,570 462,572 507,574 553,576" />
+        <TextEquiv>
+          <Unicode>EIVS SERVAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="426,591 435,591 444,591 454,592 463,592 472,592 472,639 463,639 454,639 444,638 435,638 426,638" />
+        <Baseline points="426,631 435,632 444,632 454,632 463,633 472,633" />
+        <TextEquiv>
+          <Unicode>VS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

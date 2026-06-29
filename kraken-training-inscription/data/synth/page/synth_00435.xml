@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00435.jpg" imageWidth="900" imageHeight="474">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,474 0,474" />
+      <TextLine id="r1l1">
+        <Coords points="409,75 427,75 445,74 463,74 481,74 499,73 499,128 481,129 463,129 445,130 427,130 409,130" />
+        <Baseline points="409,124 427,123 445,123 463,122 481,122 499,121" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="280,135 348,135 416,136 484,136 553,135 621,135 621,190 553,190 484,191 416,191 348,191 280,190" />
+        <Baseline points="280,184 348,185 416,185 484,185 553,184 621,184" />
+        <TextEquiv>
+          <Unicode>M VLPIO PRIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="394,205 416,206 439,206 461,207 484,207 506,208 506,250 484,250 461,249 439,249 416,248 394,247" />
+        <Baseline points="394,242 416,242 439,243 461,243 484,244 506,244" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="295,258 355,259 415,261 475,262 536,264 596,265 596,303 536,301 475,300 415,299 355,297 295,295" />
+        <Baseline points="295,290 355,292 415,293 475,295 536,296 596,298" />
+        <TextEquiv>
+          <Unicode>M VLPIVS MAXIMVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="379,303 405,303 431,303 457,303 482,303 508,302 508,338 482,338 457,339 431,339 405,339 379,339" />
+        <Baseline points="379,335 405,335 431,334 457,334 482,334 508,334" />
+        <TextEquiv>
+          <Unicode>ALVMNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

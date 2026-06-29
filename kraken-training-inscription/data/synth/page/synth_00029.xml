@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00029.jpg" imageWidth="900" imageHeight="613">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,613 0,613" />
+      <TextLine id="r1l1">
+        <Coords points="362,87 393,86 424,84 456,83 487,82 518,81 518,118 487,119 456,121 424,122 393,123 362,125" />
+        <Baseline points="362,120 393,118 424,117 456,116 487,115 518,113" />
+        <TextEquiv>
+          <Unicode>D MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="352,136 388,133 424,130 460,127 496,124 533,121 533,165 496,168 460,171 424,174 388,177 352,180" />
+        <Baseline points="352,175 388,172 424,169 460,166 496,163 533,160" />
+        <TextEquiv>
+          <Unicode>NA ERRENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="349,197 387,197 426,197 464,197 503,197 542,197 542,241 503,241 464,241 426,241 387,241 349,240" />
+        <Baseline points="349,227 387,227 426,227 464,228 503,228 542,228" />
+        <TextEquiv>
+          <Unicode>AE PRO L P I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="362,248 396,247 429,245 462,244 495,243 529,241 529,275 495,277 462,278 429,279 396,281 362,282" />
+        <Baseline points="362,278 396,276 429,275 462,274 495,272 529,271" />
+        <TextEquiv>
+          <Unicode>L CRISTA AR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="396,294 418,293 440,291 462,289 484,287 506,286 506,323 484,325 462,326 440,328 418,330 396,332" />
+        <Baseline points="396,327 418,326 440,324 462,322 484,320 506,318" />
+        <TextEquiv>
+          <Unicode>SVO V S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

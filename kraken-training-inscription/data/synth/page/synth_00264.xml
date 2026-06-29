@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00264.jpg" imageWidth="900" imageHeight="708">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,708 0,708" />
+      <TextLine id="r1l1">
+        <Coords points="420,142 433,142 446,142 460,142 473,142 486,142 486,182 473,183 460,183 446,183 433,183 420,183" />
+        <Baseline points="420,179 433,178 446,178 460,178 473,178 486,178" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="345,193 388,194 430,195 472,195 515,196 557,197 557,234 515,234 472,233 430,232 388,232 345,231" />
+        <Baseline points="345,227 388,228 430,228 472,229 515,230 557,230" />
+        <TextEquiv>
+          <Unicode>L M RVSTICS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="332,234 379,233 426,232 473,232 520,231 567,230 567,274 520,275 473,275 426,276 379,277 332,278" />
+        <Baseline points="332,274 379,273 426,272 473,271 520,271 567,270" />
+        <TextEquiv>
+          <Unicode>ET L M PISONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="276,289 343,293 410,295 478,298 545,301 613,303 613,344 545,342 478,339 410,336 343,334 276,330" />
+        <Baseline points="276,319 343,322 410,325 478,328 545,330 613,333" />
+        <TextEquiv>
+          <Unicode>ANVS M CETEGIANAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="371,332 401,334 432,336 462,338 493,340 523,342 523,379 493,377 462,375 432,373 401,372 371,370" />
+        <Baseline points="371,360 401,362 432,364 462,365 493,367 523,369" />
+        <TextEquiv>
+          <Unicode>SORORI SVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="342,375 384,376 426,377 469,379 511,380 553,381 553,414 511,413 469,411 426,410 384,409 342,407" />
+        <Baseline points="342,401 384,403 426,404 469,405 511,407 553,408" />
+        <TextEquiv>
+          <Unicode>BENE MERENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="334,404 376,404 419,403 461,402 503,401 545,400 545,436 503,437 461,438 419,439 376,440 334,441" />
+        <Baseline points="334,437 376,437 419,436 461,435 503,434 545,433" />
+        <TextEquiv>
+          <Unicode>DE SVO FECERVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

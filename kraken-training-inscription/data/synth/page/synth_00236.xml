@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00236.jpg" imageWidth="900" imageHeight="743">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,743 0,743" />
+      <TextLine id="r1l1">
+        <Coords points="410,150 426,152 443,153 460,154 476,156 493,157 493,213 476,212 460,211 443,209 426,208 410,206" />
+        <Baseline points="410,197 426,199 443,200 460,201 476,203 493,204" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="334,220 380,222 426,225 472,228 519,231 565,233 565,288 519,286 472,283 426,280 380,277 334,275" />
+        <Baseline points="334,263 380,266 426,269 472,272 519,274 565,277" />
+        <TextEquiv>
+          <Unicode>AVR ASTERI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="335,288 381,291 426,294 472,297 518,300 563,303 563,355 518,353 472,350 426,347 381,344 335,341" />
+        <Baseline points="335,329 381,332 426,335 472,338 518,341 563,344" />
+        <TextEquiv>
+          <Unicode>O DEF NN XL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="323,349 373,354 423,359 474,364 524,368 574,373 574,430 524,426 474,421 423,416 373,411 323,406" />
+        <Baseline points="323,387 373,392 423,397 474,402 524,406 574,410" />
+        <TextEquiv>
+          <Unicode>AVRELIA OCTA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="317,409 370,412 422,414 474,417 527,419 579,422 579,465 527,462 474,460 422,457 370,455 317,452" />
+        <Baseline points="317,444 370,446 422,449 474,452 527,454 579,457" />
+        <TextEquiv>
+          <Unicode>VIA CON INCON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="320,464 370,468 420,472 470,475 520,479 570,482 570,528 520,524 470,521 420,517 370,513 320,509" />
+        <Baseline points="320,496 370,499 420,503 470,507 520,510 570,514" />
+        <TextEquiv>
+          <Unicode>PARABILI ET AVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="330,512 375,515 421,517 467,520 512,524 558,527 558,568 512,564 467,561 421,558 375,555 330,552" />
+        <Baseline points="330,541 375,544 421,547 467,550 512,553 558,557" />
+        <TextEquiv>
+          <Unicode>DIONYSIVS PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="417,560 430,561 442,562 455,563 467,564 480,565 480,598 467,597 455,596 442,595 430,594 417,593" />
+        <Baseline points="417,587 430,588 442,589 455,590 467,591 480,592" />
+        <TextEquiv>
+          <Unicode>B M P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

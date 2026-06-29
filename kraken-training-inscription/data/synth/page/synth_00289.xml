@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00289.jpg" imageWidth="900" imageHeight="647">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,647 0,647" />
+      <TextLine id="r1l1">
+        <Coords points="248,150 327,154 406,158 485,161 564,165 643,168 643,205 564,201 485,198 406,194 327,190 248,187" />
+        <Baseline points="248,178 327,182 406,185 485,189 564,192 643,196" />
+        <TextEquiv>
+          <Unicode>FLAVIVS INSTEIVS CILO C P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="168,190 279,198 389,205 499,213 609,220 719,227 719,278 609,270 499,263 389,256 279,248 168,240" />
+        <Baseline points="168,218 279,225 389,233 499,240 609,248 719,255" />
+        <TextEquiv>
+          <Unicode>FILIVS FLAVI IVLIANI C V ET INSTEIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="344,231 384,230 423,230 463,231 503,231 543,231 543,269 503,269 463,269 423,269 384,269 344,269" />
+        <Baseline points="344,265 384,265 423,265 463,265 503,265 543,265" />
+        <TextEquiv>
+          <Unicode>CILONIDIS C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="331,281 378,284 425,286 472,289 519,292 566,295 566,334 519,331 472,328 425,325 378,322 331,319" />
+        <Baseline points="331,308 378,311 425,314 472,317 519,320 566,323" />
+        <TextEquiv>
+          <Unicode>HIC DEPOSITVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="328,321 376,322 424,324 473,327 521,329 569,331 569,365 521,363 473,360 424,358 376,356 328,354" />
+        <Baseline points="328,348 376,350 424,352 473,354 521,356 569,358" />
+        <TextEquiv>
+          <Unicode>EST XI KAL IANVA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="417,366 430,367 443,368 457,369 470,370 483,371 483,405 470,404 457,403 443,402 430,401 417,400" />
+        <Baseline points="417,394 430,395 443,396 457,397 470,397 483,398" />
+        <TextEquiv>
+          <Unicode>RIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

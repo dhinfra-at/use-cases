@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000307_F019386.jpg" imageWidth="800" imageHeight="1220">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1219 0,1219"/>
+      <TextLine id="r1l1">
+        <Coords points="218,466 629,493 629,623 218,596"/>
+        <Baseline points="218,578 629,605"/>
+        <TextEquiv><Unicode>VICTOR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="203,584 645,607 645,719 203,696"/>
+        <Baseline points="203,678 645,701"/>
+        <TextEquiv><Unicode>AVRELI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="197,689 597,697 597,807 197,799"/>
+        <Baseline points="197,783 597,791"/>
+        <TextEquiv><Unicode>F·AN·IIII</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="198,772 537,787 537,905 198,890"/>
+        <Baseline points="198,866 537,881"/>
+        <TextEquiv><Unicode>PATER·</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="352,878 501,882 501,1028 352,1024"/>
+        <Baseline points="352,1003 501,1007"/>
+        <TextEquiv><Unicode>P</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="226,1005 448,1012 446,1145 226,1138"/>
+        <Baseline points="226,1117 449,1124"/>
+        <TextEquiv><Unicode>H·S·</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00062.jpg" imageWidth="900" imageHeight="611">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,611 0,611" />
+      <TextLine id="r1l1">
+        <Coords points="306,80 365,81 424,82 483,83 542,84 601,85 601,149 542,148 483,147 424,146 365,145 306,144" />
+        <Baseline points="306,137 365,138 424,139 483,140 542,141 601,142" />
+        <TextEquiv>
+          <Unicode>MVNTISSIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="320,171 372,174 424,178 477,182 529,186 581,189 581,262 529,258 477,255 424,251 372,247 320,244" />
+        <Baseline points="320,224 372,228 424,231 477,235 529,239 581,242" />
+        <TextEquiv>
+          <Unicode>S PRIVATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="291,245 354,245 417,245 481,245 544,245 607,245 607,305 544,305 481,305 417,305 354,305 291,306" />
+        <Baseline points="291,300 354,300 417,300 481,300 544,300 607,300" />
+        <TextEquiv>
+          <Unicode>AN XXXX ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="293,317 354,315 416,314 477,313 539,311 601,309 601,371 539,373 477,374 416,376 354,377 293,378" />
+        <Baseline points="293,373 354,372 416,370 477,369 539,368 601,366" />
+        <TextEquiv>
+          <Unicode>QVINTA ASPR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="328,387 373,386 418,385 464,383 509,382 554,380 554,436 509,437 464,439 418,440 373,442 328,443" />
+        <Baseline points="328,438 373,437 418,435 464,434 509,433 554,431" />
+        <TextEquiv>
+          <Unicode>ONIS VIVA FE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="312,459 363,460 414,461 465,462 516,463 567,464 567,504 516,503 465,502 414,501 363,500 312,499" />
+        <Baseline points="312,494 363,495 414,497 465,498 516,499 567,500" />
+        <TextEquiv>
+          <Unicode>SIBI ET MARITO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

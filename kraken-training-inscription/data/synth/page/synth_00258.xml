@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00258.jpg" imageWidth="900" imageHeight="895">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,895 0,895" />
+      <TextLine id="r1l1">
+        <Coords points="405,222 425,223 446,225 466,226 486,228 507,230 507,292 486,290 466,289 446,287 425,285 405,284" />
+        <Baseline points="405,271 425,272 446,274 466,275 486,277 507,279" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="220,285 312,282 404,280 497,277 589,276 681,275 681,347 589,348 497,350 404,352 312,355 220,358" />
+        <Baseline points="220,351 312,348 404,346 497,343 589,341 681,341" />
+        <TextEquiv>
+          <Unicode>CLAVDIA LVCILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="248,381 328,385 408,389 489,392 569,394 649,395 649,452 569,451 489,448 408,445 328,442 248,438" />
+        <Baseline points="248,425 328,429 408,433 489,436 569,438 649,439" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS LX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="398,457 418,457 438,457 458,457 478,457 498,457 498,505 478,505 458,505 438,505 418,505 398,506" />
+        <Baseline points="398,500 418,499 438,499 458,499 478,499 498,499" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="293,512 353,510 414,508 474,506 535,504 595,502 595,561 535,563 474,565 414,567 353,568 293,570" />
+        <Baseline points="293,565 353,563 414,561 474,559 535,557 595,555" />
+        <TextEquiv>
+          <Unicode>ET T FL FVSCVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="305,581 359,580 412,579 465,578 519,576 572,575 572,626 519,628 465,629 412,630 359,631 305,633" />
+        <Baseline points="305,627 359,626 412,625 465,624 519,622 572,621" />
+        <TextEquiv>
+          <Unicode>MARITVS EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="276,644 341,644 407,644 473,644 538,643 604,643 604,687 538,687 473,687 407,687 341,687 276,688" />
+        <Baseline points="276,683 341,683 407,682 473,682 538,682 604,682" />
+        <TextEquiv>
+          <Unicode>SE VIVO AMBIS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="380,704 404,703 428,703 452,703 476,703 500,703 500,739 476,739 452,739 428,740 404,740 380,740" />
+        <Baseline points="380,736 404,735 428,735 452,735 476,735 500,735" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

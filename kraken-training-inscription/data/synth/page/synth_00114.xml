@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00114.jpg" imageWidth="900" imageHeight="1034">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1034 0,1034" />
+      <TextLine id="r1l1">
+        <Coords points="404,168 426,167 448,166 470,165 492,164 515,163 515,233 492,234 470,235 448,236 426,237 404,238" />
+        <Baseline points="404,229 426,228 448,227 470,226 492,225 515,224" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="256,262 333,265 410,267 486,269 563,271 640,274 640,347 563,345 486,343 410,341 333,338 256,336" />
+        <Baseline points="256,316 333,319 410,321 486,323 563,325 640,328" />
+        <TextEquiv>
+          <Unicode>C HERENNIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="308,335 366,333 424,332 482,330 540,329 598,328 598,396 540,397 482,398 424,400 366,401 308,402" />
+        <Baseline points="308,394 366,393 424,392 482,390 540,389 598,388" />
+        <TextEquiv>
+          <Unicode>BVCCIO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="233,404 304,401 375,398 446,395 517,392 588,389 588,465 517,468 446,471 375,474 304,477 233,480" />
+        <Baseline points="233,472 304,469 375,466 446,463 517,460 588,457" />
+        <TextEquiv>
+          <Unicode>VLPIA SECVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="259,495 320,495 380,494 441,494 502,493 563,493 563,553 502,554 441,554 380,555 320,555 259,556" />
+        <Baseline points="259,548 320,548 380,547 441,547 502,546 563,546" />
+        <TextEquiv>
+          <Unicode>FECERVNT V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="266,573 314,573 361,574 409,575 457,575 504,576 504,636 457,635 409,635 361,634 314,633 266,632" />
+        <Baseline points="266,622 314,622 361,623 409,624 457,624 504,625" />
+        <TextEquiv>
+          <Unicode>NAE PIEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="267,647 311,647 355,647 398,647 442,647 486,647 486,702 442,702 398,702 355,702 311,702 267,702" />
+        <Baseline points="267,695 311,695 355,695 398,695 442,695 486,695" />
+        <TextEquiv>
+          <Unicode>MO CAPI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="259,719 295,720 331,721 367,722 404,723 440,724 440,781 404,780 367,779 331,778 295,777 259,777" />
+        <Baseline points="259,765 295,766 331,767 367,768 404,769 440,770" />
+        <TextEquiv>
+          <Unicode>BENE M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="301,786 320,785 339,785 358,785 377,784 396,784 396,838 377,838 358,838 339,839 320,839 301,840" />
+        <Baseline points="301,833 320,833 339,832 358,832 377,831 396,831" />
+        <TextEquiv>
+          <Unicode>QVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="310,851 323,851 336,850 349,850 362,849 375,848 375,901 362,901 349,902 336,902 323,903 310,904" />
+        <Baseline points="310,897 323,897 336,896 349,895 362,895 375,894" />
+        <TextEquiv>
+          <Unicode>VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

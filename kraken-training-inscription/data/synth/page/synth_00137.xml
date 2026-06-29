@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00137.jpg" imageWidth="900" imageHeight="682">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,682 0,682" />
+      <TextLine id="r1l1">
+        <Coords points="105,184 119,184 133,184 147,184 161,184 176,184 176,232 161,232 147,232 133,232 119,232 105,232" />
+        <Baseline points="105,227 119,227 133,227 147,227 161,227 176,227" />
+        <TextEquiv>
+          <Unicode>DIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,242 135,242 166,242 198,242 229,242 260,243 260,293 229,292 198,292 166,292 135,292 104,291" />
+        <Baseline points="104,287 135,287 166,287 198,287 229,288 260,288" />
+        <TextEquiv>
+          <Unicode>MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="103,306 137,309 170,312 204,315 238,318 271,321 271,369 238,366 204,363 170,361 137,358 103,355" />
+        <Baseline points="103,344 137,347 170,350 204,353 238,355 271,358" />
+        <TextEquiv>
+          <Unicode>CLAVDIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="102,360 124,362 147,363 169,365 191,367 213,369 213,413 191,412 169,410 147,408 124,406 102,405" />
+        <Baseline points="102,397 124,398 147,400 169,402 191,404 213,406" />
+        <TextEquiv>
+          <Unicode>ELATE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="101,405 140,406 179,406 217,406 256,407 295,407 295,455 256,454 217,454 179,454 140,453 101,453" />
+        <Baseline points="101,449 140,449 179,449 217,450 256,450 295,450" />
+        <TextEquiv>
+          <Unicode>IVLIA HAGIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="100,466 138,469 175,471 213,473 250,475 288,477 288,519 250,516 213,514 175,512 138,510 100,508" />
+        <Baseline points="100,501 138,503 175,506 213,508 250,510 288,512" />
+        <TextEquiv>
+          <Unicode>FILIA MATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="100,515 126,516 153,517 179,518 206,519 232,519 232,559 206,558 179,558 153,557 126,556 100,555" />
+        <Baseline points="100,551 126,552 153,553 179,554 206,554 232,555" />
+        <TextEquiv>
+          <Unicode>OPTIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

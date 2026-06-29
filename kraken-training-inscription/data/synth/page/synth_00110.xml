@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00110.jpg" imageWidth="900" imageHeight="1013">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1013 0,1013" />
+      <TextLine id="r1l1">
+        <Coords points="112,53 174,54 237,56 300,57 362,59 425,61 425,123 362,122 300,120 237,119 174,117 112,116" />
+        <Baseline points="112,108 174,110 237,111 300,113 362,114 425,116" />
+        <TextEquiv>
+          <Unicode>IMP CAES L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="106,113 207,112 308,110 409,109 510,108 611,107 611,189 510,191 409,192 308,193 207,194 106,196" />
+        <Baseline points="106,188 207,187 308,185 409,184 510,183 611,182" />
+        <TextEquiv>
+          <Unicode>SEPTIMIVS SEVERVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="100,220 185,223 269,225 353,227 438,229 522,231 522,294 438,291 353,289 269,287 185,285 100,283" />
+        <Baseline points="100,275 185,278 269,280 353,282 438,284 522,286" />
+        <TextEquiv>
+          <Unicode>PIVS PERT AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="94,291 223,293 352,294 481,293 610,294 739,297 739,372 610,369 481,369 352,369 223,369 94,367" />
+        <Baseline points="94,359 223,361 352,361 481,361 610,362 739,364" />
+        <TextEquiv>
+          <Unicode>ARAB ADIAB PARTH MAX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="89,373 164,372 239,371 314,370 389,369 464,369 464,445 389,446 314,447 239,448 164,449 89,450" />
+        <Baseline points="89,442 164,441 239,440 314,439 389,438 464,437" />
+        <TextEquiv>
+          <Unicode>TRIB POTEST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="83,461 174,462 264,463 355,464 445,465 536,465 536,536 445,535 355,534 264,533 174,532 83,532" />
+        <Baseline points="83,524 174,525 264,526 355,527 445,528 536,528" />
+        <TextEquiv>
+          <Unicode>IX IMP XII COS II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="78,555 162,560 247,564 332,569 417,573 502,576 502,642 417,638 332,634 247,630 162,626 78,621" />
+        <Baseline points="78,606 162,611 247,615 332,620 417,624 502,627" />
+        <TextEquiv>
+          <Unicode>PROCOS ET IMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="72,638 163,640 255,643 347,646 438,649 530,652 530,711 438,708 347,705 255,702 163,700 72,697" />
+        <Baseline points="72,690 163,692 255,695 347,698 438,701 530,704" />
+        <TextEquiv>
+          <Unicode>CAES MAR AVREL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="66,701 154,700 241,699 328,698 415,697 502,697 502,774 415,775 328,775 241,776 154,777 66,778" />
+        <Baseline points="66,771 154,770 241,769 328,768 415,767 502,766" />
+        <TextEquiv>
+          <Unicode>ANTONINVS PIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="61,793 164,794 268,795 372,796 476,797 580,798 580,868 476,867 372,866 268,865 164,864 61,862" />
+        <Baseline points="61,854 164,856 268,857 372,858 476,859 580,860" />
+        <TextEquiv>
+          <Unicode>FEL AVG TRI POTEST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="55,872 175,876 295,880 415,882 536,882 656,882 656,949 536,949 415,949 295,947 175,943 55,939" />
+        <Baseline points="55,932 175,936 295,940 415,942 536,942 656,942" />
+        <TextEquiv>
+          <Unicode>IIII PROCOS A T M P LIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

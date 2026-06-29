@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00232.jpg" imageWidth="900" imageHeight="427">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,427 0,427" />
+      <TextLine id="r1l1">
+        <Coords points="83,107 95,106 106,106 118,106 129,105 141,105 141,141 129,141 118,142 106,142 95,143 83,143" />
+        <Baseline points="83,137 95,137 106,137 118,136 129,136 141,135" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="85,158 144,157 203,155 262,154 321,152 380,149 380,189 321,192 262,194 203,195 144,197 85,198" />
+        <Baseline points="85,188 144,187 203,185 262,183 321,181 380,179" />
+        <TextEquiv>
+          <Unicode>L OSTRI VESONTIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="86,207 125,205 164,203 203,201 242,199 281,197 281,230 242,232 203,234 164,236 125,238 86,240" />
+        <Baseline points="86,236 125,234 164,232 203,230 242,228 281,226" />
+        <TextEquiv>
+          <Unicode>VIXIT AN XXXVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="88,257 127,256 166,255 205,254 244,253 283,253 283,289 244,290 205,290 166,291 127,292 88,293" />
+        <Baseline points="88,283 127,282 166,282 205,281 244,280 283,279" />
+        <TextEquiv>
+          <Unicode>MES III DIEB XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

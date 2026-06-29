@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00122.jpg" imageWidth="900" imageHeight="495">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,495 0,495" />
+      <TextLine id="r1l1">
+        <Coords points="83,144 150,149 217,155 284,160 351,165 418,171 418,225 351,220 284,214 217,209 150,204 83,199" />
+        <Baseline points="83,181 150,186 217,191 284,197 351,202 418,208" />
+        <TextEquiv>
+          <Unicode>BONE MEMORIE IRENE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="82,195 147,195 213,195 278,195 343,195 409,195 409,245 343,245 278,245 213,246 147,246 82,245" />
+        <Baseline points="82,241 147,242 213,242 278,241 343,241 409,241" />
+        <TextEquiv>
+          <Unicode>BIXIT SIC IN PACE ANOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="80,252 143,253 206,253 270,254 333,255 396,255 396,299 333,298 270,297 206,297 143,296 80,296" />
+        <Baseline points="80,292 143,293 206,293 270,294 333,294 396,295" />
+        <TextEquiv>
+          <Unicode>VIIII PS MS S D XIII M MAII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="79,310 94,310 110,311 125,311 140,311 156,311 156,344 140,344 125,344 110,343 94,343 79,343" />
+        <Baseline points="79,340 94,340 110,340 125,340 140,341 156,341" />
+        <TextEquiv>
+          <Unicode>IND XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

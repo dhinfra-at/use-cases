@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00390.jpg" imageWidth="900" imageHeight="479">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,479 0,479" />
+      <TextLine id="r1l1">
+        <Coords points="303,136 362,138 421,140 480,142 540,144 599,146 599,180 540,178 480,176 421,174 362,172 303,170" />
+        <Baseline points="303,166 362,168 421,170 480,172 540,174 599,176" />
+        <TextEquiv>
+          <Unicode>BEBIDIAE SALVIANETI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="297,178 358,181 419,183 481,186 542,189 603,191 603,222 542,219 481,216 419,213 358,211 297,208" />
+        <Baseline points="297,204 358,207 419,209 481,212 542,215 603,218" />
+        <TextEquiv>
+          <Unicode>QVE VIXIT NN III M V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="296,200 356,200 415,199 474,199 534,199 593,198 593,241 534,242 474,242 415,243 356,243 296,243" />
+        <Baseline points="296,240 356,239 415,239 474,238 534,238 593,238" />
+        <TextEquiv>
+          <Unicode>D XIIII TERTIVS ET DONA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="301,251 357,255 414,259 470,264 527,268 584,272 584,306 527,302 470,298 414,293 357,289 301,285" />
+        <Baseline points="301,273 357,278 414,282 470,286 527,291 584,295" />
+        <TextEquiv>
+          <Unicode>TA PARENTES FILIE INFE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="383,287 408,290 433,292 458,294 483,297 508,299 508,329 483,326 458,324 433,322 408,319 383,317" />
+        <Baseline points="383,308 408,310 433,312 458,315 483,317 508,320" />
+        <TextEquiv>
+          <Unicode>LICISIME P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

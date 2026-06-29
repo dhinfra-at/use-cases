@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00389.jpg" imageWidth="900" imageHeight="441">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,441 0,441" />
+      <TextLine id="r1l1">
+        <Coords points="341,93 382,93 423,92 464,92 505,92 546,92 546,137 505,137 464,138 423,138 382,138 341,139" />
+        <Baseline points="341,135 382,135 423,134 464,134 505,134 546,134" />
+        <TextEquiv>
+          <Unicode>MICCINA FIDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="353,155 388,158 423,161 458,164 493,167 528,170 528,212 493,209 458,206 423,203 388,200 353,197" />
+        <Baseline points="353,186 388,189 423,192 458,195 493,198 528,201" />
+        <TextEquiv>
+          <Unicode>LIS IN PACE VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="355,207 390,210 426,213 462,217 498,220 534,223 534,266 498,263 462,260 426,256 390,253 355,250" />
+        <Baseline points="355,239 390,242 426,245 462,248 498,251 534,254" />
+        <TextEquiv>
+          <Unicode>XIT NN XI RQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="280,246 342,247 404,249 466,251 527,252 589,254 589,294 527,293 466,291 404,289 342,287 280,286" />
+        <Baseline points="280,282 342,284 404,285 466,287 527,289 589,291" />
+        <TextEquiv>
+          <Unicode>XVIII KA FEBRVARIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

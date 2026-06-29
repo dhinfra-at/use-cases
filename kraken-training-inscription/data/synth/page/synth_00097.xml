@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00097.jpg" imageWidth="900" imageHeight="447">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,447 0,447" />
+      <TextLine id="r1l1">
+        <Coords points="188,90 289,91 389,92 490,93 590,93 691,93 691,136 590,136 490,136 389,135 289,134 188,133" />
+        <Baseline points="188,119 289,120 389,121 490,121 590,121 691,121" />
+        <TextEquiv>
+          <Unicode>M PONTIVS AVCTVS ET M PONTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="230,122 314,117 399,113 483,108 567,104 652,100 652,145 567,149 483,153 399,157 314,162 230,166" />
+        <Baseline points="230,162 314,158 399,153 483,149 567,145 652,141" />
+        <TextEquiv>
+          <Unicode>IVCVNDVS AED LIBERO PATRI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="367,177 400,176 432,176 465,175 497,175 529,174 529,201 497,202 465,202 432,203 400,203 367,204" />
+        <Baseline points="367,200 400,200 432,199 465,199 497,198 529,198" />
+        <TextEquiv>
+          <Unicode>THIASO SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002271_F023284.jpg" imageWidth="1000" imageHeight="1016">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,1015 0,1015"/>
+      <TextLine id="r1l1">
+        <Coords points="307,77 659,84 659,219 307,212"/>
+        <Baseline points="307,191 659,198"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="127,205 834,195 834,325 127,335"/>
+        <Baseline points="127,315 834,305"/>
+        <TextEquiv><Unicode>EVTYCHIAE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="891,311 122,320 122,447 891,438"/>
+        <Baseline points="891,417 122,426"/>
+        <TextEquiv><Unicode>FECIT ONESI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="104,435 952,419 952,552 104,568"/>
+        <Baseline points="104,544 952,528"/>
+        <TextEquiv><Unicode>MVS CONIVGI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="130,541 953,544 953,695 130,692"/>
+        <Baseline points="130,670 953,673"/>
+        <TextEquiv><Unicode>BENE MEREN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="257,675 726,679 726,815 257,811"/>
+        <Baseline points="257,789 726,793"/>
+        <TextEquiv><Unicode>TI</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

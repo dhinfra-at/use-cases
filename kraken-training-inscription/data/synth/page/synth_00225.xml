@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00225.jpg" imageWidth="900" imageHeight="588">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,588 0,588" />
+      <TextLine id="r1l1">
+        <Coords points="161,163 175,163 189,163 203,163 218,163 232,163 232,221 218,221 203,221 189,221 175,221 161,221" />
+        <Baseline points="161,211 175,211 189,211 203,211 218,211 232,211" />
+        <TextEquiv>
+          <Unicode>NE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="73,241 109,241 145,240 180,240 216,239 252,238 252,292 216,293 180,294 145,294 109,295 73,295" />
+        <Baseline points="73,286 109,286 145,285 180,285 216,284 252,283" />
+        <TextEquiv>
+          <Unicode>DEF NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="78,310 122,309 167,307 211,306 256,306 300,305 300,354 256,355 211,356 167,357 122,358 78,360" />
+        <Baseline points="78,353 122,351 167,350 211,348 256,348 300,347" />
+        <TextEquiv>
+          <Unicode>XVIII NON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="83,378 117,376 152,374 186,373 220,371 255,368 255,418 220,420 186,422 152,424 117,426 83,427" />
+        <Baseline points="83,421 117,420 152,418 186,416 220,414 255,412" />
+        <TextEquiv>
+          <Unicode>DVM LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="87,441 126,439 165,436 204,434 242,432 281,429 281,477 242,480 204,482 165,484 126,487 87,489" />
+        <Baseline points="87,483 126,481 165,479 204,477 242,474 281,472" />
+        <TextEquiv>
+          <Unicode>CASS CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="91,493 139,489 186,485 234,481 282,478 330,474 330,524 282,528 234,531 186,535 139,539 91,543" />
+        <Baseline points="91,538 139,534 186,530 234,526 282,523 330,519" />
+        <TextEquiv>
+          <Unicode>STANTILLA P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

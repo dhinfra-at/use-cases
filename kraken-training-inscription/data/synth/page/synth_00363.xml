@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00363.jpg" imageWidth="900" imageHeight="581">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,581 0,581" />
+      <TextLine id="r1l1">
+        <Coords points="200,197 286,198 371,198 457,198 542,198 628,198 628,248 542,248 457,249 371,249 286,248 200,247" />
+        <Baseline points="200,243 286,244 371,244 457,244 542,244 628,243" />
+        <TextEquiv>
+          <Unicode>ISIDORA FECERVNT SIBI FI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="304,270 355,274 405,277 456,281 506,285 557,288 557,338 506,335 456,331 405,327 355,324 304,320" />
+        <Baseline points="304,303 355,306 405,310 456,314 506,317 557,321" />
+        <TextEquiv>
+          <Unicode>LISQ ET SVIS LIBER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

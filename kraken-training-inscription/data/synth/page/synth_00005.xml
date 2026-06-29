@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00005.jpg" imageWidth="900" imageHeight="545">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,545 0,545" />
+      <TextLine id="r1l1">
+        <Coords points="300,95 361,96 423,97 484,98 546,100 608,102 608,158 546,156 484,155 423,153 361,152 300,151" />
+        <Baseline points="300,145 361,146 423,148 484,149 546,151 608,152" />
+        <TextEquiv>
+          <Unicode>SVPERIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="301,159 359,159 418,159 476,158 535,158 593,157 593,219 535,219 476,220 418,220 359,220 301,220" />
+        <Baseline points="301,215 359,215 418,214 476,214 535,213 593,213" />
+        <TextEquiv>
+          <Unicode>VIXIT IN PACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="315,235 368,238 421,241 475,244 528,247 581,251 581,304 528,300 475,297 421,294 368,291 315,288" />
+        <Baseline points="315,276 368,279 421,282 475,285 528,288 581,291" />
+        <TextEquiv>
+          <Unicode>ANNOS TRES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="295,287 353,287 412,287 470,287 528,287 587,287 587,338 528,338 470,338 412,338 353,338 295,338" />
+        <Baseline points="295,333 353,333 412,333 470,333 528,333 587,333" />
+        <TextEquiv>
+          <Unicode>RED X KAL AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

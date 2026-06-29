@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00090.jpg" imageWidth="900" imageHeight="498">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,498 0,498" />
+      <TextLine id="r1l1">
+        <Coords points="404,153 423,154 441,155 459,156 478,157 496,158 496,203 478,202 459,201 441,200 423,199 404,198" />
+        <Baseline points="404,193 423,194 441,195 459,196 478,197 496,198" />
+        <TextEquiv>
+          <Unicode>I O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="347,203 388,202 429,202 469,202 510,202 551,202 551,251 510,251 469,252 429,252 388,252 347,252" />
+        <Baseline points="347,248 388,248 429,248 469,248 510,247 551,247" />
+        <TextEquiv>
+          <Unicode>DVLICEN SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="406,271 424,272 441,273 459,274 476,275 493,277 493,317 476,316 459,315 441,314 424,313 406,312" />
+        <Baseline points="406,306 424,307 441,308 459,309 476,310 493,311" />
+        <TextEquiv>
+          <Unicode>VERA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="400,324 420,325 440,325 460,326 480,327 500,328 500,364 480,363 460,362 440,361 420,360 400,360" />
+        <Baseline points="400,355 420,356 440,357 460,358 480,359 500,360" />
+        <TextEquiv>
+          <Unicode>V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

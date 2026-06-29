@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00288.jpg" imageWidth="900" imageHeight="545">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,545 0,545" />
+      <TextLine id="r1l1">
+        <Coords points="262,157 329,156 396,155 463,153 531,152 598,150 598,193 531,195 463,197 396,198 329,200 262,201" />
+        <Baseline points="262,197 329,196 396,194 463,193 531,191 598,189" />
+        <TextEquiv>
+          <Unicode>HIC IACIT SIC ASPASIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="244,222 319,222 393,222 468,222 543,222 617,222 617,259 543,260 468,260 393,260 319,260 244,260" />
+        <Baseline points="244,253 319,254 393,254 468,254 543,253 617,253" />
+        <TextEquiv>
+          <Unicode>ADVLISCENS SIC QVI EXCES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="269,259 335,256 402,252 469,248 536,244 603,240 603,290 536,294 469,298 402,302 335,306 269,309" />
+        <Baseline points="269,305 335,302 402,298 469,295 536,290 603,286" />
+        <TextEquiv>
+          <Unicode>SIT E REBVS HVMANIS AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="241,326 318,330 396,333 474,337 552,340 630,344 630,394 552,390 474,387 396,383 318,380 241,376" />
+        <Baseline points="241,353 318,356 396,360 474,363 552,367 630,370" />
+        <TextEquiv>
+          <Unicode>RM XXIIIIII NON SEP D N THEODO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="313,372 365,372 417,373 469,373 520,373 572,374 572,405 520,405 469,404 417,404 365,403 313,403" />
+        <Baseline points="313,396 365,397 417,397 469,397 520,398 572,398" />
+        <TextEquiv>
+          <Unicode>SIO XVI ET FAVSTO VV CC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

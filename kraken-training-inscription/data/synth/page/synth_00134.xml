@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00134.jpg" imageWidth="900" imageHeight="561">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,561 0,561" />
+      <TextLine id="r1l1">
+        <Coords points="65,211 80,210 94,209 109,208 123,207 138,207 138,242 123,243 109,243 94,244 80,245 65,246" />
+        <Baseline points="65,242 80,241 94,240 109,239 123,238 138,237" />
+        <TextEquiv>
+          <Unicode>I O M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="67,262 132,261 198,261 263,260 329,259 394,258 394,300 329,301 263,302 198,303 132,303 67,304" />
+        <Baseline points="67,289 132,289 198,288 263,287 329,287 394,286" />
+        <TextEquiv>
+          <Unicode>M AEMILIVS CRESCENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="68,310 129,309 190,307 250,306 311,305 371,304 371,341 311,342 250,343 190,344 129,345 68,346" />
+        <Baseline points="68,335 129,334 190,333 250,332 311,331 371,329" />
+        <TextEquiv>
+          <Unicode>PRAEF CLASS GERM P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="70,352 129,351 189,351 249,351 308,351 368,350 368,389 308,389 249,389 189,389 129,390 70,390" />
+        <Baseline points="70,375 129,375 189,375 249,374 308,374 368,374" />
+        <TextEquiv>
+          <Unicode>CVM AEMILIO MACRINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="71,392 117,392 164,392 210,393 257,393 303,393 303,427 257,427 210,427 164,427 117,427 71,427" />
+        <Baseline points="71,414 117,414 164,414 210,414 257,414 303,414" />
+        <TextEquiv>
+          <Unicode>FILIO HIC SVSCEPTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

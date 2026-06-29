@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00362.jpg" imageWidth="900" imageHeight="905">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,905 0,905" />
+      <TextLine id="r1l1">
+        <Coords points="82,124 184,129 286,134 389,138 491,142 593,145 593,205 491,201 389,198 286,194 184,189 82,184" />
+        <Baseline points="82,170 184,175 286,180 389,184 491,188 593,191" />
+        <TextEquiv>
+          <Unicode>DIIS PATRIIS ET MAVRIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="80,200 168,203 255,206 343,209 430,212 518,214 518,266 430,264 343,261 255,259 168,256 80,252" />
+        <Baseline points="80,244 168,247 255,250 343,253 430,256 518,258" />
+        <TextEquiv>
+          <Unicode>CONSERVATORIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="78,263 159,263 241,264 322,264 404,264 485,263 485,323 404,324 322,324 241,324 159,323 78,323" />
+        <Baseline points="78,316 159,317 241,317 322,317 404,317 485,317" />
+        <TextEquiv>
+          <Unicode>AELIVS AELIANVS V P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="76,331 158,330 239,330 320,330 402,329 483,329 483,390 402,390 320,391 239,391 158,391 76,391" />
+        <Baseline points="76,385 158,385 239,385 320,384 402,384 483,384" />
+        <TextEquiv>
+          <Unicode>PRAESES PROVINCIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="75,398 151,398 227,397 304,397 380,396 457,396 457,455 380,455 304,455 227,456 151,457 75,457" />
+        <Baseline points="75,451 151,451 227,450 304,449 380,449 457,449" />
+        <TextEquiv>
+          <Unicode>MAVRETANIAE CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="73,461 177,461 280,462 383,462 487,463 590,463 590,519 487,519 383,519 280,518 177,518 73,518" />
+        <Baseline points="73,512 177,512 280,512 383,513 487,513 590,514" />
+        <TextEquiv>
+          <Unicode>OB PROSTRATAM GENTEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="71,539 163,545 254,551 345,557 437,564 528,570 528,631 437,625 345,618 254,612 163,606 71,600" />
+        <Baseline points="71,575 163,581 254,587 345,594 437,600 528,607" />
+        <TextEquiv>
+          <Unicode>BAVARVM MESEGNEITISIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="70,581 165,582 260,582 355,582 449,581 544,579 544,635 449,636 355,637 260,638 165,637 70,637" />
+        <Baseline points="70,632 165,632 260,632 355,632 449,631 544,629" />
+        <TextEquiv>
+          <Unicode>PRAEDASQVE OMNES AC FAMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="69,646 142,647 215,647 288,648 361,649 435,650 435,694 361,693 288,692 215,691 142,691 69,691" />
+        <Baseline points="69,686 142,686 215,687 288,687 361,688 435,689" />
+        <TextEquiv>
+          <Unicode>LIAS EORVM ABDVCTAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="67,700 116,699 166,699 215,699 265,698 314,698 314,743 265,744 215,744 166,744 116,745 67,745" />
+        <Baseline points="67,740 116,740 166,740 215,739 265,739 314,738" />
+        <TextEquiv>
+          <Unicode>VOTVM SOLVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00381.jpg" imageWidth="900" imageHeight="664">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,664 0,664" />
+      <TextLine id="r1l1">
+        <Coords points="118,64 245,72 372,80 499,88 626,96 754,102 754,167 626,161 499,153 372,145 245,137 118,129" />
+        <Baseline points="118,113 245,121 372,129 499,137 626,145 754,151" />
+        <TextEquiv>
+          <Unicode>P LVCILIO P F P NEP P PRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="113,118 234,120 355,121 476,121 598,120 719,119 719,213 598,214 476,215 355,215 234,214 113,212" />
+        <Baseline points="113,203 234,205 355,207 476,206 598,205 719,204" />
+        <TextEquiv>
+          <Unicode>N P ABNEP GAMALAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="108,222 230,226 352,232 474,237 597,241 719,243 719,299 597,296 474,293 352,288 230,282 108,278" />
+        <Baseline points="108,271 230,276 352,282 474,287 597,290 719,292" />
+        <TextEquiv>
+          <Unicode>AEDILI TRIB MILIT DEC ADLEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="104,285 234,287 365,289 496,290 626,292 757,295 757,362 626,359 496,357 365,356 234,354 104,352" />
+        <Baseline points="104,346 234,348 365,350 496,351 626,353 757,356" />
+        <TextEquiv>
+          <Unicode>EX D D GRATEIS SIC IIVIRO IIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,380 202,390 306,399 410,408 514,416 617,425 617,507 514,498 410,489 306,480 202,471 98,462" />
+        <Baseline points="98,433 202,443 306,452 410,461 514,469 617,478" />
+        <TextEquiv>
+          <Unicode>DEC DECR PVBLICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="94,459 219,465 344,471 469,477 594,482 719,488 719,535 594,529 469,523 344,518 219,512 94,506" />
+        <Baseline points="94,500 219,506 344,511 469,517 594,523 719,528" />
+        <TextEquiv>
+          <Unicode>QVOD IS CAVSAM COLONIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="89,514 215,516 341,519 466,523 592,527 718,529 718,598 592,596 466,592 341,588 215,585 89,583" />
+        <Baseline points="89,576 215,578 341,581 466,585 592,589 718,591" />
+        <TextEquiv>
+          <Unicode>PVBLICAM EGIT IN SENATV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

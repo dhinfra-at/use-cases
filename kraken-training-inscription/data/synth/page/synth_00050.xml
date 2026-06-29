@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00050.jpg" imageWidth="900" imageHeight="548">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,548 0,548" />
+      <TextLine id="r1l1">
+        <Coords points="405,79 422,79 440,80 458,81 476,81 494,82 494,137 476,136 458,135 440,135 422,134 405,134" />
+        <Baseline points="405,126 422,126 440,127 458,127 476,128 494,129" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="301,148 358,151 416,154 473,157 530,160 588,164 588,223 530,220 473,217 416,213 358,210 301,207" />
+        <Baseline points="301,190 358,194 416,197 473,200 530,203 588,207" />
+        <TextEquiv>
+          <Unicode>COLLEGIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="320,205 372,205 423,204 474,204 526,203 577,203 577,256 526,257 474,257 423,258 372,258 320,258" />
+        <Baseline points="320,252 372,252 423,252 474,251 526,251 577,250" />
+        <TextEquiv>
+          <Unicode>LVCI N FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="324,258 374,257 424,255 474,254 525,252 575,251 575,306 525,307 474,308 424,310 374,311 324,313" />
+        <Baseline points="324,307 374,306 424,304 474,303 525,301 575,300" />
+        <TextEquiv>
+          <Unicode>CASTOR MAG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="361,325 397,327 432,330 468,332 503,335 538,337 538,383 503,381 468,379 432,376 397,374 361,371" />
+        <Baseline points="361,358 397,360 432,363 468,365 503,368 538,370" />
+        <TextEquiv>
+          <Unicode>MEMORIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="400,374 420,375 441,377 461,378 481,380 502,381 502,419 481,418 461,416 441,415 420,413 400,412" />
+        <Baseline points="400,402 420,404 441,405 461,407 481,408 502,410" />
+        <TextEquiv>
+          <Unicode>CAVSA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

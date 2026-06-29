@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00322.jpg" imageWidth="900" imageHeight="463">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,463 0,463" />
+      <TextLine id="r1l1">
+        <Coords points="83,158 140,156 196,155 253,153 310,151 366,149 366,188 310,190 253,192 196,194 140,195 83,197" />
+        <Baseline points="83,194 140,192 196,190 253,188 310,187 366,185" />
+        <TextEquiv>
+          <Unicode>C IVLIVM POLYBIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="84,209 117,208 149,208 182,207 214,207 247,206 247,236 214,237 182,237 149,238 117,238 84,239" />
+        <Baseline points="84,236 117,235 149,234 182,234 214,233 247,233" />
+        <TextEquiv>
+          <Unicode>AED V A S P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="85,255 150,256 215,257 280,258 344,258 409,259 409,289 344,288 280,287 215,286 150,285 85,284" />
+        <Baseline points="85,276 150,277 215,278 280,279 344,280 409,281" />
+        <TextEquiv>
+          <Unicode>LANTERNARI TENE SCALAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

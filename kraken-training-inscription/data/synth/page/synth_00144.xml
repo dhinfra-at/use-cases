@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00144.jpg" imageWidth="900" imageHeight="518">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,518 0,518" />
+      <TextLine id="r1l1">
+        <Coords points="93,132 174,129 255,127 336,125 417,123 498,121 498,154 417,156 336,158 255,160 174,163 93,165" />
+        <Baseline points="93,161 174,159 255,156 336,154 417,152 498,150" />
+        <TextEquiv>
+          <Unicode>C VIBIVS C FIL VOLT DAPHNVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="94,172 176,171 258,170 340,169 421,169 503,168 503,201 421,202 340,203 258,204 176,205 94,206" />
+        <Baseline points="94,198 176,197 258,196 340,195 421,194 503,193" />
+        <TextEquiv>
+          <Unicode>ORN DEC HON AN V M IX H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="96,211 173,211 250,211 327,210 404,210 481,209 481,244 404,244 327,245 250,245 173,245 96,245" />
+        <Baseline points="96,236 173,235 250,235 327,235 404,234 481,234" />
+        <TextEquiv>
+          <Unicode>C VIBIVS C FIL VOL FLORVS DEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="97,246 179,245 262,245 344,244 426,244 509,244 509,278 426,278 344,278 262,278 179,279 97,280" />
+        <Baseline points="97,269 179,269 262,268 344,268 426,268 509,267" />
+        <TextEquiv>
+          <Unicode>IIVIR ET MVNERARIVS PHILIPPIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,276 126,274 155,273 183,271 211,270 239,268 239,298 211,300 183,302 155,303 126,304 98,306" />
+        <Baseline points="98,303 126,301 155,300 183,298 211,297 239,295" />
+        <TextEquiv>
+          <Unicode>F KARISS F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00451.jpg" imageWidth="900" imageHeight="974">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,974 0,974" />
+      <TextLine id="r1l1">
+        <Coords points="65,245 97,243 129,240 162,237 194,234 227,231 227,267 194,270 162,273 129,276 97,279 65,282" />
+        <Baseline points="65,279 97,276 129,273 162,270 194,267 227,264" />
+        <TextEquiv>
+          <Unicode>C TROCINAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="68,302 80,302 92,302 104,302 116,302 128,302 128,335 116,335 104,335 92,335 80,335 68,335" />
+        <Baseline points="68,329 80,329 92,329 104,329 116,329 128,329" />
+        <TextEquiv>
+          <Unicode>C LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="72,347 94,345 117,343 139,341 162,339 185,337 185,371 162,372 139,374 117,376 94,378 72,380" />
+        <Baseline points="72,377 94,375 117,373 139,371 162,369 185,367" />
+        <TextEquiv>
+          <Unicode>ONESIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="75,400 105,400 134,400 163,400 193,400 222,400 222,436 193,436 163,436 134,436 105,436 75,436" />
+        <Baseline points="75,426 105,426 134,426 163,426 193,426 222,426" />
+        <TextEquiv>
+          <Unicode>IIIIIIVIR AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="78,443 104,442 130,440 156,438 182,436 208,435 208,465 182,466 156,468 130,470 104,472 78,473" />
+        <Baseline points="78,471 104,469 130,467 156,465 182,464 208,462" />
+        <TextEquiv>
+          <Unicode>C TROCINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="82,487 114,484 147,481 179,478 212,474 245,471 245,506 212,510 179,513 147,516 114,519 82,522" />
+        <Baseline points="82,519 114,516 147,513 179,510 212,507 245,504" />
+        <TextEquiv>
+          <Unicode>PHILETVS LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="85,538 93,538 100,537 108,537 116,537 124,536 124,564 116,564 108,564 100,565 93,565 85,565" />
+        <Baseline points="85,563 93,562 100,562 108,562 116,561 124,561" />
+        <TextEquiv>
+          <Unicode>T P I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="88,578 111,576 134,574 156,572 179,570 202,568 202,599 179,601 156,603 134,605 111,607 88,609" />
+        <Baseline points="88,606 111,604 134,602 156,600 179,598 202,596" />
+        <TextEquiv>
+          <Unicode>C TROCINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="91,625 141,625 191,625 241,625 291,625 340,625 340,664 291,664 241,664 191,663 141,663 91,663" />
+        <Baseline points="91,648 141,648 191,648 241,649 291,649 340,649" />
+        <TextEquiv>
+          <Unicode>PARAMYTHIVS HERES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="94,667 110,666 125,665 141,664 157,664 173,663 173,689 157,689 141,690 125,691 110,692 94,693" />
+        <Baseline points="94,690 110,689 125,688 141,688 157,687 173,686" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="97,710 112,709 128,708 143,708 158,707 174,706 174,732 158,733 143,733 128,734 112,735 97,736" />
+        <Baseline points="97,733 112,732 128,731 143,731 158,730 174,729" />
+        <TextEquiv>
+          <Unicode>L D D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000598_F005527.jpg" imageWidth="800" imageHeight="1174">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1173 0,1173"/>
+      <TextLine id="r1l1">
+        <Coords points="226,168 677,181 677,269 226,256"/>
+        <Baseline points="226,243 677,256"/>
+        <TextEquiv><Unicode>LIBERO PATRI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="176,243 686,263 686,350 176,330"/>
+        <Baseline points="176,313 686,333"/>
+        <TextEquiv><Unicode>PRO SALVTE MAR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="194,319 672,337 672,439 194,421"/>
+        <Baseline points="194,406 672,424"/>
+        <TextEquiv><Unicode>TVRRANI DII ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="202,413 677,426 677,520 202,507"/>
+        <Baseline points="202,494 677,507"/>
+        <TextEquiv><Unicode>L AELIAE NICES</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="241,497 629,512 629,591 241,576"/>
+        <Baseline points="241,564 629,579"/>
+        <TextEquiv><Unicode>M TVRRAN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="160,558 684,591 684,670 160,637"/>
+        <Baseline points="160,623 684,656"/>
+        <TextEquiv><Unicode>PATROCLVS EX</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="230,633 572,654 572,743 230,722"/>
+        <Baseline points="230,708 572,729"/>
+        <TextEquiv><Unicode>VOTO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

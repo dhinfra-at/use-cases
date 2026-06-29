@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00376.jpg" imageWidth="900" imageHeight="960">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,960 0,960" />
+      <TextLine id="r1l1">
+        <Coords points="110,288 170,290 230,292 290,294 349,296 409,297 409,332 349,330 290,328 230,326 170,324 110,322" />
+        <Baseline points="110,319 170,321 230,323 290,325 349,327 409,328" />
+        <TextEquiv>
+          <Unicode>VOLVSSIVS VICTOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="109,336 174,340 239,345 304,349 369,354 434,359 434,405 369,400 304,395 239,391 174,386 109,382" />
+        <Baseline points="109,366 174,371 239,375 304,380 369,385 434,389" />
+        <TextEquiv>
+          <Unicode>TVLLIANVS CORNELIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="108,384 177,387 247,391 316,394 386,397 455,400 455,437 386,434 316,431 247,428 177,425 108,421" />
+        <Baseline points="108,413 177,417 247,420 316,423 386,426 455,429" />
+        <TextEquiv>
+          <Unicode>FILIVS CARISSIMVS BONVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="106,420 170,420 235,421 299,421 363,422 427,422 427,462 363,462 299,461 235,461 170,460 106,460" />
+        <Baseline points="106,457 170,457 235,458 299,458 363,459 427,459" />
+        <TextEquiv>
+          <Unicode>OBSEQVENTISSIMVS MO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="105,467 175,468 245,469 315,471 385,473 455,475 455,510 385,508 315,506 245,505 175,504 105,503" />
+        <Baseline points="105,500 175,500 245,502 315,503 385,505 455,507" />
+        <TextEquiv>
+          <Unicode>DESTVS VERECVNDVS PIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="104,509 161,510 218,510 276,511 333,512 390,512 390,549 333,548 276,547 218,547 161,546 104,546" />
+        <Baseline points="104,542 161,543 218,543 276,544 333,545 390,545" />
+        <TextEquiv>
+          <Unicode>INNOCENS CONTENTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="103,558 161,560 220,561 279,563 337,565 396,566 396,596 337,594 279,593 220,591 161,589 103,588" />
+        <Baseline points="103,585 161,587 220,588 279,590 337,592 396,593" />
+        <TextEquiv>
+          <Unicode>CORDATVS TIMIDVS PATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="101,599 172,603 242,608 313,612 383,616 453,621 453,659 383,655 313,650 242,646 172,642 101,637" />
+        <Baseline points="101,624 172,629 242,633 313,637 383,642 453,646" />
+        <TextEquiv>
+          <Unicode>ENS VICXIT SIC A X D IIII CC EE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="100,637 156,641 211,645 266,649 322,653 377,657 377,694 322,690 266,686 211,683 156,679 100,675" />
+        <Baseline points="100,662 156,666 211,670 266,674 322,678 377,681" />
+        <TextEquiv>
+          <Unicode>L VOLVSSIVS TERTVLLVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="99,662 162,661 224,661 287,660 350,660 412,659 412,699 350,700 287,700 224,701 162,702 99,702" />
+        <Baseline points="99,699 162,699 224,698 287,697 350,697 412,696" />
+        <TextEquiv>
+          <Unicode>ET IVLIA ATTICA PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

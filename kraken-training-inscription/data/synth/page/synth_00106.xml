@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00106.jpg" imageWidth="900" imageHeight="474">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,474 0,474" />
+      <TextLine id="r1l1">
+        <Coords points="104,83 156,81 209,79 262,78 315,76 367,75 367,113 315,114 262,116 209,118 156,119 104,121" />
+        <Baseline points="104,115 156,114 209,112 262,110 315,109 367,107" />
+        <TextEquiv>
+          <Unicode>DIS DEABVSQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,137 184,138 264,138 343,139 423,139 503,140 503,193 423,193 343,192 264,192 184,191 104,191" />
+        <Baseline points="104,170 184,170 264,171 343,171 423,172 503,172" />
+        <TextEquiv>
+          <Unicode>SECVNDVM INTERPRETA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="105,194 173,194 242,194 311,194 379,194 448,195 448,243 379,243 311,243 242,243 173,243 105,242" />
+        <Baseline points="105,225 173,226 242,226 311,226 379,226 448,226" />
+        <TextEquiv>
+          <Unicode>TIONEM ORACVLI CLARI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="106,248 141,247 176,246 210,245 245,245 280,244 280,282 245,282 210,283 176,284 141,285 106,285" />
+        <Baseline points="106,279 141,278 176,278 210,277 245,276 280,275" />
+        <TextEquiv>
+          <Unicode>APOLLINIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

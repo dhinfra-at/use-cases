@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00343.jpg" imageWidth="900" imageHeight="461">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,461 0,461" />
+      <TextLine id="r1l1">
+        <Coords points="403,107 422,107 441,108 460,108 478,108 497,109 497,151 478,151 460,150 441,150 422,150 403,150" />
+        <Baseline points="403,145 422,145 441,146 460,146 478,146 497,147" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="358,165 391,165 424,164 457,164 489,164 522,163 522,209 489,209 457,209 424,210 391,210 358,210" />
+        <Baseline points="358,206 391,206 424,206 457,205 489,205 522,205" />
+        <TextEquiv>
+          <Unicode>LELIA SOD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="365,228 395,227 424,227 453,226 483,226 512,225 512,269 483,269 453,270 424,270 395,271 365,272" />
+        <Baseline points="365,268 395,267 424,266 453,266 483,265 512,265" />
+        <TextEquiv>
+          <Unicode>ALA V A L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="409,295 421,296 433,296 446,297 458,297 470,298 470,333 458,333 446,332 433,332 421,331 409,330" />
+        <Baseline points="409,325 421,326 433,327 446,327 458,328 470,329" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

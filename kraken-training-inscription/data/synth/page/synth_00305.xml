@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00305.jpg" imageWidth="900" imageHeight="446">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,446 0,446" />
+      <TextLine id="r1l1">
+        <Coords points="93,75 184,77 275,78 365,79 456,82 548,86 548,164 456,159 365,157 275,156 184,155 93,152" />
+        <Baseline points="93,130 184,132 275,133 365,134 456,137 548,141" />
+        <TextEquiv>
+          <Unicode>FABIAE RVSTICAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="97,164 192,165 288,165 383,163 479,161 574,160 574,221 479,222 383,224 288,226 192,226 97,226" />
+        <Baseline points="97,218 192,218 288,218 383,216 479,214 574,213" />
+        <TextEquiv>
+          <Unicode>MATRI AN LXXXII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="101,253 230,257 360,262 489,267 619,272 748,278 748,362 619,356 489,351 360,346 230,341 101,337" />
+        <Baseline points="101,300 230,304 360,309 489,314 619,319 748,325" />
+        <TextEquiv>
+          <Unicode>L FABIO MAVRO F AN XXVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="105,340 213,344 321,348 429,351 537,353 644,356 644,433 537,430 429,428 321,425 213,421 105,417" />
+        <Baseline points="105,390 213,394 321,397 429,401 537,403 644,406" />
+        <TextEquiv>
+          <Unicode>CORNELIA OPTATA F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

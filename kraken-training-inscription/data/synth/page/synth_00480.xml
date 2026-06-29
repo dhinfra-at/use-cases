@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00480.jpg" imageWidth="900" imageHeight="825">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,825 0,825" />
+      <TextLine id="r1l1">
+        <Coords points="371,103 399,102 427,101 456,100 484,99 512,99 512,157 484,158 456,159 427,160 399,160 371,161" />
+        <Baseline points="371,154 399,153 427,152 456,151 484,150 512,150" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="272,194 341,193 409,193 477,192 546,192 614,191 614,258 546,258 477,258 409,259 341,260 272,260" />
+        <Baseline points="272,243 341,242 409,242 477,241 546,241 614,240" />
+        <TextEquiv>
+          <Unicode>C VIBIO C F MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="267,276 336,273 405,270 474,267 543,264 612,261 612,312 543,315 474,318 405,321 336,324 267,327" />
+        <Baseline points="267,322 336,319 405,316 474,313 543,310 612,307" />
+        <TextEquiv>
+          <Unicode>RTINIANO QVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="314,353 366,352 418,351 470,350 522,349 574,348 574,402 522,403 470,404 418,405 366,406 314,407" />
+        <Baseline points="314,396 366,395 418,394 470,393 522,392 574,391" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="299,417 359,413 420,409 480,404 540,399 600,395 600,450 540,455 480,460 420,464 359,469 299,473" />
+        <Baseline points="299,468 359,464 420,459 480,455 540,450 600,445" />
+        <TextEquiv>
+          <Unicode>XXVIII ET MENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="324,486 375,482 427,478 479,475 530,471 582,468 582,517 530,521 479,524 427,528 375,531 324,535" />
+        <Baseline points="324,531 375,527 427,523 479,520 530,516 582,513" />
+        <TextEquiv>
+          <Unicode>V ET DIEBVS V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="365,555 401,554 437,553 473,552 509,552 545,551 545,595 509,596 473,597 437,598 401,598 365,599" />
+        <Baseline points="365,592 401,591 437,590 473,589 509,588 545,587" />
+        <TextEquiv>
+          <Unicode>PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="346,617 390,618 433,619 476,620 519,620 562,621 562,671 519,670 476,670 433,669 390,668 346,667" />
+        <Baseline points="346,651 390,652 433,653 476,654 519,654 562,654" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="397,673 422,672 447,671 472,670 496,669 521,668 521,704 496,704 472,705 447,706 422,707 397,708" />
+        <Baseline points="397,703 422,702 447,702 472,701 496,700 521,699" />
+        <TextEquiv>
+          <Unicode>FILIO FE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="401,725 425,725 449,725 473,725 497,725 521,725 521,762 497,762 473,762 449,762 425,762 401,762" />
+        <Baseline points="401,754 425,754 449,754 473,754 497,754 521,754" />
+        <TextEquiv>
+          <Unicode>CERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

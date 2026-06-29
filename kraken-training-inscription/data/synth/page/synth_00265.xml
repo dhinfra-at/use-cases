@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00265.jpg" imageWidth="900" imageHeight="654">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,654 0,654" />
+      <TextLine id="r1l1">
+        <Coords points="268,67 337,63 406,58 474,53 543,48 612,43 612,107 543,112 474,117 406,122 337,127 268,131" />
+        <Baseline points="268,125 337,120 406,115 474,110 543,106 612,100" />
+        <TextEquiv>
+          <Unicode>ANTISTIVS ZO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="268,150 338,148 408,146 478,143 548,140 618,136 618,189 548,192 478,195 408,198 338,201 268,202" />
+        <Baseline points="268,195 338,193 408,191 478,188 548,184 618,181" />
+        <TextEquiv>
+          <Unicode>TICVS VIX NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="273,219 342,218 411,218 480,217 550,217 619,217 619,279 550,279 480,279 411,280 342,280 273,281" />
+        <Baseline points="273,263 342,262 411,262 480,261 550,261 619,261" />
+        <TextEquiv>
+          <Unicode>XXXVI H S E AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="270,282 340,279 411,276 482,273 553,269 623,266 623,316 553,320 482,323 411,326 340,329 270,333" />
+        <Baseline points="270,327 340,323 411,320 482,317 553,314 623,310" />
+        <TextEquiv>
+          <Unicode>TISTIA ANTONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="306,348 364,349 421,349 479,349 536,348 594,348 594,406 536,406 479,406 421,406 364,406 306,406" />
+        <Baseline points="306,389 364,389 421,389 479,389 536,389 594,389" />
+        <TextEquiv>
+          <Unicode>NA MARITA EI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="226,413 315,409 403,405 492,402 581,398 670,394 670,440 581,443 492,447 403,451 315,454 226,458" />
+        <Baseline points="226,452 315,449 403,445 492,442 581,438 670,434" />
+        <TextEquiv>
+          <Unicode>VS ET STELEA ATILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="295,456 357,450 419,444 481,438 543,432 605,426 605,487 543,493 481,499 419,505 357,511 295,517" />
+        <Baseline points="295,511 357,505 419,499 481,493 543,487 605,481" />
+        <TextEquiv>
+          <Unicode>FORTVNATA MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="283,531 350,530 417,528 485,527 552,525 619,523 619,569 552,571 485,573 417,574 350,576 283,577" />
+        <Baseline points="283,567 350,566 417,564 485,563 552,561 619,559" />
+        <TextEquiv>
+          <Unicode>T HEREDES PRIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00453.jpg" imageWidth="900" imageHeight="607">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,607 0,607" />
+      <TextLine id="r1l1">
+        <Coords points="108,98 179,97 250,96 322,96 393,95 464,94 464,149 393,150 322,150 250,151 179,152 108,152" />
+        <Baseline points="108,145 179,144 250,143 322,143 393,142 464,141" />
+        <TextEquiv>
+          <Unicode>VOLCENIA L F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="108,165 176,161 243,158 310,155 377,152 444,149 444,213 377,216 310,219 243,222 176,225 108,228" />
+        <Baseline points="108,222 176,218 243,215 310,212 377,209 444,206" />
+        <TextEquiv>
+          <Unicode>MARCELLINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="109,237 196,233 284,229 372,225 460,220 548,215 548,283 460,288 372,293 284,297 196,301 109,305" />
+        <Baseline points="109,298 196,294 284,290 372,286 460,281 548,276" />
+        <TextEquiv>
+          <Unicode>ARIAM SIC LAPIDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="109,327 156,328 204,330 251,332 298,333 346,335 346,394 298,392 251,390 204,389 156,387 109,386" />
+        <Baseline points="109,369 156,370 204,372 251,373 298,375 346,377" />
+        <TextEquiv>
+          <Unicode>STRAVIT ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="109,385 191,382 272,379 354,376 435,371 517,367 517,429 435,433 354,437 272,441 191,444 109,447" />
+        <Baseline points="109,441 191,438 272,435 354,431 435,427 517,422" />
+        <TextEquiv>
+          <Unicode>PODIO CIRCVMDED</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

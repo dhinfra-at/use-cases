@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00441.jpg" imageWidth="900" imageHeight="534">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,534 0,534" />
+      <TextLine id="r1l1">
+        <Coords points="361,73 386,73 411,73 436,73 462,73 487,73 487,113 462,113 436,113 411,113 386,113 361,113" />
+        <Baseline points="361,109 386,109 411,110 436,110 462,110 487,110" />
+        <TextEquiv>
+          <Unicode>PLVTONI S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="361,125 392,126 423,126 454,127 485,127 516,127 516,163 485,163 454,163 423,163 392,162 361,162" />
+        <Baseline points="361,158 392,159 423,159 454,160 485,160 516,160" />
+        <TextEquiv>
+          <Unicode>Q PVLLAIENVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="367,174 396,174 426,175 455,175 484,176 513,177 513,208 484,207 455,207 426,206 396,205 367,205" />
+        <Baseline points="367,202 396,203 426,203 455,204 484,204 513,205" />
+        <TextEquiv>
+          <Unicode>CLINIA SACER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="388,221 409,223 429,225 449,227 470,229 490,231 490,259 470,258 449,256 429,254 409,252 388,250" />
+        <Baseline points="388,242 409,244 429,246 449,248 470,250 490,252" />
+        <TextEquiv>
+          <Unicode>CERERIS D S P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

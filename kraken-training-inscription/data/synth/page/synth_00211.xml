@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00211.jpg" imageWidth="900" imageHeight="479">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,479 0,479" />
+      <TextLine id="r1l1">
+        <Coords points="103,217 140,217 177,217 215,217 252,217 289,217 289,269 252,269 215,270 177,270 140,270 103,269" />
+        <Baseline points="103,261 140,261 177,261 215,261 252,261 289,261" />
+        <TextEquiv>
+          <Unicode>CORIO E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,282 128,283 152,283 176,284 200,285 224,285 224,333 200,332 176,331 152,331 128,330 104,330" />
+        <Baseline points="104,320 128,321 152,321 176,322 200,322 224,323" />
+        <TextEquiv>
+          <Unicode>AVI H F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="106,343 131,342 156,342 182,341 207,341 232,340 232,375 207,375 182,376 156,376 131,377 106,377" />
+        <Baseline points="106,374 131,373 156,373 182,372 207,372 232,371" />
+        <TextEquiv>
+          <Unicode>FEC P CIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

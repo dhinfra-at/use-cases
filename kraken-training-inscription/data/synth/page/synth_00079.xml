@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00079.jpg" imageWidth="900" imageHeight="668">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,668 0,668" />
+      <TextLine id="r1l1">
+        <Coords points="393,85 409,84 426,83 442,82 459,81 476,80 476,137 459,138 442,139 426,140 409,141 393,142" />
+        <Baseline points="393,134 409,133 426,133 442,132 459,131 476,130" />
+        <TextEquiv>
+          <Unicode>B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="235,164 316,161 396,159 477,156 558,154 638,151 638,211 558,213 477,215 396,218 316,221 235,224" />
+        <Baseline points="235,210 316,207 396,204 477,202 558,200 638,197" />
+        <TextEquiv>
+          <Unicode>AVR THEODORAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="180,235 284,235 389,235 494,236 599,236 704,234 704,308 599,309 494,309 389,309 284,308 180,309" />
+        <Baseline points="180,278 284,278 389,278 494,279 599,278 704,277" />
+        <TextEquiv>
+          <Unicode>QVAE VIXIT IN SECVLO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="169,294 278,286 387,280 496,274 606,269 715,262 715,317 606,323 496,329 387,334 278,341 169,349" />
+        <Baseline points="169,343 278,335 387,328 496,323 606,317 715,310" />
+        <TextEquiv>
+          <Unicode>ANNIS XL CVM CONIVGE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="241,340 324,332 408,325 491,319 574,311 657,303 657,365 574,374 491,381 408,388 324,394 241,402" />
+        <Baseline points="241,396 324,388 408,382 491,375 574,368 657,359" />
+        <TextEquiv>
+          <Unicode>ANNIS XXVI AVRELIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="232,418 321,417 411,417 501,416 590,414 680,412 680,471 590,472 501,474 411,475 321,476 232,476" />
+        <Baseline points="232,455 321,454 411,453 501,452 590,451 680,449" />
+        <TextEquiv>
+          <Unicode>CONIVX FRVCTOSA ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="259,469 338,466 417,462 496,459 575,456 654,453 654,495 575,497 496,501 417,504 338,507 259,511" />
+        <Baseline points="259,503 338,499 417,496 496,493 575,490 654,487" />
+        <TextEquiv>
+          <Unicode>AVRELIVS FILI CONTRA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="308,519 370,517 433,515 496,512 558,510 621,507 621,546 558,549 496,551 433,554 370,556 308,558" />
+        <Baseline points="308,549 370,547 433,545 496,543 558,540 621,538" />
+        <TextEquiv>
+          <Unicode>VOTVM POSERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

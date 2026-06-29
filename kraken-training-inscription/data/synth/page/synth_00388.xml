@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00388.jpg" imageWidth="900" imageHeight="731">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,731 0,731" />
+      <TextLine id="r1l1">
+        <Coords points="398,138 419,139 439,140 459,141 480,142 500,142 500,206 480,205 459,204 439,203 419,202 398,202" />
+        <Baseline points="398,189 419,190 439,191 459,192 480,193 500,193" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="309,216 365,217 421,218 477,219 533,220 589,222 589,284 533,283 477,282 421,281 365,279 309,278" />
+        <Baseline points="309,264 365,265 421,266 477,267 533,268 589,270" />
+        <TextEquiv>
+          <Unicode>AGATHAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="376,279 405,277 435,276 465,274 494,272 524,271 524,331 494,333 465,334 435,336 405,338 376,340" />
+        <Baseline points="376,333 405,331 435,329 465,328 494,326 524,324" />
+        <TextEquiv>
+          <Unicode>GELVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="361,354 396,356 432,357 468,359 504,360 540,362 540,420 504,419 468,417 432,416 396,414 361,413" />
+        <Baseline points="361,398 396,400 432,401 468,403 504,404 540,406" />
+        <TextEquiv>
+          <Unicode>V A LXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="308,406 365,404 421,401 478,398 535,394 591,391 591,452 535,455 478,458 421,461 365,464 308,467" />
+        <Baseline points="308,461 365,458 421,455 478,452 535,449 591,446" />
+        <TextEquiv>
+          <Unicode>CARICE CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="315,479 369,482 423,484 477,486 531,488 585,491 585,547 531,545 477,543 423,541 369,538 315,536" />
+        <Baseline points="315,518 369,520 423,522 477,525 531,527 585,529" />
+        <TextEquiv>
+          <Unicode>IVGI PIISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="406,534 424,533 442,533 460,533 478,532 497,532 497,574 478,575 460,575 442,576 424,576 406,576" />
+        <Baseline points="406,571 424,571 442,570 460,570 478,569 497,569" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

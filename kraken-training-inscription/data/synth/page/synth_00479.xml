@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00479.jpg" imageWidth="900" imageHeight="478">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,478 0,478" />
+      <TextLine id="r1l1">
+        <Coords points="299,91 357,93 415,96 474,98 532,101 590,104 590,153 532,150 474,148 415,145 357,142 299,140" />
+        <Baseline points="299,129 357,132 415,134 474,137 532,140 590,143" />
+        <TextEquiv>
+          <Unicode>SATVRNO AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="225,146 313,151 401,156 489,161 577,166 665,170 665,223 577,218 489,214 401,209 313,204 225,199" />
+        <Baseline points="225,182 313,187 401,191 489,196 577,201 665,206" />
+        <TextEquiv>
+          <Unicode>PRO SALVTE IMP NERVAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="197,198 296,203 395,208 494,214 593,220 692,226 692,277 593,271 494,265 395,260 296,254 197,249" />
+        <Baseline points="197,230 296,236 395,241 494,246 593,252 692,258" />
+        <TextEquiv>
+          <Unicode>Q VRVINIVS Q LIB CALLISTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="259,239 334,239 410,239 485,240 560,240 636,241 636,281 560,281 485,280 410,280 334,279 259,279" />
+        <Baseline points="259,275 334,276 410,276 485,276 560,277 636,277" />
+        <TextEquiv>
+          <Unicode>TEMPLVM A SOLO D D P P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

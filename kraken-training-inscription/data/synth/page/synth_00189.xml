@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00189.jpg" imageWidth="900" imageHeight="417">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,417 0,417" />
+      <TextLine id="r1l1">
+        <Coords points="405,62 422,62 439,62 456,62 473,62 490,62 490,125 473,125 456,125 439,125 422,125 405,126" />
+        <Baseline points="405,115 422,115 439,115 456,115 473,115 490,115" />
+        <TextEquiv>
+          <Unicode>PY</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="166,163 248,161 331,160 413,159 495,158 577,157 577,225 495,225 413,226 331,227 248,229 166,230" />
+        <Baseline points="166,213 248,211 331,210 413,209 495,208 577,207" />
+        <TextEquiv>
+          <Unicode>DEP MAXIMIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="190,243 265,239 339,235 413,231 487,227 562,223 562,282 487,286 413,290 339,294 265,298 190,302" />
+        <Baseline points="190,296 265,292 339,288 413,284 487,280 562,276" />
+        <TextEquiv>
+          <Unicode>VB D NONAS A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="404,315 424,313 444,312 464,310 484,308 504,306 504,361 484,363 464,365 444,367 424,369 404,371" />
+        <Baseline points="404,365 424,363 444,361 464,359 484,357 504,355" />
+        <TextEquiv>
+          <Unicode>TAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

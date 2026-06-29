@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00133.jpg" imageWidth="900" imageHeight="548">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,548 0,548" />
+      <TextLine id="r1l1">
+        <Coords points="375,92 405,92 434,92 464,91 494,91 523,91 523,150 494,150 464,151 434,151 405,151 375,151" />
+        <Baseline points="375,142 405,142 434,142 464,141 494,141 523,141" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="263,163 337,158 411,153 484,147 558,142 632,137 632,204 558,209 484,215 411,220 337,225 263,230" />
+        <Baseline points="263,225 337,219 411,214 484,209 558,204 632,199" />
+        <TextEquiv>
+          <Unicode>IVLIA G LIBERTA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="243,255 325,252 407,248 489,245 572,242 654,238 654,293 572,296 489,299 407,303 325,306 243,310" />
+        <Baseline points="243,304 325,301 407,298 489,294 572,291 654,288" />
+        <TextEquiv>
+          <Unicode>GENESIS ANORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="184,338 289,336 394,334 500,331 605,328 710,326 710,381 605,383 500,386 394,389 289,391 184,393" />
+        <Baseline points="184,381 289,380 394,377 500,375 605,372 710,370" />
+        <TextEquiv>
+          <Unicode>XXXXV PIA IN SVIS H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="393,401 416,401 439,401 463,401 486,400 509,400 509,451 486,451 463,451 439,452 416,452 393,452" />
+        <Baseline points="393,444 416,444 439,444 463,443 486,443 509,443" />
+        <TextEquiv>
+          <Unicode>S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00209.jpg" imageWidth="900" imageHeight="767">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,767 0,767" />
+      <TextLine id="r1l1">
+        <Coords points="118,126 135,125 152,125 170,125 187,124 204,124 204,174 187,174 170,175 152,175 135,175 118,176" />
+        <Baseline points="118,171 135,170 152,170 170,170 187,169 204,169" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="117,193 238,188 359,184 480,181 601,178 722,175 722,229 601,232 480,235 359,238 238,243 117,247" />
+        <Baseline points="117,243 238,238 359,234 480,230 601,227 722,224" />
+        <TextEquiv>
+          <Unicode>T AELIO AVG LIB TYRANNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="116,271 239,275 362,279 485,282 609,284 732,286 732,351 609,349 485,347 362,344 239,340 116,335" />
+        <Baseline points="116,304 239,309 362,313 485,316 609,318 732,320" />
+        <TextEquiv>
+          <Unicode>QVI FVIT A COMM PROV BELGICAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="114,339 195,339 276,339 357,340 438,340 518,340 518,391 438,391 357,391 276,391 195,391 114,391" />
+        <Baseline points="114,378 195,378 276,378 357,379 438,379 518,379" />
+        <TextEquiv>
+          <Unicode>CONIVGI DVLCISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="113,408 195,408 277,407 359,406 441,406 523,405 523,451 441,451 359,452 277,453 195,453 113,454" />
+        <Baseline points="113,445 195,444 277,444 359,443 441,442 523,442" />
+        <TextEquiv>
+          <Unicode>AELIA ANDRIA VXOR ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="112,469 201,469 289,468 377,467 465,467 554,466 554,510 465,511 377,511 289,512 201,512 112,513" />
+        <Baseline points="112,504 201,503 289,503 377,502 465,501 554,501" />
+        <TextEquiv>
+          <Unicode>AELIVS VALERIANVS SOCER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="111,527 204,529 297,532 390,534 482,536 575,538 575,595 482,593 390,591 297,588 204,586 111,583" />
+        <Baseline points="111,559 204,562 297,564 390,567 482,569 575,571" />
+        <TextEquiv>
+          <Unicode>ET RESTITVTVS FECIT COLLIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00465.jpg" imageWidth="900" imageHeight="586">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,586 0,586" />
+      <TextLine id="r1l1">
+        <Coords points="409,81 426,80 444,79 461,78 478,77 496,76 496,128 478,129 461,130 444,131 426,131 409,132" />
+        <Baseline points="409,127 426,126 444,125 461,125 478,124 496,123" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="282,160 349,156 416,153 482,149 549,146 616,143 616,202 549,205 482,208 416,212 349,215 282,219" />
+        <Baseline points="282,214 349,210 416,207 482,203 549,200 616,197" />
+        <TextEquiv>
+          <Unicode>L MESTRIO ATHE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="122,254 248,251 375,249 502,248 629,245 756,242 756,288 629,291 502,293 375,295 248,297 122,300" />
+        <Baseline points="122,295 248,292 375,290 502,288 629,286 756,283" />
+        <TextEquiv>
+          <Unicode>NIONI V A XII DIADVMENVS ET A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="295,315 355,311 414,307 473,303 533,299 592,296 592,352 533,356 473,359 414,363 355,367 295,371" />
+        <Baseline points="295,367 355,363 414,359 473,355 533,351 592,348" />
+        <TextEquiv>
+          <Unicode>THENAIS PAREN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="319,400 370,401 421,401 472,402 524,402 575,403 575,449 524,449 472,448 421,448 370,447 319,447" />
+        <Baseline points="319,436 370,437 421,437 472,438 524,438 575,438" />
+        <TextEquiv>
+          <Unicode>TES FILIO PIEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="299,470 356,471 414,473 471,474 529,476 586,478 586,527 529,526 471,524 414,522 356,521 299,519" />
+        <Baseline points="299,502 356,504 414,505 471,507 529,509 586,510" />
+        <TextEquiv>
+          <Unicode>TISSIMO FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

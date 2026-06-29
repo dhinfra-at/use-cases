@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00328.jpg" imageWidth="900" imageHeight="559">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,559 0,559" />
+      <TextLine id="r1l1">
+        <Coords points="175,109 270,110 364,112 459,113 553,115 648,116 648,173 553,172 459,170 364,169 270,168 175,166" />
+        <Baseline points="175,143 270,144 364,145 459,147 553,148 648,150" />
+        <TextEquiv>
+          <Unicode>CARISSIMAE FILIAE CRISPINAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="176,166 268,165 361,163 453,162 545,162 638,161 638,206 545,207 453,208 361,208 268,210 176,211" />
+        <Baseline points="176,200 268,198 361,197 453,196 545,195 638,195" />
+        <TextEquiv>
+          <Unicode>QVAE VIXIT ANNOS XV MENSES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="206,225 289,226 372,227 456,228 539,229 622,230 622,283 539,283 456,282 372,281 289,280 206,279" />
+        <Baseline points="206,259 289,260 372,261 456,262 539,263 622,264" />
+        <TextEquiv>
+          <Unicode>VIIII DIES XII CRISPINIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="171,280 265,277 358,274 451,271 544,268 637,265 637,307 544,310 451,313 358,316 265,319 171,322" />
+        <Baseline points="171,317 265,314 358,311 451,308 544,305 637,302" />
+        <TextEquiv>
+          <Unicode>PATER GRAMMATICVS CVRAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="133,340 239,341 345,343 451,344 556,345 662,346 662,402 556,401 451,400 345,399 239,398 133,397" />
+        <Baseline points="133,373 239,374 345,375 451,377 556,378 662,379" />
+        <TextEquiv>
+          <Unicode>MODESTO ET HARINTHEO SIC CONSS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00145.jpg" imageWidth="900" imageHeight="819">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,819 0,819" />
+      <TextLine id="r1l1">
+        <Coords points="385,95 409,96 433,97 457,98 481,99 505,100 505,144 481,143 457,142 433,141 409,140 385,139" />
+        <Baseline points="385,132 409,133 433,134 457,135 481,136 505,137" />
+        <TextEquiv>
+          <Unicode>C AGR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="435,157 447,157 458,158 469,158 480,158 492,158 492,200 480,200 469,200 458,200 447,200 435,200" />
+        <Baseline points="435,194 447,194 458,194 469,194 480,194 492,195" />
+        <TextEquiv>
+          <Unicode>RV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="347,220 388,222 428,224 469,225 510,227 551,228 551,272 510,270 469,269 428,267 388,266 347,264" />
+        <Baseline points="347,256 388,258 428,259 469,261 510,262 551,264" />
+        <TextEquiv>
+          <Unicode>PO SILONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="323,273 375,273 428,273 481,273 534,272 587,272 587,319 534,320 481,321 428,321 375,321 323,321" />
+        <Baseline points="323,316 375,316 428,316 481,315 534,315 587,314" />
+        <TextEquiv>
+          <Unicode>ADLECTO ITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="376,342 406,343 436,345 466,346 496,347 527,348 527,390 496,389 466,387 436,386 406,385 376,384" />
+        <Baseline points="376,377 406,378 436,379 466,380 496,381 527,383" />
+        <TextEquiv>
+          <Unicode>LICENSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="338,400 382,403 425,405 468,407 511,410 555,413 555,460 511,456 468,454 425,451 382,449 338,447" />
+        <Baseline points="338,434 382,436 425,439 468,441 511,444 555,447" />
+        <TextEquiv>
+          <Unicode>M CASTRICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="214,443 303,442 392,441 482,441 571,440 660,439 660,491 571,491 482,492 392,493 303,493 214,494" />
+        <Baseline points="214,489 303,489 392,488 482,487 571,486 660,486" />
+        <TextEquiv>
+          <Unicode>VS LVCANIO ET C VALERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="326,516 371,518 417,520 462,522 508,524 553,526 553,568 508,566 462,564 417,562 371,560 326,558" />
+        <Baseline points="326,549 371,551 417,553 462,555 508,557 553,559" />
+        <TextEquiv>
+          <Unicode>PAEZON AMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="337,572 377,575 417,577 457,580 497,582 537,585 537,630 497,627 457,624 417,622 377,619 337,617" />
+        <Baseline points="337,604 377,606 417,609 457,611 497,614 537,617" />
+        <TextEquiv>
+          <Unicode>CO OPTIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

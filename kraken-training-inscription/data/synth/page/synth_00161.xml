@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00161.jpg" imageWidth="900" imageHeight="898">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,898 0,898" />
+      <TextLine id="r1l1">
+        <Coords points="284,138 337,139 390,140 442,142 495,143 548,144 548,193 495,192 442,191 390,190 337,189 284,188" />
+        <Baseline points="284,176 337,177 390,178 442,179 495,181 548,182" />
+        <TextEquiv>
+          <Unicode>P LICINIO CO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="305,194 365,192 425,190 486,189 546,188 606,187 606,235 546,236 486,237 425,238 365,240 305,242" />
+        <Baseline points="305,236 365,234 425,233 486,231 546,230 606,229" />
+        <TextEquiv>
+          <Unicode>LIO VALERIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="291,254 356,253 420,251 484,249 548,247 613,245 613,294 548,296 484,298 420,300 356,301 291,303" />
+        <Baseline points="291,298 356,296 420,294 484,293 548,291 613,289" />
+        <TextEquiv>
+          <Unicode>NOBILISSIMO CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="409,320 427,321 444,321 462,322 479,323 497,324 497,365 479,364 462,364 444,363 427,362 409,361" />
+        <Baseline points="409,353 427,353 444,354 462,355 479,356 497,356" />
+        <TextEquiv>
+          <Unicode>FILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="296,370 357,369 418,368 479,367 540,365 602,364 602,406 540,408 479,409 418,410 357,411 296,413" />
+        <Baseline points="296,408 357,406 418,405 479,404 540,403 602,402" />
+        <TextEquiv>
+          <Unicode>IMP CAES P LICINI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="299,427 356,426 414,425 471,424 529,424 586,423 586,462 529,463 471,464 414,465 356,466 299,467" />
+        <Baseline points="299,462 356,461 414,460 471,459 529,458 586,458" />
+        <TextEquiv>
+          <Unicode>EGNATI GALLIENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="290,468 352,465 415,462 478,459 540,457 603,454 603,501 540,504 478,506 415,509 352,512 290,515" />
+        <Baseline points="290,511 352,508 415,505 478,502 540,499 603,496" />
+        <TextEquiv>
+          <Unicode>PII FEL INVICTI AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="319,525 369,523 420,522 470,521 521,519 571,518 571,556 521,558 470,559 420,560 369,562 319,563" />
+        <Baseline points="319,559 369,557 420,556 470,554 521,553 571,552" />
+        <TextEquiv>
+          <Unicode>COL VLP TRAI AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="335,577 378,576 420,576 463,575 505,575 547,575 547,607 505,607 463,608 420,608 378,609 335,609" />
+        <Baseline points="335,605 378,605 420,604 463,604 505,603 547,603" />
+        <TextEquiv>
+          <Unicode>DACICA SARMIZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="336,617 379,615 421,613 463,612 506,611 548,609 548,644 506,646 463,647 421,649 379,650 336,652" />
+        <Baseline points="336,648 379,646 421,645 463,643 506,642 548,641" />
+        <TextEquiv>
+          <Unicode>METROP PVBLICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

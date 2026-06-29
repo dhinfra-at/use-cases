@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00179.jpg" imageWidth="900" imageHeight="632">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,632 0,632" />
+      <TextLine id="r1l1">
+        <Coords points="280,176 346,178 412,181 478,183 544,185 610,187 610,234 544,231 478,229 412,227 346,225 280,222" />
+        <Baseline points="280,217 346,220 412,222 478,224 544,226 610,229" />
+        <TextEquiv>
+          <Unicode>PERSES HIC QVIES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="203,238 300,245 398,253 495,260 593,266 690,271 690,327 593,323 495,317 398,310 300,302 203,295" />
+        <Baseline points="203,277 300,284 398,292 495,299 593,305 690,309" />
+        <TextEquiv>
+          <Unicode>CET INN PACE QVI VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="269,303 339,305 408,307 477,309 547,311 616,313 616,359 547,357 477,355 408,353 339,351 269,349" />
+        <Baseline points="269,344 339,346 408,348 477,351 547,353 616,355" />
+        <TextEquiv>
+          <Unicode>NN XLV CONIVX KA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="271,372 340,376 409,380 478,384 547,388 616,392 616,439 547,435 478,431 409,427 340,423 271,419" />
+        <Baseline points="271,409 340,412 409,416 478,420 547,424 616,429" />
+        <TextEquiv>
+          <Unicode>RISSIMVS TITVLVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="377,440 403,442 430,443 456,445 483,446 510,448 510,491 483,489 456,488 430,486 403,484 377,483" />
+        <Baseline points="377,476 403,477 430,479 456,481 483,482 510,484" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

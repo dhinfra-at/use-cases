@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00367.jpg" imageWidth="900" imageHeight="860">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,860 0,860" />
+      <TextLine id="r1l1">
+        <Coords points="87,123 208,124 328,124 449,123 569,122 690,121 690,175 569,176 449,177 328,178 208,178 87,177" />
+        <Baseline points="87,153 208,153 328,154 449,153 569,152 690,151" />
+        <TextEquiv>
+          <Unicode>SVLPICIAE CINERES LECTRICIS CERNE VIATOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="89,210 223,209 357,209 491,209 625,209 760,208 760,260 625,261 491,261 357,261 223,261 89,262" />
+        <Baseline points="89,235 223,235 357,234 491,234 625,234 760,233" />
+        <TextEquiv>
+          <Unicode>QVOI SIC SERVILE DATVM NOMEN ERAT PETALE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="90,277 217,269 343,262 470,254 596,246 723,239 723,281 596,288 470,296 343,304 217,311 90,319" />
+        <Baseline points="90,315 217,308 343,300 470,292 596,284 723,277" />
+        <TextEquiv>
+          <Unicode>TER DENOS NVMERO QVATTOR PLVS VIXERAT ANNOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="92,357 214,349 337,342 460,335 582,329 705,323 705,368 582,374 460,380 337,387 214,394 92,402" />
+        <Baseline points="92,398 214,390 337,383 460,376 582,370 705,364" />
+        <TextEquiv>
+          <Unicode>NATVMQVE IN TERRIS AGLAON SIC EDIDERAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="93,427 216,420 339,412 462,405 585,398 708,392 708,434 585,441 462,447 339,455 216,462 93,470" />
+        <Baseline points="93,466 216,458 339,451 462,443 585,437 708,430" />
+        <TextEquiv>
+          <Unicode>OMNIA NATVRAE BONA VIDERAT ARTE VIGEBAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="94,505 210,502 325,498 440,496 555,493 670,491 670,534 555,536 440,538 325,541 210,544 94,548" />
+        <Baseline points="94,537 210,533 325,530 440,527 555,525 670,522" />
+        <TextEquiv>
+          <Unicode>SPLENDEBAT FORMA CREVERAT INGENIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="95,567 225,565 356,563 486,561 616,559 746,556 746,594 616,597 486,600 356,602 225,603 95,605" />
+        <Baseline points="95,589 225,588 356,586 486,584 616,581 746,578" />
+        <TextEquiv>
+          <Unicode>INVIDA FORS VITA LONGINQVOM SIC DEGERE TEMPVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="102,623 218,620 334,618 450,616 566,614 682,611 682,659 566,661 450,663 334,665 218,668 102,670" />
+        <Baseline points="102,655 218,653 334,651 450,649 566,647 682,644" />
+        <TextEquiv>
+          <Unicode>NOLVIT HANC FATIS DEFVIT IPSE COLVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

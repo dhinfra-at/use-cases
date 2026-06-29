@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00274.jpg" imageWidth="900" imageHeight="860">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,860 0,860" />
+      <TextLine id="r1l1">
+        <Coords points="389,96 404,96 419,95 435,95 450,94 465,93 465,138 450,138 435,139 419,140 404,141 389,141" />
+        <Baseline points="389,136 404,136 419,135 435,134 450,134 465,133" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="106,147 232,136 359,126 486,115 613,103 739,91 739,160 613,172 486,183 359,195 232,205 106,216" />
+        <Baseline points="106,211 232,201 359,190 486,179 613,167 739,155" />
+        <TextEquiv>
+          <Unicode>VAL PROCLIANVS PROTECTOR QVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="111,235 239,228 368,221 496,214 625,206 753,198 753,244 625,252 496,260 368,267 239,274 111,281" />
+        <Baseline points="111,276 239,269 368,263 496,255 625,248 753,240" />
+        <TextEquiv>
+          <Unicode>VIXIT ANIS XLIIII ET VAL NEPOTIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="135,311 255,311 376,312 497,312 618,312 739,313 739,386 618,385 497,385 376,385 255,385 135,384" />
+        <Baseline points="135,349 255,350 376,351 497,351 618,351 739,352" />
+        <TextEquiv>
+          <Unicode>EXARCVS PROMOTVS DOMNI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="121,363 246,354 371,345 496,336 621,327 746,319 746,377 621,385 496,394 371,403 246,411 121,420" />
+        <Baseline points="121,416 246,407 371,398 496,389 621,380 746,372" />
+        <TextEquiv>
+          <Unicode>CVS QVI VIXIT ANNIS XXX FRAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="126,444 257,441 387,438 518,434 648,431 779,428 779,478 648,482 518,485 387,488 257,492 126,495" />
+        <Baseline points="126,478 257,475 387,471 518,468 648,465 779,461" />
+        <TextEquiv>
+          <Unicode>RES VALERIA PALLADIA CONIVGI C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="132,482 257,470 383,458 508,447 634,436 760,425 760,494 634,505 508,516 383,527 257,539 132,551" />
+        <Baseline points="132,547 257,534 383,522 508,511 634,500 760,490" />
+        <TextEquiv>
+          <Unicode>ARISSIMO BENE MERENTI ET COGN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="137,561 261,551 386,542 510,534 635,526 759,517 759,573 635,582 510,590 386,598 261,607 137,617" />
+        <Baseline points="137,613 261,603 386,593 510,585 635,577 759,569" />
+        <TextEquiv>
+          <Unicode>ATO SVO DOMVM AETERNA DOLENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="351,633 396,633 440,633 485,632 529,632 574,632 574,683 529,684 485,684 440,684 396,684 351,685" />
+        <Baseline points="351,671 396,671 440,670 485,670 529,670 574,670" />
+        <TextEquiv>
+          <Unicode>FABRICAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

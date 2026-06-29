@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00064.jpg" imageWidth="900" imageHeight="852">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,852 0,852" />
+      <TextLine id="r1l1">
+        <Coords points="157,320 170,320 183,320 196,320 209,320 222,320 222,364 209,364 196,364 183,364 170,365 157,365" />
+        <Baseline points="157,359 170,359 183,359 196,359 209,359 222,359" />
+        <TextEquiv>
+          <Unicode>VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="81,384 113,385 144,386 176,387 208,387 240,388 240,433 208,432 176,432 144,431 113,430 81,429" />
+        <Baseline points="81,421 113,422 144,423 176,423 208,424 240,425" />
+        <TextEquiv>
+          <Unicode>MIL LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="80,443 112,444 144,445 177,445 209,446 241,447 241,490 209,490 177,489 144,488 112,487 80,487" />
+        <Baseline points="80,479 112,480 144,480 177,481 209,482 241,482" />
+        <TextEquiv>
+          <Unicode>XIIII GEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="78,496 114,496 149,495 184,495 219,495 255,495 255,537 219,538 184,538 149,538 114,538 78,539" />
+        <Baseline points="78,534 114,533 149,533 184,533 219,532 255,532" />
+        <TextEquiv>
+          <Unicode>MILITAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="77,553 108,553 139,553 170,553 200,553 231,552 231,593 200,594 170,594 139,594 108,594 77,594" />
+        <Baseline points="77,589 108,589 139,589 170,589 200,588 231,588" />
+        <TextEquiv>
+          <Unicode>NN XVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="76,607 110,607 144,607 178,607 213,607 247,607 247,646 213,646 178,646 144,646 110,646 76,646" />
+        <Baseline points="76,641 110,641 144,641 178,641 213,641 247,641" />
+        <TextEquiv>
+          <Unicode>SIGN FVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="75,658 89,658 104,657 118,657 132,656 147,656 147,694 132,694 118,695 104,695 89,696 75,696" />
+        <Baseline points="75,691 89,691 104,690 118,690 132,690 147,689" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

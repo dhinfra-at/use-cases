@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00458.jpg" imageWidth="900" imageHeight="948">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,948 0,948" />
+      <TextLine id="r1l1">
+        <Coords points="415,85 434,85 454,86 473,86 492,87 512,87 512,133 492,133 473,133 454,132 434,132 415,131" />
+        <Baseline points="415,126 434,127 454,127 473,128 492,128 512,129" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="281,129 345,129 409,129 472,128 536,128 600,128 600,185 536,184 472,185 409,185 345,185 281,186" />
+        <Baseline points="281,181 345,180 409,180 472,180 536,180 600,180" />
+        <TextEquiv>
+          <Unicode>PIETATI BAETICAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="278,188 344,187 409,186 474,186 539,186 604,186 604,242 539,242 474,242 409,242 344,243 278,244" />
+        <Baseline points="278,239 344,239 409,238 474,238 539,237 604,238" />
+        <TextEquiv>
+          <Unicode>ANNORVM XXI PIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="273,261 339,267 405,272 471,278 537,283 602,289 602,348 537,343 471,337 405,332 339,326 273,321" />
+        <Baseline points="273,300 339,305 405,311 471,316 537,322 602,327" />
+        <TextEquiv>
+          <Unicode>IN SVIS HIC SITA EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="183,316 278,323 374,331 469,339 564,346 659,354 659,420 564,412 469,404 374,397 278,389 183,382" />
+        <Baseline points="183,354 278,362 374,370 469,377 564,385 659,393" />
+        <TextEquiv>
+          <Unicode>TE ROGO PRAETERIES DICAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="263,363 331,362 399,362 467,363 535,363 602,364 602,416 535,416 467,415 399,415 331,415 263,416" />
+        <Baseline points="263,411 331,411 399,411 467,411 535,412 602,412" />
+        <TextEquiv>
+          <Unicode>SIT TIBI TERRA LEVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="276,432 337,437 397,441 458,446 518,451 579,456 579,512 518,507 458,502 397,498 337,493 276,488" />
+        <Baseline points="276,469 337,474 397,479 458,484 518,489 579,493" />
+        <TextEquiv>
+          <Unicode>BARATHES CONIVGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="240,474 313,474 385,474 457,474 530,475 602,475 602,527 530,527 457,526 385,526 313,526 240,526" />
+        <Baseline points="240,522 313,522 385,522 457,522 530,522 602,523" />
+        <TextEquiv>
+          <Unicode>INDVLGENTISSVMAE SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="378,542 401,543 424,545 447,546 470,547 493,548 493,589 470,588 447,587 424,586 401,585 378,584" />
+        <Baseline points="378,578 401,579 424,580 447,581 470,582 493,583" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

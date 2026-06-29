@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00191.jpg" imageWidth="900" imageHeight="790">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,790 0,790" />
+      <TextLine id="r1l1">
+        <Coords points="171,96 285,99 398,101 512,103 625,104 739,106 739,178 625,177 512,176 398,174 285,172 171,169" />
+        <Baseline points="171,152 285,155 398,157 512,159 625,161 739,162" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="234,182 322,186 409,190 497,194 585,197 672,201 672,280 585,276 497,272 409,268 322,264 234,260" />
+        <Baseline points="234,234 322,238 409,242 497,246 585,249 672,253" />
+        <TextEquiv>
+          <Unicode>VITALI VERNAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="116,241 248,236 380,231 512,227 645,223 777,219 777,295 645,300 512,304 380,308 248,313 116,318" />
+        <Baseline points="116,312 248,307 380,302 512,298 645,294 777,289" />
+        <TextEquiv>
+          <Unicode>SVO QVI VIXIT ANNOS XXII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="188,321 291,318 395,314 498,311 601,308 705,305 705,371 601,374 498,378 395,381 291,384 188,387" />
+        <Baseline points="188,382 291,378 395,375 498,372 601,369 705,365" />
+        <TextEquiv>
+          <Unicode>Q NASIDIVS SEVERVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="281,401 347,400 413,398 479,397 546,396 612,395 612,448 546,449 479,450 413,451 347,453 281,454" />
+        <Baseline points="281,449 347,448 413,446 479,445 546,444 612,443" />
+        <TextEquiv>
+          <Unicode>LICTOR DECVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="165,465 270,463 374,461 478,459 583,458 687,457 687,508 583,509 478,510 374,512 270,514 165,517" />
+        <Baseline points="165,512 270,509 374,507 478,506 583,504 687,504" />
+        <TextEquiv>
+          <Unicode>SERVO FIDELISSIMO ET SVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="315,534 366,536 417,539 468,541 519,543 570,545 570,595 519,593 468,591 417,589 366,587 315,584" />
+        <Baseline points="315,569 366,571 417,573 468,575 519,578 570,580" />
+        <TextEquiv>
+          <Unicode>AMANTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="399,588 416,589 433,589 450,590 467,590 484,591 484,630 467,629 450,628 433,628 416,627 399,627" />
+        <Baseline points="399,620 416,620 433,621 450,621 467,622 484,623" />
+        <TextEquiv>
+          <Unicode>T M P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

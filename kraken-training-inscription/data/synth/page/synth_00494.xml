@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00494.jpg" imageWidth="900" imageHeight="508">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,508 0,508" />
+      <TextLine id="r1l1">
+        <Coords points="307,86 367,90 428,93 488,97 549,100 609,104 609,139 549,136 488,133 428,129 367,126 307,122" />
+        <Baseline points="307,117 367,120 428,124 488,127 549,131 609,134" />
+        <TextEquiv>
+          <Unicode>VIBIO APOLLINARI EQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="327,127 386,127 444,127 503,127 561,127 619,128 619,177 561,176 503,176 444,176 386,176 327,176" />
+        <Baseline points="327,173 386,172 444,172 503,172 561,172 619,173" />
+        <TextEquiv>
+          <Unicode>AE HERCVL AELIVS M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="330,184 388,185 446,185 505,185 563,186 621,186 621,233 563,233 505,233 446,232 388,232 330,231" />
+        <Baseline points="330,228 388,228 446,229 505,229 563,229 621,230" />
+        <TextEquiv>
+          <Unicode>TANVS HERES EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

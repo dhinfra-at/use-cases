@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00418.jpg" imageWidth="900" imageHeight="799">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,799 0,799" />
+      <TextLine id="r1l1">
+        <Coords points="86,119 114,121 142,123 170,124 198,126 226,128 226,174 198,173 170,171 142,169 114,167 86,165" />
+        <Baseline points="86,157 114,158 142,160 170,162 198,164 226,166" />
+        <TextEquiv>
+          <Unicode>IMP CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="82,179 121,180 161,182 200,183 239,185 279,186 279,227 239,226 200,225 161,224 121,222 82,221" />
+        <Baseline points="82,216 121,218 161,219 200,220 239,222 279,223" />
+        <TextEquiv>
+          <Unicode>DIVI TRAIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="78,237 131,240 184,242 237,245 290,248 343,252 343,297 290,293 237,290 184,287 131,285 78,282" />
+        <Baseline points="78,272 131,275 184,278 237,281 290,284 343,287" />
+        <TextEquiv>
+          <Unicode>PARTHICI F DIVI NER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="75,294 131,296 187,299 242,301 298,304 354,307 354,349 298,346 242,344 187,341 131,338 75,336" />
+        <Baseline points="75,329 131,331 187,334 242,336 298,339 354,342" />
+        <TextEquiv>
+          <Unicode>VAE NEPOTI TRAIAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="71,346 126,348 180,350 234,351 288,352 342,353 342,394 288,393 234,392 180,391 126,389 71,387" />
+        <Baseline points="71,383 126,385 180,387 234,388 288,389 342,390" />
+        <TextEquiv>
+          <Unicode>HADRIANO AVG PONT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="68,402 122,407 176,411 229,416 283,420 337,425 337,474 283,469 229,465 176,460 122,456 68,451" />
+        <Baseline points="68,435 122,439 176,444 229,448 283,453 337,457" />
+        <TextEquiv>
+          <Unicode>MAX TRIB POTEST VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="65,454 90,455 115,456 140,458 165,459 190,461 190,498 165,497 140,495 115,494 90,493 65,491" />
+        <Baseline points="65,485 90,487 115,488 140,489 165,491 190,492" />
+        <TextEquiv>
+          <Unicode>COS III P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="62,489 127,489 193,488 258,487 324,485 389,484 389,535 324,536 258,537 193,538 127,539 62,540" />
+        <Baseline points="62,536 127,536 193,535 258,534 324,533 389,532" />
+        <TextEquiv>
+          <Unicode>COL COL IVL AVG TVBVSVC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="59,553 115,556 170,559 226,562 281,565 337,568 337,605 281,602 226,600 170,597 115,594 59,591" />
+        <Baseline points="59,583 115,586 170,589 226,591 281,594 337,597" />
+        <TextEquiv>
+          <Unicode>TITANAE LEG VII IMMVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="56,594 90,593 123,593 157,593 190,593 224,593 224,631 190,631 157,632 123,632 90,632 56,632" />
+        <Baseline points="56,629 90,629 123,629 157,628 190,628 224,628" />
+        <TextEquiv>
+          <Unicode>PECVN PVBLICA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="54,644 60,645 67,645 74,646 81,646 88,647 88,679 81,678 74,678 67,677 60,677 54,676" />
+        <Baseline points="54,672 60,672 67,673 74,673 81,674 88,674" />
+        <TextEquiv>
+          <Unicode>D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

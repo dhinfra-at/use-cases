@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00199.jpg" imageWidth="900" imageHeight="699">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,699 0,699" />
+      <TextLine id="r1l1">
+        <Coords points="398,111 418,110 438,109 459,108 479,107 499,107 499,139 479,139 459,140 438,141 418,142 398,143" />
+        <Baseline points="398,140 418,139 438,138 459,137 479,137 499,136" />
+        <TextEquiv>
+          <Unicode>SAB ET V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="403,160 421,160 440,161 458,161 476,161 495,162 495,190 476,190 458,189 440,189 421,189 403,188" />
+        <Baseline points="403,185 421,185 440,185 458,186 476,186 495,186" />
+        <TextEquiv>
+          <Unicode>NV LVC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="400,208 419,209 439,210 459,211 479,212 498,213 498,244 479,243 459,242 439,242 419,241 400,240" />
+        <Baseline points="400,233 419,234 439,235 459,236 479,237 498,237" />
+        <TextEquiv>
+          <Unicode>EIVS FEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="408,255 425,255 441,255 458,256 474,256 490,257 490,285 474,285 458,285 441,284 425,284 408,283" />
+        <Baseline points="408,279 425,280 441,280 458,280 474,281 490,281" />
+        <TextEquiv>
+          <Unicode>IX VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="385,301 411,301 436,302 462,302 487,302 513,302 513,330 487,330 462,330 436,329 411,329 385,329" />
+        <Baseline points="385,325 411,326 436,326 462,326 487,327 513,327" />
+        <TextEquiv>
+          <Unicode>AN LXVIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="389,347 412,347 435,347 458,347 482,347 505,347 505,375 482,375 458,375 435,375 412,375 389,375" />
+        <Baseline points="389,373 412,373 435,373 458,373 482,373 505,373" />
+        <TextEquiv>
+          <Unicode>H PATRI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="393,393 416,394 439,395 462,396 485,397 507,399 507,430 485,429 462,428 439,427 416,426 393,425" />
+        <Baseline points="393,418 416,419 439,420 462,421 485,422 507,423" />
+        <TextEquiv>
+          <Unicode>ECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

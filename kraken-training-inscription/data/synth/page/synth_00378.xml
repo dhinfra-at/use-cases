@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00378.jpg" imageWidth="900" imageHeight="421">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,421 0,421" />
+      <TextLine id="r1l1">
+        <Coords points="384,66 412,68 440,70 468,72 496,74 524,76 524,124 496,122 468,120 440,118 412,116 384,114" />
+        <Baseline points="384,105 412,107 440,109 468,111 496,113 524,114" />
+        <TextEquiv>
+          <Unicode>PVBLIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="366,120 400,122 435,124 469,126 503,128 537,130 537,175 503,173 469,171 435,169 400,167 366,166" />
+        <Baseline points="366,158 400,160 435,162 469,164 503,166 537,168" />
+        <TextEquiv>
+          <Unicode>VALERIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="368,175 399,176 430,177 460,178 491,179 522,180 522,224 491,223 460,222 430,221 399,220 368,219" />
+        <Baseline points="368,214 399,215 430,216 460,217 491,218 522,219" />
+        <TextEquiv>
+          <Unicode>MARONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="307,228 362,232 418,235 473,239 528,243 584,246 584,294 528,290 473,286 418,283 362,279 307,275" />
+        <Baseline points="307,264 362,267 418,271 473,275 528,278 584,282" />
+        <TextEquiv>
+          <Unicode>PATRI VERGILI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

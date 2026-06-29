@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00459.jpg" imageWidth="900" imageHeight="704">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,704 0,704" />
+      <TextLine id="r1l1">
+        <Coords points="143,84 265,83 388,82 510,81 632,80 755,79 755,153 632,154 510,155 388,156 265,157 143,158" />
+        <Baseline points="143,152 265,151 388,150 510,149 632,148 755,147" />
+        <TextEquiv>
+          <Unicode>Q CAECILIVS CAECILIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="122,179 246,179 370,178 493,179 617,180 741,181 741,245 617,244 493,243 370,242 246,243 122,243" />
+        <Baseline points="122,238 246,237 370,237 493,237 617,238 741,240" />
+        <TextEquiv>
+          <Unicode>CRASSI L HILARVS MEDICVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="223,275 312,278 400,280 488,283 577,285 665,287 665,341 577,339 488,337 400,335 312,332 223,329" />
+        <Baseline points="223,321 312,324 400,326 488,329 577,331 665,333" />
+        <TextEquiv>
+          <Unicode>CAECILIA DVARVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="265,344 338,344 411,344 484,343 557,343 630,343 630,400 557,400 484,400 411,401 338,401 265,402" />
+        <Baseline points="265,396 338,396 411,396 484,395 557,395 630,395" />
+        <TextEquiv>
+          <Unicode>SCRIBONIARVM L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="317,427 368,430 420,433 471,437 523,441 574,445 574,504 523,500 471,496 420,492 368,489 317,486" />
+        <Baseline points="317,467 368,471 420,474 471,478 523,482 574,486" />
+        <TextEquiv>
+          <Unicode>ELEVTHERIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="115,492 241,502 367,511 494,519 620,526 747,533 747,600 620,594 494,587 367,579 241,569 115,559" />
+        <Baseline points="115,526 241,536 367,546 494,554 620,561 747,568" />
+        <TextEquiv>
+          <Unicode>EX PARTEM SIC DIMIDIAE SIBI ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

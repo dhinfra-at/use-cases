@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002324_F023288.jpg" imageWidth="800" imageHeight="387">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,386 0,386"/>
+      <TextLine id="r1l1">
+        <Coords points="198,47 501,41 501,88 198,94"/>
+        <Baseline points="198,86 501,80"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="57,89 762,82 762,132 57,139"/>
+        <Baseline points="57,131 762,124"/>
+        <TextEquiv><Unicode>FLORENTINAES P A CALLISTVS ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="44,134 777,126 777,175 44,183"/>
+        <Baseline points="44,176 777,168"/>
+        <TextEquiv><Unicode>AEL DONATA FIL DVLCISSIM FECER</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="53,180 765,169 765,211 53,222"/>
+        <Baseline points="53,219 765,208"/>
+        <TextEquiv><Unicode>ITEM ET SIBI ET POSTERISQVE SVIS ET T A</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="44,200 429,192 429,229 44,237"/>
+        <Baseline points="44,233 429,225"/>
+        <TextEquiv><Unicode>LIB LIBTQVE POSTERQVE EORVM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="87,226 774,214 774,254 87,266"/>
+        <Baseline points="87,259 774,247"/>
+        <TextEquiv><Unicode>HERMETI SARCOFAGV ET OLLAS N VIIII D</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="76,258 663,252 663,297 76,303"/>
+        <Baseline points="76,296 663,290"/>
+        <TextEquiv><Unicode>EX PARTE DEMIDIA LIB LIBERQ P E</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

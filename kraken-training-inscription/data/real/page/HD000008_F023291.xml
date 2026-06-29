@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000008_F023291.jpg" imageWidth="800" imageHeight="629">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,628 0,628"/>
+      <TextLine id="r1l1">
+        <Coords points="224,78 221,68 229,68 587,78 601,80 607,80 619,83 622,87 618,79 624,159 218,158"/>
+        <Baseline points="218,143 624,144"/>
+        <TextEquiv><Unicode>D·M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="56,147 758,149 758,242 56,240"/>
+        <Baseline points="56,226 758,228"/>
+        <TextEquiv><Unicode>C·SATRIO·XANTHO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="59,231 752,231 752,313 59,313"/>
+        <Baseline points="59,302 752,302"/>
+        <TextEquiv><Unicode>C·SATRI·RVFI·LIB</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="62,306 709,303 709,371 62,374"/>
+        <Baseline points="62,363 709,360"/>
+        <TextEquiv><Unicode>DECVRIALI·LICTORIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="62,369 757,360 757,429 62,438"/>
+        <Baseline points="62,428 757,419"/>
+        <TextEquiv><Unicode>SATRIA·NYMPHIDIA·MARITO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="61,430 760,423 760,482 61,489"/>
+        <Baseline points="61,480 760,473"/>
+        <TextEquiv><Unicode>OPTIMO·ET·FIDELISSIMO·ET·SIBI·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="96,476 632,472 632,530 96,534"/>
+        <Baseline points="96,526 632,522"/>
+        <TextEquiv><Unicode>LIBERTIS·LIBERTABVSQ·SVIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="140,517 682,519 682,580 140,578"/>
+        <Baseline points="140,567 682,569"/>
+        <TextEquiv><Unicode>POSTERISQ·EORVM·FECIT</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

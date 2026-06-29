@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00309.jpg" imageWidth="900" imageHeight="457">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,457 0,457" />
+      <TextLine id="r1l1">
+        <Coords points="419,132 432,132 445,131 457,131 470,130 483,130 483,166 470,166 457,167 445,167 432,168 419,168" />
+        <Baseline points="419,165 432,164 445,164 457,163 470,163 483,162" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="412,180 428,180 443,181 458,182 473,183 488,184 488,219 473,218 458,217 443,216 428,216 412,215" />
+        <Baseline points="412,207 428,208 443,209 458,210 473,210 488,211" />
+        <TextEquiv>
+          <Unicode>D C N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="391,223 414,223 438,223 461,223 485,223 508,223 508,251 485,251 461,251 438,251 414,251 391,251" />
+        <Baseline points="391,247 414,247 438,247 461,247 485,247 508,247" />
+        <TextEquiv>
+          <Unicode>VIXIET SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="396,259 417,259 438,258 460,258 481,257 502,257 502,283 481,283 460,284 438,284 417,285 396,285" />
+        <Baseline points="396,283 417,282 438,282 460,281 481,281 502,280" />
+        <TextEquiv>
+          <Unicode>ANIS LXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

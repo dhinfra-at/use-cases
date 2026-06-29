@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00173.jpg" imageWidth="900" imageHeight="605">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,605 0,605" />
+      <TextLine id="r1l1">
+        <Coords points="407,201 424,201 441,201 457,202 474,202 491,202 491,241 474,240 457,240 441,240 424,240 407,239" />
+        <Baseline points="407,232 424,233 441,233 457,233 474,233 491,234" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="366,249 399,248 432,248 465,247 499,246 532,246 532,280 499,281 465,282 432,283 399,283 366,284" />
+        <Baseline points="366,280 399,279 432,278 465,278 499,277 532,276" />
+        <TextEquiv>
+          <Unicode>M BAEBIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="393,288 416,287 439,285 462,284 485,282 508,281 508,319 485,321 462,322 439,324 416,325 393,327" />
+        <Baseline points="393,323 416,322 439,320 462,319 485,317 508,316" />
+        <TextEquiv>
+          <Unicode>PVDENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="349,338 390,338 430,337 470,337 511,337 551,336 551,373 511,374 470,374 430,375 390,375 349,376" />
+        <Baseline points="349,369 390,368 430,368 470,368 511,367 551,367" />
+        <TextEquiv>
+          <Unicode>VIX AN XXXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="364,375 399,373 434,370 468,367 503,365 537,363 537,404 503,406 468,409 434,411 399,414 364,417" />
+        <Baseline points="364,413 399,410 434,408 468,405 503,403 537,400" />
+        <TextEquiv>
+          <Unicode>FECT COIVX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="349,423 389,421 430,418 470,416 511,414 551,411 551,451 511,453 470,456 430,458 389,460 349,462" />
+        <Baseline points="349,459 389,456 430,454 470,452 511,450 551,447" />
+        <TextEquiv>
+          <Unicode>BENE MERENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="414,469 429,469 445,469 460,470 476,470 491,470 491,505 476,504 460,504 445,504 429,504 414,504" />
+        <Baseline points="414,498 429,498 445,498 460,498 476,498 491,499" />
+        <TextEquiv>
+          <Unicode>S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

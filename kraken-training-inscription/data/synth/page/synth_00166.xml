@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00166.jpg" imageWidth="900" imageHeight="591">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,591 0,591" />
+      <TextLine id="r1l1">
+        <Coords points="298,86 363,87 429,88 495,89 560,90 626,92 626,153 560,151 495,150 429,149 363,148 298,148" />
+        <Baseline points="298,140 363,141 429,142 495,143 560,144 626,145" />
+        <TextEquiv>
+          <Unicode>IFATIAE QVE VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="250,154 321,154 392,153 464,151 535,149 606,148 606,220 535,222 464,223 392,225 321,226 250,226" />
+        <Baseline points="250,218 321,218 392,217 464,216 535,214 606,212" />
+        <TextEquiv>
+          <Unicode>T NN XXIIII M V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="245,249 324,253 404,257 483,261 563,265 642,270 642,343 563,339 483,335 404,331 324,327 245,323" />
+        <Baseline points="245,301 324,305 404,309 483,313 563,317 642,322" />
+        <TextEquiv>
+          <Unicode>FECIT CVM MARI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="413,328 454,330 496,332 537,333 578,335 620,336 620,400 578,398 537,397 496,395 454,393 413,392" />
+        <Baseline points="413,379 454,381 496,383 537,384 578,386 620,387" />
+        <TextEquiv>
+          <Unicode>IIII D XIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="553,382 571,382 588,382 605,382 623,381 640,381 640,441 623,441 605,442 588,442 571,442 553,442" />
+        <Baseline points="553,435 571,435 588,435 605,434 623,434 640,434" />
+        <TextEquiv>
+          <Unicode>OIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

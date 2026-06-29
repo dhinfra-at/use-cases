@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00016.jpg" imageWidth="900" imageHeight="1125">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1125 0,1125" />
+      <TextLine id="r1l1">
+        <Coords points="420,132 437,132 455,131 472,130 490,129 507,129 507,183 490,183 472,184 455,185 437,186 420,186" />
+        <Baseline points="420,181 437,180 455,180 472,179 490,178 507,177" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="240,197 327,193 414,190 501,186 588,183 675,179 675,246 588,250 501,253 414,257 327,261 240,264" />
+        <Baseline points="240,259 327,255 414,252 501,248 588,245 675,241" />
+        <TextEquiv>
+          <Unicode>PETRONIANO AVG LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="199,270 300,266 401,261 502,257 603,252 704,247 704,319 603,324 502,329 401,333 300,338 199,342" />
+        <Baseline points="199,337 300,332 401,328 502,323 603,319 704,314" />
+        <TextEquiv>
+          <Unicode>IVLIVS TANNONIVS AMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="258,353 336,350 413,346 491,343 568,338 646,334 646,401 568,405 491,410 413,413 336,417 258,420" />
+        <Baseline points="258,415 336,412 413,408 491,404 568,400 646,396" />
+        <TextEquiv>
+          <Unicode>CVS QVEM FRATRIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="239,447 323,450 407,453 490,455 574,458 658,461 658,522 574,519 490,517 407,514 323,511 239,508" />
+        <Baseline points="239,490 323,493 407,495 490,498 574,501 658,504" />
+        <TextEquiv>
+          <Unicode>LOCO DILEXIT ET CAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="180,493 287,488 393,483 500,477 606,471 713,466 713,540 606,546 500,551 393,557 287,562 180,567" />
+        <Baseline points="180,562 287,557 393,552 500,546 606,541 713,535" />
+        <TextEquiv>
+          <Unicode>CILIVS PROCVLVS AMICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="192,594 289,595 385,596 482,597 579,597 675,598 675,648 579,647 482,646 385,645 289,644 192,644" />
+        <Baseline points="192,635 289,636 385,637 482,637 579,638 675,639" />
+        <TextEquiv>
+          <Unicode>INCONPARABILI ET AVRE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="224,669 309,672 393,675 478,678 563,680 648,683 648,742 563,739 478,737 393,734 309,731 224,728" />
+        <Baseline points="224,710 309,713 393,716 478,719 563,721 648,723" />
+        <TextEquiv>
+          <Unicode>LIVS HERMES PARENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="274,740 340,741 406,742 472,743 538,744 604,745 604,795 538,794 472,793 406,792 340,791 274,790" />
+        <Baseline points="274,780 340,781 406,782 472,783 538,784 604,785" />
+        <TextEquiv>
+          <Unicode>DIGNISSIMO QVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="272,812 338,812 404,812 469,812 535,812 601,813 601,858 535,858 469,858 404,858 338,858 272,857" />
+        <Baseline points="272,852 338,852 404,852 469,852 535,852 601,853" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS XLVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="318,881 365,881 411,881 458,881 504,881 550,881 550,925 504,925 458,925 411,925 365,925 318,924" />
+        <Baseline points="318,920 365,920 411,920 458,920 504,920 550,920" />
+        <TextEquiv>
+          <Unicode>M VII D XXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="334,951 388,952 441,953 495,954 548,954 602,955 602,1002 548,1001 495,1000 441,1000 388,999 334,998" />
+        <Baseline points="334,990 388,991 441,992 495,992 548,993 602,994" />
+        <TextEquiv>
+          <Unicode>E SIC MACVLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

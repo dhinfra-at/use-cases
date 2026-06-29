@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00428.jpg" imageWidth="900" imageHeight="530">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,530 0,530" />
+      <TextLine id="r1l1">
+        <Coords points="61,157 84,157 108,157 131,157 155,157 178,157 178,208 155,208 131,208 108,208 84,208 61,208" />
+        <Baseline points="61,199 84,199 108,199 131,199 155,199 178,199" />
+        <TextEquiv>
+          <Unicode>VIBIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="63,220 106,221 148,221 191,221 233,221 275,222 275,274 233,274 191,274 148,274 106,273 63,273" />
+        <Baseline points="63,259 106,259 148,260 191,260 233,260 275,260" />
+        <TextEquiv>
+          <Unicode>PROTO LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="65,274 89,272 114,271 138,269 162,267 186,266 186,310 162,312 138,314 114,315 89,317 65,319" />
+        <Baseline points="65,314 89,313 114,311 138,309 162,308 186,306" />
+        <TextEquiv>
+          <Unicode>VIBIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="67,330 103,329 139,328 175,326 211,325 247,324 247,361 211,362 175,363 139,364 103,366 67,367" />
+        <Baseline points="67,363 103,362 139,360 175,359 211,358 247,356" />
+        <TextEquiv>
+          <Unicode>SENECA VIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="69,379 101,379 133,378 165,378 197,378 229,378 229,416 197,416 165,416 133,416 101,417 69,417" />
+        <Baseline points="69,408 101,408 133,408 165,408 197,407 229,407" />
+        <TextEquiv>
+          <Unicode>P PRAEF CL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="70,419 99,417 128,415 157,413 186,412 215,410 215,443 186,445 157,447 128,449 99,450 70,452" />
+        <Baseline points="70,449 99,447 128,445 157,443 186,442 215,440" />
+        <TextEquiv>
+          <Unicode>PATRONVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

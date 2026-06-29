@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00053.jpg" imageWidth="900" imageHeight="724">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,724 0,724" />
+      <TextLine id="r1l1">
+        <Coords points="338,216 383,218 427,221 472,223 516,226 561,228 561,273 516,271 472,268 427,266 383,264 338,261" />
+        <Baseline points="338,247 383,249 427,251 472,254 516,256 561,259" />
+        <TextEquiv>
+          <Unicode>IMP CAES DIVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="323,250 372,249 421,247 471,245 520,244 569,243 569,287 520,288 471,289 421,291 372,293 323,294" />
+        <Baseline points="323,290 372,288 421,286 471,285 520,284 569,282" />
+        <TextEquiv>
+          <Unicode>NERVAE F NERVA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="288,307 352,309 416,310 480,312 544,313 608,315 608,352 544,351 480,349 416,348 352,346 288,344" />
+        <Baseline points="288,334 352,336 416,338 480,339 544,341 608,342" />
+        <TextEquiv>
+          <Unicode>TRAIANVS AVG GERM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="350,337 390,335 429,333 469,331 508,330 548,328 548,369 508,371 469,372 429,374 390,376 350,378" />
+        <Baseline points="350,374 390,372 429,370 469,368 508,367 548,365" />
+        <TextEquiv>
+          <Unicode>PONTIF MAXIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="319,385 370,387 422,389 473,392 524,394 575,397 575,435 524,432 473,430 422,427 370,425 319,423" />
+        <Baseline points="319,409 370,411 422,414 473,416 524,419 575,421" />
+        <TextEquiv>
+          <Unicode>TRIB POTEST II COS II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="322,417 372,416 422,416 472,415 522,415 571,414 571,446 522,447 472,447 422,448 372,449 322,449" />
+        <Baseline points="322,446 372,445 422,444 472,444 522,443 571,443" />
+        <TextEquiv>
+          <Unicode>P P FECIT ET RESTITVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

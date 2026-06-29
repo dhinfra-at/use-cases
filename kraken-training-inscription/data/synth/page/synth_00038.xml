@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00038.jpg" imageWidth="900" imageHeight="800">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,800 0,800" />
+      <TextLine id="r1l1">
+        <Coords points="343,110 373,108 403,107 433,106 463,104 493,103 493,153 463,154 433,156 403,157 373,158 343,160" />
+        <Baseline points="343,155 373,154 403,153 433,151 463,150 493,148" />
+        <TextEquiv>
+          <Unicode>MAVOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,161 215,160 320,159 424,158 529,156 633,154 633,198 529,201 424,202 320,203 215,204 111,205" />
+        <Baseline points="111,202 215,200 320,199 424,198 529,197 633,195" />
+        <TextEquiv>
+          <Unicode>Q FLAVIO MAESIO EGNATIO L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="112,224 245,229 377,233 509,238 642,242 774,246 774,300 642,296 509,292 377,288 245,283 112,278" />
+        <Baseline points="112,257 245,261 377,266 509,270 642,275 774,279" />
+        <TextEquiv>
+          <Unicode>C V Q K PRAETORI VRBANO AVGVRI PV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="114,250 241,245 368,241 496,237 623,233 751,229 751,291 623,294 496,298 368,302 241,307 114,312" />
+        <Baseline points="114,308 241,303 368,298 496,294 623,290 751,287" />
+        <TextEquiv>
+          <Unicode>BLICO POPVLI ROMANI QVIRITIVM CONS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="114,301 243,297 373,294 502,290 631,287 760,284 760,335 631,338 502,341 373,344 243,348 114,352" />
+        <Baseline points="114,349 243,345 373,341 502,338 631,335 760,332" />
+        <TextEquiv>
+          <Unicode>ALBEI SIC TIBERIS ET CLOACARVM CONS OPERVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="116,363 241,363 367,363 493,363 619,363 745,362 745,398 619,398 493,398 367,398 241,398 116,398" />
+        <Baseline points="116,395 241,395 367,395 493,395 619,395 745,394" />
+        <TextEquiv>
+          <Unicode>PVBLICVM SIC CONS AQVARVM CONS CAMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="134,382 253,378 373,373 492,368 611,363 730,358 730,411 611,417 492,422 373,427 253,431 134,435" />
+        <Baseline points="134,432 253,428 373,424 492,419 611,414 730,409" />
+        <TextEquiv>
+          <Unicode>OMITI FLAVIALI COMITI ORIENTIS COMITI PRIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="188,445 303,445 417,444 532,444 647,443 762,443 762,476 647,476 532,476 417,477 303,477 188,477" />
+        <Baseline points="188,474 303,474 417,474 532,473 647,473 762,473" />
+        <TextEquiv>
+          <Unicode>NIS ET PROCONSVLI PROVINCIAE AFRICAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="248,486 331,488 413,490 495,492 578,494 660,496 660,528 578,526 495,524 413,522 331,520 248,519" />
+        <Baseline points="248,509 331,510 413,512 495,514 578,516 660,518" />
+        <TextEquiv>
+          <Unicode>EGIO CLIVI VITRIARI SIVE VICI TVRARI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="318,506 372,504 425,501 478,499 531,496 584,494 584,532 531,534 478,537 425,539 372,542 318,544" />
+        <Baseline points="318,541 372,539 425,536 478,534 531,532 584,529" />
+        <TextEquiv>
+          <Unicode>PATRONO DIGNISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

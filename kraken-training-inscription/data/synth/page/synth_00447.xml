@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00447.jpg" imageWidth="900" imageHeight="426">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,426 0,426" />
+      <TextLine id="r1l1">
+        <Coords points="102,211 140,214 178,218 216,221 254,225 292,228 292,266 254,263 216,259 178,256 140,253 102,249" />
+        <Baseline points="102,238 140,241 178,244 216,248 254,251 292,255" />
+        <TextEquiv>
+          <Unicode>HERCVLI AVG MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,251 123,252 147,254 170,255 193,256 216,258 216,277 193,276 170,275 147,273 123,272 100,271" />
+        <Baseline points="100,267 123,269 147,270 170,271 193,273 216,274" />
+        <TextEquiv>
+          <Unicode>XIMVS BARADI V S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

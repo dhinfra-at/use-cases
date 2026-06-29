@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002692_F011865.jpg" imageWidth="800" imageHeight="447">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,446 0,446"/>
+      
+      <TextLine id="r1l2">
+        <Coords points="123,243 667,275 666,358 666,394 124,365 124,337"/>
+        <Baseline points="137,338 663,368"/>
+        <TextEquiv><Unicode>MVLIONVM</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

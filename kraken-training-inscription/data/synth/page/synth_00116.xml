@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00116.jpg" imageWidth="900" imageHeight="727">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,727 0,727" />
+      <TextLine id="r1l1">
+        <Coords points="102,149 113,150 124,150 135,150 146,150 157,150 157,189 146,189 135,189 124,189 113,189 102,189" />
+        <Baseline points="102,184 113,184 124,184 135,184 146,185 157,185" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,200 149,202 198,204 248,206 297,208 346,209 346,254 297,253 248,251 198,249 149,247 100,245" />
+        <Baseline points="100,234 149,236 198,238 248,240 297,241 346,243" />
+        <TextEquiv>
+          <Unicode>M IVLIO VICTORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="98,249 143,249 188,249 233,249 278,249 323,249 323,286 278,286 233,286 188,286 143,286 98,286" />
+        <Baseline points="98,282 143,282 188,282 233,282 278,282 323,282" />
+        <TextEquiv>
+          <Unicode>AVG COL SARMIZ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="97,296 128,297 160,298 191,300 222,301 254,302 254,340 222,339 191,338 160,337 128,336 97,335" />
+        <Baseline points="97,327 128,328 160,329 191,330 222,331 254,332" />
+        <TextEquiv>
+          <Unicode>METROP VIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="96,341 117,342 139,342 161,342 183,342 205,342 205,376 183,376 161,376 139,375 117,375 96,375" />
+        <Baseline points="96,371 117,371 139,371 161,372 183,372 205,372" />
+        <TextEquiv>
+          <Unicode>AN LXXVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="94,386 127,386 159,386 192,387 224,387 257,387 257,418 224,418 192,418 159,418 127,417 94,417" />
+        <Baseline points="94,413 127,414 159,414 192,414 224,415 257,415" />
+        <TextEquiv>
+          <Unicode>IVLIA MAXIMA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="127,421 152,420 178,420 204,419 230,418 256,417 256,452 230,453 204,453 178,454 152,455 127,455" />
+        <Baseline points="127,452 152,452 178,451 204,450 230,449 256,449" />
+        <TextEquiv>
+          <Unicode>NIVGI B M P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

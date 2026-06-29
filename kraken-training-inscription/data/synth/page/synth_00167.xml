@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00167.jpg" imageWidth="900" imageHeight="474">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,474 0,474" />
+      <TextLine id="r1l1">
+        <Coords points="71,73 127,73 183,74 239,74 295,75 351,75 351,109 295,109 239,108 183,108 127,107 71,107" />
+        <Baseline points="71,99 127,100 183,100 239,101 295,101 351,102" />
+        <TextEquiv>
+          <Unicode>T FLAVIO AVG LIBER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="70,111 100,109 131,108 161,106 192,104 222,103 222,135 192,137 161,139 131,140 100,142 70,144" />
+        <Baseline points="70,141 100,139 131,138 161,136 192,134 222,132" />
+        <TextEquiv>
+          <Unicode>H CALLISTO C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="69,156 125,158 182,160 238,162 295,164 351,166 351,200 295,198 238,196 182,194 125,192 69,190" />
+        <Baseline points="69,176 125,178 182,180 238,181 295,183 351,185" />
+        <TextEquiv>
+          <Unicode>C AVRVNCVLEIVS AMICO SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

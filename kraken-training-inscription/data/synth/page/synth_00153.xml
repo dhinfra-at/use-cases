@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00153.jpg" imageWidth="900" imageHeight="663">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,663 0,663" />
+      <TextLine id="r1l1">
+        <Coords points="121,81 159,83 198,85 236,86 274,88 313,90 313,130 274,128 236,126 198,124 159,122 121,121" />
+        <Baseline points="121,115 159,117 198,118 236,120 274,122 313,124" />
+        <TextEquiv>
+          <Unicode>M LICINIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="117,132 166,136 215,140 264,143 313,147 362,151 362,195 313,192 264,188 215,184 166,180 117,177" />
+        <Baseline points="117,164 166,168 215,171 264,175 313,179 362,183" />
+        <TextEquiv>
+          <Unicode>CELTIBERO FAB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="114,176 165,178 215,180 266,181 317,182 368,183 368,220 317,219 266,218 215,217 165,215 114,213" />
+        <Baseline points="114,209 165,211 215,213 266,214 317,215 368,216" />
+        <TextEquiv>
+          <Unicode>LICINIANO IIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="111,221 146,224 181,226 215,229 250,232 285,235 285,271 250,269 215,266 181,263 146,260 111,258" />
+        <Baseline points="111,248 146,250 181,253 215,256 250,258 285,261" />
+        <TextEquiv>
+          <Unicode>LICINIA M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="109,261 141,264 173,266 205,269 237,271 268,274 268,306 237,304 205,301 173,299 141,296 109,294" />
+        <Baseline points="109,285 141,287 173,290 205,292 237,295 268,297" />
+        <TextEquiv>
+          <Unicode>NVMANTINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="107,296 122,298 138,299 154,300 170,301 186,303 186,330 170,329 154,327 138,326 122,325 107,324" />
+        <Baseline points="107,318 122,319 138,320 154,321 170,323 186,324" />
+        <TextEquiv>
+          <Unicode>MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

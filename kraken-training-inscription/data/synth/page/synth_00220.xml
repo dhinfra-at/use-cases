@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00220.jpg" imageWidth="900" imageHeight="817">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,817 0,817" />
+      <TextLine id="r1l1">
+        <Coords points="408,229 424,229 439,230 454,230 470,231 485,231 485,271 470,270 454,270 439,270 424,269 408,269" />
+        <Baseline points="408,263 424,263 439,263 454,264 470,264 485,265" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="262,273 334,273 406,272 477,271 549,271 621,270 621,311 549,312 477,313 406,313 334,314 262,315" />
+        <Baseline points="262,310 334,310 406,309 477,308 549,308 621,307" />
+        <TextEquiv>
+          <Unicode>M LICINIO M F CRAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="256,325 332,328 408,332 484,336 560,339 637,343 637,393 560,390 484,387 408,383 332,379 256,375" />
+        <Baseline points="256,355 332,359 408,363 484,366 560,370 637,373" />
+        <TextEquiv>
+          <Unicode>SO VETERANO EX CHO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="268,364 338,363 409,362 479,361 550,361 620,360 620,398 550,399 479,400 409,401 338,402 268,402" />
+        <Baseline points="268,398 338,398 409,397 479,396 550,395 620,394" />
+        <TextEquiv>
+          <Unicode>III PR VIX ANNIS LXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="260,412 335,414 410,415 485,416 559,417 634,418 634,452 559,452 485,451 410,450 335,448 260,447" />
+        <Baseline points="260,440 335,441 410,442 485,443 559,444 634,445" />
+        <TextEquiv>
+          <Unicode>M LICINIVS MERCVRIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="281,452 349,454 417,456 484,458 552,460 619,462 619,499 552,497 484,495 417,493 349,491 281,489" />
+        <Baseline points="281,478 349,480 417,481 484,483 552,485 619,487" />
+        <TextEquiv>
+          <Unicode>LIBERT PATRONO B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="247,481 327,480 406,478 486,477 565,475 644,473 644,511 565,513 486,514 406,516 327,517 247,519" />
+        <Baseline points="247,515 327,514 406,513 486,511 565,509 644,508" />
+        <TextEquiv>
+          <Unicode>FECIT SIBI ET SVIS LIBERTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="348,527 390,527 431,528 473,528 514,528 556,528 556,554 514,554 473,554 431,554 390,554 348,553" />
+        <Baseline points="348,550 390,550 431,550 473,551 514,551 556,551" />
+        <TextEquiv>
+          <Unicode>LIBERTABVSQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="312,560 368,561 424,563 480,564 537,566 593,567 593,597 537,596 480,594 424,593 368,591 312,590" />
+        <Baseline points="312,581 368,583 424,584 480,586 537,587 593,589" />
+        <TextEquiv>
+          <Unicode>POSTERISQVE EORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="345,588 388,587 430,586 473,586 515,585 558,584 558,611 515,612 473,612 430,613 388,614 345,614" />
+        <Baseline points="345,611 388,611 430,610 473,610 515,609 558,608" />
+        <TextEquiv>
+          <Unicode>IN AG P X IN F P VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

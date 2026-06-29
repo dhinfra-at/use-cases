@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00152.jpg" imageWidth="900" imageHeight="439">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,439 0,439" />
+      <TextLine id="r1l1">
+        <Coords points="333,30 379,29 424,28 469,27 515,27 560,26 560,93 515,94 469,95 424,95 379,96 333,97" />
+        <Baseline points="333,89 379,88 424,87 469,87 515,86 560,85" />
+        <TextEquiv>
+          <Unicode>T AELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="350,113 389,113 429,113 468,113 507,114 546,114 546,172 507,171 468,170 429,170 389,170 350,170" />
+        <Baseline points="350,163 389,162 429,163 468,163 507,163 546,164" />
+        <TextEquiv>
+          <Unicode>AVG LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="320,177 372,174 423,172 475,169 526,167 577,164 577,229 526,232 475,235 423,237 372,240 320,242" />
+        <Baseline points="320,235 372,233 423,230 475,228 526,225 577,223" />
+        <TextEquiv>
+          <Unicode>CASTRENSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="269,239 341,237 414,236 486,234 559,232 631,229 631,289 559,292 486,294 414,296 341,297 269,299" />
+        <Baseline points="269,293 341,291 414,290 486,288 559,286 631,283" />
+        <TextEquiv>
+          <Unicode>EX TESTAMENTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

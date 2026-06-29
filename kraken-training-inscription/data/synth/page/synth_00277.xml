@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00277.jpg" imageWidth="900" imageHeight="740">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,740 0,740" />
+      <TextLine id="r1l1">
+        <Coords points="384,168 413,168 441,168 470,168 498,168 527,168 527,232 498,232 470,232 441,232 413,232 384,233" />
+        <Baseline points="384,225 413,224 441,224 470,224 498,224 527,224" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="332,252 380,254 427,256 475,258 522,260 570,262 570,321 522,319 475,317 427,315 380,313 332,311" />
+        <Baseline points="332,300 380,302 427,304 475,306 522,308 570,309" />
+        <TextEquiv>
+          <Unicode>P MVNATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="316,316 370,316 423,317 476,317 529,317 583,317 583,374 529,374 476,374 423,374 370,373 316,373" />
+        <Baseline points="316,367 370,367 423,367 476,367 529,367 583,367" />
+        <TextEquiv>
+          <Unicode>VS VICTOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="350,387 388,387 425,387 462,387 500,388 537,388 537,440 500,439 462,439 425,439 388,439 350,439" />
+        <Baseline points="350,433 388,433 425,433 462,433 500,433 537,433" />
+        <TextEquiv>
+          <Unicode>VIXIT AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="336,443 380,443 423,442 467,441 510,441 554,440 554,494 510,495 467,496 423,497 380,497 336,498" />
+        <Baseline points="336,492 380,491 423,491 467,490 510,489 554,488" />
+        <TextEquiv>
+          <Unicode>NIS LXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="317,510 367,514 417,517 467,521 517,525 567,528 567,583 517,579 467,576 417,572 367,568 317,565" />
+        <Baseline points="317,547 367,550 417,554 467,558 517,561 567,565" />
+        <TextEquiv>
+          <Unicode>FLAVIA AVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="353,565 388,566 423,568 459,569 494,571 530,572 530,615 494,613 459,612 423,610 388,609 353,607" />
+        <Baseline points="353,598 388,600 423,601 459,603 494,604 530,606" />
+        <TextEquiv>
+          <Unicode>NIA VXOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="342,613 381,614 419,615 458,616 497,617 535,618 535,652 497,651 458,650 419,649 381,648 342,647" />
+        <Baseline points="342,643 381,644 419,645 458,646 497,646 535,647" />
+        <TextEquiv>
+          <Unicode>PIISSIMA FEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

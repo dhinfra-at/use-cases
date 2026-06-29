@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD004381_F020132.jpg" imageWidth="1000" imageHeight="1268">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,1267 0,1267"/>
+      <TextLine id="r1l1">
+        <Coords points="135,125 891,136 891,289 135,278"/>
+        <Baseline points="135,252 891,263"/>
+        <TextEquiv><Unicode>M·MARIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="144,262 918,268 918,432 144,426"/>
+        <Baseline points="144,401 918,407"/>
+        <TextEquiv><Unicode>C·F·LICINIAN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="123,406 855,428 868,430 877,563 116,551"/>
+        <Baseline points="123,539 874,546"/>
+        <TextEquiv><Unicode>M·PECVLIAR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="122,544 952,558 952,706 122,692"/>
+        <Baseline points="122,668 952,682"/>
+        <TextEquiv><Unicode>ET·MARIA·SECVN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="117,676 891,688 891,837 117,825"/>
+        <Baseline points="117,803 891,815"/>
+        <TextEquiv><Unicode>DA·PATRONO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="129,809 892,822 892,963 129,950"/>
+        <Baseline points="129,927 892,940"/>
+        <TextEquiv><Unicode>OPTIME·MERITO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="127,935 877,944 877,1089 127,1080"/>
+        <Baseline points="127,1056 877,1065"/>
+        <TextEquiv><Unicode>ET·SIBI·V·POSV</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

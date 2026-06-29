@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00150.jpg" imageWidth="900" imageHeight="590">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,590 0,590" />
+      <TextLine id="r1l1">
+        <Coords points="285,152 339,151 393,149 447,148 501,147 555,146 555,190 501,191 447,193 393,194 339,195 285,196" />
+        <Baseline points="285,189 339,187 393,186 447,185 501,184 555,183" />
+        <TextEquiv>
+          <Unicode>L CAFATIO SP F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="388,204 408,204 427,204 446,204 465,203 485,203 485,242 465,242 446,242 427,242 408,242 388,243" />
+        <Baseline points="388,236 408,235 427,235 446,235 465,235 485,235" />
+        <TextEquiv>
+          <Unicode>CELERI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="280,249 332,247 383,244 435,241 486,239 538,236 538,273 486,276 435,278 383,281 332,284 280,286" />
+        <Baseline points="280,282 332,280 383,277 435,274 486,272 538,269" />
+        <TextEquiv>
+          <Unicode>POMPONIA PHILVMINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="368,290 395,289 422,288 449,286 476,285 503,284 503,312 476,313 449,314 422,315 395,317 368,318" />
+        <Baseline points="368,315 395,314 422,312 449,311 476,310 503,309" />
+        <TextEquiv>
+          <Unicode>MATER POSIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

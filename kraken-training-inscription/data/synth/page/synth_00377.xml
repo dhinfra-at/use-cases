@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00377.jpg" imageWidth="900" imageHeight="1007">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1007 0,1007" />
+      <TextLine id="r1l1">
+        <Coords points="345,382 382,380 418,377 455,374 491,371 528,369 528,413 491,416 455,418 418,421 382,424 345,426" />
+        <Baseline points="345,422 382,419 418,416 455,413 491,411 528,408" />
+        <TextEquiv>
+          <Unicode>C VALERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="268,435 335,432 403,429 471,425 538,422 606,418 606,459 538,463 471,466 403,470 335,473 268,476" />
+        <Baseline points="268,471 335,468 403,465 471,462 538,458 606,454" />
+        <TextEquiv>
+          <Unicode>ANEMPTION TVCCIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="235,488 318,486 401,484 484,482 567,479 650,477 650,515 567,518 484,520 401,522 318,524 235,526" />
+        <Baseline points="235,517 318,516 401,514 484,511 567,509 650,507" />
+        <TextEquiv>
+          <Unicode>CAELATOR ANAGLYPTARIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="241,531 324,529 408,527 492,525 576,523 660,520 660,558 576,560 492,563 408,565 324,567 241,569" />
+        <Baseline points="241,559 324,557 408,555 492,553 576,551 660,549" />
+        <TextEquiv>
+          <Unicode>INCREMENTVM MAXIMVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="308,569 365,571 422,572 480,573 537,574 595,575 595,621 537,620 480,619 422,618 365,617 308,616" />
+        <Baseline points="308,596 365,597 422,598 480,599 537,600 595,601" />
+        <TextEquiv>
+          <Unicode>NN XL MENS V DIER VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="367,606 404,604 440,603 476,602 512,601 548,599 548,629 512,631 476,632 440,633 404,634 367,636" />
+        <Baseline points="367,631 404,630 440,629 476,627 512,626 548,625" />
+        <TextEquiv>
+          <Unicode>P I S H S E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="286,647 354,645 423,643 491,641 560,640 628,638 628,670 560,671 491,673 423,675 354,676 286,678" />
+        <Baseline points="286,671 354,669 423,667 491,666 560,664 628,662" />
+        <TextEquiv>
+          <Unicode>C VALERIVS ZEPHYRVS SVC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="336,681 386,681 437,681 487,681 538,681 588,681 588,717 538,717 487,717 437,717 386,717 336,717" />
+        <Baseline points="336,703 386,704 437,704 487,704 538,704 588,704" />
+        <TextEquiv>
+          <Unicode>CESSOREM SVVM LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="347,715 394,715 441,715 488,716 534,716 581,716 581,751 534,751 488,750 441,750 394,750 347,749" />
+        <Baseline points="347,736 394,737 441,737 488,737 534,737 581,738" />
+        <TextEquiv>
+          <Unicode>ET ALVMNVM INDVL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="368,745 407,745 447,745 487,746 526,746 566,746 566,778 526,777 487,777 447,777 407,776 368,776" />
+        <Baseline points="368,764 407,765 447,765 487,765 526,765 566,766" />
+        <TextEquiv>
+          <Unicode>GENTISSIMVM HIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="401,772 428,771 455,771 483,771 510,770 537,770 537,794 510,795 483,795 455,795 428,796 401,796" />
+        <Baseline points="401,790 428,790 455,789 483,789 510,789 537,788" />
+        <TextEquiv>
+          <Unicode>CONSECRAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

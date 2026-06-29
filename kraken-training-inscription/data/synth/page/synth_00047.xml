@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00047.jpg" imageWidth="900" imageHeight="840">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,840 0,840" />
+      <TextLine id="r1l1">
+        <Coords points="229,95 306,89 383,83 460,77 537,71 614,65 614,146 537,152 460,158 383,165 306,171 229,176" />
+        <Baseline points="229,167 306,162 383,156 460,150 537,143 614,137" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="172,207 277,206 382,204 487,201 592,198 696,194 696,264 592,268 487,271 382,274 277,276 172,277" />
+        <Baseline points="172,262 277,261 382,259 487,256 592,253 696,249" />
+        <TextEquiv>
+          <Unicode>M MINIVS ANTHVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="242,295 322,296 403,296 483,296 563,295 644,294 644,368 563,369 483,369 403,370 322,369 242,369" />
+        <Baseline points="242,347 322,348 403,348 483,348 563,347 644,346" />
+        <TextEquiv>
+          <Unicode>VIX NN XXII ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="129,361 251,349 373,338 495,327 617,317 739,309 739,393 617,401 495,411 373,422 251,434 129,445" />
+        <Baseline points="129,438 251,426 373,415 495,404 617,394 739,386" />
+        <TextEquiv>
+          <Unicode>MINIA FESTA MAT HVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="274,461 345,458 417,454 488,450 560,446 631,441 631,503 560,507 488,511 417,515 345,519 274,522" />
+        <Baseline points="274,515 345,512 417,508 488,504 560,500 631,495" />
+        <TextEquiv>
+          <Unicode>VIX NN XXXXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="164,545 280,540 397,535 514,529 630,524 747,518 747,575 630,581 514,586 397,592 280,597 164,602" />
+        <Baseline points="164,596 280,590 397,585 514,580 630,574 747,568" />
+        <TextEquiv>
+          <Unicode>FEC M FVFICIVS MARTIAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="184,618 294,612 405,606 515,600 626,595 736,589 736,647 626,653 515,658 405,663 294,670 184,676" />
+        <Baseline points="184,670 294,663 405,657 515,652 626,646 736,641" />
+        <TextEquiv>
+          <Unicode>SIB ET FILIO ET CONIVGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="281,676 356,669 430,661 504,654 578,648 652,642 652,710 578,716 504,723 430,730 356,737 281,744" />
+        <Baseline points="281,738 356,731 430,723 504,716 578,710 652,704" />
+        <TextEquiv>
+          <Unicode>BENE MERENTIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

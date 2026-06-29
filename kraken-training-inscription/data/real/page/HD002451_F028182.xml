@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002451_F028182.jpg" imageWidth="800" imageHeight="1400">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1399 0,1399"/>
+      <TextLine id="r1l1">
+        <Coords points="225,81 611,77 611,180 225,184"/>
+        <Baseline points="225,176 611,172"/>
+        <TextEquiv><Unicode>SEX·ANICIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="225,181 604,176 604,279 225,282"/>
+        <Baseline points="225,276 604,271"/>
+        <TextEquiv><Unicode>FAVSTON</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="218,281 609,277 609,391 218,392 218,367"/>
+        <Baseline points="219,378 608,376"/>
+        <TextEquiv><Unicode>CICONSV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="222,390 638,386 638,474 638,494 222,494"/>
+        <Baseline points="228,486 639,486"/>
+        <TextEquiv><Unicode>LARIS·FILI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="227,502 618,494 618,597 227,606"/>
+        <Baseline points="227,597 618,589"/>
+        <TextEquiv><Unicode>OPAVLINI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="223,599 602,598 612,717 221,713 221,703 221,703"/>
+        <Baseline points="230,699 600,698"/>
+        <TextEquiv><Unicode>ANO·C·P·Q</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="217,712 625,710 625,823 217,825"/>
+        <Baseline points="217,808 625,806"/>
+        <TextEquiv><Unicode>TEGONIVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="220,810 627,814 626,911 218,899"/>
+        <Baseline points="224,892 627,902"/>
+        <TextEquiv><Unicode>LATINVSQ</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="220,898 624,900 624,988 220,980"/>
+        <Baseline points="223,973 624,980"/>
+        <TextEquiv><Unicode>TECONI·SATVR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="229,980 568,985 568,1062 229,1068"/>
+        <Baseline points="229,1060 570,1054"/>
+        <TextEquiv><Unicode>NINIFL·PP</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="218,1066 548,1064 548,1159 218,1161"/>
+        <Baseline points="218,1146 548,1144"/>
+        <TextEquiv><Unicode>FIL·PATRO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="318,1148 453,1148 453,1246 318,1246"/>
+        <Baseline points="318,1228 453,1228"/>
+        <TextEquiv><Unicode>NO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00356.jpg" imageWidth="900" imageHeight="527">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,527 0,527" />
+      <TextLine id="r1l1">
+        <Coords points="113,132 174,132 235,131 296,131 357,130 418,129 418,173 357,174 296,175 235,175 174,176 113,176" />
+        <Baseline points="113,172 174,172 235,171 296,171 357,170 418,169" />
+        <TextEquiv>
+          <Unicode>P MAGIO PHILONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="112,188 184,190 255,192 327,194 399,196 470,198 470,231 399,229 327,227 255,225 184,223 112,221" />
+        <Baseline points="112,217 184,219 255,221 327,223 399,225 470,227" />
+        <TextEquiv>
+          <Unicode>NORBANAE PYRALLIDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="111,230 146,230 181,230 216,230 251,230 286,230 286,268 251,268 216,268 181,268 146,268 111,269" />
+        <Baseline points="111,265 146,264 181,264 216,264 251,264 286,264" />
+        <TextEquiv>
+          <Unicode>MAGIA P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="185,280 203,280 221,280 240,280 258,280 276,280 276,315 258,315 240,315 221,315 203,315 185,315" />
+        <Baseline points="185,311 203,311 221,311 240,311 258,311 276,311" />
+        <TextEquiv>
+          <Unicode>SELIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

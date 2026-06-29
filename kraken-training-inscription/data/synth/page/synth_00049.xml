@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00049.jpg" imageWidth="900" imageHeight="334">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,334 0,334" />
+      <TextLine id="r1l1">
+        <Coords points="99,103 222,106 346,109 469,110 593,111 716,112 716,166 593,165 469,164 346,163 222,160 99,157" />
+        <Baseline points="99,145 222,148 346,150 469,152 593,152 716,153" />
+        <TextEquiv>
+          <Unicode>A COSSINIVS PHILOCRATIS PV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="311,189 356,190 401,191 446,193 491,194 536,196 536,258 491,257 446,255 401,254 356,253 311,251" />
+        <Baseline points="311,238 356,239 401,240 446,242 491,243 536,245" />
+        <TextEquiv>
+          <Unicode>TEOLANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

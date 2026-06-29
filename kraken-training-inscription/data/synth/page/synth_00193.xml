@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00193.jpg" imageWidth="900" imageHeight="867">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,867 0,867" />
+      <TextLine id="r1l1">
+        <Coords points="76,131 94,131 113,131 131,131 150,131 168,131 168,190 150,190 131,190 113,190 94,190 76,190" />
+        <Baseline points="76,181 94,181 113,181 131,181 150,181 168,181" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="74,209 135,207 197,206 258,204 319,202 380,199 380,260 319,262 258,265 197,266 135,268 74,270" />
+        <Baseline points="74,262 135,261 197,259 258,257 319,255 380,252" />
+        <TextEquiv>
+          <Unicode>C MAECENATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="73,298 121,298 169,299 218,300 266,301 314,301 314,359 266,359 218,358 169,357 121,356 73,356" />
+        <Baseline points="73,343 121,343 169,344 218,345 266,346 314,346" />
+        <TextEquiv>
+          <Unicode>VMBRICIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="71,370 111,368 151,366 190,364 230,363 270,361 270,417 230,418 190,420 151,422 111,424 71,425" />
+        <Baseline points="71,419 111,417 151,416 190,414 230,412 270,410" />
+        <TextEquiv>
+          <Unicode>IANVARIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="70,447 129,446 189,445 248,445 307,444 367,443 367,491 307,492 248,493 189,493 129,494 70,495" />
+        <Baseline points="70,489 129,488 189,487 248,487 307,486 367,485" />
+        <TextEquiv>
+          <Unicode>NEGOTIATORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="69,520 115,519 162,519 208,519 255,519 301,519 301,565 255,565 208,565 162,565 115,566 69,566" />
+        <Baseline points="69,558 115,558 162,558 208,558 255,557 301,557" />
+        <TextEquiv>
+          <Unicode>MATERIARIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="68,580 131,578 195,576 258,574 322,572 385,571 385,619 322,620 258,622 195,624 131,626 68,628" />
+        <Baseline points="68,622 131,620 195,618 258,616 322,615 385,613" />
+        <TextEquiv>
+          <Unicode>C MAECENAS FELIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="66,649 130,651 195,652 259,653 323,653 387,654 387,701 323,701 259,700 195,700 130,698 66,697" />
+        <Baseline points="66,684 130,685 195,686 259,687 323,688 387,688" />
+        <TextEquiv>
+          <Unicode>PARENTI PIISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
