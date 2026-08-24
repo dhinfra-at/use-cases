@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00478.jpg" imageWidth="900" imageHeight="1024">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1024 0,1024" />
+      <TextLine id="r1l1">
+        <Coords points="365,228 405,229 446,231 486,233 526,236 567,238 567,283 526,280 486,278 446,276 405,274 365,272" />
+        <Baseline points="365,266 405,268 446,270 486,272 526,274 567,277" />
+        <TextEquiv>
+          <Unicode>C VALERIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="142,278 268,286 394,294 520,301 646,308 772,315 772,365 646,358 520,351 394,343 268,335 142,327" />
+        <Baseline points="142,313 268,322 394,330 520,337 646,344 772,351" />
+        <TextEquiv>
+          <Unicode>T F FAB RVFO HONOR DECVRIONALIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="138,326 266,330 394,334 521,337 649,340 777,344 777,391 649,387 521,384 394,380 266,377 138,373" />
+        <Baseline points="138,370 266,373 394,377 521,380 649,384 777,387" />
+        <TextEquiv>
+          <Unicode>ORN DEC DEC PRAEF COH VI PRAETOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="135,389 257,394 379,399 502,403 624,407 747,411 747,452 624,448 502,443 379,439 257,435 135,430" />
+        <Baseline points="135,426 257,431 379,436 502,440 624,444 747,448" />
+        <TextEquiv>
+          <Unicode>TR MIL LEG VII CL P F MISSO CVM VEXILLO AB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="131,431 256,433 380,434 505,435 630,437 755,439 755,495 630,493 505,491 380,490 256,488 131,487" />
+        <Baseline points="131,483 256,485 380,486 505,487 630,489 755,492" />
+        <TextEquiv>
+          <Unicode>IMP NERVA TRAIANO OPTVMO AVG GER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="127,504 253,513 379,523 505,533 631,542 757,550 757,602 631,593 505,584 379,575 253,565 127,556" />
+        <Baseline points="127,533 253,543 379,553 505,562 631,571 757,580" />
+        <TextEquiv>
+          <Unicode>DACICO PARTH CYPRVM IN EXPEDITIONEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="180,553 283,556 386,558 490,560 593,563 696,566 696,615 593,611 490,609 386,606 283,604 180,601" />
+        <Baseline points="180,597 283,600 386,602 490,605 593,607 696,611" />
+        <TextEquiv>
+          <Unicode>PRAEF ALAE GAETVLOR PRAEF IMP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="139,612 257,623 374,635 492,646 610,658 728,669 728,739 610,727 492,716 374,704 257,693 139,682" />
+        <Baseline points="139,647 257,658 374,669 492,681 610,693 728,704" />
+        <TextEquiv>
+          <Unicode>CAESARIS TRANI HADRIANI AVG P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="268,662 334,663 401,665 467,666 534,667 600,669 600,714 534,713 467,712 401,710 334,709 268,707" />
+        <Baseline points="268,703 334,705 401,706 467,708 534,709 600,710" />
+        <TextEquiv>
+          <Unicode>IIVIRALI POTESTATE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="176,703 277,705 378,706 478,709 579,711 679,714 679,762 579,759 478,757 378,754 277,752 176,751" />
+        <Baseline points="176,747 277,749 378,751 478,753 579,756 679,758" />
+        <TextEquiv>
+          <Unicode>L CAREIVS ADIECTVS SEDATIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="345,772 379,775 413,777 446,780 480,782 514,785 514,825 480,822 446,820 413,817 379,815 345,812" />
+        <Baseline points="345,804 379,806 413,809 446,811 480,814 514,816" />
+        <TextEquiv>
+          <Unicode>OB MERITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

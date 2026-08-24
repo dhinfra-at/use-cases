@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00213.jpg" imageWidth="900" imageHeight="615">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,615 0,615" />
+      <TextLine id="r1l1">
+        <Coords points="68,141 82,141 95,140 108,140 122,140 135,140 135,183 122,183 108,183 95,183 82,183 68,183" />
+        <Baseline points="68,179 82,179 95,179 108,178 122,178 135,178" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="68,211 102,211 136,211 170,212 205,212 239,213 239,252 205,251 170,251 136,251 102,250 68,250" />
+        <Baseline points="68,246 102,246 136,246 170,247 205,247 239,248" />
+        <TextEquiv>
+          <Unicode>AVENTINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="67,281 118,281 168,282 218,284 269,285 319,287 319,329 269,327 218,325 168,324 118,323 67,322" />
+        <Baseline points="67,314 118,315 168,316 218,317 269,319 319,321" />
+        <TextEquiv>
+          <Unicode>CVRATORI ALAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="67,342 116,341 165,340 214,339 263,339 312,338 312,381 263,381 214,382 165,383 116,383 67,384" />
+        <Baseline points="67,380 116,379 165,379 214,378 263,377 312,377" />
+        <TextEquiv>
+          <Unicode>II ASTVR STIP XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="66,399 122,396 179,394 235,392 292,390 348,388 348,435 292,437 235,439 179,441 122,443 66,446" />
+        <Baseline points="66,442 122,440 179,438 235,436 292,434 348,432" />
+        <TextEquiv>
+          <Unicode>AEL GEMELLVS DEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="65,471 81,471 97,471 113,471 128,471 144,470 144,506 128,507 113,507 97,507 81,507 65,508" />
+        <Baseline points="65,504 81,504 97,504 113,503 128,503 144,503" />
+        <TextEquiv>
+          <Unicode>H F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

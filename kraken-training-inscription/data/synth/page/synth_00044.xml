@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00044.jpg" imageWidth="900" imageHeight="898">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,898 0,898" />
+      <TextLine id="r1l1">
+        <Coords points="322,331 371,329 420,327 468,325 517,323 565,322 565,358 517,360 468,362 420,364 371,366 322,367" />
+        <Baseline points="322,364 371,362 420,360 468,358 517,356 565,354" />
+        <TextEquiv>
+          <Unicode>GENIO CORPORIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="340,381 381,380 422,379 462,378 503,377 544,376 544,411 503,412 462,413 422,414 381,415 340,416" />
+        <Baseline points="340,410 381,410 422,409 462,408 503,407 544,406" />
+        <TextEquiv>
+          <Unicode>SPLENDIDISSIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="311,428 366,427 421,425 476,424 531,423 586,422 586,456 531,457 476,458 421,459 366,461 311,462" />
+        <Baseline points="311,456 366,455 421,454 476,453 531,452 586,450" />
+        <TextEquiv>
+          <Unicode>INPORTANTIVM SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="317,462 368,459 419,455 470,452 521,448 572,445 572,485 521,489 470,493 419,496 368,500 317,503" />
+        <Baseline points="317,500 368,496 419,493 470,489 521,486 572,482" />
+        <TextEquiv>
+          <Unicode>ET NEGOTIANTIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="367,514 401,514 434,514 468,514 502,515 535,515 535,550 502,550 468,550 434,550 401,550 367,550" />
+        <Baseline points="367,541 401,541 434,541 468,541 502,541 535,541" />
+        <TextEquiv>
+          <Unicode>VINARIORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="318,558 371,557 425,557 479,557 532,556 586,555 586,591 532,591 479,592 425,592 371,593 318,593" />
+        <Baseline points="318,584 371,584 425,584 479,583 532,582 586,582" />
+        <TextEquiv>
+          <Unicode>C SEPTIMIVS QVIETVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="336,589 384,586 431,583 478,580 526,577 573,574 573,610 526,613 478,616 431,619 384,622 336,625" />
+        <Baseline points="336,622 384,619 431,616 478,613 526,610 573,607" />
+        <TextEquiv>
+          <Unicode>PRAECO VINORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="440,633 448,632 456,632 464,632 471,632 479,631 479,659 471,659 464,659 456,659 448,660 440,660" />
+        <Baseline points="440,657 448,657 456,657 464,656 471,656 479,656" />
+        <TextEquiv>
+          <Unicode>D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

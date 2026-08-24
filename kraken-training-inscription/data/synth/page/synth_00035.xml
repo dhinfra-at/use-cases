@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00035.jpg" imageWidth="900" imageHeight="769">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,769 0,769" />
+      <TextLine id="r1l1">
+        <Coords points="97,191 177,191 257,191 337,190 417,190 497,190 497,231 417,232 337,232 257,232 177,232 97,232" />
+        <Baseline points="97,223 177,223 257,223 337,223 417,223 497,223" />
+        <TextEquiv>
+          <Unicode>IMP CAESARI TRAIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,239 149,236 198,234 248,231 297,229 347,226 347,272 297,274 248,277 198,280 149,282 100,284" />
+        <Baseline points="100,280 149,278 198,276 248,273 297,270 347,268" />
+        <TextEquiv>
+          <Unicode>HADRIANO AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="102,302 198,300 293,299 389,298 485,296 581,295 581,332 485,333 389,335 293,336 198,338 102,339" />
+        <Baseline points="102,334 198,333 293,332 389,330 485,329 581,327" />
+        <TextEquiv>
+          <Unicode>PONTIF MAX TRIB POT XIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="104,347 171,345 239,343 306,340 373,337 441,334 441,379 373,382 306,385 239,388 171,390 104,392" />
+        <Baseline points="104,388 171,386 239,384 306,381 373,378 441,375" />
+        <TextEquiv>
+          <Unicode>IMP III COS III P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="106,408 235,412 364,416 494,420 623,424 752,429 752,488 623,483 494,479 364,475 235,472 106,467" />
+        <Baseline points="106,435 235,439 364,443 494,447 623,451 752,455" />
+        <TextEquiv>
+          <Unicode>PR ROSIANVM GEMINVM LEG AVG PR PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="175,440 285,435 395,430 505,425 615,420 725,416 725,469 615,473 505,478 395,483 285,487 175,493" />
+        <Baseline points="175,489 285,483 395,479 505,474 615,469 725,465" />
+        <TextEquiv>
+          <Unicode>ECTA FANA EX PECVNIA SACERD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="188,504 291,502 395,499 498,494 602,491 706,488 706,533 602,535 498,539 395,543 291,547 188,549" />
+        <Baseline points="188,545 291,543 395,539 498,535 602,531 706,529" />
+        <TextEquiv>
+          <Unicode>LVTATIVM IVLIANVM ET SCALPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="172,566 238,565 304,564 370,563 436,562 502,561 502,597 436,598 370,600 304,601 238,602 172,603" />
+        <Baseline points="172,599 238,598 304,597 370,596 436,594 502,593" />
+        <TextEquiv>
+          <Unicode>M IVLIANVM IIVIROS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="212,611 290,608 369,606 448,604 527,602 606,601 606,641 527,642 448,644 369,646 290,648 212,651" />
+        <Baseline points="212,647 290,644 369,642 448,640 527,638 606,637" />
+        <TextEquiv>
+          <Unicode>STORE CAESIO IVLIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

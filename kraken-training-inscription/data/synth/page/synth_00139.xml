@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00139.jpg" imageWidth="900" imageHeight="990">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,990 0,990" />
+      <TextLine id="r1l1">
+        <Coords points="418,285 431,284 445,284 458,283 471,282 485,281 485,325 471,326 458,327 445,327 431,328 418,329" />
+        <Baseline points="418,323 431,322 445,322 458,321 471,320 485,319" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="262,341 336,337 411,334 486,330 560,326 635,322 635,371 560,375 486,379 411,383 336,386 262,390" />
+        <Baseline points="262,385 336,381 411,378 486,374 560,370 635,366" />
+        <TextEquiv>
+          <Unicode>G C MANSVANIO CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="267,391 339,386 412,382 484,378 556,374 628,369 628,420 556,425 484,429 412,433 339,437 267,442" />
+        <Baseline points="267,437 339,432 412,428 484,424 556,420 628,415" />
+        <TextEquiv>
+          <Unicode>SORTIO OMNIB DECV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="102,440 243,432 384,425 524,416 665,408 806,400 806,451 665,459 524,468 384,476 243,484 102,491" />
+        <Baseline points="102,488 243,480 384,472 524,464 665,456 806,447" />
+        <TextEquiv>
+          <Unicode>RIONALIBVS ORNAMENT DECORATO IIIIVIRO QQ PAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="200,508 298,505 396,503 493,500 591,497 689,494 689,531 591,534 493,537 396,540 298,543 200,545" />
+        <Baseline points="200,541 298,538 396,536 493,533 591,530 689,527" />
+        <TextEquiv>
+          <Unicode>COLLEGIORVM FAB ET DD PROCV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="231,554 317,550 403,546 488,542 574,539 659,536 659,576 574,579 488,582 403,586 317,590 231,593" />
+        <Baseline points="231,589 317,586 403,582 488,578 574,574 659,572" />
+        <TextEquiv>
+          <Unicode>RATORI IVVENVM IOVIENSIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="204,607 299,609 395,611 490,614 585,616 681,619 681,671 585,668 490,666 395,663 299,661 204,659" />
+        <Baseline points="204,633 299,635 395,637 490,639 585,642 681,645" />
+        <TextEquiv>
+          <Unicode>QVI SVIS INPENDIS CVNCTA CVRIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="238,645 321,642 403,640 486,637 568,634 651,631 651,664 568,667 486,670 403,673 321,675 238,678" />
+        <Baseline points="238,674 321,672 403,669 486,666 568,663 651,660" />
+        <TextEquiv>
+          <Unicode>SVAE CONCESSIT QVI VIXIT NN LX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="352,687 390,688 428,688 466,688 504,688 542,689 542,720 504,720 466,719 428,719 390,719 352,719" />
+        <Baseline points="352,710 390,710 428,710 466,710 504,711 542,711" />
+        <TextEquiv>
+          <Unicode>RE M XI D XV O II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="313,727 365,728 417,728 469,728 521,728 573,728 573,759 521,759 469,759 417,759 365,759 313,758" />
+        <Baseline points="313,749 365,749 417,749 469,749 521,749 573,749" />
+        <TextEquiv>
+          <Unicode>FILIOS V NEPO IIII LIB II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="343,762 385,763 426,765 467,766 508,767 550,768 550,801 508,800 467,799 426,797 385,796 343,795" />
+        <Baseline points="343,782 385,783 426,784 467,785 508,786 550,787" />
+        <TextEquiv>
+          <Unicode>FILI PATRI KARISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

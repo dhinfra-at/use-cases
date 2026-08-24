@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00011.jpg" imageWidth="900" imageHeight="368">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,368 0,368" />
+      <TextLine id="r1l1">
+        <Coords points="88,103 137,103 185,102 233,102 282,102 330,102 330,142 282,142 233,142 185,142 137,142 88,142" />
+        <Baseline points="88,138 137,138 185,138 233,138 282,138 330,138" />
+        <TextEquiv>
+          <Unicode>I O M D T AVRELIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="87,151 110,152 133,153 156,153 179,154 202,154 202,173 179,173 156,172 133,172 110,171 87,171" />
+        <Baseline points="87,168 110,169 133,169 156,170 179,170 202,171" />
+        <TextEquiv>
+          <Unicode>SELEVCVS D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

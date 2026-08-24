@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00102.jpg" imageWidth="900" imageHeight="801">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,801 0,801" />
+      <TextLine id="r1l1">
+        <Coords points="66,267 76,267 86,267 96,266 106,266 116,266 116,301 106,301 96,301 86,301 76,301 66,302" />
+        <Baseline points="66,297 76,297 86,297 96,297 106,297 116,296" />
+        <TextEquiv>
+          <Unicode>SEX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="67,311 102,311 137,310 172,310 207,309 242,308 242,344 207,345 172,345 137,346 102,346 67,347" />
+        <Baseline points="67,342 102,342 137,341 172,341 207,340 242,340" />
+        <TextEquiv>
+          <Unicode>CALVENTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="69,353 103,352 137,352 171,352 206,351 240,351 240,383 206,384 171,384 137,384 103,385 69,385" />
+        <Baseline points="69,381 103,381 137,380 171,380 206,380 240,379" />
+        <TextEquiv>
+          <Unicode>INGENVS V F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="70,395 112,396 153,397 195,398 236,399 278,400 278,433 236,433 195,432 153,431 112,430 70,429" />
+        <Baseline points="70,421 112,422 153,423 195,423 236,424 278,425" />
+        <TextEquiv>
+          <Unicode>SIBI ET MATTIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="71,434 110,434 148,434 186,434 225,434 263,435 263,464 225,463 186,463 148,463 110,463 71,463" />
+        <Baseline points="71,458 110,458 148,459 186,459 225,459 263,459" />
+        <TextEquiv>
+          <Unicode>MELTIMAE CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="73,471 93,471 113,472 133,472 154,473 174,474 174,503 154,502 133,502 113,501 93,500 73,500" />
+        <Baseline points="73,493 93,494 113,494 133,495 154,495 174,496" />
+        <TextEquiv>
+          <Unicode>AN XL ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="74,504 105,504 136,504 166,504 197,503 228,503 228,529 197,529 166,530 136,530 105,530 74,530" />
+        <Baseline points="74,527 105,527 136,527 166,526 197,526 228,526" />
+        <TextEquiv>
+          <Unicode>CVPITO F AN X</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="75,538 108,538 142,539 175,539 209,540 242,540 242,567 209,566 175,566 142,565 108,565 75,564" />
+        <Baseline points="75,558 108,559 142,559 175,560 209,560 242,561" />
+        <TextEquiv>
+          <Unicode>ET QVINTILIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="76,569 92,569 108,569 123,570 139,570 155,570 155,594 139,594 123,594 108,594 92,593 76,593" />
+        <Baseline points="76,588 92,588 108,589 123,589 139,589 155,590" />
+        <TextEquiv>
+          <Unicode>F AN VII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

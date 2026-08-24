@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00228.jpg" imageWidth="900" imageHeight="540">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,540 0,540" />
+      <TextLine id="r1l1">
+        <Coords points="68,140 137,134 207,129 277,124 347,119 416,115 416,186 347,190 277,194 207,199 137,205 68,211" />
+        <Baseline points="68,204 137,198 207,193 277,188 347,183 416,179" />
+        <TextEquiv>
+          <Unicode>TRIVIAM SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="72,235 100,232 129,230 157,227 186,225 214,222 214,283 186,285 157,288 129,290 100,293 72,295" />
+        <Baseline points="72,289 100,287 129,284 157,282 186,279 214,277" />
+        <TextEquiv>
+          <Unicode>M T M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="75,321 113,319 151,317 189,315 227,312 264,310 264,359 227,361 189,363 151,366 113,368 75,370" />
+        <Baseline points="75,365 113,363 151,360 189,358 227,356 264,354" />
+        <TextEquiv>
+          <Unicode>PRO DIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="78,389 102,388 127,386 152,385 176,383 201,382 201,422 176,424 152,425 127,427 102,428 78,430" />
+        <Baseline points="78,425 102,424 127,422 152,421 176,419 201,418" />
+        <TextEquiv>
+          <Unicode>V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

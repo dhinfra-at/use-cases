@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00007.jpg" imageWidth="900" imageHeight="517">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,517 0,517" />
+      <TextLine id="r1l1">
+        <Coords points="95,51 116,53 137,54 157,56 178,57 199,59 199,97 178,95 157,94 137,92 116,91 95,89" />
+        <Baseline points="95,82 116,83 137,85 157,86 178,88 199,90" />
+        <TextEquiv>
+          <Unicode>I O M K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="93,77 189,77 284,77 380,76 475,76 571,75 571,132 475,132 380,132 284,133 189,133 93,134" />
+        <Baseline points="93,130 189,130 284,129 380,129 475,129 571,128" />
+        <TextEquiv>
+          <Unicode>CONSERVATORI GENERIS HVMANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="91,144 135,144 179,145 223,146 267,147 311,148 311,187 267,186 223,185 179,184 135,183 91,183" />
+        <Baseline points="91,179 135,180 179,181 223,182 267,183 311,183" />
+        <TextEquiv>
+          <Unicode>SEMPRONIA FLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="88,196 121,198 154,200 187,202 220,204 254,206 254,243 220,241 187,239 154,237 121,235 88,233" />
+        <Baseline points="88,227 121,229 154,231 187,233 220,235 254,237" />
+        <TextEquiv>
+          <Unicode>VIANA L LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="86,242 94,242 102,241 110,241 118,241 126,241 126,277 118,277 110,277 102,277 94,277 86,277" />
+        <Baseline points="86,273 94,273 102,273 110,273 118,273 126,273" />
+        <TextEquiv>
+          <Unicode>V S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

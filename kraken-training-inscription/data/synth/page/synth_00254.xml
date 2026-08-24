@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00254.jpg" imageWidth="900" imageHeight="639">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,639 0,639" />
+      <TextLine id="r1l1">
+        <Coords points="128,132 174,133 219,134 265,135 311,136 357,137 357,179 311,178 265,177 219,176 174,175 128,174" />
+        <Baseline points="128,170 174,171 219,172 265,173 311,174 357,175" />
+        <TextEquiv>
+          <Unicode>ANTEROS AELI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="124,181 164,182 204,184 244,185 283,187 323,189 323,225 283,223 244,222 204,220 164,219 124,217" />
+        <Baseline points="124,213 164,214 204,216 244,217 283,219 323,221" />
+        <TextEquiv>
+          <Unicode>ORVM ET THE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="120,223 160,224 200,225 240,226 280,227 320,228 320,267 280,266 240,265 200,264 160,263 120,261" />
+        <Baseline points="120,257 160,258 200,259 240,261 280,262 320,262" />
+        <TextEquiv>
+          <Unicode>ODORA SILVA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="116,271 168,274 219,278 270,282 322,286 373,290 373,328 322,324 270,320 219,317 168,313 116,309" />
+        <Baseline points="116,299 168,303 219,307 270,310 322,314 373,318" />
+        <TextEquiv>
+          <Unicode>NO SANCTO AEDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="113,312 138,314 164,315 190,317 216,319 242,320 242,353 216,351 190,350 164,348 138,346 113,345" />
+        <Baseline points="113,340 138,341 164,343 190,345 216,346 242,348" />
+        <TextEquiv>
+          <Unicode>M DIRVTA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="109,351 151,352 193,354 236,356 278,357 320,359 320,392 278,390 236,389 193,387 151,385 109,384" />
+        <Baseline points="109,380 151,381 193,383 236,385 278,386 320,388" />
+        <TextEquiv>
+          <Unicode>M A SOLO PECVNI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="106,392 146,395 187,399 227,402 267,405 308,409 308,445 267,441 227,438 187,434 146,431 106,428" />
+        <Baseline points="106,417 146,421 187,424 227,427 267,431 308,434" />
+        <TextEquiv>
+          <Unicode>A SVA RESTITVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="102,428 117,429 131,429 146,430 161,430 175,431 175,460 161,460 146,459 131,458 117,458 102,457" />
+        <Baseline points="102,454 117,454 131,455 146,455 161,456 175,456" />
+        <TextEquiv>
+          <Unicode>RVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

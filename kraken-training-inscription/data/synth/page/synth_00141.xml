@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00141.jpg" imageWidth="900" imageHeight="618">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,618 0,618" />
+      <TextLine id="r1l1">
+        <Coords points="376,140 406,138 436,137 466,135 496,134 526,132 526,190 496,191 466,192 436,194 406,195 376,197" />
+        <Baseline points="376,190 406,189 436,187 466,186 496,184 526,183" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="168,212 279,207 390,202 501,197 613,192 724,186 724,247 613,253 501,258 390,263 279,268 168,273" />
+        <Baseline points="168,267 279,263 390,258 501,253 613,247 724,241" />
+        <TextEquiv>
+          <Unicode>SI VIVVNT ANIME CORP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,291 353,290 417,290 480,289 543,288 607,288 607,335 543,335 480,336 417,337 353,337 290,338" />
+        <Baseline points="290,329 353,328 417,327 480,327 543,326 607,326" />
+        <TextEquiv>
+          <Unicode>ORE CONDITO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="309,348 365,346 421,344 477,341 533,339 588,336 588,380 533,383 477,385 421,388 365,390 309,392" />
+        <Baseline points="309,388 365,385 421,383 477,381 533,378 588,376" />
+        <TextEquiv>
+          <Unicode>VIVIT PATER N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="176,409 283,408 390,407 497,405 604,404 710,403 710,441 604,442 497,444 390,445 283,446 176,447" />
+        <Baseline points="176,438 283,437 390,435 497,434 604,433 710,431" />
+        <TextEquiv>
+          <Unicode>OSTER NOSTER SET SIC SINE NOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

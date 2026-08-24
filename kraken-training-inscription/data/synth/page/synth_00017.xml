@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00017.jpg" imageWidth="900" imageHeight="892">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,892 0,892" />
+      <TextLine id="r1l1">
+        <Coords points="121,125 219,127 316,129 414,131 512,132 610,134 610,193 512,191 414,190 316,188 219,186 121,184" />
+        <Baseline points="121,169 219,172 316,174 414,176 512,177 610,178" />
+        <TextEquiv>
+          <Unicode>VALERIAE C F FAVSTAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="119,184 176,183 232,181 289,180 345,179 401,178 401,237 345,238 289,239 232,240 176,241 119,242" />
+        <Baseline points="119,236 176,234 232,233 289,232 345,231 401,230" />
+        <TextEquiv>
+          <Unicode>C MARCIO C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="118,253 157,252 195,250 233,249 272,248 310,246 310,304 272,305 233,307 195,308 157,309 118,310" />
+        <Baseline points="118,304 157,302 195,301 233,300 272,299 310,297" />
+        <TextEquiv>
+          <Unicode>SENECAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="117,325 153,325 190,326 226,326 262,327 299,327 299,378 262,378 226,377 190,377 153,376 117,376" />
+        <Baseline points="117,368 153,368 190,369 226,369 262,370 299,370" />
+        <TextEquiv>
+          <Unicode>H M H N C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="116,388 163,390 210,391 257,393 304,395 351,397 351,453 304,451 257,449 210,447 163,446 116,444" />
+        <Baseline points="116,430 163,432 210,433 257,435 304,437 351,439" />
+        <TextEquiv>
+          <Unicode>M AEMILIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="114,450 142,449 169,449 196,448 223,448 250,447 250,498 223,499 196,499 169,499 142,500 114,500" />
+        <Baseline points="114,494 142,494 169,493 196,493 223,492 250,492" />
+        <TextEquiv>
+          <Unicode>AVITVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="113,514 165,515 217,517 268,518 320,520 372,521 372,576 320,574 268,573 217,571 165,570 113,568" />
+        <Baseline points="113,556 165,557 217,558 268,560 320,561 372,563" />
+        <TextEquiv>
+          <Unicode>CORNELIA P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="112,573 145,573 178,573 211,572 245,572 278,572 278,620 245,621 211,621 178,621 145,621 112,622" />
+        <Baseline points="112,616 145,615 178,615 211,615 245,615 278,614" />
+        <TextEquiv>
+          <Unicode>PRIMVLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="111,636 138,637 165,637 192,638 219,639 246,640 246,690 219,689 192,688 165,687 138,687 111,686" />
+        <Baseline points="111,677 138,677 165,678 192,679 219,680 246,680" />
+        <TextEquiv>
+          <Unicode>MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="110,697 144,698 179,700 214,701 249,703 284,704 284,756 249,755 214,753 179,752 144,750 110,749" />
+        <Baseline points="110,737 144,738 179,740 214,741 249,742 284,744" />
+        <TextEquiv>
+          <Unicode>CORNELIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="108,753 134,753 159,754 184,754 209,754 234,755 234,801 209,801 184,800 159,800 134,800 108,799" />
+        <Baseline points="108,792 134,792 159,792 184,793 209,793 234,794" />
+        <TextEquiv>
+          <Unicode>QVIETA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

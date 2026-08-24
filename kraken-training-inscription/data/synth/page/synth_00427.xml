@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00427.jpg" imageWidth="900" imageHeight="536">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,536 0,536" />
+      <TextLine id="r1l1">
+        <Coords points="334,73 384,73 434,73 484,72 534,72 584,72 584,123 534,123 484,124 434,124 384,124 334,124" />
+        <Baseline points="334,120 384,120 434,120 484,120 534,119 584,119" />
+        <TextEquiv>
+          <Unicode>Q CAECILIVS Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="353,142 392,145 432,149 471,152 511,156 550,160 550,202 511,198 471,194 432,191 392,187 353,184" />
+        <Baseline points="353,172 392,176 432,180 471,183 511,187 550,190" />
+        <TextEquiv>
+          <Unicode>L ALEXANDER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="350,183 390,182 431,182 472,182 513,182 554,181 554,224 513,224 472,224 431,225 390,225 350,225" />
+        <Baseline points="350,222 390,222 431,221 472,221 513,221 554,221" />
+        <TextEquiv>
+          <Unicode>ET L MACLONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="375,242 404,243 433,245 462,246 490,247 519,249 519,277 490,275 462,274 433,273 404,271 375,270" />
+        <Baseline points="375,267 404,268 433,270 462,271 490,272 519,274" />
+        <TextEquiv>
+          <Unicode>L L MAHES IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="323,281 372,284 420,287 469,290 518,293 567,296 567,322 518,319 469,316 420,313 372,310 323,307" />
+        <Baseline points="323,302 372,305 420,308 469,311 518,314 567,317" />
+        <TextEquiv>
+          <Unicode>FRON P XII IN AGR P XVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

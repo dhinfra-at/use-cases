@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00375.jpg" imageWidth="900" imageHeight="606">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,606 0,606" />
+      <TextLine id="r1l1">
+        <Coords points="129,44 255,37 381,30 507,24 633,18 759,10 759,89 633,96 507,103 381,109 255,115 129,122" />
+        <Baseline points="129,116 255,108 381,102 507,96 633,89 759,82" />
+        <TextEquiv>
+          <Unicode>BETVTIA SEX L FVSCA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="289,146 353,145 417,143 480,142 544,140 608,139 608,196 544,197 480,199 417,200 353,201 289,203" />
+        <Baseline points="289,196 353,195 417,193 480,192 544,190 608,189" />
+        <TextEquiv>
+          <Unicode>V F SIBI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="115,212 247,205 378,197 510,189 641,183 772,178 772,253 641,258 510,264 378,272 247,280 115,287" />
+        <Baseline points="115,280 247,274 378,265 510,258 641,251 772,246" />
+        <TextEquiv>
+          <Unicode>SEX BETVTIO SEX F VOL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="112,308 258,312 404,316 550,319 696,322 842,324 842,383 696,381 550,379 404,375 258,371 112,368" />
+        <Baseline points="112,332 258,336 404,340 550,344 696,346 842,348" />
+        <TextEquiv>
+          <Unicode>VIANNA SIC PATRONO SIG LEG VIIII VET ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="112,350 249,340 385,329 522,319 659,310 795,301 795,369 659,378 522,387 385,397 249,408 112,418" />
+        <Baseline points="112,414 249,404 385,393 522,383 659,374 795,365" />
+        <TextEquiv>
+          <Unicode>SEX BETVTIO SEX L SECVNDO CONLIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="113,458 245,461 378,463 510,465 643,467 775,469 775,538 643,536 510,534 378,532 245,530 113,528" />
+        <Baseline points="113,497 245,500 378,502 510,503 643,505 775,508" />
+        <TextEquiv>
+          <Unicode>ET M SALVIO PRIMO AMICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00207.jpg" imageWidth="900" imageHeight="470">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,470 0,470" />
+      <TextLine id="r1l1">
+        <Coords points="362,73 396,73 430,74 465,74 499,74 533,74 533,135 499,135 465,135 430,134 396,134 362,133" />
+        <Baseline points="362,121 396,121 430,122 465,122 499,122 533,122" />
+        <TextEquiv>
+          <Unicode>GENIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="242,134 324,130 406,126 488,121 570,117 652,112 652,180 570,184 488,189 406,193 324,197 242,202" />
+        <Baseline points="242,195 324,190 406,186 488,182 570,177 652,173" />
+        <TextEquiv>
+          <Unicode>LIB ET SERVORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="298,210 357,206 415,203 474,200 533,197 591,194 591,257 533,260 474,263 415,266 357,269 298,273" />
+        <Baseline points="298,265 357,262 415,259 474,256 533,253 591,250" />
+        <TextEquiv>
+          <Unicode>P PVBLICIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="260,291 336,291 412,291 487,290 563,289 639,288 639,344 563,346 487,347 412,347 336,347 260,347" />
+        <Baseline points="260,336 336,336 412,336 487,335 563,334 639,333" />
+        <TextEquiv>
+          <Unicode>ANTHVS ET PVBL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="288,358 352,356 415,354 478,353 542,352 605,351 605,403 542,404 478,405 415,406 352,408 288,409" />
+        <Baseline points="288,402 352,400 415,399 478,398 542,397 605,396" />
+        <TextEquiv>
+          <Unicode>CLETVS D D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

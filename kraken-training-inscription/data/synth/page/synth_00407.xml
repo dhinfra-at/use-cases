@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00407.jpg" imageWidth="900" imageHeight="824">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,824 0,824" />
+      <TextLine id="r1l1">
+        <Coords points="78,30 161,31 244,33 327,34 410,35 493,36 493,103 410,102 327,101 244,100 161,99 78,98" />
+        <Baseline points="78,92 161,93 244,94 327,95 410,96 493,97" />
+        <TextEquiv>
+          <Unicode>M TVLLIVS VENNE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="75,110 190,115 305,118 419,121 534,124 649,127 649,188 534,185 419,182 305,179 190,176 75,171" />
+        <Baseline points="75,166 190,171 305,174 419,177 534,180 649,183" />
+        <TextEquiv>
+          <Unicode>IANVS IIVIR QQ P C BALNEAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="73,177 212,182 352,185 492,188 632,192 772,196 772,251 632,246 492,242 352,239 212,236 73,232" />
+        <Baseline points="73,227 212,232 352,235 492,238 632,242 772,246" />
+        <TextEquiv>
+          <Unicode>NOBAS SIC A SOLO SVA PECVNIA EXTRV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="70,259 209,268 347,277 486,287 625,297 764,306 764,363 625,354 486,344 347,335 209,325 70,316" />
+        <Baseline points="70,297 209,306 347,315 486,325 625,334 764,344" />
+        <TextEquiv>
+          <Unicode>XIT ET DEDECAVIT SIC M TVLLIVS CICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="67,326 204,339 341,354 478,370 615,383 752,395 752,476 615,464 478,451 341,436 204,421 67,408" />
+        <Baseline points="67,366 204,379 341,394 478,409 615,423 752,434" />
+        <TextEquiv>
+          <Unicode>RO VENNEIANVS FILIVS BALNEAS EAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="65,379 206,382 347,385 488,389 629,393 770,397 770,451 629,447 488,443 347,440 206,436 65,433" />
+        <Baseline points="65,429 206,432 347,436 488,439 629,443 770,447" />
+        <TextEquiv>
+          <Unicode>DEM VI IGNIS MVLTIFARIA CORRVPTAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="62,439 199,440 336,443 473,446 610,449 748,451 748,513 610,511 473,508 336,505 199,502 62,501" />
+        <Baseline points="62,496 199,498 336,501 473,504 610,507 748,509" />
+        <TextEquiv>
+          <Unicode>SVA PECVNIA RESTITVIT CVRANTIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="59,485 198,484 337,483 475,482 614,481 752,480 752,559 614,560 475,561 337,562 198,563 59,563" />
+        <Baseline points="59,559 198,558 337,557 475,556 614,555 752,554" />
+        <TextEquiv>
+          <Unicode>TVLLIIS PRIMIGENIO ET NEDYMO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="57,571 184,574 312,577 440,580 567,583 695,586 695,643 567,640 440,637 312,634 184,631 57,627" />
+        <Baseline points="57,623 184,627 312,630 440,633 567,636 695,639" />
+        <TextEquiv>
+          <Unicode>CONTVTORIBVS EORVM ET INCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="54,642 171,647 287,652 404,657 520,662 637,668 637,711 520,705 404,700 287,695 171,690 54,685" />
+        <Baseline points="54,681 171,686 287,691 404,696 520,701 637,707" />
+        <TextEquiv>
+          <Unicode>LVMES AD VSVM CIVIVM REI PV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="52,700 108,704 164,709 219,713 275,717 331,722 331,772 275,767 219,763 164,759 108,754 52,750" />
+        <Baseline points="52,736 108,741 164,745 219,750 275,754 331,758" />
+        <TextEquiv>
+          <Unicode>BLICAE TRADIDIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

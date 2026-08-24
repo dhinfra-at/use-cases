@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002790_F023268.jpg" imageWidth="1000" imageHeight="625">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,624 0,624"/>
+      <TextLine id="r1l1">
+        <Coords points="212,192 695,191 695,262 212,263"/>
+        <Baseline points="212,249 695,248"/>
+        <TextEquiv><Unicode>VINIA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,294 919,302 919,397 100,389"/>
+        <Baseline points="100,378 919,386"/>
+        <TextEquiv><Unicode>PHILEMATIO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

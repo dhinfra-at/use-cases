@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00174.jpg" imageWidth="900" imageHeight="802">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,802 0,802" />
+      <TextLine id="r1l1">
+        <Coords points="436,163 448,163 459,164 470,164 481,164 492,164 492,200 481,200 470,199 459,199 448,199 436,199" />
+        <Baseline points="436,194 448,194 459,195 470,195 481,195 492,195" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="309,200 368,202 427,205 486,207 545,210 603,213 603,248 545,246 486,243 427,240 368,237 309,235" />
+        <Baseline points="309,231 368,233 427,235 486,238 545,241 603,244" />
+        <TextEquiv>
+          <Unicode>VETTIA PRISCA PO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="299,231 362,231 425,232 487,232 550,232 613,233 613,281 550,280 487,280 425,279 362,279 299,279" />
+        <Baseline points="299,274 362,275 425,275 487,275 550,276 613,276" />
+        <TextEquiv>
+          <Unicode>SVIT CASSIE PRISCIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="289,289 354,293 419,296 484,300 548,303 613,307 613,343 548,339 484,336 419,332 354,329 289,325" />
+        <Baseline points="289,319 354,322 419,326 484,329 548,333 613,337" />
+        <TextEquiv>
+          <Unicode>LE FILIE DVLCISSIMA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="294,331 356,336 418,340 480,345 542,350 604,355 604,396 542,391 480,387 418,382 356,377 294,372" />
+        <Baseline points="294,360 356,364 418,369 480,374 542,379 604,383" />
+        <TextEquiv>
+          <Unicode>ET OCTAVIVS IVSTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="299,370 357,372 416,374 474,376 532,378 590,381 590,418 532,415 474,413 416,411 357,409 299,407" />
+        <Baseline points="299,403 357,405 416,407 474,409 532,411 590,413" />
+        <TextEquiv>
+          <Unicode>PATER QVE VIXIT AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="299,417 357,420 415,423 473,427 531,430 589,433 589,469 531,465 473,462 415,459 357,455 299,452" />
+        <Baseline points="299,445 357,448 415,452 473,455 531,459 589,462" />
+        <TextEquiv>
+          <Unicode>NIS XVIIII MENSIS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="335,455 378,456 421,457 464,458 506,459 549,460 549,497 506,496 464,495 421,494 378,493 335,492" />
+        <Baseline points="335,488 378,489 421,490 464,491 506,492 549,493" />
+        <TextEquiv>
+          <Unicode>VIIII DIES SIC II</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

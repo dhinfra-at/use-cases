@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00092.jpg" imageWidth="900" imageHeight="755">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,755 0,755" />
+      <TextLine id="r1l1">
+        <Coords points="110,172 119,172 128,172 137,171 146,171 156,171 156,200 146,200 137,200 128,201 119,201 110,201" />
+        <Baseline points="110,198 119,197 128,197 137,197 146,197 156,197" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="110,209 155,209 200,209 245,208 290,208 335,207 335,238 290,239 245,239 200,240 155,240 110,240" />
+        <Baseline points="110,237 155,237 200,237 245,236 290,236 335,236" />
+        <TextEquiv>
+          <Unicode>Q FVLVI TYCHICI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="110,252 161,255 213,258 264,261 315,264 366,267 366,301 315,298 264,296 213,293 161,290 110,287" />
+        <Baseline points="110,273 161,276 213,279 264,282 315,285 366,288" />
+        <TextEquiv>
+          <Unicode>FVLVIAE IADI VXORI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="110,286 164,289 217,292 271,295 324,299 378,302 378,336 324,333 271,329 217,326 164,323 110,320" />
+        <Baseline points="110,306 164,310 217,313 271,316 324,319 378,322" />
+        <TextEquiv>
+          <Unicode>FVLVIAE DOMITIAE FILIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="110,319 137,321 163,323 190,325 216,327 242,329 242,356 216,354 190,353 163,351 137,349 110,347" />
+        <Baseline points="110,338 137,340 163,341 190,343 216,345 242,347" />
+        <TextEquiv>
+          <Unicode>ET SIBI ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="110,349 155,350 199,352 244,353 288,354 333,355 333,376 288,375 244,374 199,373 155,372 110,371" />
+        <Baseline points="110,367 155,368 199,369 244,370 288,371 333,372" />
+        <TextEquiv>
+          <Unicode>LIBERTIS LIBERTABVSQ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="110,375 141,375 171,375 201,375 231,376 262,376 262,395 231,395 201,395 171,395 141,395 110,395" />
+        <Baseline points="110,393 141,393 171,393 201,393 231,393 262,393" />
+        <TextEquiv>
+          <Unicode>POSTERISQ EORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="110,403 117,403 124,404 131,404 137,404 144,404 144,420 137,420 131,419 124,419 117,419 110,419" />
+        <Baseline points="110,416 117,416 124,417 131,417 137,417 144,418" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00107.jpg" imageWidth="900" imageHeight="479">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,479 0,479" />
+      <TextLine id="r1l1">
+        <Coords points="158,64 271,66 384,70 496,74 609,79 721,84 721,175 609,170 496,165 384,161 271,157 158,155" />
+        <Baseline points="158,120 271,122 384,126 496,130 609,135 721,140" />
+        <TextEquiv>
+          <Unicode>MEMORIA GEMELLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="162,153 275,157 388,161 502,165 615,168 729,170 729,252 615,250 502,247 388,243 275,239 162,235" />
+        <Baseline points="162,204 275,208 388,212 502,216 615,219 729,221" />
+        <TextEquiv>
+          <Unicode>NAE QVAE ET BLATTAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="215,227 307,224 399,222 491,219 583,215 675,211 675,271 583,275 491,279 399,282 307,285 215,287" />
+        <Baseline points="215,281 307,279 399,276 491,273 583,270 675,266" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS XXX A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="209,290 302,285 395,280 488,275 580,270 673,265 673,330 580,335 488,340 395,345 302,350 209,354" />
+        <Baseline points="209,349 302,344 395,339 488,334 580,329 673,324" />
+        <TextEquiv>
+          <Unicode>BET DEPOSITIONE DIE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="120,374 251,378 382,381 512,384 643,386 774,389 774,449 643,447 512,444 382,441 251,438 120,435" />
+        <Baseline points="120,406 251,409 382,412 512,415 643,418 774,421" />
+        <TextEquiv>
+          <Unicode>VIII KALEN NOVENB SIC AN P CCCLIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

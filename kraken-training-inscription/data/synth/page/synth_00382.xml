@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00382.jpg" imageWidth="900" imageHeight="805">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,805 0,805" />
+      <TextLine id="r1l1">
+        <Coords points="63,146 107,144 151,142 195,139 239,137 284,134 284,197 239,199 195,202 151,204 107,207 63,209" />
+        <Baseline points="63,202 107,200 151,198 195,195 239,193 284,190" />
+        <TextEquiv>
+          <Unicode>DIS MAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="63,225 157,225 251,226 345,226 439,227 533,228 533,303 439,303 345,302 251,301 157,301 63,300" />
+        <Baseline points="63,275 157,275 251,276 345,276 439,277 533,278" />
+        <TextEquiv>
+          <Unicode>P LICINIO IVVENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="63,289 161,284 259,279 356,274 454,268 552,262 552,325 454,331 356,337 259,342 161,347 63,352" />
+        <Baseline points="63,346 161,341 259,336 356,331 454,325 552,319" />
+        <TextEquiv>
+          <Unicode>LICINIA THALLVSA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="64,366 165,362 266,358 367,354 469,350 570,345 570,400 469,404 367,408 266,412 165,416 64,421" />
+        <Baseline points="64,415 165,411 266,407 367,403 469,398 570,394" />
+        <TextEquiv>
+          <Unicode>FILIO BENE MERENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="64,436 124,437 184,438 244,439 304,440 364,442 364,508 304,506 244,505 184,504 124,503 64,502" />
+        <Baseline points="64,480 124,481 184,482 244,483 304,484 364,486" />
+        <TextEquiv>
+          <Unicode>MATER FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="64,494 114,490 164,487 214,483 264,479 314,476 314,530 264,534 214,538 164,541 114,545 64,548" />
+        <Baseline points="64,544 114,540 164,537 214,533 264,529 314,526" />
+        <TextEquiv>
+          <Unicode>SIBI ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="65,551 130,546 196,542 261,537 327,532 392,528 392,583 327,587 261,592 196,597 130,601 65,606" />
+        <Baseline points="65,601 130,596 196,592 261,587 327,582 392,578" />
+        <TextEquiv>
+          <Unicode>POSTERISQ EOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="65,620 109,619 153,618 197,617 240,616 284,615 284,659 240,660 197,661 153,662 109,663 65,664" />
+        <Baseline points="65,657 109,656 153,655 197,654 240,653 284,652" />
+        <TextEquiv>
+          <Unicode>V A III M IIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="65,674 93,674 120,674 148,674 175,674 203,674 203,717 175,717 148,718 120,718 93,718 65,718" />
+        <Baseline points="65,709 93,708 120,708 148,708 175,708 203,708" />
+        <TextEquiv>
+          <Unicode>DIEB IIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

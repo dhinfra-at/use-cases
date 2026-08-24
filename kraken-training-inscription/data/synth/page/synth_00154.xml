@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00154.jpg" imageWidth="900" imageHeight="552">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,552 0,552" />
+      <TextLine id="r1l1">
+        <Coords points="323,79 370,77 418,76 466,74 513,73 561,71 561,124 513,126 466,127 418,129 370,131 323,132" />
+        <Baseline points="323,127 370,125 418,123 466,122 513,120 561,118" />
+        <TextEquiv>
+          <Unicode>GESVBALV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="369,149 400,146 430,143 460,140 491,138 521,135 521,194 491,197 460,199 430,202 400,205 369,208" />
+        <Baseline points="369,202 400,200 430,197 460,194 491,191 521,189" />
+        <TextEquiv>
+          <Unicode>BITVS Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="378,225 407,223 436,221 464,219 493,217 521,215 521,269 493,271 464,273 436,275 407,277 378,279" />
+        <Baseline points="378,274 407,272 436,270 464,268 493,266 521,263" />
+        <TextEquiv>
+          <Unicode>EXIBIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="377,305 407,305 436,306 466,306 496,307 525,307 525,360 496,360 466,360 436,359 407,359 377,358" />
+        <Baseline points="377,346 407,347 436,348 466,348 496,348 525,349" />
+        <TextEquiv>
+          <Unicode>LATERE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="363,365 397,362 431,359 465,356 499,353 533,350 533,404 499,407 465,410 431,413 397,415 363,418" />
+        <Baseline points="363,414 397,411 431,408 465,405 499,402 533,399" />
+        <TextEquiv>
+          <Unicode>NVMERV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="404,435 423,434 443,433 463,432 482,430 502,429 502,475 482,476 463,478 443,479 423,480 404,481" />
+        <Baseline points="404,477 423,476 443,474 463,473 482,472 502,471" />
+        <TextEquiv>
+          <Unicode>CCCII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00010.jpg" imageWidth="900" imageHeight="860">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,860 0,860" />
+      <TextLine id="r1l1">
+        <Coords points="338,244 386,247 434,250 482,253 530,256 578,259 578,303 530,300 482,297 434,294 386,291 338,288" />
+        <Baseline points="338,276 386,280 434,283 482,286 530,288 578,291" />
+        <TextEquiv>
+          <Unicode>C HERENNIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="317,290 372,292 427,294 482,295 537,297 592,299 592,336 537,334 482,333 427,331 372,329 317,327" />
+        <Baseline points="317,323 372,324 427,326 482,328 537,329 592,331" />
+        <TextEquiv>
+          <Unicode>M F QVIR FESTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="316,336 370,340 425,345 479,350 534,354 588,359 588,409 534,404 479,399 425,395 370,390 316,386" />
+        <Baseline points="316,366 370,371 425,375 479,380 534,385 588,390" />
+        <TextEquiv>
+          <Unicode>VETERANVS LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="335,383 381,386 427,390 473,393 519,397 565,400 565,443 519,440 473,437 427,433 381,430 335,426" />
+        <Baseline points="335,412 381,416 427,419 473,423 519,426 565,430" />
+        <TextEquiv>
+          <Unicode>X FRETENSIS HO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="343,424 384,425 426,426 468,427 510,428 552,429 552,464 510,463 468,462 426,461 384,460 343,459" />
+        <Baseline points="343,455 384,456 426,457 468,457 510,458 552,459" />
+        <TextEquiv>
+          <Unicode>NESTA MISSIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="359,461 394,461 428,460 462,460 496,460 530,460 530,498 496,498 462,498 428,499 394,499 359,499" />
+        <Baseline points="359,495 394,494 428,494 462,494 496,494 530,494" />
+        <TextEquiv>
+          <Unicode>NE DIMISSVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="316,508 366,512 416,515 466,518 516,521 566,524 566,562 516,559 466,556 416,553 366,550 316,547" />
+        <Baseline points="316,535 366,538 416,542 466,545 516,548 566,551" />
+        <TextEquiv>
+          <Unicode>PRAEFECTVS TIRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="353,548 386,550 420,552 453,554 486,556 520,558 520,591 486,589 453,587 420,585 386,583 353,582" />
+        <Baseline points="353,574 386,576 420,578 453,579 486,581 520,583" />
+        <TextEquiv>
+          <Unicode>NVM IN MAV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="331,583 373,584 416,586 458,587 501,588 543,590 543,618 501,617 458,615 416,614 373,613 331,612" />
+        <Baseline points="331,608 373,609 416,611 458,612 501,613 543,615" />
+        <TextEquiv>
+          <Unicode>RETANIA PRAEFC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="331,621 371,622 410,624 450,625 489,627 529,628 529,657 489,655 450,653 410,652 371,650 331,649" />
+        <Baseline points="331,644 371,646 410,647 450,649 489,650 529,652" />
+        <TextEquiv>
+          <Unicode>TVS IVVENTVTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="302,651 354,652 406,653 458,653 510,654 562,655 562,685 510,684 458,683 406,682 354,681 302,680" />
+        <Baseline points="302,677 354,678 406,679 458,680 510,681 562,682" />
+        <TextEquiv>
+          <Unicode>IIVIRVM SIC BIS VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="331,678 371,678 411,677 451,677 491,676 531,676 531,710 491,710 451,711 411,711 371,712 331,713" />
+        <Baseline points="331,709 371,709 411,708 451,708 491,707 531,706" />
+        <TextEquiv>
+          <Unicode>ANNIS LXXV H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

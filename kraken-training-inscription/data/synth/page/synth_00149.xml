@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00149.jpg" imageWidth="900" imageHeight="729">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,729 0,729" />
+      <TextLine id="r1l1">
+        <Coords points="402,98 423,97 445,96 466,95 488,94 509,93 509,148 488,149 466,150 445,151 423,152 402,153" />
+        <Baseline points="402,147 423,146 445,145 466,144 488,143 509,142" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="312,166 368,164 424,163 480,162 537,161 593,161 593,212 537,213 480,214 424,215 368,216 312,218" />
+        <Baseline points="312,212 368,210 424,209 480,208 537,207 593,206" />
+        <TextEquiv>
+          <Unicode>FLAVIVS CI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="312,222 368,219 423,216 479,213 535,210 591,207 591,266 535,269 479,272 423,275 368,278 312,281" />
+        <Baseline points="312,276 368,273 423,270 479,267 535,264 591,261" />
+        <TextEquiv>
+          <Unicode>VILIS MILES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="311,294 364,293 418,292 471,291 525,290 578,289 578,337 525,338 471,339 418,340 364,341 311,342" />
+        <Baseline points="311,337 364,336 418,335 471,334 525,333 578,332" />
+        <TextEquiv>
+          <Unicode>EX NVMERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="289,357 353,356 417,355 481,355 545,356 608,357 608,404 545,403 481,403 417,403 353,404 289,404" />
+        <Baseline points="289,395 353,395 417,394 481,394 545,394 608,395" />
+        <TextEquiv>
+          <Unicode>CIMBRORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="273,407 342,404 412,402 481,400 550,398 619,396 619,444 550,446 481,448 412,450 342,453 273,455" />
+        <Baseline points="273,450 342,448 412,446 481,444 550,441 619,439" />
+        <TextEquiv>
+          <Unicode>QVI VIXIT AN XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="282,454 347,451 412,448 477,445 542,442 607,439 607,490 542,493 477,496 412,499 347,502 282,506" />
+        <Baseline points="282,501 347,498 412,495 477,492 542,488 607,485" />
+        <TextEquiv>
+          <Unicode>FLAVIVS COPIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="307,511 361,509 415,507 468,505 522,503 576,501 576,545 522,547 468,548 415,550 361,552 307,554" />
+        <Baseline points="307,550 361,548 415,546 468,544 522,542 576,540" />
+        <TextEquiv>
+          <Unicode>FRATRI DVLCIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="393,563 413,564 434,565 455,566 475,566 496,567 496,607 475,606 455,606 434,605 413,604 393,603" />
+        <Baseline points="393,594 413,594 434,595 455,596 475,597 496,598" />
+        <TextEquiv>
+          <Unicode>SIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00474.jpg" imageWidth="900" imageHeight="704">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,704 0,704" />
+      <TextLine id="r1l1">
+        <Coords points="386,124 404,124 422,124 440,124 457,123 475,123 475,187 457,188 440,188 422,188 404,188 386,188" />
+        <Baseline points="386,179 404,179 422,179 440,179 457,179 475,178" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="304,218 349,216 395,215 441,213 486,212 532,211 532,272 486,273 441,275 395,276 349,278 304,279" />
+        <Baseline points="304,271 349,269 395,268 441,266 486,265 532,264" />
+        <TextEquiv>
+          <Unicode>FELICI CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="284,306 337,305 391,304 444,303 497,302 550,301 550,364 497,365 444,366 391,367 337,368 284,370" />
+        <Baseline points="284,358 337,357 391,356 444,355 497,354 550,353" />
+        <TextEquiv>
+          <Unicode>N SER AN VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="302,382 351,379 400,375 449,372 498,368 547,365 547,428 498,431 449,435 400,438 351,442 302,445" />
+        <Baseline points="302,440 351,436 400,433 449,429 498,426 547,422" />
+        <TextEquiv>
+          <Unicode>ANTIOCHVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="329,470 371,468 413,466 456,464 498,462 540,460 540,515 498,517 456,519 413,521 371,523 329,525" />
+        <Baseline points="329,519 371,517 413,516 456,514 498,511 540,509" />
+        <TextEquiv>
+          <Unicode>FRATRI PIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="398,547 419,547 440,546 460,546 481,546 502,545 502,601 481,601 460,601 440,602 419,602 398,602" />
+        <Baseline points="398,594 419,594 440,593 460,593 481,593 502,592" />
+        <TextEquiv>
+          <Unicode>SIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

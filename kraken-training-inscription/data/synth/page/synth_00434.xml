@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00434.jpg" imageWidth="900" imageHeight="759">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,759 0,759" />
+      <TextLine id="r1l1">
+        <Coords points="415,134 433,134 451,135 469,135 487,136 505,136 505,178 487,178 469,177 451,177 433,176 415,176" />
+        <Baseline points="415,172 433,172 451,172 469,173 487,173 505,174" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="375,198 406,200 437,202 467,204 498,206 528,208 528,253 498,250 467,248 437,246 406,244 375,242" />
+        <Baseline points="375,233 406,236 437,238 467,240 498,242 528,244" />
+        <TextEquiv>
+          <Unicode>ATIA DO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="393,258 417,260 442,263 466,265 490,267 515,270 515,315 490,312 466,310 442,308 417,305 393,303" />
+        <Baseline points="393,293 417,295 442,297 466,300 490,302 515,304" />
+        <TextEquiv>
+          <Unicode>QVIRI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="377,319 407,321 436,324 466,326 495,328 524,331 524,375 495,373 466,370 436,368 407,366 377,363" />
+        <Baseline points="377,353 407,356 436,358 466,361 495,363 524,365" />
+        <TextEquiv>
+          <Unicode>SEVERA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="370,379 401,381 432,383 463,384 494,386 525,387 525,425 494,424 463,422 432,421 401,419 370,418" />
+        <Baseline points="370,413 401,415 432,416 463,418 494,419 525,420" />
+        <TextEquiv>
+          <Unicode>AN XVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="345,434 385,435 425,436 465,437 505,439 545,440 545,480 505,479 465,477 425,476 385,475 345,474" />
+        <Baseline points="345,470 385,471 425,472 465,473 505,475 545,476" />
+        <TextEquiv>
+          <Unicode>HI S E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="353,488 389,488 425,488 460,488 496,488 532,488 532,532 496,532 460,532 425,532 389,532 353,532" />
+        <Baseline points="353,528 389,528 425,528 460,528 496,528 532,528" />
+        <TextEquiv>
+          <Unicode>Q FRATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="416,555 426,555 435,556 445,556 454,556 464,556 464,594 454,593 445,593 435,593 426,593 416,592" />
+        <Baseline points="416,588 426,589 435,589 445,589 454,589 464,590" />
+        <TextEquiv>
+          <Unicode>F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

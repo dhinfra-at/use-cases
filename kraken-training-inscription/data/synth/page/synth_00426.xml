@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00426.jpg" imageWidth="900" imageHeight="810">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,810 0,810" />
+      <TextLine id="r1l1">
+        <Coords points="367,92 403,91 439,91 475,90 512,90 548,89 548,121 512,121 475,122 439,122 403,123 367,123" />
+        <Baseline points="367,120 403,120 439,119 475,119 512,119 548,118" />
+        <TextEquiv>
+          <Unicode>C DECVMIVS C F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="440,143 448,143 455,143 463,143 471,143 479,143 479,171 471,171 463,171 455,171 448,171 440,171" />
+        <Baseline points="440,169 448,168 455,168 463,168 471,168 479,168" />
+        <TextEquiv>
+          <Unicode>C N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="411,186 428,186 446,185 464,185 481,184 499,184 499,213 481,214 464,214 446,215 428,215 411,216" />
+        <Baseline points="411,213 428,213 446,212 464,212 481,211 499,211" />
+        <TextEquiv>
+          <Unicode>DVOVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="337,236 383,236 428,237 474,237 519,238 565,238 565,265 519,265 474,264 428,264 383,263 337,262" />
+        <Baseline points="337,259 383,260 428,260 474,261 519,261 565,262" />
+        <TextEquiv>
+          <Unicode>HONORIS DECVRION</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="364,275 398,274 433,274 467,273 502,273 537,272 537,303 502,303 467,304 433,304 398,305 364,306" />
+        <Baseline points="364,303 398,302 433,302 467,301 502,301 537,300" />
+        <TextEquiv>
+          <Unicode>MVNICIPVMQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="330,327 378,328 426,329 474,330 522,331 570,331 570,359 522,359 474,358 426,357 378,356 330,355" />
+        <Baseline points="330,350 378,351 426,352 474,353 522,354 570,355" />
+        <TextEquiv>
+          <Unicode>SIGNVM VICTORIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="343,371 386,372 428,372 470,373 513,374 555,374 555,401 513,400 470,399 428,399 386,398 343,397" />
+        <Baseline points="343,393 386,394 428,395 470,395 513,396 555,397" />
+        <TextEquiv>
+          <Unicode>SACRVM ET BASIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="330,411 377,410 424,410 471,410 518,410 565,410 565,438 518,438 471,438 424,438 377,439 330,439" />
+        <Baseline points="330,436 377,436 424,436 471,435 518,435 565,435" />
+        <TextEquiv>
+          <Unicode>DE PEQ SIC SVA FAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="397,454 417,454 437,453 457,453 477,452 496,452 496,480 477,481 457,481 437,482 417,483 397,483" />
+        <Baseline points="397,480 417,480 437,479 457,479 477,478 496,478" />
+        <TextEquiv>
+          <Unicode>CVRAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

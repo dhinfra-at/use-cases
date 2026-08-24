@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00045.jpg" imageWidth="900" imageHeight="655">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,655 0,655" />
+      <TextLine id="r1l1">
+        <Coords points="90,50 108,50 127,51 145,52 164,52 183,53 183,110 164,109 145,108 127,108 108,107 90,107" />
+        <Baseline points="90,101 108,101 127,102 145,102 164,103 183,104" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="87,149 218,155 350,161 481,167 612,174 744,181 744,233 612,226 481,219 350,213 218,207 87,200" />
+        <Baseline points="87,191 218,197 350,203 481,209 612,216 744,223" />
+        <TextEquiv>
+          <Unicode>SPENDOPHORO AVG N VESTITORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="84,216 169,217 253,217 338,216 423,215 508,212 508,278 423,280 338,282 253,283 169,282 84,282" />
+        <Baseline points="84,277 169,278 253,278 338,277 423,276 508,273" />
+        <TextEquiv>
+          <Unicode>T AELIVS AVG LIB E ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="82,317 177,322 272,327 367,332 462,337 557,341 557,385 462,381 367,376 272,371 177,366 82,361" />
+        <Baseline points="82,353 177,358 272,363 367,367 462,372 557,377" />
+        <TextEquiv>
+          <Unicode>DIONYSIVS ET ACHILLEVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="80,376 156,376 232,377 308,378 385,379 461,381 461,426 385,424 308,423 232,422 156,421 80,420" />
+        <Baseline points="80,417 156,418 232,418 308,419 385,421 461,422" />
+        <TextEquiv>
+          <Unicode>AMICO OPTIMO B M FECER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

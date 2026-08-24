@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00059.jpg" imageWidth="900" imageHeight="540">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,540 0,540" />
+      <TextLine id="r1l1">
+        <Coords points="67,110 160,106 254,101 347,96 440,91 534,86 534,161 440,166 347,171 254,176 160,181 67,185" />
+        <Baseline points="67,180 160,175 254,171 347,166 440,161 534,156" />
+        <TextEquiv>
+          <Unicode>L ARRIA PARTHENIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="66,195 143,193 221,191 299,188 376,185 454,181 454,240 376,244 299,247 221,250 143,252 66,254" />
+        <Baseline points="66,249 143,247 221,245 299,242 376,239 454,236" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNOS XXVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="65,275 123,277 180,279 238,281 296,284 353,287 353,341 296,338 238,335 180,333 123,331 65,330" />
+        <Baseline points="65,313 123,315 180,317 238,319 296,321 353,324" />
+        <TextEquiv>
+          <Unicode>PARTHENIVS PATR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="64,333 124,332 184,331 244,330 304,329 364,328 364,368 304,369 244,370 184,371 124,372 64,373" />
+        <Baseline points="64,370 124,368 184,367 244,366 304,365 364,364" />
+        <TextEquiv>
+          <Unicode>FILIAE DVLCISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="63,386 78,385 92,385 107,384 122,384 136,383 136,416 122,417 107,417 92,418 78,418 63,419" />
+        <Baseline points="63,415 78,415 92,414 107,414 122,413 136,413" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

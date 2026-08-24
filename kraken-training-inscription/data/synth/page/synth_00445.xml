@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00445.jpg" imageWidth="900" imageHeight="854">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,854 0,854" />
+      <TextLine id="r1l1">
+        <Coords points="129,257 170,257 211,257 252,257 293,257 335,257 335,315 293,315 252,315 211,315 170,315 129,315" />
+        <Baseline points="129,310 170,310 211,310 252,310 293,310 335,310" />
+        <TextEquiv>
+          <Unicode>LOCAMV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,332 133,332 167,332 201,331 235,331 268,331 268,387 235,387 201,387 167,387 133,387 100,387" />
+        <Baseline points="100,382 133,382 167,382 201,382 235,382 268,382" />
+        <TextEquiv>
+          <Unicode>C AGRIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="101,408 127,409 154,410 181,411 207,412 234,413 234,463 207,462 181,461 154,460 127,459 101,458" />
+        <Baseline points="101,451 127,453 154,454 181,455 207,456 234,457" />
+        <TextEquiv>
+          <Unicode>CLARO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="101,474 142,475 183,476 224,477 265,479 305,480 305,527 265,525 224,524 183,523 142,521 101,520" />
+        <Baseline points="101,514 142,516 183,517 224,518 265,519 305,521" />
+        <TextEquiv>
+          <Unicode>PEDAGOGO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="102,534 115,533 128,533 141,533 154,533 167,533 167,578 154,579 141,579 128,579 115,579 102,579" />
+        <Baseline points="102,575 115,574 128,574 141,574 154,574 167,574" />
+        <TextEquiv>
+          <Unicode>B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="103,597 112,597 122,597 131,597 140,597 150,597 150,638 140,638 131,639 122,639 112,639 103,639" />
+        <Baseline points="103,635 112,635 122,635 131,635 140,634 150,634" />
+        <TextEquiv>
+          <Unicode>T P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00452.jpg" imageWidth="900" imageHeight="380">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,380 0,380" />
+      <TextLine id="r1l1">
+        <Coords points="377,116 406,118 435,120 465,122 494,124 523,126 523,182 494,180 465,178 435,177 406,175 377,173" />
+        <Baseline points="377,162 406,164 435,166 465,168 494,170 523,172" />
+        <TextEquiv>
+          <Unicode>SAELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="384,191 409,193 434,194 460,195 485,196 510,198 510,243 485,242 460,241 434,240 409,238 384,237" />
+        <Baseline points="384,230 409,231 434,233 460,234 485,235 510,236" />
+        <TextEquiv>
+          <Unicode>ELAESI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="398,255 417,255 436,255 455,256 474,256 493,256 493,294 474,294 455,294 436,293 417,293 398,293" />
+        <Baseline points="398,289 417,289 436,290 455,290 474,290 493,290" />
+        <TextEquiv>
+          <Unicode>F AN L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

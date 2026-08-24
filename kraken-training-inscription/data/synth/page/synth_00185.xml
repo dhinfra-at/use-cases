@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00185.jpg" imageWidth="900" imageHeight="562">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,562 0,562" />
+      <TextLine id="r1l1">
+        <Coords points="402,77 423,78 445,79 466,80 488,81 509,82 509,146 488,146 466,145 445,144 423,143 402,142" />
+        <Baseline points="402,130 423,131 445,132 466,133 488,134 509,135" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="260,154 336,153 412,153 488,152 565,150 641,148 641,220 565,222 488,223 412,224 336,225 260,225" />
+        <Baseline points="260,217 336,217 412,216 488,215 565,214 641,212" />
+        <TextEquiv>
+          <Unicode>HIC SITVS EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="277,239 345,237 414,235 483,232 551,230 620,226 620,304 551,307 483,310 414,313 345,315 277,316" />
+        <Baseline points="277,308 345,307 414,305 483,302 551,299 620,296" />
+        <TextEquiv>
+          <Unicode>M VLPIVS AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="263,341 334,342 405,344 477,345 548,347 619,348 619,412 548,411 477,409 405,408 334,406 263,405" />
+        <Baseline points="263,394 334,395 405,397 477,398 548,400 619,401" />
+        <TextEquiv>
+          <Unicode>TIOCHVS ISA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="336,420 375,418 414,416 453,415 492,413 531,411 531,483 492,485 453,487 414,489 375,490 336,492" />
+        <Baseline points="336,484 375,482 414,481 453,479 492,477 531,475" />
+        <TextEquiv>
+          <Unicode>GOGVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

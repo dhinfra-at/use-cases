@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00446.jpg" imageWidth="900" imageHeight="582">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,582 0,582" />
+      <TextLine id="r1l1">
+        <Coords points="350,77 391,77 432,78 473,78 514,79 555,80 555,120 514,119 473,119 432,118 391,118 350,117" />
+        <Baseline points="350,110 391,110 432,111 473,111 514,112 555,112" />
+        <TextEquiv>
+          <Unicode>CERERI MATR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="330,143 378,143 427,143 475,144 524,144 572,145 572,183 524,182 475,182 427,181 378,181 330,181" />
+        <Baseline points="330,175 378,175 427,175 475,175 524,176 572,176" />
+        <TextEquiv>
+          <Unicode>ET FIL AVG SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="325,208 375,209 425,210 475,211 524,211 574,212 574,251 524,251 475,250 425,249 375,248 325,248" />
+        <Baseline points="325,239 375,240 425,240 475,241 524,242 574,243" />
+        <TextEquiv>
+          <Unicode>C BOTTIVS L FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="331,270 376,271 422,272 467,274 513,275 558,277 558,319 513,317 467,316 422,315 376,313 331,312" />
+        <Baseline points="331,300 376,302 422,303 467,304 513,306 558,307" />
+        <TextEquiv>
+          <Unicode>Q SATVRNINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="338,321 382,319 426,317 469,314 513,312 557,310 557,354 513,356 469,358 426,360 382,362 338,364" />
+        <Baseline points="338,360 382,358 426,356 469,354 513,352 557,350" />
+        <TextEquiv>
+          <Unicode>ABDVS MAIOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="311,390 365,391 418,392 472,393 526,394 579,395 579,436 526,435 472,433 418,432 365,431 311,430" />
+        <Baseline points="311,419 365,421 418,422 472,423 526,424 579,425" />
+        <TextEquiv>
+          <Unicode>ARA CVM ALTARIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="403,444 420,443 437,442 455,441 472,440 490,439 490,476 472,477 455,478 437,479 420,480 403,481" />
+        <Baseline points="403,478 420,477 437,476 455,475 472,474 490,472" />
+        <TextEquiv>
+          <Unicode>V S L A</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

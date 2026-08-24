@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002425_F013505.jpg" imageWidth="800" imageHeight="1126">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1125 0,1125"/>
+      <TextLine id="r1l1">
+        <Coords points="166,266 622,250 622,339 166,355"/>
+        <Baseline points="166,338 622,322"/>
+        <TextEquiv><Unicode>TI CLAVDIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="164,337 654,333 654,437 164,441"/>
+        <Baseline points="164,428 654,424"/>
+        <TextEquiv><Unicode>TI F IVSTO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="176,429 620,431 620,514 176,512"/>
+        <Baseline points="176,497 620,499"/>
+        <TextEquiv><Unicode>VIXIT NN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="138,509 668,495 668,585 138,599"/>
+        <Baseline points="138,587 668,573"/>
+        <TextEquiv><Unicode>TRES MENS III</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="126,588 650,578 650,651 126,661"/>
+        <Baseline points="126,650 650,640"/>
+        <TextEquiv><Unicode>TI CLAVDIVS DIVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="208,654 596,638 596,713 208,729"/>
+        <Baseline points="208,715 596,699"/>
+        <TextEquiv><Unicode>PATER ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="124,720 668,702 668,788 124,806"/>
+        <Baseline points="124,794 668,776"/>
+        <TextEquiv><Unicode>CLAVDIA CAPREIA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="273,794 574,782 574,857 273,869"/>
+        <Baseline points="273,855 574,843"/>
+        <TextEquiv><Unicode>MATER</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="188,862 660,844 660,930 188,948"/>
+        <Baseline points="188,934 660,916"/>
+        <TextEquiv><Unicode>FILIO PIISSIMO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

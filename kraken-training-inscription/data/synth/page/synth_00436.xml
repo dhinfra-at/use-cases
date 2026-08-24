@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00436.jpg" imageWidth="900" imageHeight="1125">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1125 0,1125" />
+      <TextLine id="r1l1">
+        <Coords points="388,183 410,183 432,182 454,182 476,182 498,181 498,221 476,221 454,221 432,222 410,222 388,223" />
+        <Baseline points="388,218 410,217 432,217 454,217 476,216 498,216" />
+        <TextEquiv>
+          <Unicode>SALVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="272,232 338,232 405,232 471,233 538,233 604,233 604,272 538,272 471,271 405,271 338,271 272,270" />
+        <Baseline points="272,266 338,266 405,266 471,266 538,267 604,267" />
+        <TextEquiv>
+          <Unicode>DD NN HONORIO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="266,284 335,286 404,289 474,291 543,294 612,297 612,344 543,340 474,338 404,335 335,332 266,330" />
+        <Baseline points="266,316 335,318 404,320 474,323 543,326 612,329" />
+        <TextEquiv>
+          <Unicode>THEODOSIO PP AVGG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="243,333 322,335 401,337 481,339 560,340 640,342 640,382 560,381 481,379 401,378 322,376 243,374" />
+        <Baseline points="243,365 322,367 401,369 481,370 560,372 640,373" />
+        <TextEquiv>
+          <Unicode>ADMINISTRANTE Q SEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="253,379 329,381 406,385 483,388 559,391 636,395 636,442 559,438 483,435 406,431 329,428 253,426" />
+        <Baseline points="253,409 329,412 406,415 483,419 559,422 636,425" />
+        <TextEquiv>
+          <Unicode>TIO FABRICIO IVLIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="232,420 316,420 400,420 484,419 568,419 652,419 652,460 568,460 484,461 400,461 316,461 232,461" />
+        <Baseline points="232,457 316,457 400,456 484,456 568,456 652,455" />
+        <TextEquiv>
+          <Unicode>V C ITERVM PROCONS V S I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="260,475 335,480 409,484 484,487 558,491 633,495 633,545 558,541 484,538 409,534 335,530 260,526" />
+        <Baseline points="260,506 335,510 409,514 484,518 558,522 633,525" />
+        <TextEquiv>
+          <Unicode>STATVAS ET ORNATVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="239,503 321,500 403,498 485,495 567,492 649,490 649,542 567,545 485,548 403,550 321,553 239,556" />
+        <Baseline points="239,551 321,549 403,546 485,543 567,541 649,538" />
+        <TextEquiv>
+          <Unicode>PISCINALES CONLOCAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="305,569 362,571 419,573 477,574 534,575 591,576 591,614 534,613 477,612 419,611 362,609 305,607" />
+        <Baseline points="305,599 362,601 419,602 477,604 534,605 591,606" />
+        <TextEquiv>
+          <Unicode>M AVRELIVS RESTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="285,613 351,614 416,615 482,616 547,618 613,619 613,656 547,655 482,654 416,652 351,651 285,650" />
+        <Baseline points="285,642 351,643 416,645 482,646 547,647 613,649" />
+        <TextEquiv>
+          <Unicode>TVTVS EX TOGA CVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="321,661 371,663 422,666 473,668 523,670 574,672 574,714 523,712 473,710 422,708 371,705 321,703" />
+        <Baseline points="321,690 371,693 422,695 473,697 523,699 574,701" />
+        <TextEquiv>
+          <Unicode>R P CVM SPLENDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="334,704 382,706 429,709 476,711 523,713 570,715 570,757 523,755 476,752 429,750 382,748 334,746" />
+        <Baseline points="334,733 382,735 429,737 476,739 523,742 570,744" />
+        <TextEquiv>
+          <Unicode>DO ORDINE SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

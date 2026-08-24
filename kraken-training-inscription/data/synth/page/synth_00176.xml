@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00176.jpg" imageWidth="900" imageHeight="529">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,529 0,529" />
+      <TextLine id="r1l1">
+        <Coords points="253,65 331,62 408,59 486,56 564,53 641,51 641,111 564,113 486,116 408,119 331,122 253,125" />
+        <Baseline points="253,120 331,117 408,114 486,111 564,108 641,105" />
+        <TextEquiv>
+          <Unicode>P TARSAEVS P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="249,139 328,136 407,134 486,132 565,130 645,128 645,178 565,180 486,182 407,184 328,186 249,189" />
+        <Baseline points="249,185 328,182 407,179 486,177 565,175 645,173" />
+        <TextEquiv>
+          <Unicode>AED TVRRIM DE SVA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="324,200 374,197 424,195 473,193 523,191 573,189 573,233 523,235 473,237 424,239 374,241 324,243" />
+        <Baseline points="324,239 374,237 424,235 473,233 523,231 573,229" />
+        <TextEquiv>
+          <Unicode>PEQ F C EID PRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="309,258 365,258 420,259 476,260 532,260 588,261 588,297 532,297 476,296 420,296 365,295 309,295" />
+        <Baseline points="309,284 365,285 420,286 476,286 532,287 588,287" />
+        <TextEquiv>
+          <Unicode>CONST HS MMMMMM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

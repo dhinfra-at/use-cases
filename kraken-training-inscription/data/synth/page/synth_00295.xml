@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00295.jpg" imageWidth="900" imageHeight="710">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,710 0,710" />
+      <TextLine id="r1l1">
+        <Coords points="344,237 377,235 410,233 443,231 476,230 510,228 510,271 476,273 443,275 410,277 377,279 344,280" />
+        <Baseline points="344,276 377,274 410,272 443,270 476,269 510,267" />
+        <TextEquiv>
+          <Unicode>IMP C C VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="299,290 347,285 395,281 443,276 491,272 539,268 539,318 491,322 443,326 395,331 347,335 299,340" />
+        <Baseline points="299,335 347,331 395,326 443,322 491,318 539,314" />
+        <TextEquiv>
+          <Unicode>VIO SIC TRAEBO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="296,344 345,340 395,336 445,331 495,328 545,324 545,370 495,374 445,377 395,382 345,386 296,390" />
+        <Baseline points="296,386 345,382 395,378 445,373 495,370 545,366" />
+        <TextEquiv>
+          <Unicode>NIANO SIC GALLO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="361,400 390,398 420,396 450,394 480,392 509,391 509,427 480,429 450,431 420,433 390,434 361,436" />
+        <Baseline points="361,433 390,431 420,429 450,427 480,425 509,424" />
+        <TextEquiv>
+          <Unicode>ET IMP C G VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="321,449 363,448 405,447 447,446 489,445 530,445 530,485 489,485 447,486 405,487 363,488 321,489" />
+        <Baseline points="321,478 363,477 405,477 447,476 489,475 530,474" />
+        <TextEquiv>
+          <Unicode>VIO SIC ATINIO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="392,489 413,488 433,487 454,486 474,485 495,484 495,514 474,515 454,516 433,517 413,518 392,519" />
+        <Baseline points="392,516 413,515 433,514 454,513 474,512 495,511" />
+        <TextEquiv>
+          <Unicode>VELDVMIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="387,529 410,528 434,527 457,526 480,525 504,524 504,553 480,554 457,555 434,556 410,557 387,558" />
+        <Baseline points="387,553 410,552 434,551 457,551 480,550 504,549" />
+        <TextEquiv>
+          <Unicode>NO VOLVSIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="410,562 427,562 443,561 460,561 476,560 493,560 493,585 476,586 460,586 443,587 427,587 410,588" />
+        <Baseline points="410,584 427,583 443,583 460,582 476,582 493,581" />
+        <TextEquiv>
+          <Unicode>NO AVGG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

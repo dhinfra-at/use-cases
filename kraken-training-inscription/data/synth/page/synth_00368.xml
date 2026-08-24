@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00368.jpg" imageWidth="900" imageHeight="533">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,533 0,533" />
+      <TextLine id="r1l1">
+        <Coords points="421,72 433,73 445,73 457,74 470,75 482,76 482,106 470,105 457,104 445,103 433,102 421,101" />
+        <Baseline points="421,96 433,97 445,98 457,99 470,100 482,101" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="419,114 432,114 445,114 457,114 470,114 483,114 483,140 470,140 457,140 445,140 432,140 419,140" />
+        <Baseline points="419,138 432,138 445,138 457,138 470,138 483,138" />
+        <TextEquiv>
+          <Unicode>AXILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="416,152 430,152 444,153 458,153 472,154 486,154 486,175 472,174 458,174 444,174 430,173 416,173" />
+        <Baseline points="416,171 430,171 444,172 458,172 472,172 486,173" />
+        <TextEquiv>
+          <Unicode>OPTATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="429,187 438,187 446,188 455,189 463,190 472,191 472,209 463,208 455,207 446,207 438,206 429,205" />
+        <Baseline points="429,201 438,202 446,202 455,203 463,204 472,205" />
+        <TextEquiv>
+          <Unicode>V A CX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

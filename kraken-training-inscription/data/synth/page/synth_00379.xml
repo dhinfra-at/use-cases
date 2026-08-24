@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00379.jpg" imageWidth="900" imageHeight="468">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,468 0,468" />
+      <TextLine id="r1l1">
+        <Coords points="289,43 356,44 423,44 490,46 557,47 623,48 623,109 557,108 490,107 423,106 356,105 289,104" />
+        <Baseline points="289,99 356,100 423,101 490,102 557,103 623,104" />
+        <TextEquiv>
+          <Unicode>INVICT SERAPEI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="229,129 316,133 403,137 490,142 577,147 664,153 664,206 577,200 490,195 403,190 316,186 229,182" />
+        <Baseline points="229,174 316,178 403,182 490,187 577,192 664,198" />
+        <TextEquiv>
+          <Unicode>P AEL POLYDEVCES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="225,205 313,209 401,214 489,218 577,223 665,226 665,278 577,274 489,270 401,265 313,261 225,256" />
+        <Baseline points="225,250 313,254 401,259 489,263 577,267 665,271" />
+        <TextEquiv>
+          <Unicode>P AELI SEMNI LEB SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="407,292 422,293 436,294 450,294 464,295 478,296 478,345 464,345 450,344 436,343 422,342 407,342" />
+        <Baseline points="407,336 422,337 436,338 450,338 464,339 478,340" />
+        <TextEquiv>
+          <Unicode>D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

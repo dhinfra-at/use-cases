@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00406.jpg" imageWidth="900" imageHeight="514">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,514 0,514" />
+      <TextLine id="r1l1">
+        <Coords points="395,177 417,176 439,175 461,174 483,173 505,173 505,215 483,216 461,217 439,218 417,219 395,220" />
+        <Baseline points="395,216 417,215 439,214 461,213 483,212 505,211" />
+        <TextEquiv>
+          <Unicode>CHO X</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="373,233 404,232 435,230 465,229 496,227 527,226 527,271 496,272 465,274 435,275 404,277 373,278" />
+        <Baseline points="373,274 404,273 435,271 465,270 496,268 527,267" />
+        <TextEquiv>
+          <Unicode>IVLI COM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="413,297 428,296 442,296 457,295 472,295 487,294 487,334 472,335 457,335 442,336 428,337 413,337" />
+        <Baseline points="413,333 428,333 442,332 457,331 472,331 487,330" />
+        <TextEquiv>
+          <Unicode>MIDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

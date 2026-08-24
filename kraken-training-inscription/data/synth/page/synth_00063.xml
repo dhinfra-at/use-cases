@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00063.jpg" imageWidth="900" imageHeight="745">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,745 0,745" />
+      <TextLine id="r1l1">
+        <Coords points="84,208 99,209 114,209 129,210 145,210 160,211 160,264 145,264 129,263 114,263 99,262 84,262" />
+        <Baseline points="84,255 99,256 114,256 129,257 145,257 160,258" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,290 135,290 160,291 185,291 209,291 234,292 234,341 209,341 185,341 160,340 135,340 111,340" />
+        <Baseline points="111,335 135,335 160,335 185,336 209,336 234,336" />
+        <TextEquiv>
+          <Unicode>RRIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="120,363 143,363 166,364 189,365 212,366 234,367 234,415 212,414 189,413 166,412 143,411 120,410" />
+        <Baseline points="120,403 143,404 166,405 189,406 212,407 234,408" />
+        <TextEquiv>
+          <Unicode>ESSIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="139,432 153,432 167,432 181,432 195,432 209,432 209,476 195,476 181,476 167,476 153,476 139,476" />
+        <Baseline points="139,471 153,471 167,471 181,472 195,472 209,472" />
+        <TextEquiv>
+          <Unicode>S SE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

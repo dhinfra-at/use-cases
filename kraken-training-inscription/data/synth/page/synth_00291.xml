@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00291.jpg" imageWidth="900" imageHeight="645">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,645 0,645" />
+      <TextLine id="r1l1">
+        <Coords points="249,78 323,79 396,80 470,80 544,80 618,80 618,150 544,151 470,151 396,150 323,149 249,149" />
+        <Baseline points="249,125 323,126 396,127 470,127 544,127 618,126" />
+        <TextEquiv>
+          <Unicode>DEAE NEHALEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="265,151 334,149 403,146 473,144 542,142 611,139 611,194 542,197 473,199 403,201 334,204 265,206" />
+        <Baseline points="265,197 334,195 403,192 473,190 542,188 611,185" />
+        <TextEquiv>
+          <Unicode>NIAE C IVLIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="320,219 368,217 416,216 465,216 513,216 561,216 561,274 513,274 465,274 416,274 368,275 320,277" />
+        <Baseline points="320,264 368,262 416,261 465,261 513,260 561,260" />
+        <TextEquiv>
+          <Unicode>PRIMITIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="279,294 347,293 415,293 483,292 551,291 619,291 619,352 551,352 483,353 415,354 347,354 279,355" />
+        <Baseline points="279,338 347,337 415,336 483,336 551,335 619,335" />
+        <TextEquiv>
+          <Unicode>PRO SE ET SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="386,353 414,351 442,349 469,346 497,344 525,342 525,395 497,397 469,400 442,402 414,404 386,406" />
+        <Baseline points="386,401 414,399 442,397 469,394 497,392 525,390" />
+        <TextEquiv>
+          <Unicode>V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

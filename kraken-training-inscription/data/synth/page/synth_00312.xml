@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00312.jpg" imageWidth="900" imageHeight="689">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,689 0,689" />
+      <TextLine id="r1l1">
+        <Coords points="362,91 397,92 432,92 468,93 503,93 538,93 538,131 503,131 468,131 432,130 397,130 362,129" />
+        <Baseline points="362,126 397,126 432,127 468,127 503,127 538,128" />
+        <TextEquiv>
+          <Unicode>L VALERIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="366,149 399,148 433,148 466,148 500,147 534,147 534,189 500,189 466,189 433,190 399,190 366,191" />
+        <Baseline points="366,187 399,187 433,186 466,186 500,185 534,185" />
+        <TextEquiv>
+          <Unicode>AGATHOPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="342,211 385,212 427,212 470,213 512,213 555,214 555,252 512,252 470,251 427,251 385,250 342,250" />
+        <Baseline points="342,246 385,247 427,247 470,248 512,248 555,249" />
+        <TextEquiv>
+          <Unicode>AVG HVIC ORD</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="363,275 397,276 430,278 463,280 497,282 530,284 530,321 497,319 463,317 430,315 397,313 363,312" />
+        <Baseline points="363,304 397,306 430,308 463,310 497,312 530,314" />
+        <TextEquiv>
+          <Unicode>SENIENSIVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="308,326 352,326 395,326 439,325 482,325 526,325 526,366 482,367 439,367 395,367 352,367 308,367" />
+        <Baseline points="308,364 352,363 395,363 439,363 482,363 526,363" />
+        <TextEquiv>
+          <Unicode>ORNAMENT DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="318,392 352,394 386,396 421,398 455,400 489,402 489,439 455,437 421,435 386,433 352,430 318,428" />
+        <Baseline points="318,421 352,423 386,425 421,427 455,429 489,431" />
+        <TextEquiv>
+          <Unicode>PRIMO DEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="319,451 351,452 382,454 414,456 446,458 478,459 478,494 446,493 414,491 382,489 351,487 319,486" />
+        <Baseline points="319,479 351,481 382,483 414,484 446,486 478,488" />
+        <TextEquiv>
+          <Unicode>VALERIA MO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="353,508 372,508 392,509 412,510 432,510 451,511 451,543 432,542 412,541 392,541 372,540 353,539" />
+        <Baseline points="353,536 372,537 392,537 412,538 432,539 451,539" />
+        <TextEquiv>
+          <Unicode>CONIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

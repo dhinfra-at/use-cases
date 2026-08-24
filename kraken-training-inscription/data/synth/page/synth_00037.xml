@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00037.jpg" imageWidth="900" imageHeight="686">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,686 0,686" />
+      <TextLine id="r1l1">
+        <Coords points="101,177 124,178 148,179 171,180 194,181 217,182 217,223 194,222 171,221 148,220 124,220 101,219" />
+        <Baseline points="101,214 124,215 148,216 171,217 194,217 217,218" />
+        <TextEquiv>
+          <Unicode>GRATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="98,237 128,238 157,240 187,241 216,242 246,244 246,283 216,282 187,280 157,279 128,278 98,277" />
+        <Baseline points="98,271 128,272 157,273 187,275 216,276 246,278" />
+        <TextEquiv>
+          <Unicode>ANICVLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="96,296 120,297 144,299 168,301 192,302 216,304 216,343 192,341 168,339 144,338 120,336 96,334" />
+        <Baseline points="96,326 120,328 144,330 168,331 192,333 216,335" />
+        <TextEquiv>
+          <Unicode>CASTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="134,346 144,346 155,346 166,346 176,346 187,346 187,380 176,380 166,380 155,380 144,380 134,380" />
+        <Baseline points="134,377 144,377 155,376 166,376 176,376 187,376" />
+        <TextEquiv>
+          <Unicode>MVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="179,398 184,399 190,399 195,399 201,399 206,399 206,427 201,427 195,426 190,426 184,426 179,426" />
+        <Baseline points="179,423 184,423 190,423 195,424 201,424 206,424" />
+        <TextEquiv>
+          <Unicode>ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

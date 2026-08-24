@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000049_F010689.jpg" imageWidth="800" imageHeight="642">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,641 0,641"/>
+      <TextLine id="r1l1">
+        <Coords points="44,10 741,26 741,145 44,129"/>
+        <Baseline points="44,113 741,129"/>
+        <TextEquiv><Unicode>M·VALERIVS·M·F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="120,125 752,124 752,231 120,232"/>
+        <Baseline points="120,212 752,211"/>
+        <TextEquiv><Unicode>MV·N·MESSAL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="58,213 757,221 757,342 58,334"/>
+        <Baseline points="58,316 757,324"/>
+        <TextEquiv><Unicode>P·SERVEILIVS·C·F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="124,328 651,322 651,431 124,437"/>
+        <Baseline points="124,421 651,415"/>
+        <TextEquiv><Unicode>ISAVRICVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="215,420 509,415 509,522 215,527"/>
+        <Baseline points="215,507 509,502"/>
+        <TextEquiv><Unicode>CENS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="129,508 741,512 741,640 129,636"/>
+        <Baseline points="129,616 741,620"/>
+        <TextEquiv><Unicode>X·S·C·TERMIN</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

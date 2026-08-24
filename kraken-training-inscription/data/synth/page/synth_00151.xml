@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00151.jpg" imageWidth="900" imageHeight="522">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,522 0,522" />
+      <TextLine id="r1l1">
+        <Coords points="256,160 319,161 383,163 446,164 510,165 573,166 573,221 510,220 446,219 383,218 319,216 256,215" />
+        <Baseline points="256,203 319,204 383,206 446,207 510,208 573,209" />
+        <TextEquiv>
+          <Unicode>L PAPIRIO RVFO S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="202,218 283,216 365,214 446,213 527,212 609,212 609,267 527,268 446,269 365,270 283,272 202,274" />
+        <Baseline points="202,268 283,266 365,264 446,263 527,262 609,261" />
+        <TextEquiv>
+          <Unicode>L PAPIRIVS DIDIM SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="281,285 335,283 389,281 444,279 498,277 552,275 552,333 498,335 444,337 389,339 335,341 281,343" />
+        <Baseline points="281,337 335,335 389,333 444,331 498,329 552,327" />
+        <TextEquiv>
+          <Unicode>PATER F SE VIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="366,362 392,362 418,361 444,361 470,361 495,361 495,408 470,408 444,408 418,408 392,408 366,409" />
+        <Baseline points="366,403 392,402 418,402 444,402 470,402 495,402" />
+        <TextEquiv>
+          <Unicode>POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

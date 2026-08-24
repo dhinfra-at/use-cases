@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00316.jpg" imageWidth="900" imageHeight="630">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,630 0,630" />
+      <TextLine id="r1l1">
+        <Coords points="388,76 405,76 422,76 439,76 456,76 473,76 473,102 456,102 439,102 422,102 405,102 388,103" />
+        <Baseline points="388,100 405,100 422,100 439,99 456,99 473,99" />
+        <TextEquiv>
+          <Unicode>MANLIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="426,120 431,120 437,120 443,120 449,120 454,120 454,144 449,144 443,144 437,144 431,145 426,145" />
+        <Baseline points="426,142 431,142 437,142 443,142 449,142 454,142" />
+        <TextEquiv>
+          <Unicode>M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="394,162 409,162 424,162 440,162 455,162 471,162 471,185 455,185 440,185 424,185 409,185 394,184" />
+        <Baseline points="394,181 409,181 424,181 440,182 455,182 471,182" />
+        <TextEquiv>
+          <Unicode>PROCVLAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="409,198 421,198 433,199 444,199 456,200 468,200 468,222 456,222 444,222 433,221 421,221 409,220" />
+        <Baseline points="409,216 421,217 433,217 444,217 456,218 468,218" />
+        <TextEquiv>
+          <Unicode>PROBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="411,232 422,233 434,233 445,233 457,234 468,234 468,254 457,254 445,253 434,253 422,253 411,252" />
+        <Baseline points="411,249 422,249 434,249 445,250 457,250 468,250" />
+        <TextEquiv>
+          <Unicode>LIBERTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

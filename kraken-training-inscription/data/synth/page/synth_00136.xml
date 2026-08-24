@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00136.jpg" imageWidth="900" imageHeight="800">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,800 0,800" />
+      <TextLine id="r1l1">
+        <Coords points="415,279 427,278 438,278 450,277 462,277 474,276 474,305 462,306 450,307 438,307 427,308 415,308" />
+        <Baseline points="415,305 427,305 438,304 450,304 462,303 474,303" />
+        <TextEquiv>
+          <Unicode>PAPIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="348,318 381,316 414,315 447,313 479,311 512,309 512,342 479,344 447,346 414,348 381,349 348,351" />
+        <Baseline points="348,348 381,347 414,345 447,343 479,341 512,340" />
+        <TextEquiv>
+          <Unicode>PAPIRIVS ONERA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="324,364 365,363 406,362 446,361 487,360 528,359 528,387 487,388 446,389 406,390 365,392 324,393" />
+        <Baseline points="324,390 365,389 406,388 446,387 487,385 528,384" />
+        <TextEquiv>
+          <Unicode>TVS III FORTVNA MILES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="293,398 344,395 396,393 447,391 499,388 550,386 550,417 499,420 447,422 396,424 344,427 293,429" />
+        <Baseline points="293,427 344,424 396,422 447,420 499,417 550,415" />
+        <TextEquiv>
+          <Unicode>EX CLASSE PRAETORIV SIC MI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="298,433 345,430 392,428 438,425 485,422 532,419 532,452 485,455 438,457 392,460 345,463 298,465" />
+        <Baseline points="298,463 345,460 392,458 438,455 485,452 532,449" />
+        <TextEquiv>
+          <Unicode>SATIVM NATIO FRVX SIC ISTVPEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="304,477 351,476 397,475 444,474 490,474 536,473 536,495 490,496 444,497 397,497 351,498 304,499" />
+        <Baseline points="304,497 351,496 397,495 444,494 490,493 536,493" />
+        <TextEquiv>
+          <Unicode>DIORO SIC DVO HEREDES BENE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="344,507 376,506 408,504 440,503 473,501 505,500 505,525 473,527 440,528 408,530 376,531 344,533" />
+        <Baseline points="344,531 376,529 408,528 440,526 473,525 505,523" />
+        <TextEquiv>
+          <Unicode>MERENTE SIC FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

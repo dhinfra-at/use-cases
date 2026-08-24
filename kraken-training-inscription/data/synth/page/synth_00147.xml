@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00147.jpg" imageWidth="900" imageHeight="1067">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1067 0,1067" />
+      <TextLine id="r1l1">
+        <Coords points="237,190 315,189 392,189 469,188 546,187 623,185 623,233 546,234 469,235 392,236 315,237 237,237" />
+        <Baseline points="237,227 315,226 392,225 469,224 546,223 623,222" />
+        <TextEquiv>
+          <Unicode>I O M CETERISQVE DIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="259,253 330,250 401,247 472,245 544,242 615,239 615,284 544,287 472,289 401,292 330,295 259,297" />
+        <Baseline points="259,293 330,290 401,288 472,285 544,282 615,279" />
+        <TextEquiv>
+          <Unicode>DEABVSQVE PRO SA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="283,319 345,317 406,315 468,313 529,311 591,310 591,352 529,353 468,355 406,357 345,359 283,361" />
+        <Baseline points="283,356 345,354 406,352 468,350 529,349 591,348" />
+        <TextEquiv>
+          <Unicode>LVTE ATQVE INCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="282,384 344,383 407,382 469,381 531,380 594,379 594,424 531,424 469,425 407,426 344,427 282,429" />
+        <Baseline points="282,421 344,419 407,418 469,417 531,416 594,416" />
+        <TextEquiv>
+          <Unicode>LVMITATE VICTORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="273,450 341,449 409,449 476,448 544,447 611,446 611,491 544,492 476,493 409,494 341,494 273,495" />
+        <Baseline points="273,486 341,485 409,484 476,484 544,483 611,482" />
+        <TextEquiv>
+          <Unicode>ISQVE D N IMP CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="283,514 347,514 411,516 475,517 540,519 604,521 604,577 540,575 475,573 411,572 347,570 283,570" />
+        <Baseline points="283,549 347,550 411,551 475,553 540,555 604,557" />
+        <TextEquiv>
+          <Unicode>C MESSI Q TRAIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="287,578 351,577 415,577 479,578 543,579 607,580 607,631 543,630 479,629 415,629 351,628 287,629" />
+        <Baseline points="287,613 351,613 415,613 479,614 543,615 607,616" />
+        <TextEquiv>
+          <Unicode>DECI PII FELICIS AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="258,625 336,619 414,612 492,606 569,600 647,594 647,654 569,660 492,666 414,672 336,678 258,684" />
+        <Baseline points="258,680 336,674 414,668 492,662 569,656 647,650" />
+        <TextEquiv>
+          <Unicode>ET HERENNIAE ETRVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="266,708 342,706 418,704 495,702 571,701 647,699 647,739 571,741 495,743 418,745 342,747 266,749" />
+        <Baseline points="266,744 342,742 418,740 495,738 571,736 647,734" />
+        <TextEquiv>
+          <Unicode>CILLAE AVG M C CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="316,771 374,772 432,773 489,774 547,774 605,775 605,827 547,826 489,825 432,825 374,824 316,823" />
+        <Baseline points="316,806 374,807 432,808 489,809 547,810 605,811" />
+        <TextEquiv>
+          <Unicode>IVGIS D N IMP DE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="264,819 342,814 420,808 497,803 575,797 653,791 653,847 575,853 497,858 420,864 342,869 264,875" />
+        <Baseline points="264,871 342,865 420,860 497,854 575,849 653,843" />
+        <TextEquiv>
+          <Unicode>CI AVG TOTIVSQVE DO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="280,896 354,893 427,890 501,887 574,884 648,881 648,924 574,926 501,929 427,932 354,935 280,938" />
+        <Baseline points="280,934 354,931 427,928 501,925 574,922 648,920" />
+        <TextEquiv>
+          <Unicode>MVS DIVINA EORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

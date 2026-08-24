@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00238.jpg" imageWidth="900" imageHeight="829">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,829 0,829" />
+      <TextLine id="r1l1">
+        <Coords points="386,99 411,100 436,101 461,102 486,103 511,104 511,156 486,155 461,154 436,153 411,152 386,151" />
+        <Baseline points="386,145 411,146 436,147 461,148 486,149 511,150" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="316,164 369,165 422,165 475,166 528,167 581,168 581,221 528,220 475,220 422,219 369,218 316,218" />
+        <Baseline points="316,213 369,213 422,214 475,214 528,215 581,216" />
+        <TextEquiv>
+          <Unicode>CL ANICETO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="203,214 300,212 397,210 494,208 591,206 689,203 689,276 591,279 494,281 397,283 300,285 203,287" />
+        <Baseline points="203,282 300,280 397,278 494,276 591,274 689,271" />
+        <TextEquiv>
+          <Unicode>MARITO PIENTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="257,294 330,293 402,292 475,292 548,291 621,291 621,352 548,352 475,353 402,353 330,354 257,355" />
+        <Baseline points="257,350 330,349 402,348 475,348 548,347 621,347" />
+        <TextEquiv>
+          <Unicode>CL OLYMPIA VXOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="244,374 318,377 393,379 467,381 541,383 616,386 616,434 541,431 467,429 393,427 318,425 244,422" />
+        <Baseline points="244,416 318,418 393,421 467,423 541,425 616,428" />
+        <TextEquiv>
+          <Unicode>MEMORIAM POSV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="278,434 339,434 401,435 463,435 525,435 587,435 587,488 525,488 463,487 401,487 339,487 278,487" />
+        <Baseline points="278,482 339,482 401,482 463,483 525,483 587,483" />
+        <TextEquiv>
+          <Unicode>QVI VIXIT AN LVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="281,505 331,506 382,508 433,510 483,511 534,513 534,557 483,555 433,554 382,552 331,551 281,549" />
+        <Baseline points="281,544 331,545 382,547 433,548 483,550 534,552" />
+        <TextEquiv>
+          <Unicode>M VIIII DIES V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="272,568 306,571 341,573 375,575 409,577 443,579 443,629 409,627 375,625 341,623 306,620 272,618" />
+        <Baseline points="272,607 306,609 341,612 375,614 409,616 443,618" />
+        <TextEquiv>
+          <Unicode>PRO MER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="259,625 295,625 331,626 366,626 402,627 438,627 438,672 402,671 366,671 331,670 295,670 259,669" />
+        <Baseline points="259,665 295,665 331,666 366,666 402,667 438,667" />
+        <TextEquiv>
+          <Unicode>CARISSIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="269,686 287,687 305,688 323,690 341,691 359,692 359,737 341,735 323,734 305,733 287,732 269,731" />
+        <Baseline points="269,723 287,724 305,725 323,726 341,728 359,729" />
+        <TextEquiv>
+          <Unicode>MEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

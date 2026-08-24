@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00360.jpg" imageWidth="900" imageHeight="457">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,457 0,457" />
+      <TextLine id="r1l1">
+        <Coords points="134,80 256,75 377,70 499,65 621,60 743,54 743,88 621,94 499,99 377,104 256,109 134,114" />
+        <Baseline points="134,109 256,104 377,99 499,94 621,88 743,83" />
+        <TextEquiv>
+          <Unicode>LIAE AVGVSTAE MATRI IMPERATORIS C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="161,141 276,132 391,122 506,113 621,103 736,93 736,147 621,157 506,167 391,176 276,186 161,195" />
+        <Baseline points="161,190 276,181 391,172 506,162 621,153 736,143" />
+        <TextEquiv>
+          <Unicode>VRELLI SIC ANTONINI PII FELICIS AV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="196,236 306,229 416,222 526,216 635,209 745,202 745,252 635,259 526,266 416,272 306,279 196,286" />
+        <Baseline points="196,281 306,274 416,267 526,260 635,253 745,246" />
+        <TextEquiv>
+          <Unicode>ASTRORVM SENATVS ET PATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="206,334 310,333 413,331 517,329 621,327 724,325 724,396 621,398 517,400 413,402 310,403 206,405" />
+        <Baseline points="206,383 310,382 413,380 517,378 621,376 724,374" />
+        <TextEquiv>
+          <Unicode>EPCITANI SEPTIMIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

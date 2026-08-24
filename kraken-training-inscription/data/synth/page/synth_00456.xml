@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00456.jpg" imageWidth="900" imageHeight="526">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,526 0,526" />
+      <TextLine id="r1l1">
+        <Coords points="380,154 407,153 433,153 459,152 486,152 512,151 512,189 486,190 459,190 433,191 407,191 380,192" />
+        <Baseline points="380,185 407,185 433,184 459,184 486,183 512,183" />
+        <TextEquiv>
+          <Unicode>DECIA L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="350,197 389,194 428,191 467,188 506,186 545,183 545,223 506,226 467,229 428,231 389,234 350,237" />
+        <Baseline points="350,233 389,230 428,227 467,224 506,222 545,219" />
+        <TextEquiv>
+          <Unicode>FELICVLA AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="382,246 409,245 436,244 464,243 491,242 518,241 518,271 491,272 464,273 436,274 409,275 382,277" />
+        <Baseline points="382,273 409,271 436,270 464,269 491,268 518,267" />
+        <TextEquiv>
+          <Unicode>XXII H S E S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="427,284 437,284 447,284 457,283 467,283 478,283 478,310 467,310 457,311 447,311 437,311 427,312" />
+        <Baseline points="427,308 437,308 447,307 457,307 467,307 478,306" />
+        <TextEquiv>
+          <Unicode>T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00221.jpg" imageWidth="900" imageHeight="914">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,914 0,914" />
+      <TextLine id="r1l1">
+        <Coords points="211,117 308,121 406,126 503,130 600,135 697,140 697,195 600,190 503,186 406,181 308,176 211,172" />
+        <Baseline points="211,160 308,164 406,169 503,173 600,178 697,183" />
+        <TextEquiv>
+          <Unicode>A SEMPRONIO A F VERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="232,184 320,189 408,194 496,200 583,205 671,211 671,269 583,263 496,258 408,252 320,247 232,242" />
+        <Baseline points="232,225 320,230 408,235 496,240 583,246 671,252" />
+        <TextEquiv>
+          <Unicode>IIVIR QVINQVENNALI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="107,232 239,234 370,237 502,239 633,240 765,241 765,295 633,294 502,292 370,290 239,288 107,286" />
+        <Baseline points="107,281 239,284 370,286 502,288 633,289 765,291" />
+        <TextEquiv>
+          <Unicode>SALIO QVESTORI P PVBL SEVIRO QVIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="288,309 353,311 418,312 483,313 548,314 612,314 612,363 548,362 483,361 418,360 353,359 288,358" />
+        <Baseline points="288,354 353,355 418,356 483,357 548,358 612,359" />
+        <TextEquiv>
+          <Unicode>EIVSDEM ORDINIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="104,371 218,378 333,384 447,391 561,399 676,407 676,456 561,447 447,440 333,433 218,427 104,420" />
+        <Baseline points="104,400 218,407 333,413 447,420 561,427 676,436" />
+        <TextEquiv>
+          <Unicode>SEVIRI AVGVSTALI SIC SVA PECVNIA PO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="290,425 351,425 413,425 474,425 535,424 597,423 597,477 535,478 474,478 413,479 351,479 290,478" />
+        <Baseline points="290,474 351,474 413,474 474,474 535,473 597,473" />
+        <TextEquiv>
+          <Unicode>CENSVER LOC DAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="387,496 412,498 436,500 460,501 484,503 508,505 508,549 484,548 460,546 436,544 412,542 387,541" />
+        <Baseline points="387,532 412,534 436,535 460,537 484,539 508,541" />
+        <TextEquiv>
+          <Unicode>EX D D</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="223,539 293,540 364,541 435,542 505,543 576,543 576,590 505,589 435,588 364,588 293,587 223,586" />
+        <Baseline points="223,582 293,583 364,584 435,584 505,585 576,586" />
+        <TextEquiv>
+          <Unicode>DEDICATA III NONAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="109,576 199,575 290,574 380,572 471,571 561,570 561,628 471,630 380,631 290,632 199,633 109,634" />
+        <Baseline points="109,630 199,629 290,628 380,627 471,626 561,624" />
+        <TextEquiv>
+          <Unicode>Q SOSSIO FALCONI SIC C ERVCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="419,658 425,658 431,658 437,658 443,658 448,658 448,695 443,695 437,695 431,695 425,695 419,695" />
+        <Baseline points="419,691 425,691 431,691 437,691 443,691 448,692" />
+        <TextEquiv>
+          <Unicode>IV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

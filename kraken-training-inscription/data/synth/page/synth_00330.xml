@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00330.jpg" imageWidth="900" imageHeight="627">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,627 0,627" />
+      <TextLine id="r1l1">
+        <Coords points="79,243 111,243 144,243 177,243 209,244 242,244 242,290 209,290 177,289 144,289 111,289 79,289" />
+        <Baseline points="79,277 111,278 144,278 177,278 209,278 242,279" />
+        <TextEquiv>
+          <Unicode>L OCTAVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="78,301 96,300 114,300 132,300 150,299 168,299 168,336 150,336 132,337 114,337 96,338 78,338" />
+        <Baseline points="78,332 96,332 114,332 132,331 150,331 168,331" />
+        <TextEquiv>
+          <Unicode>A F IIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="78,354 114,353 149,353 184,352 220,351 255,351 255,386 220,386 184,387 149,388 114,388 78,389" />
+        <Baseline points="78,382 114,382 149,381 184,381 220,380 255,379" />
+        <TextEquiv>
+          <Unicode>DE SVA PECVNIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="78,399 89,398 100,398 111,397 122,396 133,396 133,427 122,427 111,428 100,429 89,429 78,430" />
+        <Baseline points="78,426 89,425 100,425 111,424 122,423 133,423" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="78,442 97,442 117,442 136,442 155,441 175,441 175,469 155,469 136,469 117,470 97,470 78,470" />
+        <Baseline points="78,465 97,464 117,464 136,464 155,464 175,464" />
+        <TextEquiv>
+          <Unicode>FORVMQVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="78,480 91,480 104,480 117,480 131,480 144,481 144,506 131,506 117,505 104,505 91,505 78,505" />
+        <Baseline points="78,499 91,499 104,499 117,500 131,500 144,500" />
+        <TextEquiv>
+          <Unicode>REFECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

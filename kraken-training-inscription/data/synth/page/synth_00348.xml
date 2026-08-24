@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00348.jpg" imageWidth="900" imageHeight="399">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,399 0,399" />
+      <TextLine id="r1l1">
+        <Coords points="202,132 299,132 396,131 493,130 590,129 688,129 688,184 590,184 493,185 396,186 299,187 202,187" />
+        <Baseline points="202,175 299,175 396,174 493,172 590,171 688,172" />
+        <TextEquiv>
+          <Unicode>HOSTILIVS FELIX EX BF</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="422,192 434,192 445,192 457,193 468,193 479,193 479,225 468,224 457,224 445,224 434,224 422,223" />
+        <Baseline points="422,217 434,218 445,218 457,218 468,219 479,219" />
+        <TextEquiv>
+          <Unicode>COL</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

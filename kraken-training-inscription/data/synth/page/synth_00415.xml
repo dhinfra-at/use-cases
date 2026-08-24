@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00415.jpg" imageWidth="900" imageHeight="512">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,512 0,512" />
+      <TextLine id="r1l1">
+        <Coords points="316,169 367,172 417,175 467,177 518,180 568,182 568,223 518,221 467,218 417,215 367,213 316,210" />
+        <Baseline points="316,203 367,206 417,208 467,211 518,213 568,216" />
+        <TextEquiv>
+          <Unicode>HIC MEMORIA S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="323,219 370,221 417,223 465,225 512,227 560,230 560,265 512,263 465,261 417,259 370,257 323,255" />
+        <Baseline points="323,250 370,252 417,254 465,256 512,258 560,260" />
+        <TextEquiv>
+          <Unicode>ANCTI IVLIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,264 348,269 406,273 464,277 522,281 580,285 580,325 522,321 464,317 406,313 348,309 290,304" />
+        <Baseline points="290,292 348,296 406,300 464,305 522,309 580,313" />
+        <TextEquiv>
+          <Unicode>DEPOSITE SVNT XI DIE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="242,289 316,288 390,288 464,288 537,288 611,288 611,331 537,331 464,331 390,331 316,331 242,332" />
+        <Baseline points="242,328 316,328 390,328 464,328 537,328 611,328" />
+        <TextEquiv>
+          <Unicode>MENSIS |I ANNO XVII IVSTINIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

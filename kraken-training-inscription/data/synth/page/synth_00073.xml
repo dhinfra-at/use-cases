@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00073.jpg" imageWidth="900" imageHeight="536">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,536 0,536" />
+      <TextLine id="r1l1">
+        <Coords points="319,159 363,160 407,161 451,162 495,163 539,164 539,201 495,200 451,199 407,198 363,197 319,196" />
+        <Baseline points="319,192 363,193 407,194 451,195 495,196 539,197" />
+        <TextEquiv>
+          <Unicode>DIVVS AVGVSTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="349,211 382,214 415,217 448,220 481,223 514,226 514,267 481,264 448,261 415,257 382,254 349,251" />
+        <Baseline points="349,238 382,241 415,244 448,247 481,250 514,254" />
+        <TextEquiv>
+          <Unicode>TI CAESAR DIVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="336,251 373,252 409,253 445,254 482,255 518,255 518,287 482,286 445,285 409,284 373,284 336,283" />
+        <Baseline points="336,279 373,280 409,281 445,282 482,282 518,283" />
+        <TextEquiv>
+          <Unicode>AVGVSTI F DIVI N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="388,293 407,293 425,293 444,293 462,293 481,293 481,322 462,322 444,322 425,322 407,322 388,322" />
+        <Baseline points="388,318 407,318 425,318 444,318 462,319 481,319" />
+        <TextEquiv>
+          <Unicode>AVGVSTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="327,329 366,330 405,332 445,333 484,335 523,336 523,360 484,359 445,357 405,356 366,354 327,353" />
+        <Baseline points="327,349 366,351 405,352 445,354 484,355 523,357" />
+        <TextEquiv>
+          <Unicode>AQVAS IN COLONIAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="372,358 396,358 420,358 444,357 468,357 492,357 492,383 468,383 444,383 420,383 396,383 372,383" />
+        <Baseline points="372,380 396,380 420,380 444,380 468,380 492,380" />
+        <TextEquiv>
+          <Unicode>PERDVXERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

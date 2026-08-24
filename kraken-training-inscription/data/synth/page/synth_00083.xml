@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00083.jpg" imageWidth="900" imageHeight="508">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,508 0,508" />
+      <TextLine id="r1l1">
+        <Coords points="311,57 366,58 420,59 474,60 529,62 583,64 583,124 529,122 474,121 420,119 366,118 311,117" />
+        <Baseline points="311,101 366,102 420,103 474,104 529,106 583,108" />
+        <TextEquiv>
+          <Unicode>L MANLIO A F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="265,132 338,131 411,131 484,130 556,129 629,128 629,175 556,176 484,177 411,177 338,178 265,179" />
+        <Baseline points="265,173 338,172 411,171 484,171 556,170 629,169" />
+        <TextEquiv>
+          <Unicode>A N GAL BOCCHO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="292,201 354,202 417,203 480,203 542,204 605,205 605,255 542,254 480,254 417,253 354,252 292,251" />
+        <Baseline points="292,239 354,240 417,241 480,241 542,242 605,242" />
+        <TextEquiv>
+          <Unicode>TRIB MIL LEG XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="311,249 366,246 421,242 476,238 532,234 587,230 587,284 532,288 476,292 421,296 366,300 311,303" />
+        <Baseline points="311,299 366,296 421,292 476,288 532,284 587,280" />
+        <TextEquiv>
+          <Unicode>IIVIR PRAEFECT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="324,325 374,326 425,327 476,328 526,329 577,329 577,372 526,371 476,371 425,370 374,369 324,367" />
+        <Baseline points="324,355 374,356 425,357 476,358 526,359 577,360" />
+        <TextEquiv>
+          <Unicode>IVR DIC D D C P</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

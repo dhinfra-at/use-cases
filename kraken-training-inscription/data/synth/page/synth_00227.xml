@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00227.jpg" imageWidth="900" imageHeight="887">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,887 0,887" />
+      <TextLine id="r1l1">
+        <Coords points="113,71 126,73 139,74 152,75 165,76 178,77 178,121 165,120 152,119 139,118 126,116 113,115" />
+        <Baseline points="113,108 126,109 139,110 152,111 165,112 178,114" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="112,138 160,139 208,141 257,142 305,144 353,145 353,189 305,187 257,186 208,184 160,183 112,182" />
+        <Baseline points="112,177 160,179 208,180 257,181 305,183 353,185" />
+        <TextEquiv>
+          <Unicode>L VETINIS PAV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="111,200 171,200 232,201 292,201 353,202 414,203 414,252 353,251 292,250 232,249 171,249 111,248" />
+        <Baseline points="111,244 171,245 232,245 292,246 353,247 414,248" />
+        <TextEquiv>
+          <Unicode>LO ET SEVERINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="109,277 150,280 190,282 231,284 271,286 312,288 312,329 271,327 231,325 190,323 150,321 109,319" />
+        <Baseline points="109,312 150,314 190,317 231,319 271,321 312,323" />
+        <TextEquiv>
+          <Unicode>FILI PIENT ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="108,342 152,344 195,347 239,349 283,351 327,353 327,394 283,391 239,389 195,387 152,384 108,382" />
+        <Baseline points="108,376 152,378 195,380 239,383 283,385 327,387" />
+        <TextEquiv>
+          <Unicode>VXORI MATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="107,398 155,399 204,399 252,399 301,399 349,398 349,445 301,445 252,445 204,445 155,445 107,445" />
+        <Baseline points="107,441 155,441 204,441 252,441 301,441 349,441" />
+        <TextEquiv>
+          <Unicode>FIL ET ACILIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="106,469 167,473 229,477 291,481 352,485 414,490 414,535 352,531 291,526 229,522 167,518 106,514" />
+        <Baseline points="106,502 167,505 229,509 291,514 352,518 414,523" />
+        <TextEquiv>
+          <Unicode>B MER FECIT VETIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="104,529 155,533 205,537 256,541 306,544 356,548 356,591 306,588 256,584 205,580 155,576 104,573" />
+        <Baseline points="104,561 155,565 205,569 256,572 306,576 356,579" />
+        <TextEquiv>
+          <Unicode>SEVERVS AEDILIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="103,584 153,584 203,585 254,586 304,587 354,588 354,628 304,627 254,626 203,625 153,625 103,624" />
+        <Baseline points="103,620 153,621 203,622 254,623 304,623 354,625" />
+        <TextEquiv>
+          <Unicode>IIVIR SVIS PONT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="102,640 159,641 217,641 274,642 332,642 389,642 389,686 332,686 274,685 217,685 159,684 102,683" />
+        <Baseline points="102,680 159,681 217,681 274,682 332,682 389,682" />
+        <TextEquiv>
+          <Unicode>ESPERIDI ET ACILIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="101,705 161,707 220,710 280,712 340,715 399,717 399,751 340,748 280,746 220,743 161,741 101,739" />
+        <Baseline points="101,735 161,737 220,739 280,742 340,744 399,747" />
+        <TextEquiv>
+          <Unicode>SOTERI ET SIBI VIVOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="100,762 116,763 132,765 148,766 164,768 180,769 180,806 164,805 148,803 132,802 116,800 100,799" />
+        <Baseline points="100,791 116,793 132,794 148,796 164,797 180,799" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

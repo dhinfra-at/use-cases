@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00085.jpg" imageWidth="900" imageHeight="762">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,762 0,762" />
+      <TextLine id="r1l1">
+        <Coords points="433,126 445,126 457,127 469,127 482,128 494,128 494,166 482,166 469,165 457,165 445,164 433,164" />
+        <Baseline points="433,159 445,160 457,160 469,160 482,161 494,161" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="379,166 412,166 444,166 476,166 509,166 541,166 541,209 509,209 476,208 444,208 412,208 379,208" />
+        <Baseline points="379,203 412,203 444,203 476,203 509,204 541,204" />
+        <TextEquiv>
+          <Unicode>SVRVS VIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="379,218 410,220 442,221 473,223 504,225 535,227 535,264 504,263 473,261 442,259 410,257 379,256" />
+        <Baseline points="379,249 410,250 442,252 473,254 504,256 535,257" />
+        <TextEquiv>
+          <Unicode>TORIS MIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="374,257 406,257 439,257 471,257 503,257 535,256 535,299 503,300 471,300 439,300 406,300 374,300" />
+        <Baseline points="374,295 406,295 439,295 471,295 503,295 535,295" />
+        <TextEquiv>
+          <Unicode>COH I MIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="345,309 388,312 430,315 473,318 515,321 558,324 558,365 515,362 473,359 430,356 388,352 345,349" />
+        <Baseline points="345,338 388,341 430,344 473,348 515,351 558,354" />
+        <TextEquiv>
+          <Unicode>AVREL TEREN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="371,352 402,354 433,357 464,359 495,361 526,363 526,400 495,398 464,396 433,394 402,392 371,389" />
+        <Baseline points="371,381 402,383 433,385 464,387 495,389 526,392" />
+        <TextEquiv>
+          <Unicode>TIAE HOSPI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="315,389 367,390 419,392 472,393 524,395 576,396 576,433 524,431 472,430 419,428 367,427 315,425" />
+        <Baseline points="315,421 367,422 419,424 472,425 524,427 576,428" />
+        <TextEquiv>
+          <Unicode>TAE NN XXXVII BE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="327,434 374,435 420,437 467,439 514,441 560,443 560,476 514,474 467,472 420,470 374,468 327,466" />
+        <Baseline points="327,462 374,463 420,465 467,467 514,469 560,471" />
+        <TextEquiv>
+          <Unicode>NE MERENTI PO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="357,476 391,479 425,482 459,485 493,488 526,491 526,529 493,526 459,523 425,520 391,517 357,514" />
+        <Baseline points="357,503 391,505 425,508 459,511 493,514 526,517" />
+        <TextEquiv>
+          <Unicode>SVI TITVLVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

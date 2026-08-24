@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00001.jpg" imageWidth="900" imageHeight="766">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,766 0,766" />
+      <TextLine id="r1l1">
+        <Coords points="409,78 421,78 433,78 444,77 456,77 468,77 468,111 456,111 444,111 433,111 421,111 409,112" />
+        <Baseline points="409,107 421,106 433,106 444,106 456,106 468,106" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="355,129 383,129 412,129 440,129 469,129 497,129 497,166 469,166 440,166 412,166 383,166 355,166" />
+        <Baseline points="355,156 383,156 412,156 440,157 469,157 497,157" />
+        <TextEquiv>
+          <Unicode>C ALFIO CRES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="357,173 385,172 413,170 442,169 470,168 498,166 498,197 470,199 442,200 413,201 385,203 357,204" />
+        <Baseline points="357,201 385,200 413,198 442,197 470,195 498,194" />
+        <TextEquiv>
+          <Unicode>CENTINO CO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="359,220 387,220 415,219 443,219 470,219 498,218 498,251 470,251 443,252 415,252 387,252 359,252" />
+        <Baseline points="359,245 387,245 415,245 443,244 470,244 498,244" />
+        <TextEquiv>
+          <Unicode>NIVG INCOM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="369,261 391,260 414,260 437,259 459,258 482,258 482,287 459,288 437,288 414,289 391,290 369,290" />
+        <Baseline points="369,285 391,285 414,284 437,283 459,283 482,282" />
+        <TextEquiv>
+          <Unicode>PARABILI ME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="363,301 388,300 414,299 440,298 466,297 492,296 492,322 466,323 440,325 414,326 388,327 363,328" />
+        <Baseline points="363,325 388,324 414,323 440,322 466,321 492,320" />
+        <TextEquiv>
+          <Unicode>NATIA SATVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="393,339 410,339 428,339 445,339 463,339 481,339 481,367 463,367 445,367 428,367 410,367 393,367" />
+        <Baseline points="393,360 410,360 428,360 445,360 463,360 481,360" />
+        <TextEquiv>
+          <Unicode>NINA B M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="366,375 391,373 416,372 441,370 466,369 491,367 491,393 466,394 441,396 416,397 391,399 366,400" />
+        <Baseline points="366,398 391,396 416,395 441,393 466,392 491,390" />
+        <TextEquiv>
+          <Unicode>QVI VIXIT AN XLV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

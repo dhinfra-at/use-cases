@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00365.jpg" imageWidth="900" imageHeight="570">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,570 0,570" />
+      <TextLine id="r1l1">
+        <Coords points="330,86 378,85 426,84 474,82 522,80 570,79 570,117 522,118 474,120 426,121 378,123 330,124" />
+        <Baseline points="330,120 378,119 426,117 474,115 522,114 570,112" />
+        <TextEquiv>
+          <Unicode>C VIBIVS T F POL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="342,127 385,125 428,122 471,120 514,118 557,115 557,155 514,158 471,160 428,162 385,165 342,167" />
+        <Baseline points="342,163 385,160 428,158 471,156 514,153 557,151" />
+        <TextEquiv>
+          <Unicode>MILES LEG VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="356,179 394,179 431,179 469,178 506,178 544,178 544,209 506,209 469,210 431,210 394,210 356,210" />
+        <Baseline points="356,205 394,205 431,204 469,204 506,204 544,203" />
+        <TextEquiv>
+          <Unicode>DOMO LEPIDO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="394,215 416,215 439,214 462,213 484,212 507,211 507,241 484,241 462,242 439,243 416,244 394,245" />
+        <Baseline points="394,241 416,240 439,239 462,239 484,238 507,237" />
+        <TextEquiv>
+          <Unicode>REGIO IN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="361,247 396,244 431,242 466,239 502,237 537,234 537,269 502,271 466,274 431,276 396,279 361,281" />
+        <Baseline points="361,278 396,275 431,273 466,270 502,268 537,265" />
+        <TextEquiv>
+          <Unicode>EXTREIS FINIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="398,290 419,290 439,291 460,291 480,292 500,292 500,319 480,318 460,318 439,317 419,317 398,316" />
+        <Baseline points="398,309 419,310 439,310 460,311 480,311 500,312" />
+        <TextEquiv>
+          <Unicode>SEPVLTVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

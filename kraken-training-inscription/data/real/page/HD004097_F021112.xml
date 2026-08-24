@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD004097_F021112.jpg" imageWidth="1000" imageHeight="853">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,852 0,852"/>
+      <TextLine id="r1l1">
+        <Coords points="95,82 881,63 901,237 89,266"/>
+        <Baseline points="89,236 901,207"/>
+        <TextEquiv><Unicode>P·FRONTINVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="75,218 695,209 695,412 75,421"/>
+        <Baseline points="75,392 695,383"/>
+        <TextEquiv><Unicode>SCISCOLA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="94,411 813,398 810,581 89,592"/>
+        <Baseline points="89,553 810,542"/>
+        <TextEquiv><Unicode>MEDICVSCC</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="905,629 905,809 104,798 104,616"/>
+        <Baseline points="104,759 905,770"/>
+        <TextEquiv><Unicode>H·S·E·S·T·T·L</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

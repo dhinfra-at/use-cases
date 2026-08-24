@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00057.jpg" imageWidth="900" imageHeight="533">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,533 0,533" />
+      <TextLine id="r1l1">
+        <Coords points="391,133 416,133 440,133 464,133 488,132 512,132 512,188 488,188 464,189 440,189 416,189 391,189" />
+        <Baseline points="391,183 416,183 440,183 464,183 488,183 512,182" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="346,204 388,206 429,209 471,211 512,214 553,216 553,277 512,274 471,272 429,269 388,267 346,265" />
+        <Baseline points="346,250 388,252 429,255 471,257 512,260 553,262" />
+        <TextEquiv>
+          <Unicode>IVLIA SE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="350,270 389,272 429,273 469,275 508,277 548,279 548,332 508,330 469,329 429,327 389,325 350,324" />
+        <Baseline points="350,313 389,314 429,316 469,318 508,320 548,321" />
+        <TextEquiv>
+          <Unicode>VERA V A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="344,335 385,338 427,340 468,342 509,345 551,347 551,402 509,399 468,397 427,395 385,392 344,390" />
+        <Baseline points="344,376 385,378 427,381 468,383 509,386 551,388" />
+        <TextEquiv>
+          <Unicode>XXV H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

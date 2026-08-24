@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00461.jpg" imageWidth="900" imageHeight="502">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,502 0,502" />
+      <TextLine id="r1l1">
+        <Coords points="174,165 291,159 408,153 525,147 642,141 758,134 758,179 642,185 525,192 408,198 291,204 174,210" />
+        <Baseline points="174,206 291,199 408,193 525,187 642,181 758,174" />
+        <TextEquiv>
+          <Unicode>LERIA HERMOGENIA H F DIE V KAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="199,208 311,198 424,189 536,180 648,172 760,164 760,220 648,228 536,236 424,245 311,255 199,265" />
+        <Baseline points="199,261 311,251 424,241 536,232 648,224 760,216" />
+        <TextEquiv>
+          <Unicode>ARVM QVINQVAGESIMO OCTAVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="246,288 336,287 426,286 516,285 605,283 695,282 695,328 605,329 516,331 426,332 336,333 246,334" />
+        <Baseline points="246,318 336,317 426,316 516,314 605,313 695,312" />
+        <TextEquiv>
+          <Unicode>O FINITA EST VIVA SE ARCAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="306,337 364,335 422,333 480,331 537,329 595,327 595,358 537,360 480,362 422,364 364,367 306,369" />
+        <Baseline points="306,364 364,361 422,359 480,357 537,355 595,353" />
+        <TextEquiv>
+          <Unicode>DE SVO PONI IVSSIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00119.jpg" imageWidth="900" imageHeight="638">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,638 0,638" />
+      <TextLine id="r1l1">
+        <Coords points="97,66 237,57 378,47 518,37 658,26 798,14 798,82 658,93 518,104 378,115 237,124 97,134" />
+        <Baseline points="97,130 237,120 378,111 518,100 658,89 798,78" />
+        <TextEquiv>
+          <Unicode>HOC LOCVM A VETERIBVS BENE POSITVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="103,185 239,181 375,175 511,171 648,168 784,164 784,204 648,208 511,211 375,215 239,221 103,225" />
+        <Baseline points="103,221 239,216 375,211 511,206 648,204 784,200" />
+        <TextEquiv>
+          <Unicode>TEMPLVM QVOD NEGLEGENTIA OPERANTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="109,250 243,242 377,233 510,225 644,216 778,206 778,268 644,277 510,287 377,295 243,304 109,312" />
+        <Baseline points="109,308 243,300 377,291 510,283 644,273 778,264" />
+        <TextEquiv>
+          <Unicode>VISV FOEDO ESSE VIDEBATVR NVNC TVRRE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="114,357 254,353 393,349 532,345 672,341 811,335 811,375 672,380 532,385 393,389 254,393 114,397" />
+        <Baseline points="114,392 254,388 393,384 532,380 672,375 811,370" />
+        <TextEquiv>
+          <Unicode>NIVS CAELERINVS PASTOR SACRIS DEAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="119,439 258,435 396,430 535,426 673,421 811,417 811,455 673,460 535,464 396,469 258,473 119,477" />
+        <Baseline points="119,473 258,469 396,465 535,460 673,456 811,451" />
+        <TextEquiv>
+          <Unicode>VENERIS CAELESTIS ET CVLTOR DEORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="125,518 260,516 395,512 529,509 664,505 799,502 799,548 664,551 529,555 395,558 260,561 125,564" />
+        <Baseline points="125,555 260,552 395,549 529,545 664,542 799,539" />
+        <TextEquiv>
+          <Unicode>SVMPTO SIC PROPRIO RESTAVRAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

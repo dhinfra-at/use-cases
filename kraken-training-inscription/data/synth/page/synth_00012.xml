@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00012.jpg" imageWidth="900" imageHeight="974">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,974 0,974" />
+      <TextLine id="r1l1">
+        <Coords points="106,145 125,147 144,149 162,150 181,152 199,154 199,206 181,205 162,203 144,201 125,199 106,198" />
+        <Baseline points="106,188 125,190 144,191 162,193 181,195 199,197" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,185 203,185 302,185 402,185 501,185 600,185 600,259 501,259 402,259 302,259 203,258 104,258" />
+        <Baseline points="104,253 203,253 302,253 402,253 501,253 600,253" />
+        <TextEquiv>
+          <Unicode>EVHELPISTI LIB QVI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="101,274 207,282 312,290 418,298 524,307 629,316 629,378 524,369 418,360 312,351 207,344 101,336" />
+        <Baseline points="101,316 207,324 312,332 418,340 524,349 629,358" />
+        <TextEquiv>
+          <Unicode>MANES VIXIT ANNIS XXVII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="98,340 210,349 323,358 435,367 547,377 659,388 659,455 547,443 435,433 323,424 210,416 98,407" />
+        <Baseline points="98,382 210,391 323,400 435,408 547,419 659,430" />
+        <TextEquiv>
+          <Unicode>MENS IIII DIEB XI FLOREN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="96,402 205,409 313,417 422,425 531,433 639,441 639,499 531,491 422,483 313,475 205,467 96,460" />
+        <Baseline points="96,443 205,451 313,458 422,467 531,475 639,483" />
+        <TextEquiv>
+          <Unicode>TES ANNOS MORS SVBITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="93,466 190,472 286,479 383,486 480,492 576,499 576,555 480,548 383,541 286,535 190,528 93,522" />
+        <Baseline points="93,508 190,514 286,521 383,528 480,534 576,541" />
+        <TextEquiv>
+          <Unicode>ERIPVIT ANIMA INNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="91,530 172,536 254,542 336,548 417,554 499,559 499,615 417,610 336,604 254,598 172,592 91,586" />
+        <Baseline points="91,572 172,578 254,584 336,590 417,596 499,601" />
+        <TextEquiv>
+          <Unicode>CENTISSIMA QVEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="88,591 168,597 249,603 329,608 410,614 490,619 490,673 410,668 329,662 249,656 168,651 88,645" />
+        <Baseline points="88,632 168,638 249,643 329,649 410,655 490,660" />
+        <TextEquiv>
+          <Unicode>MEDICI SECARVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="85,653 154,656 222,660 290,663 358,666 426,669 426,717 358,714 290,711 222,708 154,705 85,702" />
+        <Baseline points="85,696 154,699 222,702 290,706 358,709 426,712" />
+        <TextEquiv>
+          <Unicode>ET OCCIDERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="83,697 198,699 313,700 428,702 543,704 659,706 659,771 543,770 428,768 313,766 198,764 83,762" />
+        <Baseline points="83,757 198,759 313,761 428,763 543,765 659,766" />
+        <TextEquiv>
+          <Unicode>P AELIVS AVG LIB PECVLIARIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="80,777 137,780 193,782 249,785 306,787 362,790 362,838 306,836 249,833 193,830 137,828 80,825" />
+        <Baseline points="80,820 137,822 193,825 249,827 306,830 362,832" />
+        <TextEquiv>
+          <Unicode>ALVMNO SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00313.jpg" imageWidth="900" imageHeight="620">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,620 0,620" />
+      <TextLine id="r1l1">
+        <Coords points="213,64 295,67 376,69 457,72 539,74 620,77 620,138 539,136 457,133 376,131 295,128 213,125" />
+        <Baseline points="213,106 295,109 376,111 457,114 539,116 620,119" />
+        <TextEquiv>
+          <Unicode>AEMORIA SIC AETE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="187,116 278,114 369,113 460,111 550,109 641,107 641,164 550,165 460,167 369,169 278,171 187,172" />
+        <Baseline points="187,166 278,164 369,163 460,161 550,159 641,157" />
+        <TextEquiv>
+          <Unicode>OC MONVMENTVM M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="188,187 284,187 381,187 477,188 574,190 670,191 670,243 574,241 477,240 381,239 284,238 188,238" />
+        <Baseline points="188,227 284,228 381,228 477,229 574,230 670,232" />
+        <TextEquiv>
+          <Unicode>IA CLVSVM IN FRON PED</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="196,231 295,228 394,226 493,223 592,221 691,218 691,277 592,279 493,282 394,284 295,287 196,290" />
+        <Baseline points="196,284 295,281 394,278 493,276 592,273 691,271" />
+        <TextEquiv>
+          <Unicode>AGRO PEDES LXX PERTIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="191,293 298,293 405,291 511,288 618,285 724,282 724,335 618,338 511,341 405,344 298,346 191,346" />
+        <Baseline points="191,341 298,340 405,338 511,336 618,332 724,330" />
+        <TextEquiv>
+          <Unicode>EOS QVORVM NOMINA INTR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="192,358 292,362 392,366 493,370 593,374 694,379 694,442 593,438 493,434 392,430 292,426 192,422" />
+        <Baseline points="192,396 292,400 392,404 493,408 593,412 694,416" />
+        <TextEquiv>
+          <Unicode>IN TITVLO INSCRIPTA SVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="163,385 275,379 387,373 499,367 610,361 722,355 722,427 610,433 499,438 387,444 275,450 163,456" />
+        <Baseline points="163,451 275,445 387,439 499,433 610,427 722,421" />
+        <TextEquiv>
+          <Unicode>AMICI CONCORDES FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

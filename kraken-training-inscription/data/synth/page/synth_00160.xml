@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00160.jpg" imageWidth="900" imageHeight="688">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,688 0,688" />
+      <TextLine id="r1l1">
+        <Coords points="393,159 413,158 434,157 455,156 476,156 496,155 496,195 476,195 455,196 434,197 413,198 393,199" />
+        <Baseline points="393,194 413,193 434,193 455,192 476,191 496,190" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="373,212 401,213 430,213 458,213 487,213 515,214 515,256 487,255 458,255 430,255 401,254 373,254" />
+        <Baseline points="373,245 401,245 430,246 458,246 487,246 515,246" />
+        <TextEquiv>
+          <Unicode>VAL FIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="374,254 404,252 433,250 463,248 492,246 521,244 521,286 492,288 463,290 433,292 404,294 374,296" />
+        <Baseline points="374,292 404,290 433,288 463,286 492,284 521,282" />
+        <TextEquiv>
+          <Unicode>MANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="355,305 391,304 427,302 463,301 499,300 535,299 535,335 499,336 463,337 427,338 391,339 355,340" />
+        <Baseline points="355,336 391,335 427,334 463,333 499,332 535,331" />
+        <TextEquiv>
+          <Unicode>VIXSIT SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="389,350 414,350 439,350 464,350 489,350 513,351 513,387 489,387 464,387 439,387 414,387 389,387" />
+        <Baseline points="389,380 414,380 439,380 464,380 489,380 513,380" />
+        <TextEquiv>
+          <Unicode>AN LX P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="364,392 400,391 435,390 470,389 505,388 541,387 541,421 505,422 470,423 435,424 400,425 364,427" />
+        <Baseline points="364,423 400,421 435,420 470,419 505,418 541,417" />
+        <TextEquiv>
+          <Unicode>IN SV H S S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="421,432 434,431 448,430 461,429 474,428 487,427 487,462 474,463 461,464 448,465 434,466 421,467" />
+        <Baseline points="421,463 434,462 448,461 461,460 474,459 487,458" />
+        <TextEquiv>
+          <Unicode>T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

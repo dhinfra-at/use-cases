@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00096.jpg" imageWidth="900" imageHeight="710">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,710 0,710" />
+      <TextLine id="r1l1">
+        <Coords points="56,176 69,175 82,174 95,174 108,173 121,173 121,211 108,212 95,213 82,213 69,214 56,215" />
+        <Baseline points="56,209 69,209 82,208 95,208 108,207 121,206" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="60,217 107,213 154,208 200,203 247,199 294,195 294,242 247,247 200,251 154,256 107,260 60,265" />
+        <Baseline points="60,260 107,255 154,251 200,246 247,242 294,238" />
+        <TextEquiv>
+          <Unicode>P GRAECIDIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="64,278 117,276 170,273 222,271 275,269 328,266 328,301 275,303 222,305 170,308 117,310 64,313" />
+        <Baseline points="64,308 117,305 170,303 222,300 275,298 328,296" />
+        <TextEquiv>
+          <Unicode>VITALIS CLATIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="68,324 126,321 184,318 242,315 300,313 358,310 358,342 300,345 242,348 184,350 126,353 68,356" />
+        <Baseline points="68,351 126,348 184,346 242,343 300,340 358,338" />
+        <TextEquiv>
+          <Unicode>FORTVNATE CONIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="71,366 150,364 228,361 307,358 385,354 464,350 464,380 385,384 307,388 228,391 150,394 71,397" />
+        <Baseline points="71,391 150,388 228,385 307,382 385,378 464,374" />
+        <TextEquiv>
+          <Unicode>GI BENE MERENTI CVM QVEM SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="75,407 121,407 167,406 214,406 260,405 307,405 307,440 260,441 214,441 167,442 121,442 75,442" />
+        <Baseline points="75,429 121,429 167,429 214,428 260,428 307,428" />
+        <TextEquiv>
+          <Unicode>XXXX VICXIT SIC AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

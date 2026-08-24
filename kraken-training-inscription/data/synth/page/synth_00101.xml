@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00101.jpg" imageWidth="900" imageHeight="366">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,366 0,366" />
+      <TextLine id="r1l1">
+        <Coords points="84,77 142,77 199,76 256,76 314,75 371,74 371,132 314,133 256,134 199,134 142,135 84,135" />
+        <Baseline points="84,130 142,129 199,129 256,128 314,127 371,126" />
+        <TextEquiv>
+          <Unicode>IVNONI SAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="85,164 172,168 260,171 347,175 435,179 522,183 522,247 435,243 347,239 260,235 172,232 85,228" />
+        <Baseline points="85,206 172,210 260,213 347,217 435,221 522,225" />
+        <TextEquiv>
+          <Unicode>CLAVDIVS DAPHNVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="85,236 110,237 135,237 160,237 185,238 209,238 209,279 185,279 160,278 135,278 110,277 85,277" />
+        <Baseline points="85,271 110,271 135,272 160,272 185,273 209,273" />
+        <TextEquiv>
+          <Unicode>A L V S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

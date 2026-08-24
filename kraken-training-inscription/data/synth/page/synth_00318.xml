@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00318.jpg" imageWidth="900" imageHeight="657">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,657 0,657" />
+      <TextLine id="r1l1">
+        <Coords points="110,101 132,101 153,102 175,102 197,102 218,102 218,147 197,147 175,147 153,147 132,147 110,147" />
+        <Baseline points="110,141 132,141 153,141 175,141 197,141 218,141" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,167 144,168 177,168 209,169 242,169 275,170 275,210 242,209 209,209 177,208 144,208 111,207" />
+        <Baseline points="111,202 144,202 177,203 209,203 242,204 275,204" />
+        <TextEquiv>
+          <Unicode>AVRELIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="112,225 145,226 179,227 212,228 246,230 279,231 279,271 246,270 212,269 179,267 145,266 112,265" />
+        <Baseline points="112,257 145,258 179,259 212,260 246,261 279,263" />
+        <TextEquiv>
+          <Unicode>HARETVSA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="112,280 139,280 165,281 192,282 218,283 245,283 245,318 218,317 192,317 165,316 139,315 112,315" />
+        <Baseline points="112,308 139,309 165,310 192,310 218,311 245,312" />
+        <TextEquiv>
+          <Unicode>VIXIT NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="113,329 147,330 180,330 214,331 247,332 281,333 281,362 247,362 214,361 180,360 147,359 113,359" />
+        <Baseline points="113,353 147,354 180,355 214,356 247,356 281,357" />
+        <TextEquiv>
+          <Unicode>IIII M V P IN S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="113,370 140,370 166,370 192,370 219,370 245,370 245,396 219,396 192,396 166,396 140,396 113,396" />
+        <Baseline points="113,393 140,393 166,393 192,393 219,393 245,393" />
+        <TextEquiv>
+          <Unicode>H S EST T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

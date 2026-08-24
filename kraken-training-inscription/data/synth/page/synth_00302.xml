@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00302.jpg" imageWidth="900" imageHeight="633">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,633 0,633" />
+      <TextLine id="r1l1">
+        <Coords points="404,100 422,100 440,100 458,100 476,100 494,100 494,152 476,152 458,152 440,152 422,152 404,152" />
+        <Baseline points="404,146 422,146 440,146 458,146 476,146 494,146" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="285,152 341,152 397,151 452,150 508,150 564,149 564,210 508,210 452,211 397,212 341,212 285,213" />
+        <Baseline points="285,207 341,206 397,206 452,205 508,204 564,204" />
+        <TextEquiv>
+          <Unicode>CAMERIA ROGA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="242,228 311,231 380,234 449,237 517,241 586,244 586,293 517,290 449,286 380,283 311,280 242,277" />
+        <Baseline points="242,268 311,271 380,274 449,277 517,280 586,284" />
+        <TextEquiv>
+          <Unicode>TA FECIT MARITO ME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="211,289 289,291 368,294 446,297 524,301 602,304 602,349 524,346 446,343 368,340 289,337 211,334" />
+        <Baseline points="211,328 289,330 368,333 446,337 524,340 602,343" />
+        <TextEquiv>
+          <Unicode>RENTI ET EREDES TERE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="273,352 328,357 383,362 439,366 494,371 549,376 549,432 494,427 439,422 383,417 328,412 273,408" />
+        <Baseline points="273,389 328,394 383,398 439,403 494,408 549,413" />
+        <TextEquiv>
+          <Unicode>TI CAPITONIS VET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="262,407 322,409 382,410 442,411 502,413 563,414 563,460 502,459 442,457 382,456 322,455 262,453" />
+        <Baseline points="262,448 322,449 382,450 442,452 502,453 563,454" />
+        <TextEquiv>
+          <Unicode>ERANVS VIXIT ANN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="267,470 326,475 384,480 443,486 501,491 559,496 559,551 501,546 443,541 384,535 326,530 267,525" />
+        <Baseline points="267,504 326,510 384,515 443,520 501,526 559,531" />
+        <TextEquiv>
+          <Unicode>IS LXXXV M V DIS V</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

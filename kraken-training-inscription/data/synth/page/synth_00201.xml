@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00201.jpg" imageWidth="900" imageHeight="568">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,568 0,568" />
+      <TextLine id="r1l1">
+        <Coords points="398,69 422,70 446,71 471,72 495,73 519,74 519,121 495,120 471,119 446,118 422,117 398,116" />
+        <Baseline points="398,112 422,112 446,113 471,114 495,115 519,116" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="361,132 398,135 436,138 474,140 511,143 549,146 549,198 511,196 474,193 436,190 398,187 361,185" />
+        <Baseline points="361,174 398,177 436,179 474,182 511,185 549,188" />
+        <TextEquiv>
+          <Unicode>LICINIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="348,193 390,195 431,197 472,198 514,200 555,202 555,249 514,247 472,246 431,244 390,242 348,240" />
+        <Baseline points="348,235 390,237 431,239 472,240 514,242 555,244" />
+        <TextEquiv>
+          <Unicode>GEMINAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="349,248 389,247 429,247 469,247 510,246 550,246 550,302 510,302 469,302 429,303 389,303 349,303" />
+        <Baseline points="349,298 389,298 429,298 469,297 510,297 550,297" />
+        <TextEquiv>
+          <Unicode>VXORI V A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="362,320 395,323 429,325 463,328 496,330 530,333 530,384 496,382 463,379 429,377 395,374 362,371" />
+        <Baseline points="362,361 395,363 429,366 463,369 496,371 530,374" />
+        <TextEquiv>
+          <Unicode>XLV P S T</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="341,378 381,382 422,386 463,390 503,395 544,399 544,457 503,453 463,448 422,444 381,440 341,436" />
+        <Baseline points="341,419 381,423 422,427 463,431 503,436 544,440" />
+        <TextEquiv>
+          <Unicode>MARIT FEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

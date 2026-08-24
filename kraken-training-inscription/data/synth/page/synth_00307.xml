@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00307.jpg" imageWidth="900" imageHeight="756">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,756 0,756" />
+      <TextLine id="r1l1">
+        <Coords points="421,93 436,93 451,94 466,94 481,95 495,95 495,141 481,140 466,140 451,139 436,139 421,138" />
+        <Baseline points="421,129 436,130 451,130 466,131 481,131 495,132" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="282,145 351,143 420,141 489,138 558,137 627,135 627,185 558,187 489,188 420,191 351,193 282,195" />
+        <Baseline points="282,190 351,187 420,185 489,183 558,181 627,179" />
+        <TextEquiv>
+          <Unicode>VLPIVS VALENTIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="315,214 370,213 425,213 481,213 536,212 592,211 592,252 536,253 481,254 425,254 370,254 315,255" />
+        <Baseline points="315,250 370,249 425,249 481,248 536,248 592,247" />
+        <TextEquiv>
+          <Unicode>VS EQVES SING</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="322,274 373,275 424,277 476,278 527,280 578,282 578,330 527,328 476,327 424,325 373,324 322,322" />
+        <Baseline points="322,308 373,309 424,311 476,312 527,314 578,315" />
+        <TextEquiv>
+          <Unicode>IMP NOST NATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="318,319 369,316 420,313 470,311 521,308 571,306 571,355 521,357 470,359 420,362 369,365 318,368" />
+        <Baseline points="318,363 369,360 420,357 470,355 521,352 571,350" />
+        <TextEquiv>
+          <Unicode>B VIX NN XXVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="321,374 370,371 419,368 468,365 518,362 567,359 567,409 518,412 468,415 419,418 370,420 321,423" />
+        <Baseline points="321,418 370,416 419,413 468,410 518,407 567,404" />
+        <TextEquiv>
+          <Unicode>STIP X T VITALIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="308,441 362,441 417,442 471,443 526,444 580,444 580,485 526,484 471,484 417,483 362,482 308,481" />
+        <Baseline points="308,471 362,472 417,473 471,474 526,474 580,475" />
+        <TextEquiv>
+          <Unicode>C CLAVD IVLIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="308,493 362,494 416,496 470,497 524,498 578,499 578,541 524,539 470,538 416,537 362,536 308,535" />
+        <Baseline points="308,523 362,524 416,525 470,526 524,528 578,529" />
+        <TextEquiv>
+          <Unicode>ET DOMITIVS SECV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="351,535 388,534 425,532 462,530 499,528 536,527 536,568 499,570 462,572 425,574 388,575 351,577" />
+        <Baseline points="351,573 388,571 425,569 462,567 499,566 536,564" />
+        <TextEquiv>
+          <Unicode>DVS A B M F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

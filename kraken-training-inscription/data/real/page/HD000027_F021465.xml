@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000027_F021465.jpg" imageWidth="800" imageHeight="312">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,311 0,311"/>
+      <TextLine id="r1l1">
+        <Coords points="3,20 541,21 541,79 3,78"/>
+        <Baseline points="3,70 541,71"/>
+        <TextEquiv><Unicode>M·CASSIVS·SERG·CAEC</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="0,75 692,71 692,123 0,127"/>
+        <Baseline points="0,118 692,114"/>
+        <TextEquiv><Unicode>FLAMENPERPETVVSDIVITRAIANIFLAMINALISPROVI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="0,120 762,117 762,172 0,175"/>
+        <Baseline points="0,166 762,163"/>
+        <TextEquiv><Unicode>BAETICAESTATVASQVAESVNTINORDINEM·POSITAE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="7,169 793,165 793,224 7,228"/>
+        <Baseline points="7,219 793,215"/>
+        <TextEquiv><Unicode>NIIII·EX·ARGENTILIBRISCENTENISOBHONOREM·IIVIR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="0,224 766,215 766,274 0,283"/>
+        <Baseline points="0,274 766,265"/>
+        <TextEquiv><Unicode>GENIO·COLONIAE·SPLENDIDISSIMAE·ITALICENSIS·POSVIT</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

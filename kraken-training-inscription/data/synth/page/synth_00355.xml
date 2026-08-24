@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00355.jpg" imageWidth="900" imageHeight="947">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,947 0,947" />
+      <TextLine id="r1l1">
+        <Coords points="361,246 393,242 426,239 458,236 490,233 522,230 522,270 490,273 458,276 426,279 393,282 361,285" />
+        <Baseline points="361,282 393,278 426,275 458,272 490,269 522,266" />
+        <TextEquiv>
+          <Unicode>MARCELLO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="344,301 385,298 425,295 465,293 505,290 546,287 546,321 505,324 465,327 425,330 385,332 344,335" />
+        <Baseline points="344,332 385,329 425,326 465,324 505,321 546,318" />
+        <TextEquiv>
+          <Unicode>COS PRAETORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="381,347 408,346 434,344 461,343 487,341 514,340 514,371 487,373 461,374 434,376 408,377 381,378" />
+        <Baseline points="381,375 408,374 434,372 461,371 487,369 514,368" />
+        <TextEquiv>
+          <Unicode>Q AVGVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="287,392 351,388 414,384 478,380 541,375 604,371 604,406 541,410 478,415 414,419 351,423 287,427" />
+        <Baseline points="287,424 351,420 414,416 478,411 541,407 604,403" />
+        <TextEquiv>
+          <Unicode>CVRIONI SALIO PALAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="304,428 361,423 418,418 475,412 531,406 588,400 588,444 531,450 475,456 418,461 361,467 304,472" />
+        <Baseline points="304,469 361,463 418,458 475,452 531,447 588,441" />
+        <TextEquiv>
+          <Unicode>TRIB MIL LEG III AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="340,485 382,484 425,483 467,482 509,481 551,480 551,514 509,515 467,516 425,517 382,518 340,519" />
+        <Baseline points="340,510 382,509 425,508 467,507 509,506 551,505" />
+        <TextEquiv>
+          <Unicode>XVIRO PATR COL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="343,517 386,513 429,509 472,505 515,501 558,497 558,535 515,539 472,543 429,547 386,551 343,555" />
+        <Baseline points="343,552 386,547 429,543 472,540 515,536 558,532" />
+        <TextEquiv>
+          <Unicode>DECVR DECRETO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="399,563 421,562 442,560 463,559 485,557 506,555 506,586 485,587 463,589 442,590 421,592 399,594" />
+        <Baseline points="399,590 421,589 442,587 463,586 485,584 506,582" />
+        <TextEquiv>
+          <Unicode>PVBLICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

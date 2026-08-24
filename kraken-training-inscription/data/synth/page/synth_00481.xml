@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00481.jpg" imageWidth="900" imageHeight="463">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,463 0,463" />
+      <TextLine id="r1l1">
+        <Coords points="384,196 404,197 423,198 442,199 461,200 481,201 481,239 461,238 442,237 423,236 404,235 384,234" />
+        <Baseline points="384,227 404,228 423,229 442,230 461,231 481,231" />
+        <TextEquiv>
+          <Unicode>VOLVSIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="376,239 399,239 421,239 443,240 466,240 488,240 488,273 466,273 443,272 421,272 399,272 376,271" />
+        <Baseline points="376,267 399,267 421,268 443,268 466,268 488,268" />
+        <TextEquiv>
+          <Unicode>PRIMA H S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="381,280 402,281 423,282 444,283 465,283 486,284 486,313 465,312 444,311 423,311 402,310 381,309" />
+        <Baseline points="381,304 402,305 423,305 444,306 465,307 486,308" />
+        <TextEquiv>
+          <Unicode>E S T T L IN F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="347,309 378,309 409,308 440,308 471,307 502,307 502,335 471,335 440,336 409,336 378,337 347,337" />
+        <Baseline points="347,334 378,333 409,333 440,332 471,332 502,332" />
+        <TextEquiv>
+          <Unicode>PED XII IN AGR P XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

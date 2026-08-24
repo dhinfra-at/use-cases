@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00229.jpg" imageWidth="900" imageHeight="373">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,373 0,373" />
+      <TextLine id="r1l1">
+        <Coords points="102,92 157,88 212,83 267,78 322,74 377,69 377,121 322,126 267,131 212,135 157,140 102,145" />
+        <Baseline points="102,140 157,135 212,130 267,125 322,121 377,116" />
+        <TextEquiv>
+          <Unicode>IA MARCELLINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="91,168 106,168 120,167 135,167 149,166 164,166 164,198 149,198 135,199 120,199 106,200 91,200" />
+        <Baseline points="91,196 106,195 120,195 135,194 149,194 164,193" />
+        <TextEquiv>
+          <Unicode>ATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="97,218 118,217 139,216 161,216 182,215 204,214 204,238 182,239 161,240 139,240 118,241 97,242" />
+        <Baseline points="97,238 118,238 139,237 161,236 182,235 204,234" />
+        <TextEquiv>
+          <Unicode>LCISSIME</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002364_F023484.jpg" imageWidth="800" imageHeight="542">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,541 0,541"/>
+      <TextLine id="r1l1">
+        <Coords points="55,30 712,32 712,135 55,133"/>
+        <Baseline points="55,116 712,118"/>
+        <TextEquiv><Unicode>DIS MANIBVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="59,120 742,123 742,225 59,222"/>
+        <Baseline points="59,208 742,211"/>
+        <TextEquiv><Unicode>NAIDI PHAINVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="62,212 733,214 733,302 62,300"/>
+        <Baseline points="62,284 733,286"/>
+        <TextEquiv><Unicode>CONTVBERNALI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="60,292 724,286 724,386 60,392"/>
+        <Baseline points="60,376 724,370"/>
+        <TextEquiv><Unicode>BENE MERITAE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="227,380 521,376 521,477 227,481"/>
+        <Baseline points="227,465 521,461"/>
+        <TextEquiv><Unicode>FECIT</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000030_F021464.jpg" imageWidth="800" imageHeight="229">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,228 0,228"/>
+      <TextLine id="r1l1">
+        <Coords points="27,20 744,2 744,59 27,77"/>
+        <Baseline points="27,69 744,51"/>
+        <TextEquiv><Unicode>APOLLINIAVGSACR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="30,75 775,49 775,100 30,126"/>
+        <Baseline points="30,117 775,91"/>
+        <TextEquiv><Unicode>M·SENTIVSMFSERGMAVRIANVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="40,118 773,96 773,154 40,176"/>
+        <Baseline points="40,167 773,145"/>
+        <TextEquiv><Unicode>ITALICAEDILIIVIR·AVGVR·PERPETVVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="44,172 755,145 755,199 44,226"/>
+        <Baseline points="44,217 755,190"/>
+        <TextEquiv><Unicode>COLONIAELAVGITALNAR·C·P·C·D·D</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

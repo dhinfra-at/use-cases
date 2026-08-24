@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00489.jpg" imageWidth="900" imageHeight="440">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,440 0,440" />
+      <TextLine id="r1l1">
+        <Coords points="325,180 375,180 425,180 474,180 524,180 574,180 574,232 524,232 474,232 425,232 375,232 325,232" />
+        <Baseline points="325,221 375,221 425,221 474,221 524,221 574,221" />
+        <TextEquiv>
+          <Unicode>DIT PATREM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="395,247 417,247 440,247 462,247 485,247 507,248 507,291 485,291 462,291 440,290 417,290 395,290" />
+        <Baseline points="395,281 417,281 440,282 462,282 485,282 507,282" />
+        <TextEquiv>
+          <Unicode>VOTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="351,302 390,301 429,299 468,298 506,297 545,295 545,330 506,331 468,333 429,334 390,335 351,337" />
+        <Baseline points="351,332 390,331 429,330 468,328 506,327 545,326" />
+        <TextEquiv>
+          <Unicode>DVLA POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

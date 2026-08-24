@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00242.jpg" imageWidth="900" imageHeight="1008">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1008 0,1008" />
+      <TextLine id="r1l1">
+        <Coords points="97,70 160,65 222,61 284,57 346,53 408,49 408,133 346,137 284,140 222,145 160,149 97,153" />
+        <Baseline points="97,144 160,140 222,136 284,132 346,128 408,124" />
+        <TextEquiv>
+          <Unicode>IMP CAESARI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="99,180 187,179 276,178 364,178 452,177 540,176 540,242 452,242 364,243 276,244 187,244 99,246" />
+        <Baseline points="99,235 187,234 276,233 364,233 452,232 540,231" />
+        <TextEquiv>
+          <Unicode>T AELIO HADRIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="101,273 184,274 267,275 349,277 432,278 515,278 515,351 432,350 349,349 267,348 184,346 101,345" />
+        <Baseline points="101,326 184,327 267,328 349,330 432,331 515,331" />
+        <TextEquiv>
+          <Unicode>ANTONINO AVG PIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="102,360 187,364 272,367 357,370 441,373 526,376 526,456 441,453 357,450 272,447 187,444 102,440" />
+        <Baseline points="102,411 187,415 272,418 357,421 441,424 526,427" />
+        <TextEquiv>
+          <Unicode>PONTIFICI MAXIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="104,425 196,420 288,416 380,411 472,405 564,399 564,474 472,480 380,485 288,490 196,495 104,500" />
+        <Baseline points="104,492 196,488 288,483 380,478 472,473 564,467" />
+        <TextEquiv>
+          <Unicode>TRIB POTEST XV COS IV P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="105,512 148,509 191,506 234,503 276,500 319,497 319,563 276,566 234,569 191,572 148,575 105,578" />
+        <Baseline points="105,571 148,568 191,565 234,562 276,559 319,555" />
+        <TextEquiv>
+          <Unicode>DEDICANTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="107,599 180,600 254,602 327,604 400,605 474,607 474,671 400,669 327,667 254,666 180,664 107,662" />
+        <Baseline points="107,642 180,644 254,646 327,647 400,649 474,651" />
+        <TextEquiv>
+          <Unicode>M VALERIO ETRVSCO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="108,662 154,660 200,658 246,656 292,654 338,652 338,707 292,709 246,711 200,713 154,715 108,717" />
+        <Baseline points="108,710 154,708 200,706 246,705 292,703 338,701" />
+        <TextEquiv>
+          <Unicode>LEG AVG PR PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="109,737 152,736 194,736 237,736 279,735 322,734 322,781 279,781 237,782 194,782 152,783 109,783" />
+        <Baseline points="109,776 152,776 194,776 237,775 279,775 322,774" />
+        <TextEquiv>
+          <Unicode>L SEMPRONIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="110,803 144,803 178,804 212,804 246,804 280,805 280,852 246,852 212,851 178,851 144,851 110,850" />
+        <Baseline points="110,841 144,841 178,841 212,842 246,842 280,842" />
+        <TextEquiv>
+          <Unicode>INGENVVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="111,855 145,853 178,851 212,849 246,847 279,845 279,893 246,895 212,897 178,899 145,901 111,903" />
+        <Baseline points="111,897 145,895 178,893 212,891 246,889 279,887" />
+        <TextEquiv>
+          <Unicode>PRIMIPILARIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

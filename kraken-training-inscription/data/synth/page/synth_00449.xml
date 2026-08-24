@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00449.jpg" imageWidth="900" imageHeight="535">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,535 0,535" />
+      <TextLine id="r1l1">
+        <Coords points="345,106 382,106 420,106 457,106 495,106 532,106 532,164 495,164 457,164 420,164 382,164 345,164" />
+        <Baseline points="345,151 382,151 420,151 457,151 495,151 532,151" />
+        <TextEquiv>
+          <Unicode>AET AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="191,191 283,189 375,186 467,183 559,180 651,178 651,227 559,230 467,233 375,236 283,238 191,241" />
+        <Baseline points="191,234 283,231 375,229 467,226 559,223 651,221" />
+        <TextEquiv>
+          <Unicode>LVCIL CRISPVS V P A V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="221,263 299,263 378,264 456,264 534,264 613,264 613,325 534,325 456,325 378,325 299,324 221,324" />
+        <Baseline points="221,305 299,305 378,305 456,306 534,306 613,306" />
+        <TextEquiv>
+          <Unicode>PRAEFF PRAET D N MA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="404,330 420,329 437,328 454,328 470,327 487,326 487,374 470,375 454,376 437,376 420,377 404,378" />
+        <Baseline points="404,372 420,371 437,370 454,370 470,369 487,368" />
+        <TextEquiv>
+          <Unicode>EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

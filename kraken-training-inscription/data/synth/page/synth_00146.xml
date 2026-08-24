@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00146.jpg" imageWidth="900" imageHeight="580">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,580 0,580" />
+      <TextLine id="r1l1">
+        <Coords points="161,65 274,70 386,75 498,79 610,83 723,87 723,176 610,172 498,168 386,164 274,159 161,154" />
+        <Baseline points="161,121 274,126 386,131 498,135 610,139 723,144" />
+        <TextEquiv>
+          <Unicode>M VALERIVS M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="214,145 306,145 398,144 490,144 582,143 674,142 674,200 582,201 490,202 398,202 306,202 214,203" />
+        <Baseline points="214,196 306,195 398,195 490,194 582,194 674,193" />
+        <TextEquiv>
+          <Unicode>PVB SECVNDVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="355,217 393,216 430,216 468,215 506,214 543,214 543,267 506,267 468,268 430,269 393,269 355,270" />
+        <Baseline points="355,264 393,263 430,263 468,262 506,261 543,261" />
+        <TextEquiv>
+          <Unicode>SIBI ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="287,285 352,287 418,288 483,290 548,291 614,293 614,346 548,345 483,343 418,341 352,340 287,339" />
+        <Baseline points="287,324 352,325 418,327 483,328 548,330 614,332" />
+        <TextEquiv>
+          <Unicode>VALERIAE M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="314,329 368,326 423,322 478,319 533,316 587,313 587,364 533,367 478,370 423,373 368,377 314,380" />
+        <Baseline points="314,375 368,372 423,369 478,366 533,363 587,360" />
+        <TextEquiv>
+          <Unicode>POLLAE VXORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

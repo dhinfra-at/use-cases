@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00190.jpg" imageWidth="900" imageHeight="513">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,513 0,513" />
+      <TextLine id="r1l1">
+        <Coords points="217,67 282,65 347,63 412,61 477,60 542,60 542,144 477,144 412,145 347,147 282,149 217,150" />
+        <Baseline points="217,142 282,140 347,138 412,136 477,135 542,135" />
+        <TextEquiv>
+          <Unicode>EXTRICAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="210,152 305,150 400,149 495,148 590,147 685,146 685,224 590,225 495,227 400,228 305,229 210,230" />
+        <Baseline points="210,223 305,221 400,220 495,219 590,218 685,217" />
+        <TextEquiv>
+          <Unicode>R SERVA FELICIS S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="261,252 333,257 405,263 476,268 548,274 620,279 620,343 548,338 476,332 405,327 333,322 261,317" />
+        <Baseline points="261,294 333,299 405,305 476,310 548,315 620,321" />
+        <TextEquiv>
+          <Unicode>ALTVARI F PIA VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="238,318 319,323 400,328 481,333 561,338 642,343 642,397 561,392 481,387 400,382 319,377 238,371" />
+        <Baseline points="238,352 319,358 400,363 481,368 561,373 642,378" />
+        <TextEquiv>
+          <Unicode>XIT ANNIS IIII HIC SITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

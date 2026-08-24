@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00089.jpg" imageWidth="900" imageHeight="744">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,744 0,744" />
+      <TextLine id="r1l1">
+        <Coords points="257,105 329,108 401,112 473,115 545,118 617,121 617,175 545,172 473,169 401,166 329,162 257,158" />
+        <Baseline points="257,144 329,148 401,152 473,155 545,158 617,161" />
+        <TextEquiv>
+          <Unicode>LVCIVS AVRELIVS SV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="248,161 322,163 396,164 471,165 545,166 619,168 619,215 545,214 471,213 396,212 322,210 248,209" />
+        <Baseline points="248,203 322,204 396,206 471,207 545,208 619,209" />
+        <TextEquiv>
+          <Unicode>RVS BVL CIVITATIS IVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="255,211 326,210 396,210 467,209 537,208 608,207 608,263 537,264 467,265 396,265 326,266 255,267" />
+        <Baseline points="255,261 326,261 396,260 467,259 537,258 608,257" />
+        <TextEquiv>
+          <Unicode>L AVR SVRVM VET EX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="243,269 318,268 394,268 470,267 545,267 621,267 621,321 545,321 470,321 394,321 318,322 243,322" />
+        <Baseline points="243,317 318,316 394,316 470,315 545,315 621,315" />
+        <TextEquiv>
+          <Unicode>SIGNIF PATREM ET CL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="246,337 320,342 393,347 467,352 540,357 614,362 614,420 540,414 467,409 393,404 320,399 246,395" />
+        <Baseline points="246,373 320,378 393,382 467,387 540,393 614,398" />
+        <TextEquiv>
+          <Unicode>GAILLAM MATREM ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="226,391 306,393 386,396 467,398 547,400 627,403 627,445 547,442 467,440 386,438 306,435 226,433" />
+        <Baseline points="226,425 306,428 386,430 467,433 547,435 627,438" />
+        <TextEquiv>
+          <Unicode>DOMITIAM VALENTIAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="257,443 325,446 393,449 461,453 529,456 597,459 597,506 529,503 461,499 393,496 325,493 257,490" />
+        <Baseline points="257,477 325,480 393,483 461,486 529,490 597,493" />
+        <TextEquiv>
+          <Unicode>CONIVGEM SECVM ITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="265,496 329,500 394,504 459,509 523,513 588,518 588,569 523,565 459,560 394,556 329,551 265,547" />
+        <Baseline points="265,528 329,533 394,537 459,541 523,546 588,550" />
+        <TextEquiv>
+          <Unicode>HAEC MEMORIAE CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="325,549 368,550 410,551 452,552 495,553 537,554 537,592 495,591 452,590 410,589 368,588 325,587" />
+        <Baseline points="325,582 368,583 410,584 452,585 495,586 537,587" />
+        <TextEquiv>
+          <Unicode>SILIO SVO VSVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="258,596 323,597 388,599 454,600 519,601 584,602 584,641 519,639 454,638 388,637 323,636 258,635" />
+        <Baseline points="258,630 323,631 388,633 454,634 519,635 584,636" />
+        <TextEquiv>
+          <Unicode>DE SVO DIGNATVS EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

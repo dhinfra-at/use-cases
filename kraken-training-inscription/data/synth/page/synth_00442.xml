@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00442.jpg" imageWidth="900" imageHeight="892">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,892 0,892" />
+      <TextLine id="r1l1">
+        <Coords points="348,96 396,95 444,94 493,92 541,91 589,90 589,150 541,152 493,153 444,154 396,156 348,157" />
+        <Baseline points="348,152 396,151 444,150 493,148 541,147 589,145" />
+        <TextEquiv>
+          <Unicode>Q SERVILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="359,178 401,179 443,181 485,183 527,185 569,187 569,233 527,231 485,229 443,227 401,226 359,224" />
+        <Baseline points="359,217 401,219 443,221 485,223 527,225 569,227" />
+        <TextEquiv>
+          <Unicode>M F PALAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="268,240 342,244 415,248 489,252 563,256 636,261 636,313 563,308 489,303 415,299 342,295 268,292" />
+        <Baseline points="268,279 342,283 415,287 489,291 563,295 636,300" />
+        <TextEquiv>
+          <Unicode>PACVVIANO AEDIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="287,304 352,306 417,307 482,309 547,310 612,311 612,357 547,356 482,355 417,353 352,352 287,350" />
+        <Baseline points="287,345 352,347 417,349 482,350 547,352 612,353" />
+        <TextEquiv>
+          <Unicode>PRAEF COHORT I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="333,360 381,360 428,359 476,359 523,358 571,357 571,410 523,411 476,411 428,412 381,413 333,413" />
+        <Baseline points="333,409 381,408 428,408 476,407 523,406 571,406" />
+        <TextEquiv>
+          <Unicode>MORINORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="257,429 333,434 408,438 483,443 558,447 634,451 634,500 558,495 483,491 408,486 333,482 257,477" />
+        <Baseline points="257,464 333,468 408,473 483,477 558,482 634,486" />
+        <TextEquiv>
+          <Unicode>M SERVILIVS COPIEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="309,491 362,495 416,498 469,502 523,506 576,509 576,555 523,552 469,549 416,545 362,541 309,537" />
+        <Baseline points="309,524 362,528 416,532 469,536 523,539 576,543" />
+        <TextEquiv>
+          <Unicode>SIS PACVVIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="273,546 339,550 405,554 470,558 536,561 602,565 602,609 536,605 470,601 405,598 339,594 273,590" />
+        <Baseline points="273,579 339,583 405,586 470,590 536,594 602,598" />
+        <TextEquiv>
+          <Unicode>PATER FECIT ET SIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

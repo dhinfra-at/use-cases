@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00032.jpg" imageWidth="900" imageHeight="424">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,424 0,424" />
+      <TextLine id="r1l1">
+        <Coords points="366,63 398,62 430,60 462,58 494,56 526,55 526,99 494,101 462,102 430,104 398,106 366,108" />
+        <Baseline points="366,103 398,101 430,99 462,98 494,96 526,94" />
+        <TextEquiv>
+          <Unicode>C ANNIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="386,119 411,119 435,120 459,120 484,121 508,122 508,163 484,163 459,162 435,162 411,161 386,160" />
+        <Baseline points="386,151 411,152 435,152 459,153 484,154 508,154" />
+        <TextEquiv>
+          <Unicode>CAPITO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="345,168 384,168 424,169 463,170 502,170 541,171 541,214 502,213 463,213 424,212 384,211 345,210" />
+        <Baseline points="345,200 384,201 424,202 463,203 502,203 541,203" />
+        <TextEquiv>
+          <Unicode>EQ COH X PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="398,214 418,215 438,215 458,216 478,216 498,217 498,258 478,257 458,257 438,256 418,256 398,255" />
+        <Baseline points="398,247 418,248 438,248 458,248 478,249 498,249" />
+        <TextEquiv>
+          <Unicode>GRATI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

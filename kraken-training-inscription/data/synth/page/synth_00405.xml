@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00405.jpg" imageWidth="900" imageHeight="966">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,966 0,966" />
+      <TextLine id="r1l1">
+        <Coords points="339,285 377,283 415,280 453,277 491,275 529,272 529,321 491,324 453,326 415,329 377,332 339,334" />
+        <Baseline points="339,329 377,326 415,323 453,321 491,318 529,315" />
+        <TextEquiv>
+          <Unicode>M VALER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="321,346 368,346 415,346 462,346 509,346 556,346 556,399 509,399 462,399 415,399 368,399 321,399" />
+        <Baseline points="321,383 368,383 415,383 462,383 509,383 556,383" />
+        <TextEquiv>
+          <Unicode>M F BVRDO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="343,400 383,400 423,399 463,399 503,398 543,398 543,445 503,446 463,446 423,447 383,447 343,448" />
+        <Baseline points="343,436 383,435 423,435 463,434 503,434 543,433" />
+        <TextEquiv>
+          <Unicode>VALERIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="344,452 385,451 426,450 468,449 509,449 550,448 550,494 509,494 468,495 426,496 385,496 344,497" />
+        <Baseline points="344,486 385,486 426,485 468,484 509,483 550,483" />
+        <TextEquiv>
+          <Unicode>INVENTAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="330,504 378,503 426,503 474,502 522,501 570,500 570,544 522,545 474,546 426,547 378,547 330,548" />
+        <Baseline points="330,537 378,536 426,535 474,534 522,534 570,533" />
+        <TextEquiv>
+          <Unicode>CONI PIENTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="348,551 391,551 434,550 476,550 519,550 562,550 562,594 519,594 476,595 434,595 391,595 348,596" />
+        <Baseline points="348,583 391,582 434,582 476,582 519,581 562,581" />
+        <TextEquiv>
+          <Unicode>ET VALERIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="379,597 411,596 444,594 476,593 509,592 541,591 541,627 509,628 476,630 444,631 411,632 379,633" />
+        <Baseline points="379,628 411,626 444,625 476,624 509,623 541,622" />
+        <TextEquiv>
+          <Unicode>SECVNDO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="372,642 406,642 440,642 474,641 509,641 543,641 543,680 509,680 474,681 440,681 406,681 372,681" />
+        <Baseline points="372,671 406,671 440,670 474,670 509,670 543,669" />
+        <TextEquiv>
+          <Unicode>VALERIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="398,682 426,682 454,681 481,680 509,680 536,679 536,714 509,714 481,715 454,715 426,716 398,717" />
+        <Baseline points="398,710 426,709 454,709 481,708 509,707 536,707" />
+        <TextEquiv>
+          <Unicode>INVENTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="370,724 409,724 448,724 487,724 526,724 565,725 565,765 526,764 487,764 448,764 409,764 370,764" />
+        <Baseline points="370,751 409,751 448,751 487,751 526,751 565,751" />
+        <TextEquiv>
+          <Unicode>COLLIBERTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="417,763 440,762 463,761 485,760 508,759 530,758 530,786 508,787 485,788 463,789 440,790 417,791" />
+        <Baseline points="417,787 440,786 463,785 485,784 508,783 530,782" />
+        <TextEquiv>
+          <Unicode>VI ET SIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00387.jpg" imageWidth="900" imageHeight="528">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,528 0,528" />
+      <TextLine id="r1l1">
+        <Coords points="409,60 424,60 439,61 454,61 469,62 484,62 484,111 469,110 454,110 439,110 424,109 409,109" />
+        <Baseline points="409,103 424,103 439,103 454,104 469,104 484,105" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="358,134 392,135 427,136 461,137 496,138 530,139 530,189 496,188 461,187 427,186 392,185 358,183" />
+        <Baseline points="358,177 392,178 427,179 461,180 496,181 530,182" />
+        <TextEquiv>
+          <Unicode>LVPIONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="354,204 386,205 418,206 451,207 483,208 515,209 515,255 483,254 451,254 418,253 386,252 354,251" />
+        <Baseline points="354,245 386,246 418,247 451,248 483,249 515,249" />
+        <TextEquiv>
+          <Unicode>MAGNVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="348,266 386,266 424,265 463,265 501,264 539,263 539,313 501,314 463,315 424,316 386,317 348,317" />
+        <Baseline points="348,313 386,312 424,312 463,311 501,310 539,309" />
+        <TextEquiv>
+          <Unicode>COLLEGAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="323,339 370,341 418,343 465,344 512,346 560,348 560,394 512,392 465,390 418,388 370,387 323,385" />
+        <Baseline points="323,376 370,378 418,379 465,381 512,383 560,385" />
+        <TextEquiv>
+          <Unicode>BENE MERENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="400,403 419,403 438,403 457,404 476,404 496,405 496,445 476,444 457,444 438,443 419,443 400,443" />
+        <Baseline points="400,438 419,439 438,439 457,439 476,440 496,440" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00067.jpg" imageWidth="900" imageHeight="509">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,509 0,509" />
+      <TextLine id="r1l1">
+        <Coords points="284,45 342,42 400,40 458,37 516,35 573,33 573,94 516,96 458,99 400,101 342,104 284,106" />
+        <Baseline points="284,100 342,98 400,95 458,93 516,90 573,88" />
+        <TextEquiv>
+          <Unicode>IOVI DVLICE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="288,109 343,106 399,102 454,98 510,94 565,90 565,153 510,157 454,161 399,165 343,169 288,173" />
+        <Baseline points="288,168 343,164 399,160 454,156 510,152 565,148" />
+        <TextEquiv>
+          <Unicode>NO SIC PROBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="332,179 373,177 415,174 457,172 499,170 541,167 541,218 499,221 457,223 415,226 373,228 332,230" />
+        <Baseline points="332,226 373,223 415,221 457,219 499,216 541,214" />
+        <TextEquiv>
+          <Unicode>ET MARINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="323,242 368,241 414,240 460,239 505,238 551,238 551,276 505,276 460,277 414,278 368,279 323,280" />
+        <Baseline points="323,276 368,275 414,274 460,273 505,272 551,272" />
+        <TextEquiv>
+          <Unicode>PRO SE ET PRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="421,291 432,291 442,291 453,292 464,292 475,292 475,327 464,327 453,327 442,326 432,326 421,326" />
+        <Baseline points="421,319 432,320 442,320 453,320 464,321 475,321" />
+        <TextEquiv>
+          <Unicode>SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

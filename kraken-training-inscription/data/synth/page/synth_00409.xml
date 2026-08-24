@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00409.jpg" imageWidth="900" imageHeight="720">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,720 0,720" />
+      <TextLine id="r1l1">
+        <Coords points="219,66 308,66 397,65 486,63 575,62 664,61 664,131 575,133 486,134 397,135 308,136 219,137" />
+        <Baseline points="219,117 308,117 397,116 486,114 575,113 664,112" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS SAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="359,140 394,137 429,134 464,131 499,128 534,126 534,188 499,190 464,193 429,196 394,199 359,202" />
+        <Baseline points="359,196 394,193 429,190 464,187 499,184 534,182" />
+        <TextEquiv>
+          <Unicode>ITALVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="293,234 354,234 415,234 477,234 538,235 599,235 599,303 538,303 477,302 415,302 354,302 293,302" />
+        <Baseline points="293,282 354,282 415,282 477,282 538,283 599,283" />
+        <TextEquiv>
+          <Unicode>VIX NN XXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="353,312 390,309 427,307 464,304 502,302 539,299 539,357 502,359 464,362 427,364 390,367 353,369" />
+        <Baseline points="353,364 390,361 427,359 464,356 502,354 539,351" />
+        <TextEquiv>
+          <Unicode>STRATO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="277,399 346,399 416,399 485,400 554,401 623,401 623,469 554,468 485,467 416,467 346,466 277,466" />
+        <Baseline points="277,444 346,444 416,444 485,445 554,445 623,446" />
+        <TextEquiv>
+          <Unicode>VIX NN XXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="286,480 352,478 418,476 484,475 550,473 616,472 616,527 550,528 484,530 418,532 352,533 286,535" />
+        <Baseline points="286,524 352,522 418,520 484,519 550,517 616,516" />
+        <TextEquiv>
+          <Unicode>DOMINI SERVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="264,555 339,553 415,551 490,549 566,547 641,545 641,600 566,602 490,603 415,605 339,607 264,609" />
+        <Baseline points="264,597 339,595 415,593 490,592 566,590 641,588" />
+        <TextEquiv>
+          <Unicode>BENE MERENTIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="342,626 388,626 433,625 479,625 524,625 570,624 570,678 524,678 479,679 433,679 388,679 342,679" />
+        <Baseline points="342,667 388,667 433,666 479,666 524,666 570,665" />
+        <TextEquiv>
+          <Unicode>FECERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

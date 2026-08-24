@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00060.jpg" imageWidth="900" imageHeight="857">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,857 0,857" />
+      <TextLine id="r1l1">
+        <Coords points="101,267 119,265 136,264 153,262 170,261 188,259 188,300 170,302 153,303 136,305 119,306 101,308" />
+        <Baseline points="101,304 119,302 136,301 153,299 170,298 188,296" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="105,311 161,306 217,302 273,297 328,292 384,287 384,337 328,342 273,347 217,352 161,357 105,362" />
+        <Baseline points="105,358 161,353 217,348 273,343 328,338 384,333" />
+        <TextEquiv>
+          <Unicode>M OCTAVIO FELICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="110,380 162,378 213,376 265,374 317,372 369,369 369,407 317,410 265,412 213,414 162,416 110,418" />
+        <Baseline points="110,414 162,412 213,410 265,408 317,406 369,403" />
+        <TextEquiv>
+          <Unicode>SEN PATRI PIENTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="114,436 184,435 254,434 324,433 394,432 464,431 464,476 394,477 324,478 254,479 184,480 114,481" />
+        <Baseline points="114,468 184,467 254,466 324,465 394,464 464,463" />
+        <TextEquiv>
+          <Unicode>SIMO Q V A LVVI SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="118,484 156,481 193,478 231,475 269,472 306,469 306,513 269,516 231,520 193,523 156,525 118,528" />
+        <Baseline points="118,524 156,521 193,519 231,516 269,512 306,509" />
+        <TextEquiv>
+          <Unicode>M VI D VIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="122,546 176,546 230,547 284,547 338,547 391,546 391,592 338,592 284,592 230,592 176,592 122,592" />
+        <Baseline points="122,578 176,578 230,578 284,578 338,578 391,578" />
+        <TextEquiv>
+          <Unicode>M OCTAVIVS EV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="126,591 160,588 193,585 226,582 259,579 293,576 293,620 259,623 226,625 193,628 160,631 126,634" />
+        <Baseline points="126,631 160,628 193,625 226,622 259,619 293,616" />
+        <TextEquiv>
+          <Unicode>TYCHES LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="130,654 159,653 188,652 216,652 245,651 274,651 274,688 245,689 216,689 188,690 159,691 130,691" />
+        <Baseline points="130,685 159,685 188,684 216,683 245,683 274,682" />
+        <TextEquiv>
+          <Unicode>CVRAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

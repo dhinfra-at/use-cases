@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00094.jpg" imageWidth="900" imageHeight="665">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,665 0,665" />
+      <TextLine id="r1l1">
+        <Coords points="111,104 139,104 168,105 196,106 224,107 253,107 253,167 224,166 196,165 168,165 139,164 111,163" />
+        <Baseline points="111,157 139,158 168,159 196,159 224,160 253,161" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="105,188 133,187 160,187 187,186 215,186 242,185 242,249 215,250 187,250 160,251 133,252 105,252" />
+        <Baseline points="105,246 133,246 160,245 187,244 215,244 242,243" />
+        <TextEquiv>
+          <Unicode>PHILE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="100,278 138,279 177,280 215,281 253,282 292,283 292,340 253,339 215,338 177,337 138,336 100,335" />
+        <Baseline points="100,329 138,330 177,331 215,332 253,333 292,334" />
+        <TextEquiv>
+          <Unicode>AN XXIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="95,362 136,365 176,367 217,370 258,372 299,375 299,433 258,431 217,428 176,426 136,423 95,421" />
+        <Baseline points="95,410 136,413 176,415 217,418 258,420 299,423" />
+        <TextEquiv>
+          <Unicode>M II D XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="90,442 141,445 191,448 242,452 293,455 343,459 343,518 293,514 242,510 191,507 141,504 90,500" />
+        <Baseline points="90,488 141,491 191,494 242,498 293,501 343,505" />
+        <TextEquiv>
+          <Unicode>PIA IN S HIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="85,520 120,522 155,523 190,525 225,527 260,529 260,580 225,578 190,576 155,574 120,573 85,571" />
+        <Baseline points="85,564 120,566 155,567 190,569 225,571 260,572" />
+        <TextEquiv>
+          <Unicode>S S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

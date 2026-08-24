@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00422.jpg" imageWidth="900" imageHeight="643">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,643 0,643" />
+      <TextLine id="r1l1">
+        <Coords points="297,121 352,118 408,116 464,113 520,111 576,108 576,161 520,164 464,167 408,169 352,172 297,174" />
+        <Baseline points="297,169 352,166 408,164 464,161 520,158 576,156" />
+        <TextEquiv>
+          <Unicode>L OVINIO PV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="295,179 351,174 407,169 463,164 520,159 576,154 576,215 520,219 463,224 407,229 351,234 295,239" />
+        <Baseline points="295,234 351,229 407,224 463,219 520,214 576,209" />
+        <TextEquiv>
+          <Unicode>DENTI CAPEL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="205,259 301,256 397,253 492,250 588,247 684,245 684,295 588,298 492,300 397,303 301,306 205,309" />
+        <Baseline points="205,298 301,295 397,292 492,289 588,286 684,283" />
+        <TextEquiv>
+          <Unicode>LAE LEG AVG PR PR C V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="241,315 324,315 407,316 490,316 573,317 656,317 656,377 573,377 490,376 407,376 324,376 241,375" />
+        <Baseline points="241,351 324,351 407,351 490,352 573,352 656,353" />
+        <TextEquiv>
+          <Unicode>COS DESIG PRAESIDI IVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="388,361 415,360 442,360 469,359 496,359 523,358 523,397 496,397 469,398 442,398 415,399 388,400" />
+        <Baseline points="388,392 415,392 442,391 469,391 496,390 523,390" />
+        <TextEquiv>
+          <Unicode>TISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

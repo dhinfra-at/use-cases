@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00282.jpg" imageWidth="900" imageHeight="490">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,490 0,490" />
+      <TextLine id="r1l1">
+        <Coords points="81,168 187,166 292,165 397,163 503,162 608,161 608,219 503,220 397,221 292,222 187,224 81,226" />
+        <Baseline points="81,206 187,204 292,202 397,201 503,200 608,199" />
+        <TextEquiv>
+          <Unicode>M AVR AVG LIB HERMEROTI VIXIT AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="85,228 188,226 291,224 394,220 497,216 601,212 601,261 497,266 394,270 291,273 188,275 85,278" />
+        <Baseline points="85,267 188,265 291,262 394,259 497,255 601,251" />
+        <TextEquiv>
+          <Unicode>N X MENS VI D V FIL DVLCISSIMO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="88,281 192,274 297,268 402,261 506,255 611,248 611,295 506,301 402,308 297,315 192,321 88,327" />
+        <Baseline points="88,323 192,317 297,311 402,304 506,297 611,291" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMO ET GERMANIO ET STEFANE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="91,341 172,335 253,330 333,325 414,320 495,314 495,369 414,374 333,379 253,385 172,390 91,395" />
+        <Baseline points="91,390 172,385 253,380 333,375 414,369 495,364" />
+        <TextEquiv>
+          <Unicode>PARENTES INFELICISSIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

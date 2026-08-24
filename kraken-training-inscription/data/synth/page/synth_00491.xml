@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00491.jpg" imageWidth="900" imageHeight="517">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,517 0,517" />
+      <TextLine id="r1l1">
+        <Coords points="104,109 194,112 285,115 375,119 466,125 556,132 556,206 466,199 375,193 285,189 194,186 104,183" />
+        <Baseline points="104,166 194,169 285,172 375,176 466,182 556,189" />
+        <TextEquiv>
+          <Unicode>IVLIA BONITATIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,195 172,199 239,204 307,208 375,213 443,218 443,293 375,288 307,283 239,279 172,274 104,270" />
+        <Baseline points="104,250 172,254 239,259 307,263 375,268 443,273" />
+        <TextEquiv>
+          <Unicode>F VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="104,271 155,270 206,270 257,271 308,271 359,272 359,338 308,338 257,337 206,337 155,337 104,337" />
+        <Baseline points="104,329 155,329 206,329 257,330 308,330 359,331" />
+        <TextEquiv>
+          <Unicode>LXXX H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

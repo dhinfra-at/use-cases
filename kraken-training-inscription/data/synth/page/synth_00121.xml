@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00121.jpg" imageWidth="900" imageHeight="953">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,953 0,953" />
+      <TextLine id="r1l1">
+        <Coords points="104,137 213,145 322,153 431,162 540,171 649,181 649,257 540,247 431,238 322,229 213,221 104,213" />
+        <Baseline points="104,184 213,192 322,200 431,208 540,218 649,228" />
+        <TextEquiv>
+          <Unicode>PAEZVSAE OCTAVIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="103,209 195,215 287,221 379,228 472,234 564,241 564,308 472,301 379,294 287,288 195,282 103,276" />
+        <Baseline points="103,256 195,262 287,268 379,275 472,281 564,288" />
+        <TextEquiv>
+          <Unicode>CAESARIS AVGVSTI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="101,288 154,292 207,295 261,299 314,302 367,306 367,365 314,362 261,358 207,355 154,351 101,347" />
+        <Baseline points="101,334 154,338 207,341 261,345 314,348 367,352" />
+        <TextEquiv>
+          <Unicode>ORNATRICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="99,350 157,349 215,349 273,348 331,348 389,347 389,412 331,413 273,413 215,414 157,414 99,415" />
+        <Baseline points="99,409 157,409 215,408 273,408 331,407 389,407" />
+        <TextEquiv>
+          <Unicode>VIX NN XVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,422 188,422 277,422 367,422 457,422 547,423 547,490 457,490 367,490 277,490 188,490 98,489" />
+        <Baseline points="98,484 188,484 277,484 367,484 457,484 547,485" />
+        <TextEquiv>
+          <Unicode>PHILETVS OCTAVIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="96,486 193,484 290,483 387,481 484,480 582,480 582,555 484,556 387,557 290,558 193,560 96,562" />
+        <Baseline points="96,556 193,554 290,553 387,551 484,550 582,549" />
+        <TextEquiv>
+          <Unicode>CAESARIS AVGVSTI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="95,574 176,575 256,575 337,575 418,575 499,575 499,640 418,639 337,639 256,639 176,639 95,638" />
+        <Baseline points="95,633 176,633 256,634 337,634 418,634 499,634" />
+        <TextEquiv>
+          <Unicode>AB ARGENTO FCIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

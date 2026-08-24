@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00222.jpg" imageWidth="900" imageHeight="608">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,608 0,608" />
+      <TextLine id="r1l1">
+        <Coords points="381,114 405,115 429,115 452,116 476,116 500,117 500,148 476,147 452,147 429,146 405,146 381,146" />
+        <Baseline points="381,142 405,142 429,143 452,143 476,144 500,144" />
+        <TextEquiv>
+          <Unicode>TITIA RVF</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="382,155 405,155 429,155 453,156 476,156 500,157 500,187 476,186 453,186 429,185 405,185 382,185" />
+        <Baseline points="382,181 405,182 429,182 453,182 476,183 500,183" />
+        <TextEquiv>
+          <Unicode>INA MATR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="379,189 404,188 428,188 453,187 478,186 502,186 502,218 478,219 453,219 428,220 404,221 379,221" />
+        <Baseline points="379,218 404,217 428,217 453,216 478,216 502,215" />
+        <TextEquiv>
+          <Unicode>I VARONE P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="365,229 393,230 422,231 451,232 479,234 508,235 508,264 479,263 451,262 422,261 393,260 365,259" />
+        <Baseline points="365,253 393,254 422,255 451,256 479,257 508,258" />
+        <TextEquiv>
+          <Unicode>ITESEME SIC Q</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="367,260 396,259 425,258 454,258 483,257 512,256 512,287 483,288 454,289 425,289 396,290 367,291" />
+        <Baseline points="367,288 396,287 425,286 454,286 483,285 512,284" />
+        <TextEquiv>
+          <Unicode>VE VISSI SIC AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="423,298 433,298 442,298 451,298 460,298 470,299 470,322 460,321 451,321 442,321 433,321 423,321" />
+        <Baseline points="423,318 433,318 442,318 451,319 460,319 470,319" />
+        <TextEquiv>
+          <Unicode>LXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

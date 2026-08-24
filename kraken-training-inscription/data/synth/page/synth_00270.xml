@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00270.jpg" imageWidth="900" imageHeight="491">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,491 0,491" />
+      <TextLine id="r1l1">
+        <Coords points="286,57 353,55 420,53 487,51 554,49 621,48 621,124 554,126 487,127 420,129 353,131 286,133" />
+        <Baseline points="286,125 353,123 420,121 487,119 554,117 621,116" />
+        <TextEquiv>
+          <Unicode>ASELIA LVCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="293,159 356,162 419,164 482,166 545,169 608,171 608,235 545,233 482,231 419,228 356,226 293,224" />
+        <Baseline points="293,209 356,212 419,214 482,216 545,219 608,221" />
+        <TextEquiv>
+          <Unicode>DA L ASELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="230,242 316,247 401,250 486,254 571,258 657,263 657,330 571,325 486,321 401,317 316,314 230,309" />
+        <Baseline points="230,288 316,293 401,296 486,300 571,304 657,308" />
+        <TextEquiv>
+          <Unicode>HALEMO ET STENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="282,319 346,323 411,326 475,329 539,331 604,334 604,393 539,390 475,387 411,384 346,381 282,378" />
+        <Baseline points="282,361 346,364 411,368 475,370 539,373 604,376" />
+        <TextEquiv>
+          <Unicode>AE TYCHINI PA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="249,387 325,388 401,390 477,391 553,393 629,394 629,442 553,440 477,439 401,437 325,436 249,434" />
+        <Baseline points="249,427 325,428 401,430 477,431 553,432 629,434" />
+        <TextEquiv>
+          <Unicode>RENTIBVS POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

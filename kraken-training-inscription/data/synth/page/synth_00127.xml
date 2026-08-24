@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00127.jpg" imageWidth="900" imageHeight="725">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,725 0,725" />
+      <TextLine id="r1l1">
+        <Coords points="297,107 361,110 424,113 488,116 552,119 615,122 615,180 552,177 488,174 424,171 361,168 297,165" />
+        <Baseline points="297,151 361,154 424,157 488,160 552,163 615,166" />
+        <TextEquiv>
+          <Unicode>LICINIAE VALE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="298,169 360,170 423,171 485,172 548,174 610,175 610,226 548,225 485,224 423,223 360,221 298,220" />
+        <Baseline points="298,214 360,215 423,216 485,217 548,218 610,219" />
+        <TextEquiv>
+          <Unicode>RIAE QVAE VIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="231,213 319,211 407,209 494,206 582,204 670,201 670,271 582,274 494,276 407,279 319,281 231,283" />
+        <Baseline points="231,277 319,275 407,272 494,270 582,267 670,265" />
+        <TextEquiv>
+          <Unicode>IT ANNIS P M XXXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="279,297 347,300 415,303 483,305 552,308 620,310 620,364 552,362 483,359 415,356 347,354 279,351" />
+        <Baseline points="279,339 347,342 415,345 483,347 552,350 620,352" />
+        <TextEquiv>
+          <Unicode>FILI MATRI MEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="313,358 365,359 416,360 468,361 519,363 571,364 571,411 519,410 468,409 416,408 365,407 313,406" />
+        <Baseline points="313,400 365,401 416,402 468,403 519,404 571,405" />
+        <TextEquiv>
+          <Unicode>ORIAM POSV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="372,416 401,416 431,416 461,416 491,416 520,416 520,466 491,466 461,466 431,466 401,466 372,466" />
+        <Baseline points="372,460 401,460 431,460 461,460 491,460 520,460" />
+        <TextEquiv>
+          <Unicode>ERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

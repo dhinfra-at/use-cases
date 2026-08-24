@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00339.jpg" imageWidth="900" imageHeight="537">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,537 0,537" />
+      <TextLine id="r1l1">
+        <Coords points="363,195 397,193 430,191 464,189 497,187 531,185 531,223 497,225 464,227 430,229 397,231 363,233" />
+        <Baseline points="363,229 397,228 430,226 464,224 497,222 531,220" />
+        <TextEquiv>
+          <Unicode>EXSPECTATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="344,248 384,248 424,248 464,249 505,249 545,249 545,284 505,284 464,284 424,284 384,283 344,283" />
+        <Baseline points="344,275 384,276 424,276 464,276 505,276 545,277" />
+        <TextEquiv>
+          <Unicode>DOMNABVS SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="377,292 404,292 432,292 459,292 487,292 514,292 514,325 487,325 459,325 432,325 404,325 377,325" />
+        <Baseline points="377,320 404,320 432,320 459,320 487,319 514,319" />
+        <TextEquiv>
+          <Unicode>IVNONIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="406,334 424,334 442,333 459,332 477,332 495,331 495,363 477,364 459,365 442,365 424,366 406,366" />
+        <Baseline points="406,363 424,363 442,362 459,361 477,361 495,360" />
+        <TextEquiv>
+          <Unicode>V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

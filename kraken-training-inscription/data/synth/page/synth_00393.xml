@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00393.jpg" imageWidth="900" imageHeight="589">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,589 0,589" />
+      <TextLine id="r1l1">
+        <Coords points="226,49 314,49 402,49 490,48 577,48 665,46 665,104 577,106 490,107 402,107 314,107 226,107" />
+        <Baseline points="226,102 314,101 402,101 490,101 577,100 665,99" />
+        <TextEquiv>
+          <Unicode>SEVERVS TRIOCHA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="333,125 379,124 425,123 471,121 517,119 563,118 563,178 517,180 471,182 425,183 379,185 333,186" />
+        <Baseline points="333,180 379,179 425,178 471,176 517,174 563,173" />
+        <TextEquiv>
+          <Unicode>RI F VBIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="317,202 370,201 423,201 475,200 528,199 581,198 581,255 528,256 475,257 423,258 370,258 317,259" />
+        <Baseline points="317,253 370,253 423,252 475,251 528,250 581,250" />
+        <TextEquiv>
+          <Unicode>EQ ALA TV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="354,270 391,269 427,268 463,267 500,266 536,264 536,322 500,323 463,325 427,326 391,327 354,328" />
+        <Baseline points="354,323 391,321 427,320 463,319 500,318 536,317" />
+        <TextEquiv>
+          <Unicode>NGR NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="343,350 384,351 425,351 466,352 507,352 548,352 548,402 507,402 466,401 425,401 384,400 343,400" />
+        <Baseline points="343,394 384,395 425,395 466,395 507,396 548,396" />
+        <TextEquiv>
+          <Unicode>XXVI STI V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="315,419 369,422 424,424 478,427 533,430 587,432 587,492 533,489 478,486 424,484 369,481 315,478" />
+        <Baseline points="315,462 369,465 424,467 478,470 533,472 587,475" />
+        <TextEquiv>
+          <Unicode>H S E VRBAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="263,472 336,469 408,467 481,465 554,462 626,460 626,521 554,524 481,526 408,529 336,531 263,534" />
+        <Baseline points="263,528 336,526 408,524 481,521 554,519 626,516" />
+        <TextEquiv>
+          <Unicode>VS FRATRI POSIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

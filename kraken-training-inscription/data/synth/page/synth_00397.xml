@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00397.jpg" imageWidth="900" imageHeight="767">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,767 0,767" />
+      <TextLine id="r1l1">
+        <Coords points="325,171 364,174 404,176 444,179 484,182 524,184 524,245 484,243 444,240 404,237 364,235 325,232" />
+        <Baseline points="325,221 364,224 404,226 444,229 484,232 524,234" />
+        <TextEquiv>
+          <Unicode>IVLI VA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="300,248 360,251 420,253 480,256 540,258 599,260 599,318 540,316 480,314 420,311 360,309 300,306" />
+        <Baseline points="300,299 360,301 420,304 480,307 540,309 599,311" />
+        <TextEquiv>
+          <Unicode>SATVRISCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="314,321 365,322 416,324 468,326 519,327 570,329 570,387 519,385 468,383 416,382 365,380 314,379" />
+        <Baseline points="314,372 365,373 416,375 468,376 519,378 570,380" />
+        <TextEquiv>
+          <Unicode>DEF NN XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="293,404 355,407 417,410 478,412 540,415 602,418 602,472 540,469 478,466 417,464 355,461 293,458" />
+        <Baseline points="293,451 355,454 417,457 478,459 540,462 602,465" />
+        <TextEquiv>
+          <Unicode>L VARIVS SA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="320,475 370,476 421,478 472,480 523,481 574,483 574,538 523,537 472,535 421,533 370,532 320,530" />
+        <Baseline points="320,524 370,525 421,527 472,529 523,530 574,532" />
+        <TextEquiv>
+          <Unicode>TVRISCVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="267,542 337,545 408,547 479,549 550,550 621,552 621,610 550,608 479,607 408,605 337,603 267,600" />
+        <Baseline points="267,594 337,596 408,599 479,600 550,602 621,603" />
+        <TextEquiv>
+          <Unicode>ET AVIDIA BES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="311,623 364,629 417,634 470,640 523,645 577,649 577,712 523,707 470,702 417,697 364,692 311,686" />
+        <Baseline points="311,666 364,672 417,677 470,682 523,687 577,692" />
+        <TextEquiv>
+          <Unicode>TIA FILIO P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

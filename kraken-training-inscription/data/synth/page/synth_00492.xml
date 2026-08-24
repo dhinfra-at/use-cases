@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00492.jpg" imageWidth="900" imageHeight="809">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,809 0,809" />
+      <TextLine id="r1l1">
+        <Coords points="394,174 415,175 436,175 458,175 479,175 500,176 500,214 479,214 458,214 436,214 415,213 394,213" />
+        <Baseline points="394,209 415,209 436,209 458,210 479,210 500,210" />
+        <TextEquiv>
+          <Unicode>IVLIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="372,232 402,232 432,233 462,233 492,234 522,234 522,273 492,272 462,272 432,271 402,271 372,270" />
+        <Baseline points="372,266 402,266 432,266 462,267 492,267 522,268" />
+        <TextEquiv>
+          <Unicode>DOMNAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="364,280 398,279 433,277 467,276 502,275 536,274 536,319 502,320 467,321 433,322 398,324 364,325" />
+        <Baseline points="364,321 398,320 433,318 467,317 502,316 536,315" />
+        <TextEquiv>
+          <Unicode>AVGVSTAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="364,341 398,340 432,340 467,339 501,339 535,339 535,376 501,377 467,377 432,377 398,378 364,378" />
+        <Baseline points="364,375 398,374 432,374 467,374 501,373 535,373" />
+        <TextEquiv>
+          <Unicode>MATRI CAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="383,392 410,391 436,391 463,390 490,390 517,389 517,428 490,428 463,429 436,429 410,430 383,430" />
+        <Baseline points="383,427 410,426 436,426 463,425 490,425 517,424" />
+        <TextEquiv>
+          <Unicode>TRORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="372,446 403,447 434,448 464,449 495,450 526,451 526,485 495,484 464,483 434,483 403,482 372,481" />
+        <Baseline points="372,475 403,476 434,476 464,477 495,478 526,479" />
+        <TextEquiv>
+          <Unicode>R P SVA VLP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="389,492 413,492 437,492 461,492 485,491 509,491 509,524 485,524 461,524 437,525 413,525 389,525" />
+        <Baseline points="389,522 413,522 437,521 461,521 485,521 509,521" />
+        <TextEquiv>
+          <Unicode>CVRANTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="388,541 413,543 437,544 461,546 485,547 510,548 510,583 485,582 461,580 437,579 413,577 388,576" />
+        <Baseline points="388,567 413,568 437,570 461,571 485,573 510,574" />
+        <TextEquiv>
+          <Unicode>Q ANICIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="366,576 399,574 432,573 465,572 498,570 531,569 531,605 498,606 465,607 432,609 399,610 366,612" />
+        <Baseline points="366,609 399,607 432,606 465,605 498,603 531,602" />
+        <TextEquiv>
+          <Unicode>FAVSTO LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="366,622 399,622 432,622 465,621 498,621 531,620 531,651 498,652 465,652 432,652 399,653 366,653" />
+        <Baseline points="366,650 399,650 432,650 465,649 498,649 531,648" />
+        <TextEquiv>
+          <Unicode>AVGVSTORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="420,668 431,668 443,669 454,669 466,670 477,670 477,697 466,697 454,696 443,696 431,695 420,695" />
+        <Baseline points="420,690 431,691 443,691 454,692 466,692 477,693" />
+        <TextEquiv>
+          <Unicode>PR PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

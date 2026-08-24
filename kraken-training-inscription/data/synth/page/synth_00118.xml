@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00118.jpg" imageWidth="900" imageHeight="537">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,537 0,537" />
+      <TextLine id="r1l1">
+        <Coords points="310,43 369,46 428,48 487,50 546,52 605,55 605,98 546,95 487,93 428,91 369,88 310,86" />
+        <Baseline points="310,82 369,84 428,86 487,89 546,91 605,93" />
+        <TextEquiv>
+          <Unicode>AVRE BONOSVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="326,102 378,103 430,104 482,105 533,106 585,108 585,148 533,147 482,145 430,144 378,143 326,142" />
+        <Baseline points="326,139 378,139 430,141 482,142 533,143 585,145" />
+        <TextEquiv>
+          <Unicode>VIX NN V MENS V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="320,157 373,158 426,160 478,162 531,163 584,165 584,198 531,197 478,195 426,193 373,192 320,190" />
+        <Baseline points="320,187 373,188 426,190 478,192 531,193 584,195" />
+        <TextEquiv>
+          <Unicode>AVRE VIATORINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="367,206 400,208 434,210 468,212 502,214 536,216 536,244 502,242 468,240 434,238 400,236 367,234" />
+        <Baseline points="367,228 400,230 434,232 468,234 502,237 536,239" />
+        <TextEquiv>
+          <Unicode>ET MAGN FILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

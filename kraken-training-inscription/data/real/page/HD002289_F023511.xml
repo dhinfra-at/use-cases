@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002289_F023511.jpg" imageWidth="800" imageHeight="148">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,147 0,147"/>
+      <TextLine id="r1l1">
+        <Coords points="32,11 763,21 763,86 32,76"/>
+        <Baseline points="32,68 763,78"/>
+        <TextEquiv><Unicode>FLAVIA APHRODITE FECIT SIBI ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="25,61 771,74 771,133 25,120"/>
+        <Baseline points="25,109 771,122"/>
+        <TextEquiv><Unicode>T VELATIO NARCISSO CONIVGI SVO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

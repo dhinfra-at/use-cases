@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00253.jpg" imageWidth="900" imageHeight="725">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,725 0,725" />
+      <TextLine id="r1l1">
+        <Coords points="163,172 263,167 362,161 462,153 562,146 662,141 662,212 562,217 462,224 362,232 263,238 163,243" />
+        <Baseline points="163,238 263,233 362,227 462,219 562,212 662,207" />
+        <TextEquiv>
+          <Unicode>FRVGIFERO AVG SACRVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="111,260 227,258 344,256 461,253 578,250 695,247 695,299 578,302 461,305 344,307 227,309 111,312" />
+        <Baseline points="111,305 227,303 344,301 461,299 578,296 695,292" />
+        <TextEquiv>
+          <Unicode>PRO SALVTE IMP CAES L SEPTIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="99,330 225,331 350,331 475,330 601,329 726,329 726,382 601,382 475,383 350,384 225,384 99,383" />
+        <Baseline points="99,367 225,367 350,367 475,367 601,366 726,366" />
+        <TextEquiv>
+          <Unicode>SEVERI PII PERTINACIS AVG PARTHICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="99,378 222,371 345,365 469,358 592,352 715,345 715,405 592,411 469,417 345,424 222,430 99,437" />
+        <Baseline points="99,433 222,426 345,420 469,413 592,407 715,401" />
+        <TextEquiv>
+          <Unicode>ARABICI PARTHICI ADIABENICI P M P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="98,465 221,465 344,464 467,464 590,464 713,463 713,514 590,514 467,515 344,515 221,516 98,516" />
+        <Baseline points="98,501 221,500 344,500 467,500 590,499 713,499" />
+        <TextEquiv>
+          <Unicode>DECVRIONES C R AEDEM DE SPORTVLIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="282,528 339,529 396,530 453,531 510,532 568,533 568,593 510,592 453,590 396,589 339,589 282,588" />
+        <Baseline points="282,572 339,573 396,573 453,574 510,575 568,577" />
+        <TextEquiv>
+          <Unicode>FEC IDEMQ DED</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

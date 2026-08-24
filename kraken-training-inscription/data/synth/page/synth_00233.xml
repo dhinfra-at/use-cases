@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00233.jpg" imageWidth="900" imageHeight="865">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,865 0,865" />
+      <TextLine id="r1l1">
+        <Coords points="331,172 374,171 418,170 462,170 505,169 549,168 549,211 505,212 462,213 418,214 374,215 331,215" />
+        <Baseline points="331,211 374,210 418,209 462,209 505,208 549,207" />
+        <TextEquiv>
+          <Unicode>M PAPVLEIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="293,222 352,219 410,216 469,212 528,209 586,206 586,261 528,264 469,267 410,270 352,274 293,277" />
+        <Baseline points="293,272 352,269 410,266 469,263 528,259 586,256" />
+        <TextEquiv>
+          <Unicode>M L PVDENTI IIIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,298 351,298 412,298 473,298 534,298 595,299 595,342 534,342 473,342 412,341 351,341 290,341" />
+        <Baseline points="290,333 351,334 412,334 473,334 534,334 595,334" />
+        <TextEquiv>
+          <Unicode>VIR ET CLAVDIALI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="316,357 367,359 418,361 469,363 520,365 571,366 571,416 520,415 469,413 418,411 367,409 316,407" />
+        <Baseline points="316,392 367,394 418,396 469,398 520,399 571,401" />
+        <TextEquiv>
+          <Unicode>M PAPVLEIO M L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="331,414 377,414 423,414 469,414 515,414 561,414 561,454 515,454 469,454 423,454 377,454 331,454" />
+        <Baseline points="331,448 377,448 423,448 469,448 515,448 561,448" />
+        <TextEquiv>
+          <Unicode>PRIMO IIIIIIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="311,468 367,467 423,465 479,464 534,462 590,461 590,503 534,505 479,506 423,507 367,509 311,510" />
+        <Baseline points="311,506 367,505 423,503 479,502 534,501 590,499" />
+        <TextEquiv>
+          <Unicode>NEGOTIATORIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="377,525 408,524 439,523 470,523 501,522 532,522 532,560 501,561 470,561 439,562 408,563 377,564" />
+        <Baseline points="377,560 408,559 439,558 470,557 501,557 532,556" />
+        <TextEquiv>
+          <Unicode>FERRARIIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="298,585 361,587 424,590 487,592 550,594 614,596 614,645 550,643 487,641 424,639 361,636 298,634" />
+        <Baseline points="298,617 361,619 424,621 487,623 550,626 614,628" />
+        <TextEquiv>
+          <Unicode>FAVSTVS L IIIIIIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="306,640 367,640 427,641 488,641 548,642 609,642 609,681 548,681 488,681 427,680 367,680 306,679" />
+        <Baseline points="306,670 367,671 427,671 488,672 548,672 609,673" />
+        <TextEquiv>
+          <Unicode>IN F P XVI IN A P XVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

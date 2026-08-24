@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00471.jpg" imageWidth="900" imageHeight="975">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,975 0,975" />
+      <TextLine id="r1l1">
+        <Coords points="86,283 98,284 111,285 123,286 136,287 148,288 148,320 136,319 123,318 111,317 98,316 86,315" />
+        <Baseline points="86,309 98,310 111,311 123,312 136,313 148,314" />
+        <TextEquiv>
+          <Unicode>SOLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="86,327 97,328 108,328 119,329 130,330 141,331 141,361 130,360 119,359 108,358 97,357 86,357" />
+        <Baseline points="86,351 97,352 108,353 119,354 130,355 141,355" />
+        <TextEquiv>
+          <Unicode>DEO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="85,367 107,368 129,370 151,371 172,373 194,374 194,403 172,401 151,400 129,399 107,397 85,396" />
+        <Baseline points="85,391 107,392 129,393 151,395 172,396 194,397" />
+        <TextEquiv>
+          <Unicode>INVICTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="85,404 105,405 125,407 145,408 165,409 185,410 185,436 165,435 145,434 125,433 105,431 85,430" />
+        <Baseline points="85,426 105,427 125,428 145,429 165,430 185,432" />
+        <TextEquiv>
+          <Unicode>MITHRAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="85,437 102,438 119,438 137,439 154,439 171,440 171,465 154,464 137,464 119,463 102,463 85,463" />
+        <Baseline points="85,459 102,460 119,460 137,461 154,461 171,462" />
+        <TextEquiv>
+          <Unicode>SACRVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="85,467 108,467 132,467 155,467 178,467 202,467 202,495 178,495 155,495 132,495 108,496 85,496" />
+        <Baseline points="85,492 108,492 132,492 155,492 178,492 202,492" />
+        <TextEquiv>
+          <Unicode>M VALERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="85,503 108,504 131,505 155,506 178,507 202,508 202,528 178,527 155,526 131,525 108,524 85,523" />
+        <Baseline points="85,521 108,522 131,523 155,524 178,525 202,526" />
+        <TextEquiv>
+          <Unicode>MAXIMIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="84,529 98,529 111,529 125,529 138,529 152,529 152,551 138,551 125,551 111,550 98,550 84,550" />
+        <Baseline points="84,548 98,548 111,548 125,548 138,548 152,548" />
+        <TextEquiv>
+          <Unicode>LEG AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="84,556 92,556 100,556 108,556 115,556 123,556 123,575 115,575 108,575 100,575 92,575 84,575" />
+        <Baseline points="84,572 92,572 100,572 108,572 115,572 123,572" />
+        <TextEquiv>
+          <Unicode>PR PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00241.jpg" imageWidth="900" imageHeight="529">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,529 0,529" />
+      <TextLine id="r1l1">
+        <Coords points="398,143 418,142 437,141 456,140 475,139 495,138 495,194 475,195 456,196 437,197 418,198 398,199" />
+        <Baseline points="398,193 418,192 437,191 456,190 475,189 495,188" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="351,217 390,214 430,212 470,210 509,208 549,205 549,259 509,261 470,264 430,266 390,268 351,271" />
+        <Baseline points="351,265 390,262 430,260 470,258 509,256 549,253" />
+        <TextEquiv>
+          <Unicode>BENVCC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="376,287 405,285 433,283 462,280 490,278 519,276 519,327 490,329 462,332 433,334 405,336 376,338" />
+        <Baseline points="376,333 405,331 433,329 462,326 490,324 519,322" />
+        <TextEquiv>
+          <Unicode>AE MES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="408,354 427,354 446,354 465,354 485,354 504,354 504,401 485,401 465,401 446,401 427,401 408,401" />
+        <Baseline points="408,392 427,392 446,392 465,392 485,392 504,392" />
+        <TextEquiv>
+          <Unicode>SICCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

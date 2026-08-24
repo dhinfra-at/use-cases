@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002312_F023655.jpg" imageWidth="800" imageHeight="818">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,817 0,817"/>
+      <TextLine id="r1l1">
+        <Coords points="196,58 601,67 601,144 196,135"/>
+        <Baseline points="196,123 601,132"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="32,113 732,149 732,226 32,190"/>
+        <Baseline points="32,176 732,212"/>
+        <TextEquiv><Unicode>FLAVIA EVHODIA FEC</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="55,186 732,209 732,297 55,274"/>
+        <Baseline points="55,262 732,285"/>
+        <TextEquiv><Unicode>M TESSIO LVCRIONI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="51,268 707,286 707,364 51,346"/>
+        <Baseline points="51,333 707,351"/>
+        <TextEquiv><Unicode>CONIVGI KARISSIMO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="45,338 721,354 721,436 45,420"/>
+        <Baseline points="45,408 721,424"/>
+        <TextEquiv><Unicode>BE M CON QVO VIXIT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="42,412 728,427 728,499 42,484"/>
+        <Baseline points="42,473 728,488"/>
+        <TextEquiv><Unicode>NN XXX SINE DOLO MAL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="45,474 732,494 732,564 45,544"/>
+        <Baseline points="45,532 732,552"/>
+        <TextEquiv><Unicode>QVI VIX NN L LIBERTIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="54,536 739,554 739,630 54,612"/>
+        <Baseline points="54,602 739,620"/>
+        <TextEquiv><Unicode>LIBERTABVSQVE POSTE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="135,602 636,616 636,683 135,669"/>
+        <Baseline points="135,657 636,671"/>
+        <TextEquiv><Unicode>RISQVE EORVM</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

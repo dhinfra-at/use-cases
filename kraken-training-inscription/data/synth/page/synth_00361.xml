@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00361.jpg" imageWidth="900" imageHeight="551">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,551 0,551" />
+      <TextLine id="r1l1">
+        <Coords points="407,53 423,53 439,54 456,55 472,55 488,56 488,107 472,106 456,106 439,105 423,105 407,104" />
+        <Baseline points="407,99 423,99 439,100 456,100 472,101 488,101" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="359,123 390,123 421,123 452,123 483,123 513,124 513,179 483,179 452,179 421,178 390,178 359,178" />
+        <Baseline points="359,173 390,173 421,173 452,173 483,173 513,174" />
+        <TextEquiv>
+          <Unicode>PLACIDA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="294,200 348,204 402,208 455,212 509,217 562,221 562,284 509,280 455,276 402,271 348,267 294,264" />
+        <Baseline points="294,246 348,250 402,254 455,258 509,263 562,267" />
+        <TextEquiv>
+          <Unicode>E SATVR ATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="314,277 359,278 405,279 451,280 496,281 542,281 542,334 496,333 451,332 405,331 359,330 314,329" />
+        <Baseline points="314,324 359,325 405,326 451,327 496,328 542,329" />
+        <TextEquiv>
+          <Unicode>VS EIVSDEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="238,350 307,352 375,353 444,354 512,355 581,356 581,411 512,409 444,408 375,407 307,406 238,404" />
+        <Baseline points="238,399 307,401 375,402 444,403 512,404 581,405" />
+        <TextEquiv>
+          <Unicode>ET THALLVSAE CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="327,430 366,433 405,437 443,440 482,443 521,446 521,505 482,502 443,499 405,496 366,493 327,490" />
+        <Baseline points="327,475 366,478 405,481 443,484 482,487 521,491" />
+        <TextEquiv>
+          <Unicode>TVBERNALI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

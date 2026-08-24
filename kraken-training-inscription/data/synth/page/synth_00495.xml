@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00495.jpg" imageWidth="900" imageHeight="551">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,551 0,551" />
+      <TextLine id="r1l1">
+        <Coords points="99,22 160,23 221,24 282,25 343,26 404,27 404,103 343,102 282,101 221,100 160,99 99,98" />
+        <Baseline points="99,92 160,93 221,94 282,95 343,96 404,97" />
+        <TextEquiv>
+          <Unicode>AVG DEAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="96,128 141,132 186,135 232,138 277,141 323,144 323,210 277,207 232,204 186,201 141,198 96,194" />
+        <Baseline points="96,183 141,187 186,190 232,193 277,196 323,199" />
+        <TextEquiv>
+          <Unicode>SEGETAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="136,222 233,230 331,238 429,246 527,254 625,262 625,335 527,327 429,319 331,311 233,303 136,294" />
+        <Baseline points="136,273 233,281 331,289 429,297 527,305 625,313" />
+        <TextEquiv>
+          <Unicode>MARIVS PRISCINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="132,294 156,294 179,294 202,295 225,295 248,295 248,352 225,352 202,352 179,352 156,352 132,351" />
+        <Baseline points="132,346 156,346 179,346 202,346 225,346 248,347" />
+        <TextEquiv>
+          <Unicode>S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="108,377 195,381 281,385 368,389 454,394 541,399 541,448 454,443 368,438 281,434 195,430 108,426" />
+        <Baseline points="108,420 195,424 281,428 368,433 454,437 541,442" />
+        <TextEquiv>
+          <Unicode>FFICIENDVM CVRAVT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="127,445 186,447 245,450 304,453 363,455 422,458 422,502 363,500 304,497 245,495 186,492 127,489" />
+        <Baseline points="127,485 186,488 245,490 304,493 363,495 422,498" />
+        <TextEquiv>
+          <Unicode>ARIA SACRA FIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

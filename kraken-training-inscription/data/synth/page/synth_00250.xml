@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00250.jpg" imageWidth="900" imageHeight="1016">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1016 0,1016" />
+      <TextLine id="r1l1">
+        <Coords points="313,260 358,264 403,268 447,272 492,276 537,280 537,347 492,342 447,338 403,334 358,330 313,326" />
+        <Baseline points="313,309 358,313 403,317 447,321 492,325 537,329" />
+        <TextEquiv>
+          <Unicode>HARMODI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="217,324 291,328 365,331 439,334 513,337 587,340 587,393 513,390 439,387 365,384 291,380 217,377" />
+        <Baseline points="217,372 291,375 365,378 439,381 513,384 587,387" />
+        <TextEquiv>
+          <Unicode>ICI COH X PR QVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="111,395 219,404 327,414 435,424 543,433 652,443 652,517 543,507 435,498 327,488 219,478 111,469" />
+        <Baseline points="111,439 219,448 327,458 435,468 543,477 652,486" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS LV M NAEVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="107,464 224,467 340,471 457,475 574,480 690,485 690,524 574,519 457,515 340,510 224,506 107,503" />
+        <Baseline points="107,499 224,502 340,506 457,511 574,515 690,520" />
+        <TextEquiv>
+          <Unicode>NAEVIANVS ET NAEVIA HARMODIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="212,523 301,524 389,525 477,526 565,527 653,527 653,582 565,581 477,581 389,580 301,579 212,578" />
+        <Baseline points="212,574 301,575 389,575 477,576 565,577 653,578" />
+        <TextEquiv>
+          <Unicode>TRI PIENTISSIMO ET NAEVIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="321,616 389,620 457,625 525,630 593,636 661,642 661,694 593,688 525,682 457,677 389,672 321,667" />
+        <Baseline points="321,651 389,656 457,661 525,666 593,672 661,678" />
+        <TextEquiv>
+          <Unicode>B ET CONIVX DE SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="434,688 454,690 474,691 494,692 514,694 535,695 535,738 514,737 494,735 474,734 454,732 434,731" />
+        <Baseline points="434,724 454,725 474,727 494,728 514,729 535,731" />
+        <TextEquiv>
+          <Unicode>VIS LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

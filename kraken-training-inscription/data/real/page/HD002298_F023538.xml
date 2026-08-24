@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002298_F023538.jpg" imageWidth="800" imageHeight="645">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,644 0,644"/>
+      <TextLine id="r1l1">
+        <Coords points="114,48 707,67 707,213 114,194"/>
+        <Baseline points="114,171 707,190"/>
+        <TextEquiv><Unicode>DIS MANIBVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="98,182 722,191 722,334 98,325"/>
+        <Baseline points="98,305 722,314"/>
+        <TextEquiv><Unicode>Q GRANIO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="76,305 719,325 719,447 76,427"/>
+        <Baseline points="76,411 719,431"/>
+        <TextEquiv><Unicode>AMIANTHO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="84,401 730,416 730,542 84,527"/>
+        <Baseline points="84,504 730,519"/>
+        <TextEquiv><Unicode>FECER FILI DVO ET VXOR</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

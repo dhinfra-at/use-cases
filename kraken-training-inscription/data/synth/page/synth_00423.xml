@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00423.jpg" imageWidth="900" imageHeight="654">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,654 0,654" />
+      <TextLine id="r1l1">
+        <Coords points="160,75 269,76 377,77 486,77 595,75 703,73 703,141 595,144 486,146 377,146 269,145 160,144" />
+        <Baseline points="160,135 269,136 377,137 486,137 595,135 703,132" />
+        <TextEquiv>
+          <Unicode>M VALERIO M F M N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="161,162 269,167 378,173 487,178 595,183 704,188 704,273 595,268 487,263 378,258 269,253 161,247" />
+        <Baseline points="161,216 269,221 378,227 487,232 595,237 704,242" />
+        <TextEquiv>
+          <Unicode>Q PRO GAL PVLLINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="165,221 270,218 375,215 481,212 586,208 691,204 691,286 586,290 481,293 375,297 270,300 165,303" />
+        <Baseline points="165,295 270,292 375,289 481,285 586,282 691,278" />
+        <TextEquiv>
+          <Unicode>IIVIR LEG PERPETVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="234,321 317,325 399,330 482,334 565,338 647,341 647,420 565,417 482,413 399,409 317,405 234,400" />
+        <Baseline points="234,374 317,378 399,383 482,387 565,391 647,394" />
+        <TextEquiv>
+          <Unicode>MVNIC PONTIF</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="214,382 305,379 396,376 487,372 578,369 669,366 669,445 578,448 487,451 396,455 305,458 214,461" />
+        <Baseline points="214,453 305,450 396,447 487,444 578,440 669,437" />
+        <TextEquiv>
+          <Unicode>PRAEF FABR FLAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="240,463 322,460 404,458 486,455 568,452 651,450 651,524 568,527 486,529 404,532 322,534 240,537" />
+        <Baseline points="240,529 322,527 404,524 486,522 568,519 651,516" />
+        <TextEquiv>
+          <Unicode>PONTIF AVG MV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="183,546 287,544 391,543 495,542 599,541 703,540 703,607 599,609 495,610 391,611 287,612 183,613" />
+        <Baseline points="183,605 287,604 391,603 495,602 599,601 703,600" />
+        <TextEquiv>
+          <Unicode>NICIPES ET INCOLAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

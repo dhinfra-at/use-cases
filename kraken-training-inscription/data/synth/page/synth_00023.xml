@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00023.jpg" imageWidth="900" imageHeight="414">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,414 0,414" />
+      <TextLine id="r1l1">
+        <Coords points="101,157 111,158 121,158 131,159 140,160 150,160 150,210 140,209 131,209 121,208 111,207 101,207" />
+        <Baseline points="101,200 111,200 121,201 131,202 140,202 150,203" />
+        <TextEquiv>
+          <Unicode>PS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="100,220 143,223 186,226 228,229 271,232 314,235 314,281 271,278 228,275 186,272 143,269 100,266" />
+        <Baseline points="100,253 143,256 186,259 228,262 271,265 314,268" />
+        <TextEquiv>
+          <Unicode>TORANI CA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

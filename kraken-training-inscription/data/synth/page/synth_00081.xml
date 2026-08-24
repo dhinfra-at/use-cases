@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00081.jpg" imageWidth="900" imageHeight="613">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,613 0,613" />
+      <TextLine id="r1l1">
+        <Coords points="104,151 155,148 205,146 255,143 305,141 355,138 355,196 305,199 255,201 205,204 155,206 104,209" />
+        <Baseline points="104,202 155,199 205,197 255,194 305,192 355,189" />
+        <TextEquiv>
+          <Unicode>C ANTONIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="106,231 140,230 174,229 209,228 243,226 277,225 277,276 243,277 209,279 174,280 140,281 106,282" />
+        <Baseline points="106,275 140,274 174,273 209,272 243,270 277,269" />
+        <TextEquiv>
+          <Unicode>SENTINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="107,301 150,299 193,296 236,294 280,292 323,290 323,340 280,342 236,344 193,346 150,349 107,351" />
+        <Baseline points="107,345 150,343 193,340 236,338 280,336 323,334" />
+        <TextEquiv>
+          <Unicode>VET LEG XIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="108,368 143,368 178,368 213,368 249,368 284,368 284,417 249,417 213,417 178,417 143,417 108,417" />
+        <Baseline points="108,404 143,404 178,404 213,404 249,404 284,404" />
+        <TextEquiv>
+          <Unicode>G M V AN L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="109,426 124,425 138,424 153,422 167,421 181,420 181,462 167,463 153,464 138,465 124,467 109,468" />
+        <Baseline points="109,463 124,462 138,461 153,459 167,458 181,457" />
+        <TextEquiv>
+          <Unicode>H F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="110,483 119,483 129,483 138,483 147,483 156,483 156,518 147,518 138,518 129,518 119,518 110,518" />
+        <Baseline points="110,512 119,512 129,512 138,512 147,512 156,512" />
+        <TextEquiv>
+          <Unicode>H C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

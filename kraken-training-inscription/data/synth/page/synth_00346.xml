@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00346.jpg" imageWidth="900" imageHeight="435">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,435 0,435" />
+      <TextLine id="r1l1">
+        <Coords points="395,88 415,88 435,89 455,90 476,90 496,91 496,150 476,150 455,149 435,149 415,148 395,148" />
+        <Baseline points="395,137 415,137 435,138 455,139 476,139 496,140" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="310,162 365,164 421,165 476,167 532,169 588,170 588,238 532,236 476,234 421,233 365,231 310,230" />
+        <Baseline points="310,210 365,212 421,213 476,215 532,217 588,218" />
+        <TextEquiv>
+          <Unicode>AMMA POS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="286,229 352,227 419,225 486,222 552,218 619,214 619,275 552,279 486,283 419,286 352,289 286,290" />
+        <Baseline points="286,285 352,283 419,281 486,278 552,274 619,270" />
+        <TextEquiv>
+          <Unicode>FELICIONI CON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="371,304 406,304 440,304 475,304 510,304 544,305 544,363 510,362 475,362 440,362 406,362 371,362" />
+        <Baseline points="371,352 406,352 440,352 475,352 510,352 544,353" />
+        <TextEquiv>
+          <Unicode>I N C AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

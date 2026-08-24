@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00182.jpg" imageWidth="900" imageHeight="861">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,861 0,861" />
+      <TextLine id="r1l1">
+        <Coords points="203,320 297,317 391,313 486,310 580,306 674,302 674,355 580,359 486,363 391,366 297,370 203,373" />
+        <Baseline points="203,367 297,364 391,360 486,357 580,353 674,349" />
+        <TextEquiv>
+          <Unicode>C SEMPRONIVS C F DEIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="175,385 283,384 391,383 499,383 607,384 715,385 715,439 607,439 499,438 391,438 283,438 175,439" />
+        <Baseline points="175,421 283,420 391,420 499,420 607,421 715,422" />
+        <TextEquiv>
+          <Unicode>ET C SEMPRONIVS FLORVS L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="183,437 287,434 391,432 495,430 599,427 704,425 704,465 599,468 495,470 391,472 287,475 183,478" />
+        <Baseline points="183,472 287,470 391,467 495,465 599,463 704,460" />
+        <TextEquiv>
+          <Unicode>V F SIBI ET SEMPRONIAE AM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="227,480 313,476 400,473 486,469 573,465 660,462 660,507 573,511 486,514 400,518 313,522 227,526" />
+        <Baseline points="227,521 313,517 400,513 486,509 573,506 660,502" />
+        <TextEquiv>
+          <Unicode>MIAE MATRI SEMPRONIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="259,522 334,517 409,513 484,510 559,506 634,502 634,547 559,551 484,555 409,558 334,562 259,567" />
+        <Baseline points="259,562 334,558 409,554 484,550 559,547 634,543" />
+        <TextEquiv>
+          <Unicode>FLORAE SORORI SEMPRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="260,567 335,563 409,559 484,556 558,552 632,548 632,591 558,595 484,599 409,602 335,606 260,610" />
+        <Baseline points="260,606 335,602 409,598 484,594 558,590 632,587" />
+        <TextEquiv>
+          <Unicode>NIAE PIETATI SEMPRONIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="391,616 415,617 440,617 465,618 490,619 515,619 515,653 490,653 465,652 440,652 415,651 391,650" />
+        <Baseline points="391,641 415,641 440,642 465,643 490,643 515,644" />
+        <TextEquiv>
+          <Unicode>IONICAE L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="342,643 386,640 430,638 473,635 517,632 561,629 561,665 517,668 473,671 430,674 386,676 342,679" />
+        <Baseline points="342,676 386,673 430,670 473,667 517,664 561,661" />
+        <TextEquiv>
+          <Unicode>IN F P XXIV IN A P XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

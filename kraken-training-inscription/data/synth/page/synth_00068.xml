@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00068.jpg" imageWidth="900" imageHeight="411">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,411 0,411" />
+      <TextLine id="r1l1">
+        <Coords points="118,57 166,61 214,64 262,68 310,72 358,76 358,134 310,130 262,127 214,123 166,119 118,115" />
+        <Baseline points="118,99 166,102 214,106 262,110 310,114 358,118" />
+        <TextEquiv>
+          <Unicode>ASTINAMI BA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="116,122 153,124 191,126 229,128 266,130 304,132 304,172 266,170 229,168 191,166 153,164 116,162" />
+        <Baseline points="116,155 153,157 191,159 229,160 266,162 304,164" />
+        <TextEquiv>
+          <Unicode>SSI F VIXIT AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="114,174 134,175 155,176 175,177 195,178 215,179 215,208 195,207 175,206 155,205 134,204 114,203" />
+        <Baseline points="114,197 134,198 155,199 175,201 195,202 215,203" />
+        <TextEquiv>
+          <Unicode>IS XXX H S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

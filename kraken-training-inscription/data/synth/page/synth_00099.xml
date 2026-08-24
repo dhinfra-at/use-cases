@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00099.jpg" imageWidth="900" imageHeight="522">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,522 0,522" />
+      <TextLine id="r1l1">
+        <Coords points="355,64 397,62 439,61 481,59 524,58 566,56 566,113 524,115 481,117 439,118 397,120 355,121" />
+        <Baseline points="355,115 397,114 439,112 481,111 524,109 566,107" />
+        <TextEquiv>
+          <Unicode>VNDINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="388,142 411,140 434,138 457,137 480,135 503,134 503,191 480,193 457,194 434,196 411,198 388,199" />
+        <Baseline points="388,194 411,192 434,190 457,189 480,187 503,186" />
+        <TextEquiv>
+          <Unicode>AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="337,230 382,229 427,229 473,228 518,227 563,227 563,280 518,281 473,282 427,282 382,283 337,284" />
+        <Baseline points="337,274 382,273 427,273 473,272 518,271 563,271" />
+        <TextEquiv>
+          <Unicode>T FLAVIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="355,298 392,296 430,294 468,292 506,290 544,287 544,336 506,338 468,341 430,343 392,345 355,347" />
+        <Baseline points="355,342 392,340 430,338 468,336 506,334 544,331" />
+        <TextEquiv>
+          <Unicode>CLEMENS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="330,363 382,360 433,356 484,353 535,349 586,346 586,396 535,399 484,403 433,406 382,410 330,413" />
+        <Baseline points="330,409 382,405 433,402 484,398 535,395 586,391" />
+        <TextEquiv>
+          <Unicode>VET LEG I A P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="386,428 416,427 446,425 475,424 505,423 535,421 535,460 505,461 475,463 446,464 416,466 386,467" />
+        <Baseline points="386,463 416,462 446,460 475,459 505,457 535,456" />
+        <TextEquiv>
+          <Unicode>EX IVSSV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

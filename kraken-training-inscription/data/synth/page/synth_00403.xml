@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00403.jpg" imageWidth="900" imageHeight="447">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,447 0,447" />
+      <TextLine id="r1l1">
+        <Coords points="274,128 342,128 410,128 478,128 546,128 614,128 614,170 546,170 478,170 410,170 342,170 274,170" />
+        <Baseline points="274,166 342,166 410,166 478,166 546,166 614,166" />
+        <TextEquiv>
+          <Unicode>C CRISPI GENIALIS DI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="232,196 318,198 403,201 489,204 574,208 660,211 660,255 574,252 489,249 403,246 318,243 232,240" />
+        <Baseline points="232,228 318,231 403,234 489,237 574,240 660,243" />
+        <TextEquiv>
+          <Unicode>ABSORI SIC AD CLARITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="294,261 355,263 416,264 477,266 538,267 599,269 599,308 538,306 477,305 416,303 355,302 294,300" />
+        <Baseline points="294,294 355,295 416,297 477,298 538,300 599,301" />
+        <TextEquiv>
+          <Unicode>C CRISPI GENIALIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="272,316 340,315 408,315 476,315 544,315 612,314 612,357 544,358 476,358 408,358 340,358 272,358" />
+        <Baseline points="272,354 340,354 408,354 476,354 544,354 612,353" />
+        <TextEquiv>
+          <Unicode>CHELIDON AD CALIG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

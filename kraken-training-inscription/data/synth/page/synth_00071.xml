@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00071.jpg" imageWidth="900" imageHeight="500">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,500 0,500" />
+      <TextLine id="r1l1">
+        <Coords points="137,95 241,97 346,99 450,100 554,100 658,99 658,168 554,169 450,169 346,168 241,166 137,164" />
+        <Baseline points="137,150 241,152 346,154 450,155 554,155 658,155" />
+        <TextEquiv>
+          <Unicode>HIC REQVIESCIT IN PACE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="147,178 246,178 345,179 443,181 542,183 640,184 640,250 542,249 443,247 345,245 246,244 147,244" />
+        <Baseline points="147,229 246,229 345,230 443,232 542,234 640,235" />
+        <TextEquiv>
+          <Unicode>BONAE MEMORIAE RVDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="132,257 236,262 340,266 443,270 547,273 651,276 651,344 547,341 443,338 340,334 236,330 132,325" />
+        <Baseline points="132,298 236,303 340,307 443,310 547,314 651,317" />
+        <TextEquiv>
+          <Unicode>HILDE QVI SIC VIXIT ANNOS XLI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="236,325 306,325 376,326 446,326 516,325 586,325 586,372 516,372 446,373 376,372 306,372 236,372" />
+        <Baseline points="236,365 306,365 376,365 446,365 516,365 586,365" />
+        <TextEquiv>
+          <Unicode>OBIIT IN PACE XVI KA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="382,383 402,384 422,385 442,385 462,386 483,386 483,430 462,429 442,429 422,428 402,427 382,427" />
+        <Baseline points="382,419 402,420 422,420 442,421 462,422 483,422" />
+        <TextEquiv>
+          <Unicode>LENDAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

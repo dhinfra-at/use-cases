@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00371.jpg" imageWidth="900" imageHeight="528">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,528 0,528" />
+      <TextLine id="r1l1">
+        <Coords points="134,72 261,75 387,78 514,81 641,85 767,88 767,165 641,162 514,159 387,156 261,152 134,149" />
+        <Baseline points="134,111 261,115 387,118 514,121 641,124 767,128" />
+        <TextEquiv>
+          <Unicode>TI CLAVDIVS DRVSI F CAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="138,158 259,156 379,154 500,151 621,148 742,145 742,201 621,204 500,207 379,210 259,212 138,214" />
+        <Baseline points="138,205 259,203 379,201 500,198 621,195 742,192" />
+        <TextEquiv>
+          <Unicode>SAR AVG GERMANICVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="141,242 263,243 385,245 506,246 628,248 750,249 750,332 628,331 506,329 385,328 263,327 141,325" />
+        <Baseline points="141,295 263,296 385,298 506,299 628,301 750,302" />
+        <TextEquiv>
+          <Unicode>PONT MAX TR POT II</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="144,324 265,328 387,331 508,334 630,337 751,340 751,423 630,420 508,417 387,414 265,411 144,408" />
+        <Baseline points="144,370 265,374 387,377 508,380 630,383 751,386" />
+        <TextEquiv>
+          <Unicode>COS DESIG III IMP III P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="363,401 401,400 438,400 476,399 513,399 551,398 551,460 513,461 476,461 438,461 401,462 363,462" />
+        <Baseline points="363,453 401,452 438,452 476,451 513,451 551,450" />
+        <TextEquiv>
+          <Unicode>DEDIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00237.jpg" imageWidth="900" imageHeight="358">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,358 0,358" />
+      <TextLine id="r1l1">
+        <Coords points="178,106 284,104 390,104 496,104 601,104 707,103 707,163 601,163 496,163 390,163 284,164 178,165" />
+        <Baseline points="178,145 284,144 390,144 496,144 601,143 707,143" />
+        <TextEquiv>
+          <Unicode>IMP DVOR AVG ANTONINI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="188,152 291,144 395,136 498,128 602,120 705,112 705,178 602,186 498,194 395,202 291,210 188,218" />
+        <Baseline points="188,213 291,205 395,197 498,189 602,181 705,173" />
+        <TextEquiv>
+          <Unicode>ET VERI ARMENIACORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00231.jpg" imageWidth="900" imageHeight="838">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,838 0,838" />
+      <TextLine id="r1l1">
+        <Coords points="324,112 373,112 421,112 470,111 519,111 568,111 568,155 519,155 470,156 421,156 373,156 324,156" />
+        <Baseline points="324,151 373,151 421,150 470,150 519,150 568,150" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="309,167 363,165 417,162 470,159 524,156 578,153 578,208 524,211 470,214 417,216 363,219 309,222" />
+        <Baseline points="309,218 363,215 417,212 470,209 524,207 578,204" />
+        <TextEquiv>
+          <Unicode>COC ELIVS POS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="328,234 375,231 423,228 470,226 517,223 565,220 565,275 517,278 470,280 423,283 375,286 328,288" />
+        <Baseline points="328,284 375,281 423,279 470,276 517,273 565,270" />
+        <TextEquiv>
+          <Unicode>VIVO SVO SIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="299,306 358,304 417,302 476,300 535,298 594,296 594,347 535,349 476,351 417,353 358,355 299,357" />
+        <Baseline points="299,352 358,351 417,349 476,347 535,344 594,342" />
+        <TextEquiv>
+          <Unicode>ET TITIE MATRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="325,375 375,374 424,373 473,372 522,372 571,371 571,415 522,415 473,416 424,417 375,418 325,419" />
+        <Baseline points="325,414 375,413 424,412 473,412 522,411 571,410" />
+        <TextEquiv>
+          <Unicode>NE COIVGI SVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="284,431 348,428 411,426 475,424 538,422 602,420 602,470 538,472 475,474 411,476 348,479 284,482" />
+        <Baseline points="284,477 348,474 411,472 475,470 538,468 602,466" />
+        <TextEquiv>
+          <Unicode>BENE MERENTI QV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="299,504 359,505 419,506 480,507 540,509 601,510 601,560 540,559 480,557 419,556 359,555 299,554" />
+        <Baseline points="299,540 359,541 419,543 480,544 540,545 601,547" />
+        <TextEquiv>
+          <Unicode>E VIXIT NN XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="294,568 355,569 416,571 477,572 537,574 598,576 598,628 537,626 477,624 416,623 355,621 294,620" />
+        <Baseline points="294,605 355,606 416,607 477,609 537,611 598,613" />
+        <TextEquiv>
+          <Unicode>OBITA AD VILA SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="277,630 347,632 416,635 486,638 555,641 625,644 625,703 555,700 486,697 416,694 347,691 277,688" />
+        <Baseline points="277,666 347,669 416,672 486,675 555,678 625,681" />
+        <TextEquiv>
+          <Unicode>SVA SIC TITVLVM PO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="417,688 431,687 446,686 460,686 475,685 489,684 489,727 475,728 460,728 446,729 431,730 417,730" />
+        <Baseline points="417,726 431,726 446,725 460,724 475,724 489,723" />
+        <TextEquiv>
+          <Unicode>SVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

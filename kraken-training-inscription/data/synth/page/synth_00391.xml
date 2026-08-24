@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00391.jpg" imageWidth="900" imageHeight="565">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,565 0,565" />
+      <TextLine id="r1l1">
+        <Coords points="132,153 227,155 323,157 419,160 515,162 611,164 611,218 515,215 419,213 323,211 227,209 132,206" />
+        <Baseline points="132,197 227,199 323,201 419,204 515,206 611,208" />
+        <TextEquiv>
+          <Unicode>EVENTIVS PVER ANNORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="125,218 227,222 329,226 431,230 532,234 634,238 634,294 532,291 431,287 329,283 227,278 125,274" />
+        <Baseline points="125,257 227,261 329,265 431,269 532,273 634,277" />
+        <TextEquiv>
+          <Unicode>L M XVIIII RECESSIT KL AVGVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="137,258 235,257 334,257 433,256 531,253 630,250 630,309 531,312 433,314 334,316 235,316 137,316" />
+        <Baseline points="137,311 235,311 334,310 433,309 531,306 630,304" />
+        <TextEquiv>
+          <Unicode>S CONS DD NOS ARCADI HONO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="285,321 334,320 383,318 432,316 481,314 531,312 531,365 481,367 432,369 383,371 334,373 285,374" />
+        <Baseline points="285,369 334,368 383,366 432,364 481,362 531,360" />
+        <TextEquiv>
+          <Unicode>RIV SIC AVGVSTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

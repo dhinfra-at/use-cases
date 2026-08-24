@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00354.jpg" imageWidth="900" imageHeight="587">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,587 0,587" />
+      <TextLine id="r1l1">
+        <Coords points="127,140 253,144 379,147 506,149 632,152 759,155 759,214 632,211 506,208 379,206 253,203 127,199" />
+        <Baseline points="127,184 253,188 379,191 506,193 632,196 759,199" />
+        <TextEquiv>
+          <Unicode>IMP CAES DIVI L SEPTIM PERT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="193,198 294,198 395,197 496,196 598,195 699,195 699,252 598,252 496,253 395,254 294,255 193,255" />
+        <Baseline points="193,249 294,249 395,248 496,247 598,246 699,246" />
+        <TextEquiv>
+          <Unicode>AVG ARAB PARTH MAX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="183,265 286,265 389,266 492,267 596,269 699,270 699,318 596,317 492,315 389,314 286,313 183,313" />
+        <Baseline points="183,307 286,307 389,308 492,309 596,311 699,312" />
+        <TextEquiv>
+          <Unicode>F DIVI M ANTON PII GER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="201,328 300,333 398,338 497,342 595,346 693,350 693,413 595,409 497,405 398,401 300,396 201,391" />
+        <Baseline points="201,368 300,373 398,378 497,382 595,386 693,390" />
+        <TextEquiv>
+          <Unicode>SARM NEP DIVI ANTON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="186,386 286,392 386,397 486,402 586,407 686,412 686,477 586,472 486,466 386,461 286,456 186,451" />
+        <Baseline points="186,424 286,429 386,434 486,440 586,445 686,450" />
+        <TextEquiv>
+          <Unicode>PII PRONEP DIVI HADRIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="256,442 333,444 410,446 487,449 563,453 640,456 640,509 563,506 487,502 410,499 333,497 256,495" />
+        <Baseline points="256,479 333,481 410,483 487,486 563,490 640,493" />
+        <TextEquiv>
+          <Unicode>ABNEP DIVI TRAIANI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>process_batch2.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002090_F001697.jpg" imageWidth="1000" imageHeight="1337">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 999,0 999,1336 0,1336"/>
+      <TextLine id="r1l1">
+        <Coords points="204,57 792,54 792,190 204,193"/>
+        <Baseline points="204,174 792,171"/>
+        <TextEquiv><Unicode>I O M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="117,177 887,179 887,301 117,299"/>
+        <Baseline points="117,278 887,280"/>
+        <TextEquiv><Unicode>IVN REG ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="86,286 878,284 878,413 86,415"/>
+        <Baseline points="86,395 878,393"/>
+        <TextEquiv><Unicode>GEN LOCI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="91,401 890,398 890,524 91,527"/>
+        <Baseline points="91,507 890,504"/>
+        <TextEquiv><Unicode>TITIVS TACI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="93,513 899,510 899,638 93,641"/>
+        <Baseline points="93,619 899,616"/>
+        <TextEquiv><Unicode>TVS MIL LEG</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="81,624 903,623 903,763 81,764"/>
+        <Baseline points="81,742 903,741"/>
+        <TextEquiv><Unicode>III ITAL BF COS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="64,752 781,744 781,884 64,892"/>
+        <Baseline points="64,869 781,861"/>
+        <TextEquiv><Unicode>PRO SE ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="60,874 927,869 927,1016 60,1021"/>
+        <Baseline points="60,996 927,991"/>
+        <TextEquiv><Unicode>SVIS V S L L M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="58,1009 946,993 946,1139 58,1155"/>
+        <Baseline points="58,1142 946,1126"/>
+        <TextEquiv><Unicode>FLAC ET GAL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="332,1108 583,1107 583,1228 332,1229"/>
+        <Baseline points="332,1207 583,1206"/>
+        <TextEquiv><Unicode>COS</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

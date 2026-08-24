@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00244.jpg" imageWidth="900" imageHeight="793">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,793 0,793" />
+      <TextLine id="r1l1">
+        <Coords points="395,152 418,151 442,150 465,150 489,149 512,149 512,202 489,203 465,203 442,204 418,204 395,205" />
+        <Baseline points="395,199 418,199 442,198 465,198 489,197 512,196" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="333,217 377,221 421,224 465,227 509,231 553,234 553,291 509,288 465,285 421,281 377,278 333,275" />
+        <Baseline points="333,258 377,262 421,265 465,268 509,271 553,275" />
+        <TextEquiv>
+          <Unicode>MODIA SA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="353,276 389,278 424,281 460,283 495,286 531,289 531,343 495,340 460,337 424,335 389,332 353,330" />
+        <Baseline points="353,316 389,318 424,321 460,323 495,326 531,329" />
+        <TextEquiv>
+          <Unicode>TVRNINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="292,325 347,325 403,324 459,323 515,322 571,321 571,377 515,378 459,379 403,380 347,381 292,381" />
+        <Baseline points="292,376 347,376 403,375 459,374 515,373 571,372" />
+        <TextEquiv>
+          <Unicode>INITIATA NOV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="283,384 342,383 401,383 461,383 520,383 580,384 580,436 520,435 461,435 401,435 342,435 283,436" />
+        <Baseline points="283,431 342,430 401,430 461,430 520,430 580,430" />
+        <TextEquiv>
+          <Unicode>A VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="242,440 314,440 387,439 460,439 532,438 605,438 605,493 532,493 460,494 387,494 314,495 242,495" />
+        <Baseline points="242,490 314,490 387,489 460,489 532,488 605,488" />
+        <TextEquiv>
+          <Unicode>XXXV ARA PAREN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="327,508 368,510 408,511 449,513 489,515 530,517 530,564 489,562 449,560 408,559 368,557 327,555" />
+        <Baseline points="327,546 368,547 408,549 449,551 489,553 530,555" />
+        <TextEquiv>
+          <Unicode>TIBVS SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

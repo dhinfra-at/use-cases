@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00177.jpg" imageWidth="900" imageHeight="489">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,489 0,489" />
+      <TextLine id="r1l1">
+        <Coords points="396,133 417,134 439,134 460,135 482,135 503,136 503,186 482,185 460,184 439,184 417,183 396,183" />
+        <Baseline points="396,173 417,173 439,174 460,174 482,175 503,176" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="319,182 371,179 422,176 474,173 525,170 577,167 577,225 525,228 474,231 422,234 371,237 319,240" />
+        <Baseline points="319,234 371,231 422,228 474,225 525,222 577,219" />
+        <TextEquiv>
+          <Unicode>P AELIVS SABI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="322,252 373,252 424,252 475,251 526,252 577,252 577,300 526,300 475,300 424,300 373,300 322,301" />
+        <Baseline points="322,292 373,292 424,291 475,291 526,291 577,292" />
+        <TextEquiv>
+          <Unicode>NIANVS VIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="283,312 349,312 416,313 482,314 548,314 614,315 614,369 548,368 482,367 416,367 349,366 283,365" />
+        <Baseline points="283,351 349,352 416,353 482,353 548,354 614,355" />
+        <TextEquiv>
+          <Unicode>IT ANIS LXXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

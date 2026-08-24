@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00266.jpg" imageWidth="900" imageHeight="612">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,612 0,612" />
+      <TextLine id="r1l1">
+        <Coords points="423,209 436,209 448,209 461,209 473,209 486,210 486,245 473,245 461,245 448,245 436,244 423,244" />
+        <Baseline points="423,241 436,241 448,241 461,241 473,241 486,241" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="410,259 426,260 443,260 459,261 476,262 492,262 492,293 476,292 459,292 443,291 426,290 410,290" />
+        <Baseline points="410,287 426,287 443,288 459,288 476,289 492,290" />
+        <TextEquiv>
+          <Unicode>C SITTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="417,301 429,300 442,300 455,300 467,300 480,300 480,330 467,330 455,331 442,331 429,331 417,331" />
+        <Baseline points="417,328 429,328 442,328 455,328 467,328 480,327" />
+        <TextEquiv>
+          <Unicode>CASSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="397,343 415,343 434,344 453,344 472,345 490,345 490,372 472,371 453,371 434,370 415,370 397,369" />
+        <Baseline points="397,367 415,367 434,368 453,368 472,368 490,369" />
+        <TextEquiv>
+          <Unicode>DIONYSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="405,379 420,379 436,380 451,380 466,381 482,381 482,404 466,403 451,403 436,402 420,402 405,401" />
+        <Baseline points="405,399 420,399 436,400 451,400 466,401 482,401" />
+        <TextEquiv>
+          <Unicode>HEREDES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="423,412 430,412 438,413 445,414 453,414 460,415 460,436 453,435 445,435 438,434 430,433 423,433" />
+        <Baseline points="423,429 430,430 438,430 445,431 453,432 460,432" />
+        <TextEquiv>
+          <Unicode>EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

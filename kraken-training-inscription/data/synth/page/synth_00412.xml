@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00412.jpg" imageWidth="900" imageHeight="439">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,439 0,439" />
+      <TextLine id="r1l1">
+        <Coords points="421,139 432,139 442,139 453,139 463,139 474,139 474,173 463,173 453,172 442,172 432,172 421,172" />
+        <Baseline points="421,167 432,168 442,168 453,168 463,168 474,168" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="275,171 342,167 410,164 478,160 545,157 613,153 613,197 545,201 478,204 410,208 342,211 275,215" />
+        <Baseline points="275,212 342,208 410,205 478,201 545,197 613,194" />
+        <TextEquiv>
+          <Unicode>M TILLIVS CELERIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="302,226 360,226 419,225 477,225 535,224 594,224 594,255 535,255 477,255 419,256 360,256 302,257" />
+        <Baseline points="302,252 360,251 419,251 477,250 535,250 594,249" />
+        <TextEquiv>
+          <Unicode>VIXIT NN XIIII TILLIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="306,268 360,270 414,272 468,274 522,276 576,278 576,319 522,317 468,315 414,313 360,311 306,309" />
+        <Baseline points="306,292 360,294 414,296 468,298 522,300 576,302" />
+        <TextEquiv>
+          <Unicode>PHILOMENE FIL PIISSIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

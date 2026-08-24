@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00175.jpg" imageWidth="900" imageHeight="508">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,508 0,508" />
+      <TextLine id="r1l1">
+        <Coords points="108,180 228,185 348,191 467,197 587,204 707,210 707,277 587,272 467,265 348,258 228,253 108,248" />
+        <Baseline points="108,212 228,216 348,222 467,229 587,236 707,241" />
+        <TextEquiv>
+          <Unicode>P CONFVLEIVS P M L SABBIO SAGARIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="108,233 228,232 348,233 468,233 588,234 708,234 708,268 588,268 468,268 348,267 228,267 108,268" />
+        <Baseline points="108,261 228,260 348,260 468,261 588,261 708,261" />
+        <TextEquiv>
+          <Unicode>DOMVM HANC AB SOLO VSQVE AD SVMMVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="159,279 263,283 367,286 470,289 574,291 678,294 678,340 574,337 470,334 367,331 263,328 159,324" />
+        <Baseline points="159,304 263,307 367,310 470,313 574,316 678,319" />
+        <TextEquiv>
+          <Unicode>FECIT ARCITECTO T SAFINIO T F FAL POLLIONE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

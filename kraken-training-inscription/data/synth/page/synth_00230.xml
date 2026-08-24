@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00230.jpg" imageWidth="900" imageHeight="721">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,721 0,721" />
+      <TextLine id="r1l1">
+        <Coords points="318,87 372,86 426,84 480,82 534,80 588,78 588,135 534,138 480,140 426,141 372,143 318,144" />
+        <Baseline points="318,137 372,136 426,134 480,132 534,130 588,128" />
+        <TextEquiv>
+          <Unicode>L AEMILIO L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="359,154 397,152 434,150 471,148 508,146 545,144 545,201 508,203 471,205 434,207 397,209 359,211" />
+        <Baseline points="359,204 397,202 434,200 471,198 508,196 545,194" />
+        <TextEquiv>
+          <Unicode>FIL QVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="307,224 364,222 421,220 478,218 535,216 592,215 592,267 535,269 478,271 421,273 364,274 307,276" />
+        <Baseline points="307,270 364,268 421,266 478,264 535,263 592,261" />
+        <TextEquiv>
+          <Unicode>PROBO AQVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="293,294 355,296 418,297 480,297 543,298 605,299 605,357 543,356 480,356 418,355 355,354 293,353" />
+        <Baseline points="293,336 355,337 418,338 480,339 543,340 605,341" />
+        <TextEquiv>
+          <Unicode>CALD NN XXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="327,357 374,359 421,360 468,362 515,363 563,364 563,424 515,423 468,422 421,420 374,418 327,417" />
+        <Baseline points="327,399 374,400 421,402 468,403 515,405 563,406" />
+        <TextEquiv>
+          <Unicode>II AED IIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="330,419 377,419 424,419 471,418 518,418 565,418 565,467 518,468 471,468 424,468 377,469 330,469" />
+        <Baseline points="330,460 377,460 424,459 471,459 518,459 565,459" />
+        <TextEquiv>
+          <Unicode>L AEMILIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="381,479 418,478 455,478 492,477 529,477 566,476 566,524 529,524 492,524 455,525 418,525 381,526" />
+        <Baseline points="381,518 418,518 455,517 492,517 529,517 566,516" />
+        <TextEquiv>
+          <Unicode>LATVS ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00013.jpg" imageWidth="900" imageHeight="525">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,525 0,525" />
+      <TextLine id="r1l1">
+        <Coords points="352,104 390,106 427,109 465,111 502,113 539,115 539,163 502,161 465,159 427,156 390,154 352,151" />
+        <Baseline points="352,136 390,138 427,140 465,143 502,145 539,147" />
+        <TextEquiv>
+          <Unicode>AD POD LVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="308,138 363,135 419,133 474,130 529,128 584,125 584,173 529,176 474,179 419,181 363,184 308,186" />
+        <Baseline points="308,182 363,179 419,177 474,174 529,172 584,169" />
+        <TextEquiv>
+          <Unicode>LAT P III M P III S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="282,195 348,197 414,199 479,201 545,202 611,204 611,246 545,245 479,243 414,241 348,239 282,238" />
+        <Baseline points="282,225 348,227 414,229 479,230 545,232 611,234" />
+        <TextEquiv>
+          <Unicode>SVBSTERN BVS XVI S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="337,239 382,240 427,241 472,243 516,244 561,245 561,283 516,282 472,281 427,280 382,279 337,278" />
+        <Baseline points="337,268 382,269 427,270 472,271 516,272 561,273" />
+        <TextEquiv>
+          <Unicode>ALT P II SEPT P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="441,282 444,282 448,282 451,282 455,282 458,282 458,314 455,314 451,314 448,314 444,314 441,314" />
+        <Baseline points="441,310 444,310 448,310 451,310 455,310 458,310" />
+        <TextEquiv>
+          <Unicode>II</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

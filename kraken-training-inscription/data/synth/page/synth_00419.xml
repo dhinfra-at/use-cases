@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00419.jpg" imageWidth="900" imageHeight="518">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,518 0,518" />
+      <TextLine id="r1l1">
+        <Coords points="406,102 425,101 444,101 463,101 482,100 501,100 501,162 482,162 463,162 444,163 425,163 406,164" />
+        <Baseline points="406,156 425,156 444,155 463,155 482,154 501,154" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="287,170 351,171 415,173 479,174 543,175 606,177 606,237 543,236 479,234 415,233 351,232 287,231" />
+        <Baseline points="287,224 351,225 415,226 479,227 543,229 606,230" />
+        <TextEquiv>
+          <Unicode>SODALICIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="108,242 238,251 368,260 497,268 627,276 757,284 757,354 627,347 497,339 368,330 238,321 108,312" />
+        <Baseline points="108,287 238,296 368,305 497,313 627,321 757,329" />
+        <TextEquiv>
+          <Unicode>APOLLINENSIS SATTIANENSIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="195,306 294,308 393,310 493,312 592,313 691,315 691,377 592,375 493,374 393,372 294,370 195,368" />
+        <Baseline points="195,361 294,363 393,365 493,366 592,368 691,370" />
+        <TextEquiv>
+          <Unicode>LOC DAT A G RVFIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="243,383 320,385 398,388 475,390 552,393 630,396 630,450 552,447 475,444 398,442 320,439 243,437" />
+        <Baseline points="243,430 320,432 398,435 475,437 552,440 630,442" />
+        <TextEquiv>
+          <Unicode>BASSO PATRONO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

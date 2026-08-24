@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00314.jpg" imageWidth="900" imageHeight="1045">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1045 0,1045" />
+      <TextLine id="r1l1">
+        <Coords points="304,141 355,141 406,141 457,141 508,141 559,141 559,201 508,201 457,201 406,201 355,201 304,201" />
+        <Baseline points="304,194 355,193 406,193 457,193 508,193 559,193" />
+        <TextEquiv>
+          <Unicode>HONOREM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="218,226 288,229 358,231 428,234 498,237 568,241 568,313 498,309 428,306 358,303 288,301 218,298" />
+        <Baseline points="218,276 288,279 358,281 428,284 498,287 568,291" />
+        <TextEquiv>
+          <Unicode>DOMVS DIVINAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="195,301 274,302 353,302 432,300 511,297 590,294 590,358 511,360 432,363 353,365 274,365 195,364" />
+        <Baseline points="195,356 274,357 353,356 432,354 511,352 590,349" />
+        <TextEquiv>
+          <Unicode>ET PAGI CARNVTE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="200,383 278,387 355,391 433,395 510,399 588,403 588,478 510,473 433,469 355,465 278,461 200,457" />
+        <Baseline points="200,430 278,434 355,438 433,442 510,446 588,450" />
+        <TextEquiv>
+          <Unicode>NI MARTI VICINNO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="160,444 250,441 341,438 431,435 522,432 612,429 612,496 522,499 431,502 341,505 250,508 160,511" />
+        <Baseline points="160,504 250,501 341,498 431,495 522,492 612,489" />
+        <TextEquiv>
+          <Unicode>L CAMPANIVS PRISCVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="203,531 279,532 354,533 430,535 506,536 581,537 581,595 506,594 430,592 354,591 279,590 203,589" />
+        <Baseline points="203,576 279,577 354,578 430,579 506,581 581,582" />
+        <TextEquiv>
+          <Unicode>ET VIRILIS FIL SACER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="188,600 270,599 353,599 435,599 518,600 600,601 600,652 518,651 435,651 353,651 270,651 188,651" />
+        <Baseline points="188,643 270,643 353,642 435,643 518,643 600,644" />
+        <TextEquiv>
+          <Unicode>DOTES ROMAE ET AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="185,670 269,672 353,675 438,677 522,679 606,680 606,739 522,738 438,736 353,734 269,731 185,729" />
+        <Baseline points="185,712 269,714 353,717 438,719 522,721 606,722" />
+        <TextEquiv>
+          <Unicode>STATVAM CVM SVIS OR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="524,730 538,730 552,730 566,729 580,729 593,729 593,776 580,776 566,776 552,777 538,777 524,777" />
+        <Baseline points="524,771 538,771 552,771 566,770 580,770 593,770" />
+        <TextEquiv>
+          <Unicode>OSV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

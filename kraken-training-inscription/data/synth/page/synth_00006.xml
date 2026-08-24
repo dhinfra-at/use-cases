@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00006.jpg" imageWidth="900" imageHeight="543">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,543 0,543" />
+      <TextLine id="r1l1">
+        <Coords points="398,106 416,106 435,105 454,104 472,104 491,103 491,155 472,156 454,156 435,157 416,157 398,158" />
+        <Baseline points="398,151 416,150 435,150 454,149 472,149 491,148" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="292,177 353,173 414,169 476,164 537,160 598,156 598,215 537,220 476,224 414,228 353,232 292,236" />
+        <Baseline points="292,230 353,226 414,221 476,217 537,213 598,209" />
+        <TextEquiv>
+          <Unicode>L CESIDIO PRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="324,256 372,254 421,252 469,250 518,248 566,246 566,293 518,295 469,297 421,299 372,301 324,303" />
+        <Baseline points="324,297 372,295 421,293 469,291 518,289 566,287" />
+        <TextEquiv>
+          <Unicode>MO DEF NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="332,317 380,313 429,310 477,306 525,303 574,299 574,352 525,355 477,359 429,362 380,366 332,369" />
+        <Baseline points="332,364 380,360 429,357 477,353 525,350 574,346" />
+        <TextEquiv>
+          <Unicode>V PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="322,388 374,389 425,390 477,391 528,393 580,394 580,451 528,449 477,447 425,446 374,445 322,444" />
+        <Baseline points="322,424 374,425 425,426 477,427 528,429 580,430" />
+        <TextEquiv>
+          <Unicode>INFELICISSIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

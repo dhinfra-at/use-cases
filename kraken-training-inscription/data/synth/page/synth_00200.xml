@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00200.jpg" imageWidth="900" imageHeight="959">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,959 0,959" />
+      <TextLine id="r1l1">
+        <Coords points="317,343 362,342 407,341 451,339 496,338 541,337 541,369 496,370 451,372 407,373 362,374 317,375" />
+        <Baseline points="317,367 362,366 407,365 451,364 496,362 541,361" />
+        <TextEquiv>
+          <Unicode>IMP CAES L AVRELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="296,374 348,368 400,362 451,357 503,351 555,346 555,387 503,392 451,398 400,404 348,409 296,415" />
+        <Baseline points="296,412 348,407 400,401 451,395 503,390 555,384" />
+        <TextEquiv>
+          <Unicode>VERO AVG ARMINIACO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="341,430 378,428 415,427 453,425 490,423 527,422 527,447 490,448 453,450 415,452 378,453 341,455" />
+        <Baseline points="341,451 378,450 415,448 453,446 490,445 527,443" />
+        <TextEquiv>
+          <Unicode>PARTHICO MAXIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="344,469 381,467 417,464 454,462 491,459 528,456 528,482 491,485 454,488 417,491 381,493 344,495" />
+        <Baseline points="344,493 381,491 417,488 454,486 491,483 528,480" />
+        <TextEquiv>
+          <Unicode>TRIB POTEST VI IMP III</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="332,503 373,500 414,496 455,492 496,488 537,485 537,515 496,518 455,522 414,526 373,530 332,533" />
+        <Baseline points="332,531 373,527 414,523 455,520 496,516 537,512" />
+        <TextEquiv>
+          <Unicode>COS II DIVI ANTONINI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="349,546 385,544 421,542 457,540 493,538 529,536 529,558 493,560 457,562 421,564 385,566 349,568" />
+        <Baseline points="349,565 385,563 421,561 457,559 493,557 529,555" />
+        <TextEquiv>
+          <Unicode>DIVI HADRIANI NEPOTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="368,582 397,581 427,581 457,580 487,579 517,579 517,602 487,603 457,604 427,604 397,605 368,606" />
+        <Baseline points="368,599 397,599 427,598 457,597 487,597 517,596" />
+        <TextEquiv>
+          <Unicode>DIVI TRAIANI PARTHIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="392,613 414,613 435,612 456,611 478,611 499,610 499,631 478,632 456,632 435,633 414,633 392,634" />
+        <Baseline points="392,629 414,629 435,628 456,628 478,627 499,626" />
+        <TextEquiv>
+          <Unicode>PRONEPOTI DIVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="388,641 412,639 435,637 459,635 483,633 506,631 506,652 483,654 459,656 435,658 412,660 388,662" />
+        <Baseline points="388,660 412,658 435,656 459,654 483,652 506,650" />
+        <TextEquiv>
+          <Unicode>NERVAE ABNEPOTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

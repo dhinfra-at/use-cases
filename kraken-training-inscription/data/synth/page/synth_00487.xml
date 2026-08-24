@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00487.jpg" imageWidth="900" imageHeight="477">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,477 0,477" />
+      <TextLine id="r1l1">
+        <Coords points="352,133 390,133 428,134 467,134 505,134 544,134 544,178 505,178 467,178 428,178 390,178 352,178" />
+        <Baseline points="352,166 390,166 428,166 467,166 505,166 544,166" />
+        <TextEquiv>
+          <Unicode>M DECIDIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="364,180 398,181 432,181 466,181 500,182 534,182 534,220 500,220 466,219 432,219 398,219 364,218" />
+        <Baseline points="364,207 398,207 432,207 466,208 500,208 534,209" />
+        <TextEquiv>
+          <Unicode>M F MAXIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="361,218 395,216 430,215 464,213 498,212 532,210 532,233 498,235 464,236 430,238 395,239 361,241" />
+        <Baseline points="361,239 395,237 430,236 464,234 498,232 532,231" />
+        <TextEquiv>
+          <Unicode>AEDIL IIVIR AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

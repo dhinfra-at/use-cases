@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00080.jpg" imageWidth="900" imageHeight="491">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,491 0,491" />
+      <TextLine id="r1l1">
+        <Coords points="279,73 345,70 411,67 477,65 544,63 610,61 610,123 544,125 477,127 411,130 345,132 279,135" />
+        <Baseline points="279,127 345,124 411,121 477,118 544,116 610,114" />
+        <TextEquiv>
+          <Unicode>P ARRIVS P F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="308,158 364,158 420,157 475,156 531,156 587,155 587,222 531,223 475,223 420,224 364,224 308,225" />
+        <Baseline points="308,209 364,209 420,208 475,207 531,207 587,206" />
+        <TextEquiv>
+          <Unicode>OVF RVFVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="244,243 326,241 408,240 490,239 573,238 655,236 655,303 573,304 490,306 408,307 326,308 244,310" />
+        <Baseline points="244,292 326,290 408,289 490,288 573,287 655,285" />
+        <TextEquiv>
+          <Unicode>MAGIA L F RVFA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="289,322 352,323 414,324 477,325 540,325 602,325 602,395 540,395 477,395 414,394 352,393 289,392" />
+        <Baseline points="289,369 352,370 414,371 477,372 540,372 602,372" />
+        <TextEquiv>
+          <Unicode>MATER FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="374,393 407,392 440,392 474,391 507,391 541,390 541,446 507,446 474,447 440,447 407,448 374,448" />
+        <Baseline points="374,438 407,437 440,437 474,436 507,435 541,435" />
+        <TextEquiv>
+          <Unicode>DE SVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00105.jpg" imageWidth="900" imageHeight="586">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,586 0,586" />
+      <TextLine id="r1l1">
+        <Coords points="320,114 358,114 397,114 435,114 474,114 512,114 512,156 474,155 435,155 397,155 358,155 320,155" />
+        <Baseline points="320,149 358,149 397,149 435,149 474,150 512,150" />
+        <TextEquiv>
+          <Unicode>C COSCONIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="263,160 321,158 380,156 438,154 497,152 555,150 555,195 497,197 438,200 380,202 321,204 263,206" />
+        <Baseline points="263,202 321,200 380,198 438,196 497,193 555,191" />
+        <TextEquiv>
+          <Unicode>L F PAP TAVRVS IIVIR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="290,213 338,211 387,209 436,208 484,206 533,204 533,245 484,246 436,248 387,250 338,252 290,253" />
+        <Baseline points="290,250 338,248 387,246 436,245 484,243 533,241" />
+        <TextEquiv>
+          <Unicode>ET SVLPICIA L F ANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="357,257 387,255 417,254 447,252 476,250 506,249 506,287 476,288 447,290 417,292 387,293 357,295" />
+        <Baseline points="357,292 387,290 417,289 447,287 476,285 506,284" />
+        <TextEquiv>
+          <Unicode>H S S SIT V T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="377,307 400,307 423,308 446,309 469,310 492,310 492,342 469,342 446,341 423,340 400,339 377,339" />
+        <Baseline points="377,331 400,332 423,333 446,333 469,334 492,335" />
+        <TextEquiv>
+          <Unicode>IN F PED XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="381,343 402,344 424,344 445,344 467,344 488,344 488,369 467,369 445,369 424,369 402,369 381,369" />
+        <Baseline points="381,365 402,365 424,365 445,365 467,365 488,365" />
+        <TextEquiv>
+          <Unicode>IN AGR PED X</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

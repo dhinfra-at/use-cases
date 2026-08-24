@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00171.jpg" imageWidth="900" imageHeight="721">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,721 0,721" />
+      <TextLine id="r1l1">
+        <Coords points="90,67 105,68 119,70 134,71 149,73 163,74 163,123 149,121 134,120 119,118 105,117 90,115" />
+        <Baseline points="90,106 105,107 119,109 134,110 149,111 163,113" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="84,130 139,133 194,135 249,137 304,139 359,141 359,188 304,187 249,185 194,182 139,180 84,178" />
+        <Baseline points="84,172 139,174 194,176 249,179 304,181 359,182" />
+        <TextEquiv>
+          <Unicode>T QVARTINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="79,194 134,195 190,197 246,199 302,201 358,203 358,251 302,248 246,246 190,245 134,243 79,241" />
+        <Baseline points="79,236 134,237 190,239 246,241 302,243 358,245" />
+        <TextEquiv>
+          <Unicode>CATVLLINO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="73,262 129,265 186,269 242,273 299,277 355,282 355,331 299,326 242,322 186,318 129,314 73,311" />
+        <Baseline points="73,300 129,303 186,307 242,310 299,315 355,319" />
+        <TextEquiv>
+          <Unicode>LVCILLAE MATE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="67,327 136,329 204,332 273,334 341,337 410,340 410,386 341,383 273,381 204,378 136,375 67,373" />
+        <Baseline points="67,367 136,370 204,372 273,375 341,378 410,381" />
+        <TextEquiv>
+          <Unicode>RNAE PARENTIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="62,391 138,396 214,401 290,405 366,410 442,413 442,459 366,455 290,451 214,447 138,442 62,437" />
+        <Baseline points="62,428 138,433 214,437 290,442 366,446 442,450" />
+        <TextEquiv>
+          <Unicode>E T QVARTINO MAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="56,450 132,452 208,454 284,456 360,459 436,461 436,510 360,508 284,505 208,503 132,501 56,499" />
+        <Baseline points="56,493 132,495 208,498 284,500 360,502 436,505" />
+        <TextEquiv>
+          <Unicode>ERNO MIL COH XIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="51,508 113,509 175,510 237,511 300,512 362,513 362,566 300,564 237,563 175,562 113,561 51,561" />
+        <Baseline points="51,555 113,556 175,557 237,558 300,559 362,560" />
+        <TextEquiv>
+          <Unicode>VRB FRATRI QVAR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="45,581 110,585 175,590 240,595 305,599 371,604 371,652 305,648 240,644 175,639 110,634 45,629" />
+        <Baseline points="45,617 110,621 175,626 240,631 305,635 371,639" />
+        <TextEquiv>
+          <Unicode>TINA CATVLLINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

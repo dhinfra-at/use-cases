@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00425.jpg" imageWidth="900" imageHeight="587">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,587 0,587" />
+      <TextLine id="r1l1">
+        <Coords points="428,174 438,175 448,175 458,175 467,176 477,176 477,207 467,207 458,206 448,206 438,206 428,205" />
+        <Baseline points="428,201 438,202 448,202 458,202 467,203 477,203" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="398,209 418,210 438,210 458,211 478,211 498,212 498,245 478,244 458,244 438,243 418,243 398,242" />
+        <Baseline points="398,238 418,239 438,239 458,240 478,240 498,241" />
+        <TextEquiv>
+          <Unicode>MINDIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="338,249 382,253 425,256 468,260 511,264 554,268 554,306 511,302 468,299 425,295 382,291 338,287" />
+        <Baseline points="338,274 382,278 425,282 468,286 511,289 554,293" />
+        <TextEquiv>
+          <Unicode>PHILADELFO SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="321,286 371,289 422,292 472,295 523,298 573,301 573,333 523,330 472,327 422,324 371,320 321,317" />
+        <Baseline points="321,310 371,313 422,316 472,319 523,322 573,326" />
+        <TextEquiv>
+          <Unicode>QVI BIXIT SIC ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="346,322 386,325 427,327 467,330 507,333 548,336 548,367 507,364 467,361 427,359 386,356 346,353" />
+        <Baseline points="346,345 386,348 427,351 467,354 507,356 548,359" />
+        <TextEquiv>
+          <Unicode>LV D III CAECILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="271,350 338,352 405,355 472,357 539,359 606,362 606,391 539,389 472,386 405,384 338,382 271,379" />
+        <Baseline points="271,376 338,378 405,381 472,383 539,386 606,388" />
+        <TextEquiv>
+          <Unicode>PRIMA COIVGI INCOMPARABI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="374,391 402,394 431,397 460,399 489,402 518,405 518,436 489,433 460,430 431,428 402,425 374,422" />
+        <Baseline points="374,413 402,415 431,418 460,421 489,423 518,426" />
+        <TextEquiv>
+          <Unicode>LI B M FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

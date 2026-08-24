@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00197.jpg" imageWidth="900" imageHeight="772">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,772 0,772" />
+      <TextLine id="r1l1">
+        <Coords points="301,103 360,100 419,97 478,94 538,91 597,88 597,144 538,147 478,150 419,153 360,156 301,159" />
+        <Baseline points="301,154 360,151 419,148 478,145 538,142 597,139" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="331,186 378,183 426,180 473,177 520,174 568,171 568,228 520,231 473,234 426,237 378,240 331,243" />
+        <Baseline points="331,238 378,235 426,232 473,229 520,226 568,223" />
+        <TextEquiv>
+          <Unicode>TERENTIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="335,265 379,262 423,259 467,257 511,254 555,252 555,306 511,309 467,311 423,314 379,317 335,320" />
+        <Baseline points="335,315 379,312 423,309 467,306 511,304 555,301" />
+        <TextEquiv>
+          <Unicode>PYRALLIDI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="228,337 316,332 403,327 490,321 578,315 665,309 665,371 578,377 490,383 403,388 316,393 228,399" />
+        <Baseline points="228,394 316,389 403,383 490,378 578,372 665,366" />
+        <TextEquiv>
+          <Unicode>TERENTIA SVCCESSA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="294,424 356,422 417,419 479,417 540,414 602,410 602,459 540,463 479,466 417,468 356,471 294,473" />
+        <Baseline points="294,468 356,466 417,464 479,461 540,458 602,455" />
+        <TextEquiv>
+          <Unicode>LIBERTA ET FILIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="300,502 358,500 415,499 473,497 531,495 588,493 588,536 531,537 473,539 415,541 358,543 300,544" />
+        <Baseline points="300,540 358,538 415,536 473,535 531,533 588,531" />
+        <TextEquiv>
+          <Unicode>MATRI OPTVMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="326,561 375,557 424,553 472,550 521,546 570,542 570,594 521,598 472,602 424,605 375,609 326,613" />
+        <Baseline points="326,609 375,605 424,601 472,598 521,594 570,590" />
+        <TextEquiv>
+          <Unicode>FECIT ET SIBI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="320,636 373,634 427,632 480,629 533,627 586,625 586,668 533,670 480,672 427,675 373,677 320,679" />
+        <Baseline points="320,675 373,673 427,671 480,668 533,666 586,664" />
+        <TextEquiv>
+          <Unicode>N F P III IN AG P II</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00112.jpg" imageWidth="900" imageHeight="393">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,393 0,393" />
+      <TextLine id="r1l1">
+        <Coords points="268,39 338,34 409,30 480,26 551,22 621,19 621,70 551,74 480,77 409,81 338,86 268,90" />
+        <Baseline points="268,85 338,80 409,76 480,72 551,68 621,65" />
+        <TextEquiv>
+          <Unicode>PORCIANVS AN VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="243,87 324,81 405,76 485,70 566,65 647,59 647,116 566,122 485,127 405,133 324,138 243,144" />
+        <Baseline points="243,139 324,133 405,127 485,122 566,116 647,111" />
+        <TextEquiv>
+          <Unicode>H S EST FIRMILLVS PAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="223,155 313,152 402,150 492,147 581,144 670,141 670,182 581,184 492,187 402,190 313,192 223,195" />
+        <Baseline points="223,190 313,188 402,185 492,182 581,180 670,177" />
+        <TextEquiv>
+          <Unicode>ET MAVRILLA AVIA HO F C V</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

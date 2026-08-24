@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00485.jpg" imageWidth="900" imageHeight="477">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,477 0,477" />
+      <TextLine id="r1l1">
+        <Coords points="109,102 158,107 206,112 255,116 304,121 352,125 352,189 304,185 255,180 206,176 158,171 109,166" />
+        <Baseline points="109,147 158,152 206,156 255,161 304,166 352,170" />
+        <TextEquiv>
+          <Unicode>TELVS TER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="106,164 143,164 180,164 217,165 254,165 291,165 291,220 254,220 217,220 180,219 143,219 106,219" />
+        <Baseline points="106,212 143,213 180,213 217,213 254,213 291,213" />
+        <TextEquiv>
+          <Unicode>A MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="102,230 144,234 185,238 226,242 268,246 309,250 309,306 268,302 226,298 185,294 144,290 102,286" />
+        <Baseline points="102,269 144,273 185,277 226,281 268,285 309,289" />
+        <TextEquiv>
+          <Unicode>BONAS SEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="99,288 142,291 186,295 229,298 272,302 315,306 315,354 272,350 229,347 186,343 142,340 99,336" />
+        <Baseline points="99,323 142,326 186,330 229,333 272,337 315,340" />
+        <TextEquiv>
+          <Unicode>ETES BONAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="97,340 133,343 169,345 206,348 242,351 278,354 278,395 242,392 206,389 169,387 133,384 97,381" />
+        <Baseline points="97,370 133,373 169,376 206,379 242,381 278,384" />
+        <TextEquiv>
+          <Unicode>VINDEMIAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

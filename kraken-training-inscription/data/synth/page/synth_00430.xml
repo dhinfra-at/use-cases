@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00430.jpg" imageWidth="900" imageHeight="415">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,415 0,415" />
+      <TextLine id="r1l1">
+        <Coords points="411,55 426,55 441,55 456,56 471,56 486,56 486,101 471,101 456,101 441,101 426,101 411,101" />
+        <Baseline points="411,95 426,95 441,95 456,95 471,96 486,96" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="244,132 325,134 406,136 487,137 567,137 648,138 648,188 567,188 487,187 406,186 325,185 244,183" />
+        <Baseline points="244,172 325,174 406,175 487,177 567,177 648,177" />
+        <TextEquiv>
+          <Unicode>M METTIO PRIMITIVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="266,208 339,211 412,214 485,217 558,220 631,224 631,286 558,282 485,278 412,275 339,272 266,269" />
+        <Baseline points="266,248 339,250 412,253 485,257 558,260 631,264" />
+        <TextEquiv>
+          <Unicode>FLAVIA RHODINE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="293,275 356,274 419,272 482,271 545,269 608,266 608,319 545,322 482,324 419,325 356,327 293,328" />
+        <Baseline points="293,324 356,322 419,321 482,319 545,317 608,315" />
+        <TextEquiv>
+          <Unicode>CONIVGI B M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

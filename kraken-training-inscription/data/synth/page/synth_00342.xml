@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00342.jpg" imageWidth="900" imageHeight="512">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,512 0,512" />
+      <TextLine id="r1l1">
+        <Coords points="103,115 122,115 141,115 160,116 179,116 198,116 198,156 179,156 160,156 141,155 122,155 103,155" />
+        <Baseline points="103,149 122,149 141,149 160,149 179,150 198,150" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,178 127,177 150,177 173,176 196,176 219,175 219,213 196,214 173,214 150,215 127,216 104,216" />
+        <Baseline points="104,212 127,212 150,211 173,210 196,210 219,209" />
+        <TextEquiv>
+          <Unicode>MAGNI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="104,239 134,238 165,237 195,236 226,235 256,235 256,272 226,273 195,274 165,275 134,276 104,277" />
+        <Baseline points="104,273 134,272 165,271 195,270 226,269 256,269" />
+        <TextEquiv>
+          <Unicode>A CERIOS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="104,299 125,298 147,296 168,295 190,293 211,292 211,332 190,333 168,335 147,336 125,337 104,339" />
+        <Baseline points="104,335 125,334 147,332 168,331 190,330 211,328" />
+        <TextEquiv>
+          <Unicode>Q F Q V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="104,361 126,361 148,362 170,362 192,363 214,363 214,401 192,401 170,401 148,400 126,400 104,399" />
+        <Baseline points="104,392 126,392 148,393 170,393 192,394 214,394" />
+        <TextEquiv>
+          <Unicode>A LI H S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

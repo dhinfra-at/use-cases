@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00100.jpg" imageWidth="900" imageHeight="616">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,616 0,616" />
+      <TextLine id="r1l1">
+        <Coords points="251,80 329,83 407,85 484,88 562,90 640,93 640,150 562,147 484,145 407,142 329,140 251,137" />
+        <Baseline points="251,127 329,130 407,132 484,135 562,137 640,140" />
+        <TextEquiv>
+          <Unicode>SOLI INVICTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="190,152 292,152 394,152 495,153 597,155 698,156 698,215 597,213 495,212 394,211 292,211 190,211" />
+        <Baseline points="190,205 292,205 394,205 495,206 597,207 698,209" />
+        <TextEquiv>
+          <Unicode>AEDEM RESTITVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="256,229 333,229 409,229 486,228 562,227 639,226 639,290 562,291 486,292 409,292 333,293 256,293" />
+        <Baseline points="256,287 333,287 409,286 486,286 562,285 639,284" />
+        <TextEquiv>
+          <Unicode>C CAERELLIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="329,320 378,322 426,324 475,326 524,328 573,329 573,385 524,383 475,381 426,379 378,377 329,376" />
+        <Baseline points="329,366 378,368 426,370 475,372 524,374 573,375" />
+        <TextEquiv>
+          <Unicode>SABINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="452,411 474,412 496,414 518,415 540,417 563,419 563,476 540,474 518,473 496,471 474,469 452,468" />
+        <Baseline points="452,457 474,458 496,460 518,461 540,463 563,464" />
+        <TextEquiv>
+          <Unicode>AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00366.jpg" imageWidth="900" imageHeight="789">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,789 0,789" />
+      <TextLine id="r1l1">
+        <Coords points="300,197 355,197 410,197 466,197 521,197 576,197 576,265 521,265 466,265 410,265 355,265 300,265" />
+        <Baseline points="300,250 355,250 410,250 466,250 521,250 576,250" />
+        <TextEquiv>
+          <Unicode>ICCESSIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="319,273 370,273 420,273 471,273 522,274 572,274 572,343 522,342 471,342 420,342 370,341 319,341" />
+        <Baseline points="319,326 370,326 420,326 471,326 522,327 572,327" />
+        <TextEquiv>
+          <Unicode>MEDICO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="271,341 342,337 413,333 484,330 556,326 627,322 627,392 556,396 484,399 413,403 342,407 271,411" />
+        <Baseline points="271,403 342,399 413,396 484,392 556,388 627,384" />
+        <TextEquiv>
+          <Unicode>TERENTINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="366,426 398,427 431,427 463,427 495,427 528,427 528,492 495,492 463,491 431,491 398,491 366,491" />
+        <Baseline points="366,479 398,479 431,479 463,479 495,479 528,480" />
+        <TextEquiv>
+          <Unicode>CYME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="339,504 395,505 452,507 509,508 566,510 623,512 623,587 566,585 509,583 452,582 395,580 339,579" />
+        <Baseline points="339,556 395,557 452,559 509,560 566,562 623,564" />
+        <TextEquiv>
+          <Unicode>ONIVNX I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="362,581 411,582 460,583 509,584 558,585 607,586 607,654 558,654 509,653 460,652 411,651 362,650" />
+        <Baseline points="362,632 411,633 460,634 509,635 558,636 607,637" />
+        <TextEquiv>
+          <Unicode>IX AN LV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

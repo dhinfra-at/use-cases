@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00251.jpg" imageWidth="900" imageHeight="659">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,659 0,659" />
+      <TextLine id="r1l1">
+        <Coords points="333,102 376,102 418,102 461,102 504,101 546,101 546,153 504,153 461,153 418,154 376,154 333,154" />
+        <Baseline points="333,148 376,148 418,148 461,148 504,148 546,148" />
+        <TextEquiv>
+          <Unicode>FELIX NIBILIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="343,168 380,172 418,176 456,180 494,184 532,187 532,233 494,229 456,226 418,222 380,218 343,214" />
+        <Baseline points="343,200 380,204 418,208 456,212 494,215 532,219" />
+        <TextEquiv>
+          <Unicode>FILIVS PRINC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="355,217 388,219 422,220 456,222 490,223 523,225 523,259 490,257 456,256 422,254 388,253 355,252" />
+        <Baseline points="355,247 388,249 422,250 456,251 490,253 523,255" />
+        <TextEquiv>
+          <Unicode>EPS SVBREGI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="369,260 395,260 422,261 448,261 474,262 500,262 500,294 474,294 448,293 422,293 395,292 369,292" />
+        <Baseline points="369,288 395,289 422,289 448,290 474,290 500,291" />
+        <TextEquiv>
+          <Unicode>VIXIT ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="410,302 423,303 437,304 450,305 463,305 476,306 476,331 463,330 450,329 437,328 423,327 410,327" />
+        <Baseline points="410,322 423,323 437,324 450,325 463,326 476,327" />
+        <TextEquiv>
+          <Unicode>LXXXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

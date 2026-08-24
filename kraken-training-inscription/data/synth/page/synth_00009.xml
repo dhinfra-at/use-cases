@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00009.jpg" imageWidth="900" imageHeight="758">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,758 0,758" />
+      <TextLine id="r1l1">
+        <Coords points="108,189 126,190 144,190 162,190 180,190 198,191 198,244 180,244 162,244 144,243 126,243 108,243" />
+        <Baseline points="108,236 126,236 144,237 162,237 180,237 198,237" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,240 191,239 278,238 364,236 451,234 538,233 538,301 451,303 364,305 278,306 191,308 104,309" />
+        <Baseline points="104,302 191,301 278,300 364,298 451,297 538,295" />
+        <TextEquiv>
+          <Unicode>C PROCVLAE CVLT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="100,322 147,325 194,327 241,330 288,332 334,335 334,393 288,390 241,387 194,385 147,382 100,380" />
+        <Baseline points="100,366 147,369 194,371 241,374 288,376 334,379" />
+        <TextEquiv>
+          <Unicode>IVNONIS K</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="97,385 193,389 290,393 387,396 484,397 581,398 581,451 484,450 387,449 290,446 193,442 97,438" />
+        <Baseline points="97,428 193,432 290,436 387,438 484,440 581,441" />
+        <TextEquiv>
+          <Unicode>VIX A LXXVII M X D VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="93,417 215,415 337,412 459,408 582,402 704,398 704,480 582,484 459,490 337,494 215,497 93,498" />
+        <Baseline points="93,492 215,491 337,488 459,483 582,478 704,474" />
+        <TextEquiv>
+          <Unicode>EX V F M VLPIVS LICINIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="223,501 255,501 287,500 320,500 352,499 384,499 384,553 352,553 320,554 287,554 255,555 223,555" />
+        <Baseline points="223,549 255,549 287,548 320,548 352,547 384,547" />
+        <TextEquiv>
+          <Unicode>VSTALIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

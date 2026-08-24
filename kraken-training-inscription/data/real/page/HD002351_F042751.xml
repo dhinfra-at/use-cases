@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002351_F042751.jpg" imageWidth="800" imageHeight="562">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,561 0,561"/>
+      <TextLine id="r1l1">
+        <Coords points="99,166 718,169 718,262 99,259"/>
+        <Baseline points="99,244 718,247"/>
+        <TextEquiv><Unicode>LONGIA C F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="133,248 663,251 663,343 133,340"/>
+        <Baseline points="133,326 663,329"/>
+        <TextEquiv><Unicode>MARCIA P F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="107,329 711,333 711,424 107,420"/>
+        <Baseline points="107,405 711,409"/>
+        <TextEquiv><Unicode>POLLITTA V A III</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00352.jpg" imageWidth="900" imageHeight="640">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,640 0,640" />
+      <TextLine id="r1l1">
+        <Coords points="165,105 277,105 390,105 502,104 614,103 727,101 727,168 614,170 502,171 390,172 277,172 165,172" />
+        <Baseline points="165,166 277,166 390,165 502,165 614,163 727,161" />
+        <TextEquiv>
+          <Unicode>M T VERNA FORTVNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="132,177 254,175 375,173 497,171 618,169 740,167 740,239 618,240 497,243 375,245 254,247 132,249" />
+        <Baseline points="132,243 254,241 375,239 497,237 618,234 740,233" />
+        <TextEquiv>
+          <Unicode>TO ALVMNO INFELICISSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="141,233 262,228 384,222 506,216 628,210 750,204 750,295 628,301 506,307 384,313 262,319 141,325" />
+        <Baseline points="141,319 262,313 384,307 506,301 628,295 750,289" />
+        <TextEquiv>
+          <Unicode>MO SET SIC ET SIBI VIVO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="187,325 289,321 391,317 493,312 595,310 697,310 697,385 595,385 493,387 391,392 289,396 187,400" />
+        <Baseline points="187,394 289,390 391,386 493,381 595,379 697,379" />
+        <TextEquiv>
+          <Unicode>POSVIT ET LIBERTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="230,406 317,405 403,404 490,403 576,402 663,400 663,465 576,467 490,468 403,469 317,470 230,471" />
+        <Baseline points="230,465 317,464 403,463 490,462 576,461 663,459" />
+        <TextEquiv>
+          <Unicode>LIBERTABVS SVIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

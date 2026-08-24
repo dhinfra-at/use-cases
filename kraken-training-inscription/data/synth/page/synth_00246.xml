@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00246.jpg" imageWidth="900" imageHeight="657">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,657 0,657" />
+      <TextLine id="r1l1">
+        <Coords points="65,170 114,171 163,171 212,171 260,172 309,172 309,230 260,230 212,229 163,229 114,229 65,228" />
+        <Baseline points="65,211 114,212 163,212 212,212 260,213 309,213" />
+        <TextEquiv>
+          <Unicode>SAN HERONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="69,236 131,229 193,223 255,216 317,210 379,204 379,263 317,269 255,275 193,282 131,288 69,294" />
+        <Baseline points="69,290 131,284 193,277 255,271 317,265 379,259" />
+        <TextEquiv>
+          <Unicode>APOLLONI SACR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="71,326 116,325 161,325 206,325 250,325 295,325 295,372 250,373 206,373 161,373 116,373 71,373" />
+        <Baseline points="71,360 116,360 161,360 206,360 250,360 295,359" />
+        <TextEquiv>
+          <Unicode>M PVBLICIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="74,391 106,388 138,386 170,384 203,381 235,379 235,418 203,420 170,423 138,425 106,427 74,430" />
+        <Baseline points="74,426 106,424 138,421 170,419 203,417 235,414" />
+        <TextEquiv>
+          <Unicode>IVCVNDVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="76,456 110,454 145,453 179,451 213,449 247,448 247,479 213,481 179,482 145,484 110,485 76,487" />
+        <Baseline points="76,484 110,482 145,481 179,479 213,477 247,476" />
+        <TextEquiv>
+          <Unicode>FL SEDI APOL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="78,508 94,507 109,506 124,506 140,505 155,504 155,532 140,533 124,533 109,534 94,535 78,536" />
+        <Baseline points="78,533 94,532 109,531 124,531 140,530 155,529" />
+        <TextEquiv>
+          <Unicode>V S L A</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

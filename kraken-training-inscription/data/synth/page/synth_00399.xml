@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00399.jpg" imageWidth="900" imageHeight="569">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,569 0,569" />
+      <TextLine id="r1l1">
+        <Coords points="193,76 293,68 392,61 491,53 590,46 690,39 690,114 590,121 491,129 392,137 293,144 193,151" />
+        <Baseline points="193,143 293,136 392,129 491,121 590,113 690,106" />
+        <TextEquiv>
+          <Unicode>IVLLEIA ARAVCIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="158,170 272,167 386,165 500,162 614,160 727,157 727,232 614,234 500,237 386,239 272,242 158,244" />
+        <Baseline points="158,223 272,220 386,218 500,215 614,213 727,210" />
+        <TextEquiv>
+          <Unicode>IVLLEI PHILEMONIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="238,246 320,245 402,245 483,245 565,245 647,244 647,322 565,322 483,322 402,322 320,323 238,323" />
+        <Baseline points="238,298 320,297 402,297 483,297 565,297 647,296" />
+        <TextEquiv>
+          <Unicode>L CAESARAVGVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="131,326 245,321 359,318 473,313 587,307 701,300 701,351 587,358 473,364 359,368 245,372 131,377" />
+        <Baseline points="131,368 245,364 359,360 473,355 587,349 701,342" />
+        <TextEquiv>
+          <Unicode>TINA AN XXXX SECVNDIO E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="162,396 235,392 308,388 380,384 453,380 525,376 525,438 453,443 380,447 308,451 235,455 162,459" />
+        <Baseline points="162,451 235,447 308,443 380,439 453,435 525,431" />
+        <TextEquiv>
+          <Unicode>AN XVIII ET C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="288,469 306,469 324,469 342,468 360,468 378,467 378,528 360,528 342,529 324,529 306,529 288,530" />
+        <Baseline points="288,520 306,520 324,520 342,519 360,519 378,518" />
+        <TextEquiv>
+          <Unicode>SER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00072.jpg" imageWidth="900" imageHeight="843">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,843 0,843" />
+      <TextLine id="r1l1">
+        <Coords points="119,53 138,54 157,54 175,55 194,56 213,57 213,111 194,110 175,109 157,108 138,108 119,107" />
+        <Baseline points="119,101 138,102 157,103 175,104 194,104 213,105" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="115,124 174,125 233,126 292,128 351,129 410,131 410,189 351,187 292,186 233,184 174,183 115,182" />
+        <Baseline points="115,176 174,177 233,179 292,180 351,182 410,184" />
+        <TextEquiv>
+          <Unicode>P AELIO AVG L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="112,198 191,199 270,201 350,203 429,205 509,207 509,265 429,263 350,261 270,259 191,257 112,255" />
+        <Baseline points="112,250 191,252 270,254 350,256 429,258 509,260" />
+        <TextEquiv>
+          <Unicode>PROTHYMO TABVL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="108,279 211,284 315,290 418,295 521,300 625,305 625,357 521,352 418,347 315,342 211,336 108,331" />
+        <Baseline points="108,323 211,328 315,333 418,339 521,344 625,349" />
+        <TextEquiv>
+          <Unicode>XX HER AEMIL LIGVRIAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="104,346 166,348 228,350 289,352 351,354 413,356 413,406 351,405 289,403 228,401 166,399 104,397" />
+        <Baseline points="104,392 166,394 228,396 289,398 351,400 413,402" />
+        <TextEquiv>
+          <Unicode>TRANSPADANAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="101,412 188,415 275,417 362,419 449,422 536,425 536,477 449,474 362,471 275,469 188,467 101,465" />
+        <Baseline points="101,460 188,462 275,464 362,467 449,469 536,473" />
+        <TextEquiv>
+          <Unicode>VLPIA AVG LIB CLARINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="97,480 159,482 221,484 283,485 344,487 406,488 406,537 344,535 283,534 221,532 159,530 97,529" />
+        <Baseline points="97,524 159,526 221,528 283,529 344,531 406,532" />
+        <TextEquiv>
+          <Unicode>CONIVNX ET AELI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="94,547 191,554 287,561 383,569 479,577 576,585 576,645 479,636 383,628 287,621 191,614 94,607" />
+        <Baseline points="94,586 191,593 287,600 383,607 479,615 576,624" />
+        <TextEquiv>
+          <Unicode>SIMILIS ET PROTHYMVS FILI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="91,609 167,613 243,618 319,623 394,628 470,633 470,683 394,678 319,673 243,668 167,663 91,659" />
+        <Baseline points="91,646 167,651 243,656 319,661 394,666 470,671" />
+        <TextEquiv>
+          <Unicode>PATRI BENE MERENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="88,668 188,676 287,684 387,692 486,700 586,708 586,765 486,757 387,749 287,741 188,733 88,725" />
+        <Baseline points="88,703 188,711 287,719 387,727 486,735 586,743" />
+        <TextEquiv>
+          <Unicode>HIC HOC PRAETORIVM CVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="86,717 157,719 228,721 300,723 371,725 442,727 442,772 371,770 300,767 228,765 157,763 86,761" />
+        <Baseline points="86,757 157,759 228,761 300,763 371,766 442,768" />
+        <TextEquiv>
+          <Unicode>BALINIO A SOLO EREXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

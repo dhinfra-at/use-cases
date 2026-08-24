@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00070.jpg" imageWidth="900" imageHeight="627">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,627 0,627" />
+      <TextLine id="r1l1">
+        <Coords points="396,80 416,78 436,77 456,76 476,75 496,74 496,131 476,132 456,133 436,134 416,136 396,137" />
+        <Baseline points="396,131 416,130 436,129 456,128 476,127 496,125" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="216,169 305,169 394,170 484,170 573,171 662,171 662,236 573,235 484,235 394,234 305,234 216,234" />
+        <Baseline points="216,217 305,217 394,218 484,218 573,219 662,219" />
+        <TextEquiv>
+          <Unicode>M AVRELIO BITO FI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="224,252 313,255 402,258 492,261 581,264 670,266 670,343 581,340 492,338 402,335 313,332 224,329" />
+        <Baseline points="224,300 313,303 402,306 492,309 581,312 670,314" />
+        <TextEquiv>
+          <Unicode>LIO DVLCISSIMO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="234,318 317,313 400,308 482,303 565,298 648,293 648,363 565,369 482,374 400,379 317,384 234,389" />
+        <Baseline points="234,383 317,378 400,373 482,368 565,363 648,358" />
+        <TextEquiv>
+          <Unicode>INCOMP QVI VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="185,420 291,419 396,418 502,417 607,416 712,415 712,475 607,476 502,477 396,478 291,479 185,480" />
+        <Baseline points="185,468 291,467 396,466 502,465 607,464 712,463" />
+        <TextEquiv>
+          <Unicode>NN XV M VI D VII H III</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="204,507 313,508 422,509 532,510 641,513 751,516 751,589 641,586 532,584 422,582 313,582 204,581" />
+        <Baseline points="204,555 313,556 422,556 532,558 641,561 751,564" />
+        <TextEquiv>
+          <Unicode>ANIA SECVNDA MAT FEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

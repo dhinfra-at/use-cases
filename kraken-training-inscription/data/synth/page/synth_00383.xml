@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00383.jpg" imageWidth="900" imageHeight="400">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,400 0,400" />
+      <TextLine id="r1l1">
+        <Coords points="123,139 260,142 397,146 534,150 671,155 808,159 808,202 671,197 534,193 397,189 260,185 123,181" />
+        <Baseline points="123,165 260,169 397,173 534,177 671,181 808,186" />
+        <TextEquiv>
+          <Unicode>SI PVDOR IN VITA QVICQVAM PRODESSE PVTATVR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="121,195 247,190 373,185 499,181 625,177 751,173 751,233 625,236 499,240 373,245 247,250 121,255" />
+        <Baseline points="121,251 247,246 373,242 499,237 625,233 751,230" />
+        <TextEquiv>
+          <Unicode>LVCRETIVS HIC FRONTO DIGNVS HONORE BENE EST</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

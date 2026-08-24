@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00358.jpg" imageWidth="900" imageHeight="744">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,744 0,744" />
+      <TextLine id="r1l1">
+        <Coords points="79,242 157,243 235,244 312,245 390,245 468,246 468,315 390,314 312,313 235,312 157,311 79,311" />
+        <Baseline points="79,290 157,291 235,292 312,293 390,293 468,294" />
+        <TextEquiv>
+          <Unicode>VE G N PRB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="82,319 147,321 213,322 278,322 344,323 409,324 409,390 344,389 278,388 213,387 147,386 82,385" />
+        <Baseline points="82,365 147,366 213,367 278,368 344,369 409,370" />
+        <TextEquiv>
+          <Unicode>NN XX MIL NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="85,392 149,392 212,392 276,392 340,392 404,392 404,450 340,450 276,450 212,449 149,449 85,449" />
+        <Baseline points="85,434 149,435 212,435 276,435 340,435 404,435" />
+        <TextEquiv>
+          <Unicode>XXVII VIX NN IL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="87,461 152,460 216,458 280,457 345,456 409,454 409,502 345,503 280,505 216,506 152,507 87,509" />
+        <Baseline points="87,502 152,500 216,499 280,498 345,496 409,495" />
+        <TextEquiv>
+          <Unicode>MES X DIEB XXIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="90,528 174,526 258,525 342,523 426,521 510,520 510,566 426,568 342,570 258,571 174,573 90,575" />
+        <Baseline points="90,567 174,565 258,564 342,562 426,560 510,558" />
+        <TextEquiv>
+          <Unicode>AEMILIVS POTENTINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="92,589 188,587 283,585 378,583 473,580 568,576 568,620 473,624 378,627 283,630 188,631 92,633" />
+        <Baseline points="92,627 188,625 283,623 378,621 473,618 568,614" />
+        <TextEquiv>
+          <Unicode>ET AELIVS LAETINVS VET AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="95,651 139,650 184,650 229,649 273,649 318,648 318,691 273,692 229,692 184,693 139,693 95,694" />
+        <Baseline points="95,686 139,686 184,686 229,685 273,684 318,684" />
+        <TextEquiv>
+          <Unicode>NOSTRI B M F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

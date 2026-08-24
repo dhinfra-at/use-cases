@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00027.jpg" imageWidth="900" imageHeight="460">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,460 0,460" />
+      <TextLine id="r1l1">
+        <Coords points="73,142 123,141 173,140 224,140 274,139 324,139 324,190 274,191 224,191 173,192 123,192 73,193" />
+        <Baseline points="73,188 123,187 173,187 224,186 274,186 324,185" />
+        <TextEquiv>
+          <Unicode>VALERIA L F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="72,203 136,201 199,200 263,199 327,199 391,199 391,250 327,249 263,250 199,251 136,252 72,253" />
+        <Baseline points="72,249 136,248 199,246 263,245 327,245 391,245" />
+        <TextEquiv>
+          <Unicode>OPTATA MENS XI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="71,254 129,252 187,251 244,249 302,248 360,246 360,297 302,298 244,300 187,301 129,303 71,304" />
+        <Baseline points="71,300 129,299 187,297 244,296 302,294 360,293" />
+        <TextEquiv>
+          <Unicode>ET DIERVM XXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="70,318 127,320 184,323 241,326 298,329 355,332 355,377 298,374 241,370 184,368 127,365 70,363" />
+        <Baseline points="70,349 127,352 184,354 241,357 298,360 355,364" />
+        <TextEquiv>
+          <Unicode>H S E D R P S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

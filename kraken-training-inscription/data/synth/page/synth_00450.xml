@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00450.jpg" imageWidth="900" imageHeight="573">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,573 0,573" />
+      <TextLine id="r1l1">
+        <Coords points="106,129 138,132 171,135 203,137 235,140 267,143 267,180 235,178 203,175 171,172 138,170 106,167" />
+        <Baseline points="106,156 138,158 171,161 203,164 235,166 267,169" />
+        <TextEquiv>
+          <Unicode>METTHVN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="103,174 131,175 160,176 188,176 216,177 244,177 244,208 216,207 188,207 160,206 131,205 103,205" />
+        <Baseline points="103,201 131,202 160,202 188,203 216,204 244,204" />
+        <TextEquiv>
+          <Unicode>N FRONTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="100,221 122,222 145,223 167,224 189,225 211,226 211,253 189,252 167,251 145,250 122,249 100,248" />
+        <Baseline points="100,243 122,245 145,246 167,247 189,248 211,249" />
+        <TextEquiv>
+          <Unicode>NIS VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="98,260 125,262 152,264 180,266 207,268 234,269 234,297 207,295 180,294 152,292 125,290 98,288" />
+        <Baseline points="98,280 125,282 152,284 180,286 207,288 234,290" />
+        <TextEquiv>
+          <Unicode>ANNIS XXXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="95,293 99,293 102,293 105,293 109,293 112,293 112,315 109,315 105,315 102,315 99,315 95,315" />
+        <Baseline points="95,312 99,312 102,312 105,312 109,312 112,312" />
+        <TextEquiv>
+          <Unicode>III</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00135.jpg" imageWidth="900" imageHeight="505">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,505 0,505" />
+      <TextLine id="r1l1">
+        <Coords points="85,151 97,151 109,151 120,151 132,151 144,152 144,190 132,190 120,189 109,189 97,189 85,189" />
+        <Baseline points="85,181 97,181 109,182 120,182 132,182 144,182" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="86,195 173,193 260,191 347,188 434,185 521,181 521,217 434,221 347,224 260,227 173,229 86,231" />
+        <Baseline points="86,227 173,225 260,222 347,219 434,216 521,213" />
+        <TextEquiv>
+          <Unicode>AELIA DAFNE QVAE BIXIT SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="87,241 146,241 205,240 265,239 324,238 383,237 383,274 324,275 265,276 205,277 146,278 87,278" />
+        <Baseline points="87,270 146,269 205,269 265,268 324,267 383,266" />
+        <TextEquiv>
+          <Unicode>ANNIS VI MENS X DIE I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="87,284 163,286 239,287 315,289 391,292 467,294 467,345 391,342 315,340 239,338 163,336 87,335" />
+        <Baseline points="87,311 163,312 239,314 315,316 391,318 467,321" />
+        <TextEquiv>
+          <Unicode>PASSENIA DATIBA SIC MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="88,327 153,329 219,331 284,332 349,334 415,335 415,382 349,381 284,379 219,377 153,376 88,374" />
+        <Baseline points="88,353 153,354 219,356 284,358 349,359 415,361" />
+        <TextEquiv>
+          <Unicode>FECIT FILIAE DVLCISSIME</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00275.jpg" imageWidth="900" imageHeight="514">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,514 0,514" />
+      <TextLine id="r1l1">
+        <Coords points="100,89 168,83 237,77 306,71 374,66 443,60 443,121 374,127 306,133 237,139 168,145 100,151" />
+        <Baseline points="100,145 168,139 237,133 306,128 374,122 443,116" />
+        <TextEquiv>
+          <Unicode>SALVIS DDD NNN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="104,177 193,173 282,168 371,163 460,159 549,156 549,203 460,207 371,211 282,216 193,221 104,225" />
+        <Baseline points="104,220 193,216 282,211 371,206 460,202 549,199" />
+        <TextEquiv>
+          <Unicode>ARCADIO HONORIO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="109,245 227,244 345,244 463,243 582,242 700,241 700,307 582,308 463,309 345,309 227,310 109,311" />
+        <Baseline points="109,284 227,283 345,282 463,282 582,281 700,280" />
+        <TextEquiv>
+          <Unicode>THEODOSIO PERPETVIS SEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="113,311 190,310 267,308 345,306 422,304 499,302 499,351 422,353 345,355 267,357 190,359 113,360" />
+        <Baseline points="113,348 190,346 267,345 345,343 422,341 499,339" />
+        <TextEquiv>
+          <Unicode>PER AVGG PROCONS S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="116,363 200,358 284,352 367,345 450,338 534,333 534,382 450,388 367,394 284,401 200,407 116,413" />
+        <Baseline points="116,409 200,403 284,397 367,390 450,384 534,378" />
+        <TextEquiv>
+          <Unicode>FL PIONI DIOTIMI V C V S I</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

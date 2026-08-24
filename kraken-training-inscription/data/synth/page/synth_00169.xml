@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00169.jpg" imageWidth="900" imageHeight="829">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,829 0,829" />
+      <TextLine id="r1l1">
+        <Coords points="392,103 407,103 423,102 439,102 455,101 470,101 470,155 455,155 439,155 423,156 407,156 392,157" />
+        <Baseline points="392,150 407,149 423,149 439,149 455,148 470,148" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="172,169 260,162 347,155 434,149 521,144 608,140 608,204 521,208 434,213 347,219 260,226 172,233" />
+        <Baseline points="172,228 260,221 347,214 434,208 521,203 608,198" />
+        <TextEquiv>
+          <Unicode>C IVL FILETIONIS DOMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="164,234 254,228 345,222 436,216 526,209 617,202 617,268 526,275 436,282 345,288 254,294 164,300" />
+        <Baseline points="164,295 254,289 345,283 436,277 526,270 617,263" />
+        <TextEquiv>
+          <Unicode>AFRICA MEDICO QVI VI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="168,317 260,316 351,315 443,314 534,313 625,311 625,373 534,374 443,375 351,376 260,377 168,379" />
+        <Baseline points="168,362 260,361 351,360 443,359 534,358 625,356" />
+        <TextEquiv>
+          <Unicode>XIT NN XXXV C IVL FILET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="117,383 224,377 332,371 439,367 546,362 654,357 654,412 546,417 439,422 332,427 224,432 117,438" />
+        <Baseline points="117,433 224,427 332,422 439,417 546,412 654,407" />
+        <TextEquiv>
+          <Unicode>VS ET IVL EVTHENIA PARENTES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="239,452 308,451 376,450 445,448 514,446 582,444 582,498 514,501 445,502 376,504 308,505 239,506" />
+        <Baseline points="239,496 308,495 376,494 445,492 514,490 582,488" />
+        <TextEquiv>
+          <Unicode>FILIO KARISSIMO F C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="110,523 224,524 338,525 452,526 566,527 680,528 680,600 566,599 452,598 338,597 224,596 110,595" />
+        <Baseline points="110,563 224,564 338,565 452,566 566,567 680,568" />
+        <TextEquiv>
+          <Unicode>ET IVL ATHENODORO FRATRI EIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="160,585 253,586 346,586 439,587 532,589 625,590 625,662 532,661 439,660 346,659 253,658 160,657" />
+        <Baseline points="160,629 253,629 346,630 439,631 532,633 625,634" />
+        <TextEquiv>
+          <Unicode>QVI VIXIT NN XXXV EVTHE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="179,650 269,648 358,646 448,644 538,641 627,639 627,693 538,695 448,698 358,700 269,702 179,704" />
+        <Baseline points="179,693 269,691 358,689 448,687 538,684 627,682" />
+        <TextEquiv>
+          <Unicode>NIA IS AD QVEM SEPVLTVRA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="148,715 247,711 347,707 447,703 546,699 646,696 646,744 546,748 447,752 347,756 247,760 148,764" />
+        <Baseline points="148,759 247,755 347,751 447,747 546,743 646,739" />
+        <TextEquiv>
+          <Unicode>COLL CENT X CCC CONTVLIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

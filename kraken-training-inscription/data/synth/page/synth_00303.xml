@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00303.jpg" imageWidth="900" imageHeight="498">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,498 0,498" />
+      <TextLine id="r1l1">
+        <Coords points="323,110 371,106 418,102 466,99 513,95 561,91 561,141 513,145 466,149 418,153 371,157 323,161" />
+        <Baseline points="323,156 371,152 418,148 466,144 513,140 561,136" />
+        <TextEquiv>
+          <Unicode>DIS MANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="175,162 279,155 384,147 489,140 594,132 698,124 698,178 594,186 489,193 384,201 279,208 175,215" />
+        <Baseline points="175,211 279,204 384,196 489,188 594,181 698,173" />
+        <TextEquiv>
+          <Unicode>ANTHIA METRAE AVG PROC LIBER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="268,205 338,199 407,194 477,188 547,182 617,176 617,225 547,231 477,237 407,243 338,248 268,254" />
+        <Baseline points="268,249 338,244 407,238 477,232 547,226 617,220" />
+        <TextEquiv>
+          <Unicode>TA VIXIT ANNIS XXXII H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="228,263 314,262 400,260 486,259 572,257 657,256 657,295 572,296 486,298 400,299 314,300 228,302" />
+        <Baseline points="228,289 314,287 400,286 486,284 572,283 657,282" />
+        <TextEquiv>
+          <Unicode>ONESIMVS METRAE AVG PROC LIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="300,293 361,290 421,287 482,283 542,279 603,275 603,309 542,313 482,317 421,320 361,324 300,327" />
+        <Baseline points="300,323 361,320 421,317 482,313 542,309 603,305" />
+        <TextEquiv>
+          <Unicode>CONIVGI PIISSIMAE FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

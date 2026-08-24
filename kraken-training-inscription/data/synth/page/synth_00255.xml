@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00255.jpg" imageWidth="900" imageHeight="440">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,440 0,440" />
+      <TextLine id="r1l1">
+        <Coords points="324,100 375,104 426,109 476,113 527,117 578,121 578,179 527,175 476,171 426,167 375,162 324,158" />
+        <Baseline points="324,142 375,146 426,151 476,155 527,159 578,163" />
+        <TextEquiv>
+          <Unicode>TREBARON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="392,164 415,165 439,167 462,168 485,170 509,171 509,216 485,214 462,213 439,211 415,210 392,208" />
+        <Baseline points="392,201 415,203 439,204 462,206 485,207 509,209" />
+        <TextEquiv>
+          <Unicode>NE V S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="379,220 407,222 435,223 463,225 491,227 520,228 520,268 491,266 463,264 435,263 407,261 379,259" />
+        <Baseline points="379,252 407,254 435,256 463,258 491,259 520,261" />
+        <TextEquiv>
+          <Unicode>OCVNVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="379,265 407,266 434,267 462,268 489,269 517,270 517,301 489,301 462,300 434,299 407,298 379,297" />
+        <Baseline points="379,294 407,295 434,296 462,296 489,297 517,298" />
+        <TextEquiv>
+          <Unicode>OCONIS F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

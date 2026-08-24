@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00357.jpg" imageWidth="900" imageHeight="696">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,696 0,696" />
+      <TextLine id="r1l1">
+        <Coords points="324,110 379,111 434,111 490,111 545,111 600,111 600,178 545,178 490,178 434,178 379,178 324,178" />
+        <Baseline points="324,172 379,172 434,172 490,172 545,172 600,172" />
+        <TextEquiv>
+          <Unicode>LEG XX V V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="367,202 402,205 438,207 473,210 509,213 544,215 544,272 509,270 473,267 438,265 402,262 367,260" />
+        <Baseline points="367,249 402,252 438,254 473,257 509,260 544,262" />
+        <TextEquiv>
+          <Unicode>CHO IIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="362,274 398,274 434,274 469,274 505,275 541,275 541,332 505,332 469,332 434,331 398,331 362,331" />
+        <Baseline points="362,325 398,326 434,326 469,326 505,326 541,327" />
+        <TextEquiv>
+          <Unicode>LIB FRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="330,354 377,356 423,358 469,360 515,362 562,364 562,413 515,410 469,408 423,406 377,404 330,402" />
+        <Baseline points="330,397 377,399 423,401 469,403 515,405 562,407" />
+        <TextEquiv>
+          <Unicode>TERE MAG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="400,431 416,432 433,434 449,435 466,437 482,438 482,489 466,488 449,486 433,485 416,483 400,482" />
+        <Baseline points="400,473 416,474 433,476 449,477 466,479 482,480" />
+        <TextEquiv>
+          <Unicode>LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="410,498 421,498 431,498 442,498 453,498 463,498 463,545 453,544 442,544 431,544 421,544 410,544" />
+        <Baseline points="410,539 421,539 431,540 442,540 453,540 463,540" />
+        <TextEquiv>
+          <Unicode>XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

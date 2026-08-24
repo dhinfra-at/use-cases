@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00125.jpg" imageWidth="900" imageHeight="816">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,816 0,816" />
+      <TextLine id="r1l1">
+        <Coords points="80,139 188,143 296,147 404,151 512,155 620,158 620,218 512,214 404,211 296,207 188,203 80,199" />
+        <Baseline points="80,179 188,183 296,187 404,191 512,194 620,198" />
+        <TextEquiv>
+          <Unicode>IMP CAES DIVI TRAI PARTH F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="77,212 181,215 285,218 388,221 492,225 595,229 595,287 492,283 388,279 285,276 181,273 77,270" />
+        <Baseline points="77,252 181,255 285,258 388,261 492,265 595,269" />
+        <TextEquiv>
+          <Unicode>DIVI NER NEP TRAI HADRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="75,285 181,289 286,293 392,296 498,301 604,305 604,365 498,361 392,357 286,353 181,350 75,346" />
+        <Baseline points="75,325 181,329 286,332 392,336 498,340 604,345" />
+        <TextEquiv>
+          <Unicode>AVG PONT MAX TR POT XXIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="72,350 211,349 350,347 489,346 628,346 767,346 767,395 628,394 489,394 350,396 211,397 72,399" />
+        <Baseline points="72,395 211,393 350,392 489,390 628,390 767,391" />
+        <TextEquiv>
+          <Unicode>COS III P P ET IMP T AEL CAES ANTONI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="69,430 183,434 298,437 412,441 526,444 640,448 640,506 526,502 412,499 298,495 183,492 69,488" />
+        <Baseline points="69,470 183,474 298,477 412,480 526,484 640,487" />
+        <TextEquiv>
+          <Unicode>NO TRAI HADR AVG F DIVI TRAI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="67,502 197,503 327,503 457,503 587,504 717,505 717,551 587,550 457,550 327,549 197,549 67,549" />
+        <Baseline points="67,544 197,544 327,545 457,545 587,545 717,546" />
+        <TextEquiv>
+          <Unicode>PARTH NEP DIVI NER PRONEP TR POT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="65,566 200,565 336,564 472,564 607,564 743,564 743,612 607,612 472,612 336,612 200,613 65,614" />
+        <Baseline points="65,610 200,608 336,608 472,608 607,608 743,607" />
+        <TextEquiv>
+          <Unicode>N BVRG ET VEREDARIO DACIAE INF SVB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="62,648 155,653 249,658 343,664 436,669 530,674 530,741 436,736 343,731 249,725 155,720 62,715" />
+        <Baseline points="62,688 155,693 249,698 343,703 436,708 530,714" />
+        <TextEquiv>
+          <Unicode>FL CONSTANTE PROC AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

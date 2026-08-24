@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000126_F023486.jpg" imageWidth="800" imageHeight="1452">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1451 0,1451"/>
+      <TextLine id="r1l1">
+        <Coords points="72,140 703,152 703,341 72,329"/>
+        <Baseline points="72,299 703,311"/>
+        <TextEquiv><Unicode>DI·MA·NI·B</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="40,313 772,314 772,503 40,502"/>
+        <Baseline points="40,472 772,473"/>
+        <TextEquiv><Unicode>AVRELIVS·TAV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="46,475 742,487 742,672 46,660"/>
+        <Baseline points="46,632 742,644"/>
+        <TextEquiv><Unicode>MILES·COH·II·PR</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="50,637 764,655 764,830 50,812"/>
+        <Baseline points="50,785 764,803"/>
+        <TextEquiv><Unicode>PO·MATRI·BE·ME</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="52,785 754,819 754,994 52,960"/>
+        <Baseline points="52,929 754,963"/>
+        <TextEquiv><Unicode>IVLIE·MA·GERM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="48,935 755,974 755,1167 48,1128"/>
+        <Baseline points="48,1098 755,1137"/>
+        <TextEquiv><Unicode>ANICOPOLISINB</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

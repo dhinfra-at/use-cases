@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00304.jpg" imageWidth="900" imageHeight="564">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,564 0,564" />
+      <TextLine id="r1l1">
+        <Coords points="250,61 325,63 400,65 475,67 549,68 624,69 624,139 549,138 475,136 400,135 325,133 250,131" />
+        <Baseline points="250,110 325,112 400,114 475,116 549,117 624,118" />
+        <TextEquiv>
+          <Unicode>CL CRISPINVS ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="216,120 300,115 384,109 468,103 552,98 636,93 636,163 552,168 468,173 384,179 300,185 216,190" />
+        <Baseline points="216,184 300,179 384,174 468,168 552,162 636,157" />
+        <TextEquiv>
+          <Unicode>CENSORINA CETTI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="218,207 302,209 386,212 470,215 554,218 638,221 638,293 554,290 470,287 386,284 302,281 218,278" />
+        <Baseline points="218,251 302,253 386,256 470,259 554,262 638,265" />
+        <TextEquiv>
+          <Unicode>VIVI F S ET ACCEPTIAN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="235,258 314,254 394,249 474,243 553,238 633,233 633,296 553,301 474,306 394,311 314,316 235,321" />
+        <Baseline points="235,316 314,312 394,307 474,301 553,296 633,291" />
+        <TextEquiv>
+          <Unicode>AN XVIII ET CRISPINO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="258,323 325,319 392,315 458,311 525,307 592,303 592,360 525,364 458,368 392,372 325,376 258,379" />
+        <Baseline points="258,375 325,371 392,367 458,363 525,359 592,355" />
+        <TextEquiv>
+          <Unicode>CRISPINI F AED FL SOL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="349,388 386,386 423,384 461,382 498,381 535,379 535,424 498,426 461,427 423,429 386,431 349,433" />
+        <Baseline points="349,429 386,427 423,425 461,423 498,422 535,420" />
+        <TextEquiv>
+          <Unicode>VA AN XXV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00317.jpg" imageWidth="900" imageHeight="523">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,523 0,523" />
+      <TextLine id="r1l1">
+        <Coords points="410,50 433,51 455,51 477,52 500,52 522,53 522,86 500,85 477,85 455,84 433,84 410,83" />
+        <Baseline points="410,80 433,81 455,81 477,82 500,82 522,83" />
+        <TextEquiv>
+          <Unicode>L NERIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="412,94 432,94 452,95 472,96 492,96 512,97 512,126 492,126 472,125 452,124 432,124 412,123" />
+        <Baseline points="412,120 432,121 452,122 472,122 492,123 512,123" />
+        <TextEquiv>
+          <Unicode>CRESCES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="425,133 439,133 453,134 466,135 480,135 494,136 494,162 480,161 466,160 453,160 439,159 425,159" />
+        <Baseline points="425,156 439,156 453,157 466,158 480,158 494,159" />
+        <TextEquiv>
+          <Unicode>V A XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="426,170 438,170 450,171 462,172 474,172 486,173 486,196 474,195 462,195 450,194 438,194 426,193" />
+        <Baseline points="426,191 438,191 450,192 462,192 474,193 486,193" />
+        <TextEquiv>
+          <Unicode>X H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00198.jpg" imageWidth="900" imageHeight="669">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,669 0,669" />
+      <TextLine id="r1l1">
+        <Coords points="389,185 406,185 423,184 439,183 456,183 473,182 473,244 456,245 439,245 423,246 406,247 389,247" />
+        <Baseline points="389,238 406,238 423,237 439,236 456,236 473,235" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="176,278 262,277 347,275 432,274 517,272 602,272 602,343 517,344 432,345 347,346 262,348 176,349" />
+        <Baseline points="176,328 262,327 347,325 432,323 517,322 602,322" />
+        <TextEquiv>
+          <Unicode>DECIDIAE ROMANAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="196,339 275,333 355,327 434,321 513,315 593,308 593,375 513,381 434,388 355,393 275,399 196,405" />
+        <Baseline points="196,398 275,392 355,386 434,380 513,374 593,368" />
+        <TextEquiv>
+          <Unicode>IVLIA FILVMENE SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="184,422 272,422 360,422 449,423 537,423 626,424 626,498 537,497 449,497 360,496 272,496 184,497" />
+        <Baseline points="184,467 272,467 360,467 449,468 537,468 626,469" />
+        <TextEquiv>
+          <Unicode>SORORI PIENTISSIMAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="427,478 440,477 452,477 464,476 476,476 488,476 488,525 476,525 464,525 452,526 440,526 427,527" />
+        <Baseline points="427,520 440,519 452,519 464,518 476,518 488,517" />
+        <TextEquiv>
+          <Unicode>B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

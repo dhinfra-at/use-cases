@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00095.jpg" imageWidth="900" imageHeight="733">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,733 0,733" />
+      <TextLine id="r1l1">
+        <Coords points="302,123 354,119 405,115 456,111 508,107 559,103 559,140 508,144 456,148 405,151 354,155 302,159" />
+        <Baseline points="302,156 354,153 405,149 456,145 508,141 559,137" />
+        <TextEquiv>
+          <Unicode>MANIBVS GENTIS SVAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="292,171 349,168 407,165 465,162 523,159 581,155 581,187 523,190 465,193 407,196 349,199 292,203" />
+        <Baseline points="292,200 349,197 407,193 465,190 523,187 581,184" />
+        <TextEquiv>
+          <Unicode>LIBERTIS LIBERTAB OSSIB</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="377,215 403,215 429,214 455,214 481,213 508,212 508,242 481,242 455,243 429,244 403,244 377,245" />
+        <Baseline points="377,240 403,239 429,239 455,238 481,237 508,237" />
+        <TextEquiv>
+          <Unicode>PONENDIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="269,264 337,263 406,262 475,262 544,261 613,261 613,297 544,298 475,298 406,299 337,300 269,301" />
+        <Baseline points="269,287 337,286 406,286 475,285 544,285 613,284" />
+        <TextEquiv>
+          <Unicode>VINEDIAE C F IVCVNDAE VXORI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="397,302 417,302 437,301 458,301 478,300 498,299 498,327 478,327 458,328 437,328 417,329 397,330" />
+        <Baseline points="397,326 417,325 437,325 458,324 478,323 498,323" />
+        <TextEquiv>
+          <Unicode>H M H N S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="391,341 415,340 438,338 461,336 484,335 507,333 507,363 484,364 461,366 438,368 415,369 391,371" />
+        <Baseline points="391,368 415,367 438,365 461,363 484,362 507,360" />
+        <TextEquiv>
+          <Unicode>IN FR P XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="383,388 409,387 435,386 462,385 488,384 514,384 514,411 488,412 462,413 435,413 409,414 383,415" />
+        <Baseline points="383,411 409,410 435,410 462,409 488,408 514,407" />
+        <TextEquiv>
+          <Unicode>IN AGR P XVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

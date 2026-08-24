@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00208.jpg" imageWidth="900" imageHeight="1109">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,1109 0,1109" />
+      <TextLine id="r1l1">
+        <Coords points="209,152 293,152 376,152 459,152 542,152 625,152 625,213 542,213 459,213 376,213 293,213 209,212" />
+        <Baseline points="209,195 293,196 376,196 459,196 542,196 625,196" />
+        <TextEquiv>
+          <Unicode>IMP CAES M AVRELIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="258,225 327,227 397,228 466,229 536,229 605,229 605,289 536,290 466,290 397,289 327,287 258,285" />
+        <Baseline points="258,268 327,270 397,271 466,272 536,272 605,271" />
+        <TextEquiv>
+          <Unicode>ANTONINO AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="238,294 314,291 391,288 468,285 545,283 622,280 622,332 545,335 468,337 391,340 314,343 238,346" />
+        <Baseline points="238,342 314,338 391,335 468,333 545,330 622,327" />
+        <TextEquiv>
+          <Unicode>IMP CAES L SEPTIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="207,370 298,367 389,364 480,361 572,359 663,357 663,405 572,407 480,409 389,411 298,414 207,418" />
+        <Baseline points="207,413 298,410 389,407 480,404 572,402 663,400" />
+        <TextEquiv>
+          <Unicode>SEVERI PII PERTINACIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="221,420 309,414 396,408 484,402 571,395 658,388 658,454 571,461 484,468 396,474 309,480 221,486" />
+        <Baseline points="221,482 309,476 396,470 484,463 571,456 658,449" />
+        <TextEquiv>
+          <Unicode>AVG ARABICI ADIABENI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="225,510 303,510 380,510 458,510 536,510 614,510 614,563 536,563 458,563 380,563 303,563 225,563" />
+        <Baseline points="225,548 303,548 380,548 458,548 536,548 614,548" />
+        <TextEquiv>
+          <Unicode>CI FIL M ANTONINI PII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="219,579 289,578 359,578 429,577 499,575 569,575 569,620 499,621 429,622 359,623 289,624 219,625" />
+        <Baseline points="219,615 289,615 359,614 429,613 499,612 569,611" />
+        <TextEquiv>
+          <Unicode>POTI DIVI ANTON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="230,637 279,636 329,634 378,632 427,631 477,629 477,671 427,672 378,674 329,675 279,677 230,679" />
+        <Baseline points="230,675 279,673 329,671 378,670 427,668 477,667" />
+        <TextEquiv>
+          <Unicode>PRONEP DIVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="249,694 272,693 294,691 317,689 340,688 362,686 362,730 340,732 317,734 294,735 272,737 249,739" />
+        <Baseline points="249,735 272,733 294,731 317,730 340,728 362,726" />
+        <TextEquiv>
+          <Unicode>ABNEP</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

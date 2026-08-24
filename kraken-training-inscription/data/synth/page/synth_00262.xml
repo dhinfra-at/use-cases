@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00262.jpg" imageWidth="900" imageHeight="560">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,560 0,560" />
+      <TextLine id="r1l1">
+        <Coords points="424,116 437,117 450,118 462,119 475,120 488,121 488,157 475,156 462,156 450,155 437,154 424,153" />
+        <Baseline points="424,148 437,149 450,149 462,150 475,151 488,152" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="344,154 387,154 430,154 474,154 517,154 560,154 560,196 517,196 474,196 430,196 387,196 344,196" />
+        <Baseline points="344,193 387,193 430,193 474,193 517,193 560,193" />
+        <TextEquiv>
+          <Unicode>M M MARITIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="332,199 379,199 426,199 473,200 520,200 567,200 567,239 520,239 473,239 426,239 379,238 332,238" />
+        <Baseline points="332,235 379,235 426,235 473,236 520,236 567,236" />
+        <TextEquiv>
+          <Unicode>MARINI F AN XXVIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="419,254 432,254 444,255 456,255 469,255 481,256 481,283 469,283 456,282 444,282 432,282 419,281" />
+        <Baseline points="419,279 432,279 444,279 456,280 469,280 481,280" />
+        <TextEquiv>
+          <Unicode>H P C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00261.jpg" imageWidth="900" imageHeight="533">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,533 0,533" />
+      <TextLine id="r1l1">
+        <Coords points="97,78 106,79 114,79 123,79 132,79 141,80 141,113 132,113 123,113 114,113 106,112 97,112" />
+        <Baseline points="97,108 106,108 114,109 123,109 132,109 141,109" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="97,120 114,119 131,119 148,118 165,117 183,117 183,151 165,151 148,152 131,153 114,153 97,154" />
+        <Baseline points="97,151 114,150 131,149 148,149 165,148 183,148" />
+        <TextEquiv>
+          <Unicode>C DECIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="97,166 112,167 128,167 144,167 160,168 176,168 176,196 160,196 144,195 128,195 112,195 97,194" />
+        <Baseline points="97,191 112,191 128,192 144,192 160,192 176,193" />
+        <TextEquiv>
+          <Unicode>C F VOLT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="96,206 107,207 119,207 130,208 141,208 152,208 152,235 141,235 130,234 119,234 107,233 96,233" />
+        <Baseline points="96,229 107,229 119,229 130,230 141,230 152,231" />
+        <TextEquiv>
+          <Unicode>PRISCI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

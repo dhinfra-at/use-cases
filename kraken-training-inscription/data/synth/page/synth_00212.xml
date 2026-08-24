@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00212.jpg" imageWidth="900" imageHeight="490">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,490 0,490" />
+      <TextLine id="r1l1">
+        <Coords points="110,76 138,77 166,78 194,79 222,80 250,81 250,139 222,138 194,137 166,136 138,135 110,134" />
+        <Baseline points="110,126 138,127 166,128 194,129 222,130 250,131" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="110,146 175,146 240,146 305,146 370,146 435,147 435,210 370,210 305,210 240,209 175,209 110,209" />
+        <Baseline points="110,202 175,202 240,202 305,202 370,203 435,203" />
+        <TextEquiv>
+          <Unicode>L P CELERINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="110,219 160,219 209,218 259,217 308,217 358,216 358,279 308,280 259,280 209,281 160,282 110,282" />
+        <Baseline points="110,276 160,275 209,274 259,274 308,273 358,272" />
+        <TextEquiv>
+          <Unicode>IPOLC NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="110,301 175,306 240,311 305,315 370,320 435,324 435,386 370,381 305,377 240,372 175,367 110,362" />
+        <Baseline points="110,343 175,348 240,352 305,357 370,362 435,366" />
+        <TextEquiv>
+          <Unicode>LXXXI P I S H S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="110,362 143,362 176,363 210,364 243,364 276,365 276,413 243,412 210,411 176,410 143,410 110,410" />
+        <Baseline points="110,404 143,404 176,404 210,405 243,406 276,407" />
+        <TextEquiv>
+          <Unicode>E S T T L</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

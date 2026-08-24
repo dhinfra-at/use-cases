@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00464.jpg" imageWidth="900" imageHeight="745">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,745 0,745" />
+      <TextLine id="r1l1">
+        <Coords points="380,90 410,91 440,91 470,92 500,93 531,93 531,153 500,152 470,152 440,151 410,150 380,149" />
+        <Baseline points="380,141 410,142 440,142 470,143 500,144 531,144" />
+        <TextEquiv>
+          <Unicode>BOVTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="363,177 400,179 438,180 475,182 512,183 550,185 550,248 512,246 475,245 438,243 400,242 363,240" />
+        <Baseline points="363,228 400,230 438,231 475,233 512,234 550,236" />
+        <TextEquiv>
+          <Unicode>A LATR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="381,263 410,264 438,265 466,265 495,266 523,267 523,326 495,325 466,325 438,324 410,323 381,322" />
+        <Baseline points="381,313 410,314 438,315 466,315 495,316 523,317" />
+        <TextEquiv>
+          <Unicode>ONI F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="352,350 390,351 428,351 466,351 505,351 543,351 543,410 505,410 466,410 428,410 390,410 352,409" />
+        <Baseline points="352,402 390,402 428,402 466,402 505,403 543,403" />
+        <TextEquiv>
+          <Unicode>HISTIN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="374,438 401,439 429,441 457,442 485,444 512,445 512,506 485,505 457,504 429,502 401,501 374,499" />
+        <Baseline points="374,487 401,488 429,490 457,491 485,493 512,494" />
+        <TextEquiv>
+          <Unicode>IENSI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="372,521 399,522 425,523 452,525 479,526 505,527 505,587 479,586 452,584 425,583 399,582 372,580" />
+        <Baseline points="372,569 399,570 425,571 452,573 479,574 505,575" />
+        <TextEquiv>
+          <Unicode>HIC S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="407,606 418,606 429,606 440,607 451,607 462,607 462,663 451,663 440,662 429,662 418,662 407,662" />
+        <Baseline points="407,654 418,654 429,654 440,655 451,655 462,655" />
+        <TextEquiv>
+          <Unicode>ES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

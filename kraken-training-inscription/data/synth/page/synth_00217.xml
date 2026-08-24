@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00217.jpg" imageWidth="900" imageHeight="433">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,433 0,433" />
+      <TextLine id="r1l1">
+        <Coords points="314,76 370,76 426,76 482,76 539,76 595,75 595,152 539,153 482,153 426,153 370,153 314,153" />
+        <Baseline points="314,145 370,145 426,145 482,145 539,144 595,144" />
+        <TextEquiv>
+          <Unicode>SILVANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="298,176 357,180 416,183 475,187 534,191 593,195 593,264 534,260 475,256 416,252 357,248 298,244" />
+        <Baseline points="298,227 357,231 416,234 475,238 534,242 593,246" />
+        <TextEquiv>
+          <Unicode>G AN IVVE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="377,259 402,261 426,263 451,265 476,267 500,270 500,327 476,325 451,322 426,320 402,318 377,316" />
+        <Baseline points="377,302 402,305 426,307 451,309 476,311 500,314" />
+        <TextEquiv>
+          <Unicode>NALIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

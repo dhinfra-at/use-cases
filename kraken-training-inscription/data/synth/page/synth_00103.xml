@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00103.jpg" imageWidth="900" imageHeight="489">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,489 0,489" />
+      <TextLine id="r1l1">
+        <Coords points="359,150 394,148 430,146 465,144 501,141 536,139 536,177 501,179 465,181 430,183 394,185 359,187" />
+        <Baseline points="359,184 394,182 430,180 465,178 501,176 536,173" />
+        <TextEquiv>
+          <Unicode>GAVDENTIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="368,198 399,198 431,198 462,198 493,198 524,198 524,230 493,230 462,229 431,229 399,229 368,229" />
+        <Baseline points="368,222 399,222 431,222 462,223 493,223 524,223" />
+        <TextEquiv>
+          <Unicode>R IN PACE NN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="424,231 435,230 445,230 455,229 466,229 476,228 476,256 466,257 455,257 445,258 435,258 424,259" />
+        <Baseline points="424,256 435,255 445,255 455,254 466,254 476,253" />
+        <TextEquiv>
+          <Unicode>XIIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="382,263 409,262 437,261 464,259 492,258 519,257 519,285 492,286 464,288 437,289 409,290 382,292" />
+        <Baseline points="382,289 409,287 437,286 464,285 492,284 519,282" />
+        <TextEquiv>
+          <Unicode>FELICITAS R</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="373,300 403,300 433,301 463,301 493,301 523,301 523,327 493,327 463,326 433,326 403,326 373,326" />
+        <Baseline points="373,319 403,320 433,320 463,320 493,320 523,321" />
+        <TextEquiv>
+          <Unicode>IN PACE NN XII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

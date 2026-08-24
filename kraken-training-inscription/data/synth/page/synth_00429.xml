@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00429.jpg" imageWidth="900" imageHeight="698">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,698 0,698" />
+      <TextLine id="r1l1">
+        <Coords points="393,136 412,136 431,137 451,137 470,137 489,138 489,169 470,169 451,169 431,168 412,168 393,168" />
+        <Baseline points="393,163 412,163 431,163 451,164 470,164 489,164" />
+        <TextEquiv>
+          <Unicode>D M P S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="320,185 366,184 411,184 457,183 503,183 548,182 548,213 503,214 457,214 411,215 366,215 320,216" />
+        <Baseline points="320,213 366,212 411,211 457,211 503,210 548,210" />
+        <TextEquiv>
+          <Unicode>AVR VRSIANO MIL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="300,235 353,235 407,235 460,235 514,236 567,237 567,270 514,269 460,268 407,267 353,267 300,267" />
+        <Baseline points="300,260 353,260 407,261 460,261 514,262 567,263" />
+        <TextEquiv>
+          <Unicode>COH IIII PRAET PRIMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="242,283 317,285 392,288 467,291 542,294 617,296 617,340 542,338 467,335 392,332 317,330 242,327" />
+        <Baseline points="242,308 317,311 392,314 467,316 542,319 617,322" />
+        <TextEquiv>
+          <Unicode>ANI OBITVS NN XXXV STIP XIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="342,324 380,323 418,321 456,320 494,318 532,317 532,351 494,352 456,354 418,355 380,357 342,358" />
+        <Baseline points="342,355 380,353 418,352 456,350 494,349 532,347" />
+        <TextEquiv>
+          <Unicode>AVR VALERIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="372,375 400,375 429,376 458,377 486,378 515,379 515,411 486,410 458,409 429,408 400,407 372,406" />
+        <Baseline points="372,398 400,399 429,400 458,401 486,402 515,403" />
+        <TextEquiv>
+          <Unicode>FRATRI FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

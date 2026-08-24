@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00170.jpg" imageWidth="900" imageHeight="636">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,636 0,636" />
+      <TextLine id="r1l1">
+        <Coords points="397,122 418,121 438,120 458,119 478,117 498,116 498,161 478,162 458,163 438,164 418,166 397,167" />
+        <Baseline points="397,161 418,160 438,159 458,158 478,156 498,155" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="338,186 382,183 426,180 470,176 513,173 557,170 557,215 513,219 470,222 426,225 382,229 338,232" />
+        <Baseline points="338,227 382,224 426,220 470,217 513,214 557,210" />
+        <TextEquiv>
+          <Unicode>Q CACILIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="371,244 402,242 433,239 465,236 496,233 527,231 527,272 496,275 465,278 433,281 402,283 371,286" />
+        <Baseline points="371,281 402,278 433,276 465,273 496,270 527,267" />
+        <TextEquiv>
+          <Unicode>VRBANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="390,303 414,303 438,303 462,303 485,303 509,303 509,342 485,342 462,341 438,341 414,341 390,341" />
+        <Baseline points="390,330 414,330 438,331 462,331 485,331 509,331" />
+        <TextEquiv>
+          <Unicode>V ANNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="412,349 428,349 443,349 458,349 474,349 489,349 489,380 474,380 458,380 443,380 428,380 412,381" />
+        <Baseline points="412,373 428,373 443,373 458,373 474,373 489,373" />
+        <TextEquiv>
+          <Unicode>L H E S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

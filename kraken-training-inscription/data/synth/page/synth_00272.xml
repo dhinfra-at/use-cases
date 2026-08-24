@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00272.jpg" imageWidth="900" imageHeight="901">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,901 0,901" />
+      <TextLine id="r1l1">
+        <Coords points="129,119 255,115 382,112 508,108 634,105 760,102 760,154 634,157 508,160 382,163 255,167 129,170" />
+        <Baseline points="129,165 255,162 382,158 508,154 634,151 760,149" />
+        <TextEquiv>
+          <Unicode>L PVMIDIVS L L M CASTRICIVS Q L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="132,202 256,206 380,211 504,216 628,221 752,226 752,295 628,290 504,285 380,280 256,276 132,271" />
+        <Baseline points="132,238 256,242 380,247 504,252 628,257 752,262" />
+        <TextEquiv>
+          <Unicode>CN OTACILIVS Q L A CLAVDIVS SEX L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="202,271 298,270 395,269 491,268 587,266 684,264 684,321 587,323 491,325 395,326 298,327 202,328" />
+        <Baseline points="202,321 298,320 395,319 491,318 587,316 684,314" />
+        <TextEquiv>
+          <Unicode>CN MESCINIVS M L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="142,346 260,345 379,344 497,344 615,343 733,343 733,395 615,396 497,396 379,397 260,397 142,398" />
+        <Baseline points="142,390 260,390 379,389 497,389 615,388 733,388" />
+        <TextEquiv>
+          <Unicode>PHILOLOGVS APRODISIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="140,399 262,395 384,392 506,389 627,385 749,381 749,446 627,450 506,454 384,457 262,460 140,463" />
+        <Baseline points="140,457 262,453 384,450 506,447 627,443 749,439" />
+        <TextEquiv>
+          <Unicode>DOSITHEVS A GRANIVS Q L</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="185,454 290,447 395,441 500,435 606,431 711,426 711,500 606,505 500,510 395,515 290,522 185,529" />
+        <Baseline points="185,522 290,515 395,509 500,503 606,498 711,494" />
+        <TextEquiv>
+          <Unicode>ARCHIBIVS APRODISIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="233,543 320,542 408,540 495,538 582,537 669,535 669,588 582,590 495,592 408,593 320,595 233,596" />
+        <Baseline points="233,590 320,588 408,587 495,585 582,583 669,582" />
+        <TextEquiv>
+          <Unicode>C NERIVS M L HISCE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="159,608 273,607 386,606 500,606 614,607 727,607 727,659 614,658 500,658 386,658 273,658 159,659" />
+        <Baseline points="159,650 273,649 386,648 500,648 614,649 727,649" />
+        <TextEquiv>
+          <Unicode>SIGNVM VOLCANI MERITO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="322,670 372,671 422,671 471,672 521,673 571,674 571,726 521,725 471,725 422,724 372,723 322,722" />
+        <Baseline points="322,711 372,711 422,712 471,713 521,714 571,715" />
+        <TextEquiv>
+          <Unicode>STATVERVNT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="241,728 327,727 413,726 499,725 585,724 671,723 671,772 585,773 499,774 413,775 327,776 241,777" />
+        <Baseline points="241,771 327,770 413,769 499,768 585,767 671,766" />
+        <TextEquiv>
+          <Unicode>HERACLIDES CASTRICI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

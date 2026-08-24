@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000649_F004013.jpg" imageWidth="800" imageHeight="1124">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1123 0,1123"/>
+      <TextLine id="r1l1">
+        <Coords points="48,278 750,281 750,337 48,334"/>
+        <Baseline points="48,324 750,327"/>
+        <TextEquiv><Unicode>L CALIDIVS EROTICVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="43,325 761,332 761,395 43,388"/>
+        <Baseline points="43,380 761,387"/>
+        <TextEquiv><Unicode>SIBI ET FANNIAE VOLVPTATI V F</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="77,386 757,386 757,435 77,435"/>
+        <Baseline points="77,426 757,426"/>
+        <TextEquiv><Unicode>COPO COMPVTEMVS HABES VINI | I PANI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="73,432 746,425 746,480 73,487"/>
+        <Baseline points="73,478 746,471"/>
+        <TextEquiv><Unicode>A I PVLMENTAR A II CONVENIT PVELL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="77,476 713,477 713,532 77,531"/>
+        <Baseline points="77,522 713,523"/>
+        <TextEquiv><Unicode>A VIII ET HOC CONVENIT FAENVM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="70,525 761,525 761,579 70,579"/>
+        <Baseline points="70,571 761,571"/>
+        <TextEquiv><Unicode>MVLO A II ISTE MVLVS ME AD FACTVM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="86,573 233,573 233,624 86,624"/>
+        <Baseline points="86,615 233,615"/>
+        <TextEquiv><Unicode>DABIT</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

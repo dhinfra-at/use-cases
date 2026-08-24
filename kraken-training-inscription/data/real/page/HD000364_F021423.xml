@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000364_F021423.jpg" imageWidth="800" imageHeight="1235">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1234 0,1234"/>
+      <TextLine id="r1l1">
+        <Coords points="65,6 718,36 718,141 65,111"/>
+        <Baseline points="65,94 718,124"/>
+        <TextEquiv><Unicode>DEAE·FORTVN</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="59,101 726,127 726,234 59,208"/>
+        <Baseline points="59,193 726,219"/>
+        <TextEquiv><Unicode>ANCTAE·BALINE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="55,198 707,223 707,319 55,294"/>
+        <Baseline points="55,278 707,303"/>
+        <TextEquiv><Unicode>VETVSTATE·CONLA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="59,282 634,309 634,415 59,388"/>
+        <Baseline points="59,368 634,395"/>
+        <TextEquiv><Unicode>SVM·EXPL·STV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="43,371 680,402 680,523 43,492"/>
+        <Baseline points="43,475 680,506"/>
+        <TextEquiv><Unicode>ET·BRIT·GENTILIS·ET</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="41,480 721,510 721,618 41,588"/>
+        <Baseline points="41,570 721,600"/>
+        <TextEquiv><Unicode>OFFICIALESBRIT</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="54,579 409,590 398,700 54,689"/>
+        <Baseline points="54,672 404,683"/>
+        <TextEquiv><Unicode>DEDITIC·</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="597,696 732,702 732,807 592,801"/>
+        <Baseline points="590,784 732,790"/>
+        <TextEquiv><Unicode>·DE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="43,764 405,763 735,797 735,901 43,868"/>
+        <Baseline points="43,851 735,884"/>
+        <TextEquiv><Unicode>SVO·RESTITVER·CV</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="46,854 735,891 735,997 46,960"/>
+        <Baseline points="46,944 735,981"/>
+        <TextEquiv><Unicode>RA·AGENTE·T·FL·RO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="45,944 717,990 717,1090 45,1044"/>
+        <Baseline points="45,1030 717,1076"/>
+        <TextEquiv><Unicode>MANO·LEG·XXII·PPF</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="39,1038 707,1076 707,1165 39,1127"/>
+        <Baseline points="39,1112 707,1150"/>
+        <TextEquiv><Unicode>D·AVG·LVPO·ET·MAXIMO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l13">
+        <Coords points="252,1131 443,1140 443,1234 252,1228"/>
+        <Baseline points="252,1211 443,1220"/>
+        <TextEquiv><Unicode>COS</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

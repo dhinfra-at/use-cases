@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00468.jpg" imageWidth="900" imageHeight="822">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,822 0,822" />
+      <TextLine id="r1l1">
+        <Coords points="400,146 417,146 434,146 451,146 469,146 486,146 486,198 469,198 451,198 434,198 417,199 400,199" />
+        <Baseline points="400,192 417,192 434,192 451,191 469,191 486,191" />
+        <TextEquiv>
+          <Unicode>D N</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="273,208 341,204 410,200 478,196 546,192 615,189 615,253 546,257 478,261 410,264 341,268 273,272" />
+        <Baseline points="273,266 341,263 410,259 478,255 546,251 615,247" />
+        <TextEquiv>
+          <Unicode>DIOCLETIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="272,287 339,284 405,282 472,280 539,278 605,275 605,331 539,334 472,336 405,338 339,340 272,343" />
+        <Baseline points="272,337 339,335 405,333 472,330 539,328 605,325" />
+        <TextEquiv>
+          <Unicode>ET MAXIMIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="210,366 304,368 399,369 493,369 588,369 683,369 683,431 588,431 493,431 399,430 304,429 210,428" />
+        <Baseline points="210,411 304,413 399,413 493,414 588,414 683,414" />
+        <TextEquiv>
+          <Unicode>INVICTIS AVGVSTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="260,416 336,410 412,405 488,399 564,394 640,389 640,459 564,464 488,470 412,475 336,481 260,487" />
+        <Baseline points="260,481 336,475 412,470 488,464 564,459 640,454" />
+        <TextEquiv>
+          <Unicode>ET CONSTANTIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="268,505 339,506 410,507 482,509 553,510 624,511 624,572 553,571 482,570 410,569 339,568 268,566" />
+        <Baseline points="268,549 339,550 410,551 482,552 553,554 624,555" />
+        <TextEquiv>
+          <Unicode>ET MAXIMIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="340,571 387,569 433,567 479,566 525,564 571,562 571,616 525,618 479,619 433,621 387,623 340,625" />
+        <Baseline points="340,620 387,618 433,616 479,614 525,612 571,610" />
+        <TextEquiv>
+          <Unicode>NOB CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

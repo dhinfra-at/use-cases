@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD002421_F023487.jpg" imageWidth="800" imageHeight="1389">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1388 0,1388"/>
+      <TextLine id="r1l1">
+        <Coords points="256,79 575,95 575,203 256,187"/>
+        <Baseline points="256,165 575,181"/>
+        <TextEquiv><Unicode>D M</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="130,169 709,190 709,322 130,301"/>
+        <Baseline points="130,285 709,306"/>
+        <TextEquiv><Unicode>C PACONIVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="135,284 684,317 684,421 135,388"/>
+        <Baseline points="135,370 684,403"/>
+        <TextEquiv><Unicode>VICTOR SVIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="141,373 691,411 691,524 141,486"/>
+        <Baseline points="141,469 691,507"/>
+        <TextEquiv><Unicode>DAMNIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="137,475 649,511 649,620 137,584"/>
+        <Baseline points="137,567 649,603"/>
+        <TextEquiv><Unicode>DEVTERA</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="128,567 690,612 690,717 128,672"/>
+        <Baseline points="128,659 690,704"/>
+        <TextEquiv><Unicode>DVLCISSIM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="134,654 672,706 672,793 134,741"/>
+        <Baseline points="134,727 672,779"/>
+        <TextEquiv><Unicode>VIX AN IIII</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="119,728 708,785 708,877 119,820"/>
+        <Baseline points="119,804 708,861"/>
+        <TextEquiv><Unicode>M VIII D VII NO</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="110,805 703,868 703,967 110,904"/>
+        <Baseline points="110,889 703,952"/>
+        <TextEquiv><Unicode>MEN SORORIS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="115,902 670,948 670,1041 115,995"/>
+        <Baseline points="115,980 670,1026"/>
+        <TextEquiv><Unicode>FILIVS PRIMITI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="117,987 698,1028 698,1122 117,1081"/>
+        <Baseline points="117,1065 698,1106"/>
+        <TextEquiv><Unicode>VOS MATER</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l12">
+        <Coords points="146,1060 747,1119 747,1220 146,1161"/>
+        <Baseline points="146,1145 747,1204"/>
+        <TextEquiv><Unicode>VICTORIA</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00285.jpg" imageWidth="900" imageHeight="415">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,415 0,415" />
+      <TextLine id="r1l1">
+        <Coords points="328,127 374,122 420,118 466,113 512,109 558,104 558,163 512,167 466,172 420,176 374,181 328,185" />
+        <Baseline points="328,180 374,176 420,171 466,167 512,163 558,158" />
+        <TextEquiv>
+          <Unicode>M FORTVNA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="304,225 363,225 422,225 481,224 540,223 598,223 598,277 540,278 481,278 422,279 363,279 304,279" />
+        <Baseline points="304,263 363,263 422,262 481,262 540,261 598,260" />
+        <TextEquiv>
+          <Unicode>TAIS SIC INFANTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="403,289 425,287 448,285 470,283 492,282 515,280 515,321 492,323 470,324 448,326 425,328 403,330" />
+        <Baseline points="403,326 425,324 448,322 470,320 492,319 515,317" />
+        <TextEquiv>
+          <Unicode>IN PAC</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

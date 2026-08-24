@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00310.jpg" imageWidth="900" imageHeight="639">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,639 0,639" />
+      <TextLine id="r1l1">
+        <Coords points="273,69 341,70 409,71 477,72 545,74 613,76 613,154 545,153 477,151 409,150 341,149 273,148" />
+        <Baseline points="273,124 341,125 409,126 477,128 545,129 613,131" />
+        <TextEquiv>
+          <Unicode>C NVMERIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="274,150 342,151 410,151 478,152 547,153 615,153 615,227 547,226 478,226 410,225 342,225 274,224" />
+        <Baseline points="274,205 342,205 410,205 478,206 547,207 615,207" />
+        <TextEquiv>
+          <Unicode>MAIORI DEC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="298,226 358,224 417,221 477,218 537,215 596,212 596,278 537,281 477,283 417,286 358,289 298,292" />
+        <Baseline points="298,284 358,282 417,279 477,276 537,273 596,270" />
+        <TextEquiv>
+          <Unicode>VETERANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="242,294 324,287 405,281 487,275 569,270 651,265 651,341 569,346 487,351 405,357 324,364 242,371" />
+        <Baseline points="242,363 324,356 405,350 487,344 569,338 651,334" />
+        <TextEquiv>
+          <Unicode>TOSSIDENE PRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="241,379 323,376 405,373 487,370 569,367 651,363 651,424 569,427 487,430 405,434 323,437 241,440" />
+        <Baseline points="241,433 323,430 405,426 487,423 569,420 651,417" />
+        <TextEquiv>
+          <Unicode>CLA VIRO SVO ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="197,450 297,446 398,442 498,437 598,432 699,426 699,491 598,497 498,502 398,507 297,511 197,515" />
+        <Baseline points="197,507 297,504 398,500 498,495 598,490 699,484" />
+        <TextEquiv>
+          <Unicode>C NVMERIVS MAIOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="239,528 324,524 409,521 495,518 580,516 665,514 665,569 580,572 495,574 409,577 324,580 239,583" />
+        <Baseline points="239,576 324,573 409,570 495,567 580,565 665,563" />
+        <TextEquiv>
+          <Unicode>FILIVS PATRI H C</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

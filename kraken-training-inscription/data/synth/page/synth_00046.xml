@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00046.jpg" imageWidth="900" imageHeight="577">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,577 0,577" />
+      <TextLine id="r1l1">
+        <Coords points="389,59 418,59 448,59 477,59 507,60 536,60 536,119 507,119 477,119 448,119 418,119 389,119" />
+        <Baseline points="389,113 418,113 448,113 477,113 507,113 536,113" />
+        <TextEquiv>
+          <Unicode>D M S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="299,143 361,149 423,154 485,160 547,165 609,170 609,240 547,235 485,230 423,225 361,219 299,213" />
+        <Baseline points="299,191 361,197 423,202 485,208 547,213 609,218" />
+        <TextEquiv>
+          <Unicode>Q SENTIVS TI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="274,224 344,229 414,233 484,238 554,243 624,248 624,312 554,308 484,303 414,298 344,293 274,289" />
+        <Baseline points="274,271 344,276 414,280 484,285 554,290 624,294" />
+        <TextEquiv>
+          <Unicode>RES VIX AN LV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="267,303 337,307 407,311 477,315 547,319 617,322 617,381 547,377 477,374 407,370 337,366 267,362" />
+        <Baseline points="267,349 337,353 407,357 477,361 547,365 617,368" />
+        <TextEquiv>
+          <Unicode>FABARIA PRIM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="304,382 358,385 412,388 466,392 520,395 573,399 573,458 520,455 466,451 412,448 358,444 304,441" />
+        <Baseline points="304,427 358,431 412,434 466,438 520,441 573,444" />
+        <TextEquiv>
+          <Unicode>OSA VIX AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="356,459 388,460 419,461 450,462 482,463 513,464 513,515 482,514 450,513 419,512 388,511 356,509" />
+        <Baseline points="356,504 388,505 419,506 450,507 482,508 513,509" />
+        <TextEquiv>
+          <Unicode>LIII H S</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

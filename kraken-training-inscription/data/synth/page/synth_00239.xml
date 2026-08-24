@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00239.jpg" imageWidth="900" imageHeight="688">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,688 0,688" />
+      <TextLine id="r1l1">
+        <Coords points="409,165 479,163 549,161 619,160 690,158 760,155 760,192 690,194 619,196 549,198 479,200 409,201" />
+        <Baseline points="409,194 479,193 549,191 619,189 690,187 760,185" />
+        <TextEquiv>
+          <Unicode>VS CONSTANTINS AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="289,222 380,215 471,208 562,201 652,194 743,187 743,245 652,252 562,259 471,266 380,273 289,281" />
+        <Baseline points="289,276 380,269 471,262 562,255 652,248 743,241" />
+        <TextEquiv>
+          <Unicode>QVAS EDES SERD CIVITATIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="262,330 371,326 479,322 587,320 695,316 803,312 803,339 695,344 587,347 479,350 371,353 262,358" />
+        <Baseline points="262,353 371,349 479,345 587,343 695,339 803,335" />
+        <TextEquiv>
+          <Unicode>DVCTVM SIC RENOVAVIT DATA PECVNIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="273,394 368,389 463,384 559,379 654,375 749,370 749,405 654,410 559,415 463,419 368,424 273,429" />
+        <Baseline points="273,426 368,421 463,416 559,411 654,407 749,402" />
+        <TextEquiv>
+          <Unicode>VLIANVM CANDIDATVM INSTANTIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="277,479 372,481 468,482 564,484 660,486 756,489 756,547 660,545 564,543 468,541 372,539 277,538" />
+        <Baseline points="277,508 372,509 468,511 564,513 660,515 756,517" />
+        <TextEquiv>
+          <Unicode>TISS LEONTIO ARCHIEPISCOPO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="283,525 317,523 352,521 387,519 422,517 456,515 456,558 422,560 387,562 352,564 317,566 283,568" />
+        <Baseline points="283,563 317,561 352,559 387,558 422,556 456,554" />
+        <TextEquiv>
+          <Unicode>R DICT XIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

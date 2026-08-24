@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00186.jpg" imageWidth="900" imageHeight="545">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,545 0,545" />
+      <TextLine id="r1l1">
+        <Coords points="424,255 434,255 444,255 454,255 464,254 474,254 474,286 464,286 454,286 444,286 434,286 424,286" />
+        <Baseline points="424,283 434,283 444,283 454,283 464,282 474,282" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="288,294 350,295 412,297 474,299 536,301 598,302 598,335 536,333 474,331 412,330 350,328 288,326" />
+        <Baseline points="288,319 350,321 412,323 474,324 536,326 598,328" />
+        <TextEquiv>
+          <Unicode>FL CAROSO VETERANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="337,333 379,335 421,337 462,339 504,341 546,344 546,379 504,377 462,375 421,372 379,370 337,368" />
+        <Baseline points="337,357 379,359 421,361 462,364 504,366 546,368" />
+        <TextEquiv>
+          <Unicode>ATTIGIA VRSACIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="287,369 349,370 411,372 472,373 534,375 596,376 596,404 534,403 472,401 411,400 349,398 287,396" />
+        <Baseline points="287,391 349,393 411,394 472,396 534,397 596,399" />
+        <TextEquiv>
+          <Unicode>COMPATRI BENIGNISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

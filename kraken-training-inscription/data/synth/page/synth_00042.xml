@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00042.jpg" imageWidth="900" imageHeight="388">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,388 0,388" />
+      <TextLine id="r1l1">
+        <Coords points="136,71 239,72 342,73 445,73 548,73 651,72 651,122 548,122 445,123 342,122 239,121 136,120" />
+        <Baseline points="136,115 239,116 342,117 445,117 548,117 651,116" />
+        <TextEquiv>
+          <Unicode>PRO SAL GLADIATORVM PARIA XX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="326,172 362,174 398,177 434,179 470,181 505,183 505,254 470,251 434,249 398,247 362,245 326,243" />
+        <Baseline points="326,227 362,229 398,232 434,234 470,236 505,238" />
+        <TextEquiv>
+          <Unicode>PVGNAB</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

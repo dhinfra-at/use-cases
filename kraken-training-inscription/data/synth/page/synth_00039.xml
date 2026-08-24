@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00039.jpg" imageWidth="900" imageHeight="699">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,699 0,699" />
+      <TextLine id="r1l1">
+        <Coords points="75,99 218,92 361,85 504,76 647,67 790,59 790,131 647,139 504,149 361,157 218,164 75,172" />
+        <Baseline points="75,166 218,158 361,151 504,143 647,133 790,125" />
+        <TextEquiv>
+          <Unicode>EX AVCTORITATE ET SENTEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="76,212 98,212 121,212 144,211 166,211 189,211 189,277 166,277 144,277 121,278 98,278 76,278" />
+        <Baseline points="76,270 98,269 121,269 144,268 166,268 189,268" />
+        <TextEquiv>
+          <Unicode>TIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="76,297 213,296 350,294 487,293 624,293 761,294 761,360 624,359 487,359 350,360 213,362 76,363" />
+        <Baseline points="76,345 213,344 350,342 487,341 624,341 761,342" />
+        <TextEquiv>
+          <Unicode>IMP CAESARIS T AELI ANTO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="77,378 213,376 348,374 484,372 620,370 756,369 756,426 620,428 484,429 348,431 213,434 77,436" />
+        <Baseline points="77,425 213,423 348,421 484,419 620,417 756,415" />
+        <TextEquiv>
+          <Unicode>NINI AVG PII DETERMINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="77,458 213,458 349,457 486,456 622,455 758,455 758,512 622,513 486,514 349,515 213,515 77,516" />
+        <Baseline points="77,500 213,499 349,499 486,498 622,497 758,496" />
+        <TextEquiv>
+          <Unicode>TIO FACTA PVBLICA MVSTITA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="78,531 123,529 168,527 213,526 258,524 304,522 304,588 258,589 213,591 168,593 123,595 78,597" />
+        <Baseline points="78,590 123,588 168,586 213,584 258,582 304,580" />
+        <TextEquiv>
+          <Unicode>NORVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

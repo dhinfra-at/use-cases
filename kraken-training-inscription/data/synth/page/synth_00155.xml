@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00155.jpg" imageWidth="900" imageHeight="909">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,909 0,909" />
+      <TextLine id="r1l1">
+        <Coords points="330,120 364,118 398,117 432,115 465,113 499,111 499,164 465,166 432,167 398,169 364,171 330,173" />
+        <Baseline points="330,168 364,166 398,164 432,162 465,160 499,159" />
+        <TextEquiv>
+          <Unicode>IMP CAES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="356,193 383,194 410,194 438,194 465,194 492,195 492,240 465,240 438,240 410,239 383,239 356,239" />
+        <Baseline points="356,232 383,233 410,233 438,233 465,233 492,233" />
+        <TextEquiv>
+          <Unicode>T AELIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="353,250 382,249 410,248 438,246 466,245 495,244 495,293 466,294 438,295 410,296 382,298 353,299" />
+        <Baseline points="353,294 382,292 410,291 438,290 466,289 495,288" />
+        <TextEquiv>
+          <Unicode>HADR AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="354,317 380,316 406,316 432,315 458,315 483,314 483,359 458,360 432,360 406,361 380,361 354,362" />
+        <Baseline points="354,356 380,356 406,356 432,355 458,355 483,354" />
+        <TextEquiv>
+          <Unicode>TONINVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="343,382 373,382 404,383 435,383 466,383 497,384 497,428 466,428 435,428 404,427 373,427 343,427" />
+        <Baseline points="343,420 373,420 404,420 435,421 466,421 497,421" />
+        <TextEquiv>
+          <Unicode>AVG PIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="309,445 353,445 397,445 442,444 486,444 530,443 530,488 486,488 442,488 397,489 353,489 309,489" />
+        <Baseline points="309,484 353,484 397,484 442,483 486,483 530,482" />
+        <TextEquiv>
+          <Unicode>P M T P XXII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="330,506 367,506 404,506 440,506 477,506 513,506 513,549 477,549 440,549 404,549 367,549 330,549" />
+        <Baseline points="330,544 367,544 404,544 440,544 477,544 513,544" />
+        <TextEquiv>
+          <Unicode>COS IIII P P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="290,562 339,560 388,558 436,556 485,555 533,553 533,604 485,606 436,608 388,609 339,611 290,613" />
+        <Baseline points="290,608 339,606 388,604 436,602 485,601 533,599" />
+        <TextEquiv>
+          <Unicode>IVLIO SEVERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="300,633 345,635 390,637 434,639 479,641 524,643 524,695 479,693 434,691 390,689 345,687 300,685" />
+        <Baseline points="300,670 345,672 390,674 434,676 479,678 524,680" />
+        <TextEquiv>
+          <Unicode>LEG AVG PR PR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="429,695 435,695 442,695 449,696 455,696 462,696 462,740 455,739 449,739 442,739 435,738 429,738" />
+        <Baseline points="429,731 435,732 442,732 449,732 455,733 462,733" />
+        <TextEquiv>
+          <Unicode>III</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

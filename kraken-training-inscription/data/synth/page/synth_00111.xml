@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00111.jpg" imageWidth="900" imageHeight="342">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,342 0,342" />
+      <TextLine id="r1l1">
+        <Coords points="225,135 307,134 390,132 472,131 554,130 636,129 636,192 554,192 472,194 390,195 307,197 225,198" />
+        <Baseline points="225,191 307,190 390,189 472,187 554,186 636,185" />
+        <TextEquiv>
+          <Unicode>PRIAPO V S L M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="231,215 307,212 384,209 460,206 536,202 613,198 613,258 536,262 460,265 384,269 307,272 231,275" />
+        <Baseline points="231,269 307,267 384,264 460,260 536,257 613,253" />
+        <TextEquiv>
+          <Unicode>VALERIVS HERMES</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

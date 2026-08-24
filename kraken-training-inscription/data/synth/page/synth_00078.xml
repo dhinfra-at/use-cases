@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00078.jpg" imageWidth="900" imageHeight="688">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,688 0,688" />
+      <TextLine id="r1l1">
+        <Coords points="412,62 423,62 435,62 446,62 457,63 469,63 469,99 457,99 446,99 435,99 423,99 412,99" />
+        <Baseline points="412,92 423,92 435,92 446,92 457,92 469,92" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="389,104 410,102 431,101 452,99 473,98 494,97 494,133 473,134 452,136 431,137 410,139 389,140" />
+        <Baseline points="389,136 410,134 431,133 452,132 473,130 494,129" />
+        <TextEquiv>
+          <Unicode>ANIBVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="335,151 378,150 421,149 464,149 507,148 550,148 550,183 507,183 464,184 421,184 378,185 335,186" />
+        <Baseline points="335,177 378,177 421,176 464,175 507,175 550,174" />
+        <TextEquiv>
+          <Unicode>IVLIVS MARAXA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="306,191 360,190 415,189 470,188 525,187 579,186 579,220 525,221 470,222 415,223 360,224 306,225" />
+        <Baseline points="306,216 360,215 415,214 470,213 525,212 579,212" />
+        <TextEquiv>
+          <Unicode>VETRANVS MILITAVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="377,220 404,217 432,215 459,213 486,211 514,208 514,243 486,245 459,247 432,250 404,252 377,254" />
+        <Baseline points="377,251 404,248 432,246 459,244 486,242 514,239" />
+        <TextEquiv>
+          <Unicode>ANNIS XXXI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="381,262 408,262 434,261 460,261 487,261 513,261 513,291 487,291 460,291 434,291 408,291 381,292" />
+        <Baseline points="381,284 408,284 434,284 460,284 487,284 513,283" />
+        <TextEquiv>
+          <Unicode>VI ANIS LXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

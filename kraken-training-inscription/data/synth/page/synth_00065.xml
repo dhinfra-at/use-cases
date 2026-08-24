@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00065.jpg" imageWidth="900" imageHeight="696">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,696 0,696" />
+      <TextLine id="r1l1">
+        <Coords points="399,145 433,146 467,146 501,147 536,148 570,148 570,191 536,190 501,189 467,189 433,188 399,187" />
+        <Baseline points="399,182 433,182 467,183 501,184 536,184 570,185" />
+        <TextEquiv>
+          <Unicode>R GAVDE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="354,197 392,198 429,198 466,198 504,199 541,199 541,241 504,240 466,240 429,239 392,239 354,238" />
+        <Baseline points="354,234 392,234 429,235 466,235 504,236 541,236" />
+        <TextEquiv>
+          <Unicode>NTIVS FILI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="321,238 373,236 424,234 476,232 528,230 579,228 579,281 528,283 476,285 424,287 373,289 321,291" />
+        <Baseline points="321,287 373,285 424,283 476,281 528,279 579,277" />
+        <TextEquiv>
+          <Unicode>VS AEL GRECI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="306,304 363,305 420,307 477,308 534,310 591,311 591,355 534,353 477,352 420,351 363,349 306,348" />
+        <Baseline points="306,340 363,341 420,343 477,344 534,345 591,347" />
+        <TextEquiv>
+          <Unicode>MATRI VIVE ET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="293,358 354,361 416,364 477,366 539,368 600,371 600,419 539,417 477,414 416,412 354,410 293,407" />
+        <Baseline points="293,394 354,397 416,399 477,402 539,404 600,406" />
+        <TextEquiv>
+          <Unicode>AVR SERENIANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="302,400 359,399 416,398 472,397 529,396 586,395 586,444 529,445 472,446 416,447 359,448 302,449" />
+        <Baseline points="302,445 359,444 416,443 472,442 529,441 586,440" />
+        <TextEquiv>
+          <Unicode>FRATRI O AN XVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="393,463 414,464 434,465 455,466 475,467 496,468 496,512 475,511 455,510 434,509 414,508 393,507" />
+        <Baseline points="393,498 414,499 434,500 455,502 475,503 496,504" />
+        <TextEquiv>
+          <Unicode>FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

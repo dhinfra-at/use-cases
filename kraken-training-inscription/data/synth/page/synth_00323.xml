@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00323.jpg" imageWidth="900" imageHeight="873">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,873 0,873" />
+      <TextLine id="r1l1">
+        <Coords points="204,194 297,199 390,204 483,210 576,215 669,220 669,286 576,281 483,275 390,270 297,264 204,259" />
+        <Baseline points="204,240 297,246 390,251 483,256 576,262 669,267" />
+        <TextEquiv>
+          <Unicode>CONPELLENTE TEM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="93,260 239,268 385,276 531,283 676,290 822,298 822,350 676,343 531,335 385,328 239,321 93,313" />
+        <Baseline points="93,293 239,301 385,308 531,316 676,323 822,330" />
+        <TextEquiv>
+          <Unicode>PORVM FELICITATE DDD NNN VALENTIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="193,316 292,315 391,316 490,317 589,318 688,321 688,377 589,375 490,373 391,372 292,372 193,373" />
+        <Baseline points="193,367 292,367 391,367 490,368 589,370 688,372" />
+        <TextEquiv>
+          <Unicode>GRATIANI AC VALENTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="245,373 324,372 402,371 480,369 558,368 637,367 637,429 558,430 480,431 402,432 324,434 245,435" />
+        <Baseline points="245,430 324,429 402,428 480,427 558,425 637,424" />
+        <TextEquiv>
+          <Unicode>NIANI INVICTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="94,433 232,437 371,439 510,440 649,442 787,444 787,493 649,491 510,490 371,488 232,486 94,483" />
+        <Baseline points="94,478 232,481 371,484 510,485 649,486 787,489" />
+        <TextEquiv>
+          <Unicode>RVM SEMPER AVGG PVBLICIVS FELIX HOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="241,504 322,507 404,510 485,513 567,516 648,518 648,561 567,559 485,556 404,553 322,550 241,546" />
+        <Baseline points="241,539 322,543 404,546 485,549 567,552 648,554" />
+        <TextEquiv>
+          <Unicode>TENSIVS FL PP CVR R P</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="242,554 322,556 403,559 484,561 565,563 645,566 645,604 565,601 484,599 403,597 322,595 242,592" />
+        <Baseline points="242,588 322,591 403,593 484,595 565,597 645,600" />
+        <TextEquiv>
+          <Unicode>ROSTRA AD ORNATVM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="262,604 337,608 411,612 485,617 559,622 634,626 634,673 559,669 485,664 411,659 337,655 262,650" />
+        <Baseline points="262,635 337,639 411,644 485,649 559,653 634,657" />
+        <TextEquiv>
+          <Unicode>PATRIAE IN MELIOREM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="269,648 341,649 412,651 484,652 555,653 626,655 626,692 555,690 484,689 412,688 341,686 269,685" />
+        <Baseline points="269,681 341,683 412,684 484,685 555,687 626,688" />
+        <TextEquiv>
+          <Unicode>STATVM REDDVCXI SIC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="309,695 365,697 420,700 476,702 531,704 586,707 586,741 531,738 476,736 420,734 365,731 309,729" />
+        <Baseline points="309,723 365,725 420,727 476,729 531,732 586,734" />
+        <TextEquiv>
+          <Unicode>ITEMQVE DEDICAVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

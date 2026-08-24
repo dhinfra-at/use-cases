@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00319.jpg" imageWidth="900" imageHeight="696">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,696 0,696" />
+      <TextLine id="r1l1">
+        <Coords points="319,47 360,47 402,48 443,48 485,48 526,48 526,116 485,116 443,115 402,115 360,115 319,114" />
+        <Baseline points="319,101 360,101 402,102 443,102 485,102 526,102" />
+        <TextEquiv>
+          <Unicode>C VIBIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="319,120 367,118 415,115 464,113 512,110 560,109 560,174 512,175 464,177 415,180 367,182 319,185" />
+        <Baseline points="319,177 367,175 415,172 464,170 512,168 560,166" />
+        <TextEquiv>
+          <Unicode>C F VOLT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="351,195 388,193 425,191 463,189 500,187 537,185 537,245 500,247 463,249 425,251 388,253 351,255" />
+        <Baseline points="351,248 388,246 425,244 463,242 500,240 537,238" />
+        <TextEquiv>
+          <Unicode>VIRILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="329,271 377,271 424,270 471,270 519,270 566,269 566,319 519,320 471,321 424,321 377,321 329,321" />
+        <Baseline points="329,313 377,312 424,312 471,312 519,311 566,311" />
+        <TextEquiv>
+          <Unicode>EQ LEG XV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="377,332 407,333 437,334 466,335 496,336 525,336 525,388 496,387 466,387 437,386 407,385 377,384" />
+        <Baseline points="377,371 407,372 437,373 466,374 496,374 525,375" />
+        <TextEquiv>
+          <Unicode>NN XLV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="375,389 405,389 436,389 466,388 497,388 527,388 527,428 497,428 466,429 436,429 405,429 375,429" />
+        <Baseline points="375,423 405,422 436,422 466,422 497,422 527,422" />
+        <TextEquiv>
+          <Unicode>STIP XXII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="423,438 437,438 450,438 463,438 477,438 490,437 490,472 477,472 463,472 450,472 437,472 423,473" />
+        <Baseline points="423,468 437,468 450,468 463,467 477,467 490,467" />
+        <TextEquiv>
+          <Unicode>H S E</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

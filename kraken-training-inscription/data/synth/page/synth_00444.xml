@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00444.jpg" imageWidth="900" imageHeight="645">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,645 0,645" />
+      <TextLine id="r1l1">
+        <Coords points="328,208 374,209 421,209 467,209 514,210 560,210 560,257 514,256 467,256 421,256 374,255 328,255" />
+        <Baseline points="328,240 374,240 421,241 467,241 514,241 560,242" />
+        <TextEquiv>
+          <Unicode>L CALPVR TERTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="328,255 374,255 420,255 465,255 511,255 557,255 557,298 511,298 465,298 420,298 374,298 328,298" />
+        <Baseline points="328,286 374,285 420,285 465,285 511,285 557,285" />
+        <TextEquiv>
+          <Unicode>VET EX AQVIL LEG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="314,304 366,304 419,304 472,303 524,303 577,303 577,344 524,344 472,345 419,345 366,345 314,345" />
+        <Baseline points="314,332 366,331 419,331 472,331 524,331 577,331" />
+        <TextEquiv>
+          <Unicode>IIII FL F VIX NN XXX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="332,336 376,333 420,329 464,325 508,321 552,317 552,354 508,358 464,362 420,366 376,370 332,374" />
+        <Baseline points="332,371 376,367 420,363 464,359 508,355 552,351" />
+        <TextEquiv>
+          <Unicode>L CALPVR INAMORIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="358,379 393,377 428,375 463,373 498,371 533,369 533,396 498,398 463,400 428,402 393,404 358,406" />
+        <Baseline points="358,404 393,402 428,400 463,398 498,396 533,394" />
+        <TextEquiv>
+          <Unicode>TIVS CONCITATVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="328,418 375,417 423,416 470,415 518,414 565,413 565,439 518,441 470,442 423,443 375,444 328,445" />
+        <Baseline points="328,438 375,437 423,436 470,434 518,433 565,432" />
+        <TextEquiv>
+          <Unicode>ARMATVRA LEGION EIVSD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

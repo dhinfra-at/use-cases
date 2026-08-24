@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00341.jpg" imageWidth="900" imageHeight="820">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,820 0,820" />
+      <TextLine id="r1l1">
+        <Coords points="426,296 436,297 446,298 456,298 466,299 476,299 476,332 466,331 456,331 446,330 436,330 426,329" />
+        <Baseline points="426,324 436,325 446,325 456,326 466,326 476,327" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="309,341 365,344 421,347 477,351 533,354 589,357 589,400 533,396 477,393 421,389 365,386 309,383" />
+        <Baseline points="309,367 365,370 421,374 477,377 533,381 589,384" />
+        <TextEquiv>
+          <Unicode>CALVENTIA ASELLA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="332,375 379,373 425,371 472,370 518,368 565,366 565,408 518,410 472,412 425,414 379,415 332,417" />
+        <Baseline points="332,414 379,412 425,410 472,409 518,407 565,405" />
+        <TextEquiv>
+          <Unicode>DOMO VERNA VIX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="326,430 374,434 423,437 471,440 520,443 568,446 568,486 520,483 471,480 423,477 374,474 326,471" />
+        <Baseline points="326,456 374,459 423,462 471,465 520,468 568,472" />
+        <TextEquiv>
+          <Unicode>AN XXXV POSVIT CAL</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="317,475 367,478 418,480 469,483 520,486 571,489 571,527 520,524 469,521 418,518 367,516 317,513" />
+        <Baseline points="317,500 367,503 418,506 469,509 520,511 571,514" />
+        <TextEquiv>
+          <Unicode>VENTIA MARCELLINA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="316,519 367,520 418,521 469,522 520,523 571,524 571,552 520,551 469,550 418,549 367,548 316,547" />
+        <Baseline points="316,544 367,545 418,546 469,547 520,547 571,548" />
+        <TextEquiv>
+          <Unicode>PATRONA LIBERTAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="360,552 395,550 429,549 463,548 498,547 532,546 532,582 498,583 463,584 429,585 395,586 360,587" />
+        <Baseline points="360,585 395,583 429,582 463,581 498,580 532,579" />
+        <TextEquiv>
+          <Unicode>BENE MERITAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

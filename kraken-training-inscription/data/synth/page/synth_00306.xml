@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00306.jpg" imageWidth="900" imageHeight="922">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,922 0,922" />
+      <TextLine id="r1l1">
+        <Coords points="405,194 427,194 449,195 472,195 494,196 516,196 516,236 494,235 472,235 449,234 427,234 405,233" />
+        <Baseline points="405,229 427,229 449,230 472,230 494,231 516,231" />
+        <TextEquiv>
+          <Unicode>DIS M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="360,250 399,250 437,250 475,250 514,250 552,250 552,293 514,292 475,292 437,292 399,292 360,292" />
+        <Baseline points="360,288 399,288 437,288 475,288 514,288 552,289" />
+        <TextEquiv>
+          <Unicode>FECIT CHRY</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="363,317 398,320 432,323 467,325 501,328 536,330 536,375 501,372 467,369 432,367 398,364 363,362" />
+        <Baseline points="363,350 398,353 432,355 467,358 501,360 536,363" />
+        <TextEquiv>
+          <Unicode>SANTI FILIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="335,375 381,377 427,378 472,380 518,382 564,384 564,421 518,419 472,418 427,416 381,414 335,412" />
+        <Baseline points="335,406 381,408 427,410 472,412 518,414 564,415" />
+        <TextEquiv>
+          <Unicode>BARBARO DO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="364,435 397,437 431,439 464,441 498,443 531,445 531,484 498,482 464,480 431,477 397,475 364,473" />
+        <Baseline points="364,464 397,466 431,469 464,471 498,473 531,475" />
+        <TextEquiv>
+          <Unicode>MITIAE AVG</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="351,488 388,489 424,491 461,493 498,494 535,496 535,532 498,530 461,528 424,526 388,524 351,523" />
+        <Baseline points="351,516 388,518 424,519 461,521 498,523 535,525" />
+        <TextEquiv>
+          <Unicode>DELICIO THY</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="346,537 384,537 423,537 461,537 500,537 539,537 539,574 500,574 461,574 423,574 384,574 346,574" />
+        <Baseline points="346,571 384,571 423,571 461,571 500,570 539,570" />
+        <TextEquiv>
+          <Unicode>MELE MATER</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="351,594 386,595 421,596 456,597 491,598 526,599 526,629 491,628 456,627 421,626 386,625 351,624" />
+        <Baseline points="351,621 386,622 421,623 456,624 491,625 526,626" />
+        <TextEquiv>
+          <Unicode>PIENTISSIMO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="372,638 398,638 425,638 451,638 477,638 503,638 503,672 477,672 451,672 425,672 398,672 372,673" />
+        <Baseline points="372,669 398,669 425,669 451,669 477,669 503,669" />
+        <TextEquiv>
+          <Unicode>FILIO VIXIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l10">
+        <Coords points="362,687 391,687 421,687 450,687 480,687 509,687 509,721 480,721 450,721 421,721 391,721 362,721" />
+        <Baseline points="362,718 391,718 421,718 450,718 480,718 509,718" />
+        <TextEquiv>
+          <Unicode>AN IIII MEN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l11">
+        <Coords points="413,737 422,737 430,737 439,737 447,736 456,736 456,765 447,765 439,765 430,765 422,766 413,766" />
+        <Baseline points="413,763 422,763 430,763 439,762 447,762 456,762" />
+        <TextEquiv>
+          <Unicode>VIII</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

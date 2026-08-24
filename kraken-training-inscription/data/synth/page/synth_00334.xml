@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00334.jpg" imageWidth="900" imageHeight="688">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,688 0,688" />
+      <TextLine id="r1l1">
+        <Coords points="314,82 366,79 418,76 471,73 523,70 575,67 575,129 523,133 471,136 418,139 366,142 314,145" />
+        <Baseline points="314,140 366,137 418,134 471,131 523,127 575,124" />
+        <TextEquiv>
+          <Unicode>DEAE NEME</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="329,162 376,161 422,160 468,159 515,158 561,157 561,209 515,210 468,211 422,212 376,213 329,214" />
+        <Baseline points="329,209 376,208 422,207 468,206 515,205 561,204" />
+        <TextEquiv>
+          <Unicode>SI SIVE FOR</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="376,232 405,232 434,231 463,231 492,230 521,230 521,280 492,281 463,281 434,281 405,282 376,282" />
+        <Baseline points="376,277 405,276 434,276 463,276 492,275 521,275" />
+        <TextEquiv>
+          <Unicode>TVNAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="340,301 381,302 423,303 465,304 506,305 548,306 548,365 506,364 465,363 423,362 381,361 340,359" />
+        <Baseline points="340,346 381,347 423,348 465,349 506,350 548,351" />
+        <TextEquiv>
+          <Unicode>PISTORIVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="331,358 379,356 427,354 474,351 522,349 570,346 570,405 522,408 474,410 427,412 379,415 331,417" />
+        <Baseline points="331,412 379,410 427,407 474,405 522,402 570,400" />
+        <TextEquiv>
+          <Unicode>RVGIANVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="333,434 381,433 429,432 477,430 524,429 572,427 572,480 524,482 477,483 429,485 381,486 333,487" />
+        <Baseline points="333,482 381,481 429,479 477,478 524,477 572,475" />
+        <TextEquiv>
+          <Unicode>V C LEGAT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="347,502 390,503 433,505 476,506 519,507 563,508 563,567 519,566 476,564 433,563 390,562 347,561" />
+        <Baseline points="347,547 390,548 433,549 476,551 519,552 563,553" />
+        <TextEquiv>
+          <Unicode>LEG XIII G</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="387,561 415,559 442,557 470,556 498,554 526,552 526,609 498,611 470,613 442,615 415,616 387,618" />
+        <Baseline points="387,613 415,611 442,609 470,608 498,606 526,604" />
+        <TextEquiv>
+          <Unicode>GORD</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

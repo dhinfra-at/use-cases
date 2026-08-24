@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00051.jpg" imageWidth="900" imageHeight="922">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,922 0,922" />
+      <TextLine id="r1l1">
+        <Coords points="207,96 310,104 413,111 515,118 618,125 721,132 721,206 618,198 515,191 413,184 310,177 207,169" />
+        <Baseline points="207,148 310,156 413,163 515,170 618,177 721,184" />
+        <TextEquiv>
+          <Unicode>ANGELORVM OSPES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="204,166 306,169 409,173 512,176 615,179 718,183 718,244 615,241 512,237 409,234 306,230 204,227" />
+        <Baseline points="204,221 306,224 409,228 512,231 615,235 718,238" />
+        <TextEquiv>
+          <Unicode>MARTYRVM COMES</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="206,227 303,227 401,227 499,228 597,228 695,229 695,304 597,304 499,303 401,303 303,303 206,302" />
+        <Baseline points="206,296 303,297 401,297 499,297 597,298 695,298" />
+        <TextEquiv>
+          <Unicode>VITAMQVE SPIRANS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="141,292 265,293 389,294 513,295 637,294 761,293 761,374 637,375 513,375 389,374 265,373 141,372" />
+        <Baseline points="141,366 265,367 389,368 513,369 637,369 761,368" />
+        <TextEquiv>
+          <Unicode>PLACIDAM AD TE SANC</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="141,390 261,396 380,402 500,407 620,412 740,417 740,475 620,470 500,465 380,460 261,454 141,448" />
+        <Baseline points="141,440 261,446 380,452 500,457 620,462 740,467" />
+        <TextEquiv>
+          <Unicode>TE PROFECTVS SIT NOST</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="172,455 274,455 377,457 479,459 581,463 683,466 683,531 581,528 479,524 377,522 274,520 172,520" />
+        <Baseline points="172,514 274,514 377,516 479,518 581,522 683,525" />
+        <TextEquiv>
+          <Unicode>RI MEMOR GRATA PI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="231,525 314,526 397,527 481,528 564,529 647,530 647,598 564,597 481,596 397,595 314,595 231,594" />
+        <Baseline points="231,588 314,589 397,589 481,590 564,591 647,592" />
+        <TextEquiv>
+          <Unicode>TATE QVA SOLET</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="194,599 261,599 327,600 393,600 459,601 526,601 526,666 459,666 393,665 327,665 261,664 194,664" />
+        <Baseline points="194,658 261,659 327,659 393,660 459,660 526,661" />
+        <TextEquiv>
+          <Unicode>CRESCENTINV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l9">
+        <Coords points="119,662 188,661 257,661 326,660 395,660 463,660 463,730 395,730 326,730 257,731 188,731 119,732" />
+        <Baseline points="119,726 188,725 257,725 326,725 395,724 463,724" />
+        <TextEquiv>
+          <Unicode>IN PACE RED I</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

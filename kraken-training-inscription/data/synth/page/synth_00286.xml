@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00286.jpg" imageWidth="900" imageHeight="440">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,440 0,440" />
+      <TextLine id="r1l1">
+        <Coords points="178,48 260,42 342,38 424,33 506,29 588,25 588,84 506,88 424,92 342,97 260,101 178,107" />
+        <Baseline points="178,101 260,96 342,91 424,87 506,83 588,79" />
+        <TextEquiv>
+          <Unicode>PACVVIAE QVARTILLAE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="173,110 258,102 343,95 428,89 512,82 597,76 597,141 512,147 428,153 343,160 258,167 173,174" />
+        <Baseline points="173,169 258,162 343,155 428,149 512,142 597,136" />
+        <TextEquiv>
+          <Unicode>PACVVIVS EPAFRODITVS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="202,194 275,194 347,194 419,194 492,194 564,194 564,244 492,243 419,243 347,243 275,243 202,244" />
+        <Baseline points="202,229 275,229 347,229 419,229 492,229 564,229" />
+        <TextEquiv>
+          <Unicode>SIBI VIVO ET COIVGI POSVIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="420,247 430,247 439,247 449,247 458,246 468,246 468,282 458,282 449,282 439,282 430,282 420,282" />
+        <Baseline points="420,277 430,277 439,277 449,277 458,277 468,277" />
+        <TextEquiv>
+          <Unicode>B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

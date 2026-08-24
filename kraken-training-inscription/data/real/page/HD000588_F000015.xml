@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata><Creator>fix_real_data.py</Creator><Created></Created><LastChange></LastChange></Metadata>
+  <Page imageFilename="../images/HD000588_F000015.jpg" imageWidth="800" imageHeight="1170">
+    <TextRegion id="r1" type="paragraph"><Coords points="0,0 799,0 799,1169 0,1169"/>
+      <TextLine id="r1l1">
+        <Coords points="185,158 638,163 638,256 185,251"/>
+        <Baseline points="185,235 638,240"/>
+        <TextEquiv><Unicode>PINARIAE P FIL</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="229,235 630,248 630,345 229,332"/>
+        <Baseline points="229,318 630,331"/>
+        <TextEquiv><Unicode>EXTRICATAE</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="175,326 643,331 649,399 175,399"/>
+        <Baseline points="190,389 637,393"/>
+        <TextEquiv><Unicode>SEX·VAL·FVSCINVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="175,408 634,408 634,499 175,499"/>
+        <Baseline points="175,483 634,483"/>
+        <TextEquiv><Unicode>AVGVR THEVESTINI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="180,495 663,480 663,576 180,591"/>
+        <Baseline points="180,577 663,562"/>
+        <TextEquiv><Unicode>FIL MATRI PIISSI</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="191,573 615,573 615,662 191,662"/>
+        <Baseline points="191,647 615,647"/>
+        <TextEquiv><Unicode>MAE ITEM</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="185,655 636,648 636,738 185,745"/>
+        <Baseline points="185,732 636,725"/>
+        <TextEquiv><Unicode>P VALERIO FVS</Unicode></TextEquiv>
+      </TextLine>
+      <TextLine id="r1l8">
+        <Coords points="198,733 587,731 587,814 198,816"/>
+        <Baseline points="198,801 587,799"/>
+        <TextEquiv><Unicode>CINO FILIO</Unicode></TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

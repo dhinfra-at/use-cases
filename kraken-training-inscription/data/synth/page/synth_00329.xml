@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00329.jpg" imageWidth="900" imageHeight="752">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,752 0,752" />
+      <TextLine id="r1l1">
+        <Coords points="84,67 222,60 360,53 499,46 637,39 775,32 775,91 637,98 499,104 360,111 222,118 84,125" />
+        <Baseline points="84,121 222,115 360,108 499,101 637,94 775,87" />
+        <TextEquiv>
+          <Unicode>SACRATISSIMO DIE NATALI DIVI AVGVSTI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="86,183 223,183 359,182 496,182 633,181 769,180 769,223 633,224 496,225 359,225 223,226 86,226" />
+        <Baseline points="86,213 223,212 359,212 496,211 633,211 769,210" />
+        <TextEquiv>
+          <Unicode>PROSPERIS FELICIBVSQVE AVSPICIIS DEDICATA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="89,250 224,242 359,234 494,226 629,219 765,211 765,273 629,281 494,288 359,296 224,304 89,312" />
+        <Baseline points="89,309 224,301 359,293 494,285 629,277 765,270" />
+        <TextEquiv>
+          <Unicode>EST PER PONTIFICES ET AVGVRES PECVNIA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="91,364 221,363 350,362 480,365 610,369 740,371 740,438 610,436 480,433 350,430 221,430 91,432" />
+        <Baseline points="91,408 221,406 350,406 480,409 610,413 740,415" />
+        <TextEquiv>
+          <Unicode>Q MVRRASI GLYCONIS L DENTRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="93,444 145,445 197,447 249,448 301,449 353,451 353,513 301,511 249,510 197,509 145,508 93,506" />
+        <Baseline points="93,490 145,491 197,493 249,494 301,495 353,496" />
+        <TextEquiv>
+          <Unicode>COMMVNIS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="95,519 223,515 351,512 479,509 607,506 735,503 735,550 607,553 479,556 351,559 223,562 95,566" />
+        <Baseline points="95,562 223,558 351,555 479,552 607,549 735,546" />
+        <TextEquiv>
+          <Unicode>VIIII K OCTOBR L SIC IVNIO SILANO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="97,587 180,584 263,581 346,578 429,574 512,571 512,623 429,627 346,630 263,634 180,637 97,640" />
+        <Baseline points="97,635 180,632 263,629 346,626 429,623 512,619" />
+        <TextEquiv>
+          <Unicode>C VELLAEO TVTORE COS</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00416.jpg" imageWidth="900" imageHeight="606">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,606 0,606" />
+      <TextLine id="r1l1">
+        <Coords points="259,34 336,33 412,32 489,31 566,30 643,29 643,105 566,106 489,107 412,108 336,109 259,111" />
+        <Baseline points="259,103 336,102 412,101 489,100 566,98 643,97" />
+        <TextEquiv>
+          <Unicode>I O M DOLOHE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="206,125 301,132 397,140 492,148 588,157 683,165 683,251 588,243 492,235 397,226 301,218 206,211" />
+        <Baseline points="206,177 301,184 397,192 492,200 588,209 683,217" />
+        <TextEquiv>
+          <Unicode>NO SIC PRO SALVT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="232,187 317,187 402,186 486,185 571,185 656,184 656,259 571,260 486,260 402,261 317,261 232,262" />
+        <Baseline points="232,255 317,254 402,253 486,253 571,252 656,252" />
+        <TextEquiv>
+          <Unicode>E IMP IVL ALEXA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="239,278 317,280 395,284 474,287 552,290 630,292 630,353 552,351 474,349 395,345 317,342 239,339" />
+        <Baseline points="239,329 317,331 395,335 474,338 552,341 630,343" />
+        <TextEquiv>
+          <Unicode>NDER ET GERMA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="242,358 320,362 398,364 477,367 555,369 633,372 633,434 555,431 477,429 398,426 320,423 242,420" />
+        <Baseline points="242,409 320,413 398,415 477,418 555,420 633,423" />
+        <TextEquiv>
+          <Unicode>NVVS BARONAS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="222,431 307,436 392,441 478,445 563,450 649,454 649,523 563,519 478,514 392,510 307,505 222,500" />
+        <Baseline points="222,482 307,487 392,492 478,496 563,501 649,505" />
+        <TextEquiv>
+          <Unicode>SACERDOTES PO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l7">
+        <Coords points="373,509 399,511 425,512 451,513 478,515 504,516 504,576 478,575 451,573 425,572 399,571 373,569" />
+        <Baseline points="373,559 399,561 425,562 451,563 478,565 504,566" />
+        <TextEquiv>
+          <Unicode>SVER</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

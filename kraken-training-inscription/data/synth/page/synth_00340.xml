@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00340.jpg" imageWidth="900" imageHeight="525">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,525 0,525" />
+      <TextLine id="r1l1">
+        <Coords points="112,64 183,65 253,66 324,66 394,67 465,68 465,133 394,132 324,132 253,131 183,130 112,129" />
+        <Baseline points="112,122 183,123 253,124 324,124 394,125 465,126" />
+        <TextEquiv>
+          <Unicode>PACATE VIX AN</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="110,133 163,134 216,134 269,134 322,134 375,134 375,196 322,196 269,196 216,196 163,195 110,195" />
+        <Baseline points="110,189 163,189 216,189 269,189 322,189 375,189" />
+        <TextEquiv>
+          <Unicode>XXVI M VII D X</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="109,214 160,218 212,221 264,224 315,227 367,230 367,282 315,279 264,276 212,273 160,270 109,266" />
+        <Baseline points="109,256 160,260 212,263 264,266 315,269 367,271" />
+        <TextEquiv>
+          <Unicode>C IVL VITALIO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="107,265 153,265 199,265 246,265 292,265 338,265 338,321 292,321 246,321 199,321 153,321 107,321" />
+        <Baseline points="107,315 153,315 199,315 246,315 292,315 338,315" />
+        <TextEquiv>
+          <Unicode>MARITE ME F</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

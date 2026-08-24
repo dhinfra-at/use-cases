@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00437.jpg" imageWidth="900" imageHeight="530">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,530 0,530" />
+      <TextLine id="r1l1">
+        <Coords points="425,100 435,100 446,100 456,100 466,99 476,99 476,131 466,131 456,131 446,131 435,131 425,131" />
+        <Baseline points="425,126 435,126 446,126 456,126 466,126 476,126" />
+        <TextEquiv>
+          <Unicode>D M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="374,138 404,136 435,134 465,132 496,130 526,127 526,162 496,165 465,167 435,169 404,171 374,173" />
+        <Baseline points="374,169 404,167 435,165 465,163 496,161 526,159" />
+        <TextEquiv>
+          <Unicode>VMIDI ABRO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="379,183 407,182 435,181 464,179 492,178 520,177 520,206 492,208 464,209 435,210 407,211 379,212" />
+        <Baseline points="379,208 407,207 435,206 464,205 492,204 520,203" />
+        <TextEquiv>
+          <Unicode>COMAE VMI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l4">
+        <Coords points="377,220 405,219 432,218 459,217 486,216 513,215 513,243 486,244 459,245 432,246 405,247 377,248" />
+        <Baseline points="377,244 405,243 432,242 459,241 486,240 513,239" />
+        <TextEquiv>
+          <Unicode>DIVS AGATH</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l5">
+        <Coords points="389,256 413,255 437,254 462,253 486,252 510,251 510,278 486,279 462,280 437,281 413,282 389,283" />
+        <Baseline points="389,280 413,279 437,278 462,277 486,276 510,275" />
+        <TextEquiv>
+          <Unicode>ONICVS PA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l6">
+        <Coords points="415,292 429,292 443,292 457,293 471,293 484,293 484,319 471,319 457,319 443,318 429,318 415,318" />
+        <Baseline points="415,311 429,312 443,312 457,312 471,313 484,313" />
+        <TextEquiv>
+          <Unicode>TRI B M</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

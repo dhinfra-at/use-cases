@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00490.jpg" imageWidth="900" imageHeight="315">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,315 0,315" />
+      <TextLine id="r1l1">
+        <Coords points="122,92 229,95 336,98 443,100 549,102 656,104 656,169 549,167 443,165 336,163 229,160 122,157" />
+        <Baseline points="122,132 229,135 336,138 443,140 549,142 656,143" />
+        <TextEquiv>
+          <Unicode>T AELIVS PRISCVS PRISCILLO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="261,175 321,175 381,174 442,174 502,174 563,174 563,235 502,234 442,234 381,235 321,235 261,236" />
+        <Baseline points="261,225 321,225 381,224 442,224 502,224 563,224" />
+        <TextEquiv>
+          <Unicode>FILIO SVO FECIT</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

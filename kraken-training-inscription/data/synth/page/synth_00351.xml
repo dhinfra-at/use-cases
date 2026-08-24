@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15">
+  <Metadata>
+    <Creator>OCRInscriptiones/generate_synthetic.py</Creator>
+    <Created />
+    <LastChange />
+  </Metadata>
+  <Page imageFilename="../images/synth_00351.jpg" imageWidth="900" imageHeight="447">
+    <TextRegion id="r1" type="paragraph">
+      <Coords points="0,0 900,0 900,447 0,447" />
+      <TextLine id="r1l1">
+        <Coords points="134,120 209,117 285,115 361,113 436,110 512,108 512,165 436,167 361,169 285,172 209,174 134,177" />
+        <Baseline points="134,167 209,164 285,162 361,159 436,157 512,155" />
+        <TextEquiv>
+          <Unicode>C SEMPRONIV</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l2">
+        <Coords points="270,188 326,185 381,181 437,177 492,173 548,169 548,236 492,240 437,244 381,248 326,252 270,256" />
+        <Baseline points="270,248 326,244 381,240 437,236 492,232 548,229" />
+        <TextEquiv>
+          <Unicode>IVS PETRON</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r1l3">
+        <Coords points="375,268 407,268 439,268 471,268 503,268 535,269 535,330 503,329 471,329 439,329 407,329 375,329" />
+        <Baseline points="375,315 407,315 439,315 471,315 503,315 535,316" />
+        <TextEquiv>
+          <Unicode>PROBA</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
