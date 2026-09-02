@@ -1,0 +1,33 @@
+# Credentials — never commit these. See the checklist in README.md.
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# Notebook state
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Pipeline output: models, checkpoints, downloaded images, intermediate data.
+# Sample data that a use case ships on purpose is committed and belongs in its folder;
+# add a per-use-case .gitignore if these names collide with something you need.
+models/
+model_dir/
+checkpoints/
+downloads/
+logs/
+arrows/
+Layout/
+OCR/
+
+# OS
+.DS_Store
+Thumbs.db
