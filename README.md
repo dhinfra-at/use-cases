@@ -1,6 +1,6 @@
-# DHInfra cluster use cases
+# DHinfra cluster use cases
 
-Research pipelines that run on the DHInfra cluster: notebooks, scripts, and small sample
+Research pipelines that run on the DHinfra cluster: notebooks, scripts, and small sample
 datasets you can open and run.
 
 Start with the console documentation at
@@ -19,7 +19,7 @@ someone can reproduce it by logging in to the cluster.
 pull request against an existing one. A candidate is unreviewed: it may not run as
 written, and its licence statement may be incomplete.
 
-`curated/` holds what the DHInfra Ops team in Graz has reviewed. Review means the use case
+`curated/` holds what the DHinfra Ops team in Graz has reviewed. Review means the use case
 runs on the cluster, its README is enough to follow, its licence statement is correct, and
 its files hold nothing that should not be public.
 
@@ -58,7 +58,7 @@ entitled to do so.
   `CC BY-SA 4.0` are the usual choices. "Creative Commons" on its own is not a licence.
 - **Third-party material** — name its source, its licence, and the attribution it
   requires. Do not re-license someone else's data.
-- **Duration** — the permission is indefinite and irrevocable. DHInfra and the people who
+- **Duration** — the permission is indefinite and irrevocable. DHinfra and the people who
   use the cluster may keep, run, adapt, and redistribute the material for as long as the
   service exists, under the licence you named. Withdrawing a use case later removes it from
   this repository; it does not reach the copies already made.
@@ -106,6 +106,6 @@ the material: clone the repository, copy a notebook, take one function.
 
 ## Contact
 
-Open an issue here, or reach the DHInfra Ops team in Graz. For the cluster itself —
+Open an issue here, or reach the DHinfra Ops team in Graz. For the cluster itself —
 sessions, GPUs, storage, quotas — the
 [console documentation](https://console.dhinfra.uni-graz.at/console/docs) answers faster.
