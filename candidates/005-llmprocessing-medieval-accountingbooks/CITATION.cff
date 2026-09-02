@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or the ground-truth data, please cite it as below."
+title: "LLM Processing of Historical Accounting Book Data — JSONtoRDF"
+abstract: >-
+  Encoding transcribed medieval accounting book entries from the Cistercian monastery of
+  Aldersbach into RDF/XML with an LLM, and evaluating the result against a manually
+  encoded ground truth. Reduced, standalone extract of the Aldersbach Digital pipeline.
+type: software
+authors:
+  - family-names: Vogeltanz
+    given-names: Maximilian
+    affiliation: "University of Graz"
+license: Apache-2.0
+keywords:
+  - digital humanities
+  - historical accounting books
+  - RDF
+  - linked open data
+  - large language models
+  - Latin
+repository-code: "https://github.com/MaxVogeltanz/LLMProcessing_HistoricalAccountingBookData"
