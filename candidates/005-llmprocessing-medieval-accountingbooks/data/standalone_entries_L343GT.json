@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item nota vendidimus petro pistori in vilshoven ii schaf. tritici pro v lb. d. feria quarta post dominicam Iubilate Anno lvio In hoc defalcavimus sibi pro albis panibus tempore quadragesimali xii s. d. Reliquam Summam pecunie exsolvit totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T2",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea recepimus a michahele allerlay pistore de Ayttenpach pro j̸ schaf. tritici x s. d. feria quinta ante dominicam Vocem Iocunditatis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T3",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea recepimus a Georio weyshueber zü hintterkirch pro ii schaf. tritici v lb. d. In die Invencionis sancte crucis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T4",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus eadem die a martino maister de tettling xx s. d. pro i schaf. tritici"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T5",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus ab ulrico de Anhaim xiiii s. d. pro i schaf. Siliginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T6",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_getreide",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus ab Chunrado wintterstain de Ekkenfelden pro viii schaf. avene x lb. d. feria quarta ante festum penthecostes solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#N1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "arec:Note",
+    "entry": "tenetur Item prefectus de vilshoven tenetur de ii plaustris feni ii lb.d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#N2",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "arec:Note",
+    "entry": "tenetur Item mautarius ibidem puczner tenetur pro i plaustro i lb.d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T7",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "deditItem fridel Gressing de vilshoven tenetur pro i plaustro i lb.d. solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T8",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "deditItem kaufman ibidem tenetur vi s.d. computavimus sibi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T9",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "deditItem Ryneri ibidem tenetur pro i plaustro vi s.d. computatum est sibi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T10",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "deditItem laurencz pinter ibidem tenetur pro i plaustro vi s.d. computavimus sibi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu_althey",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa totalis quam recepimus de feno vendito prescriptis et aliis externeis hic non numeratis facit totum xii lb. vii s. xxii d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T11",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus molitori chrugelmulner pro i centenario et xiiiij̸ libris olei qui faciunt in peccunia iiij̸ lb. vii s. d.feria sexta post festum corporis Christi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T12",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro i libra lane xxx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T13",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xvi d. pro hostiis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T14",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro i ulna czendel xl d. in die sancti Stepfani"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T15",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xl d. pro hostiis ante Reminiscere"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T16",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item emimus a Rudolfo Landfarer de Ispruk iiii pannos satis preciosos in die sancti Stepfani patavie primo xii ulnas minus i quartali wlgariter ein rotten Sammat nomine germansin ulnam pro iii lb. lx d. Wien. facit xxxviii lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T17",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item emimus ab eodem xvi ulnas wlgariter ein Swarczen gemüstertten Sammat ulnam pro ii lb. iii s. d. facit xxxviii lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T18",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item emimus ab eodem xxv ulnas und ii drittail einer ellen wlgariter ein graben gemustertten Sammat ulnam pro ii lb. iii s. d. Wien. facit lxi lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T19",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea emimus ab eodem xxi ellen wlgariter ein grüen Sammat gemüstertten ulnam pro xvii s. d. facit xliiiij̸ lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T20",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro hostiis xl d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T21",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item pro hostiis xliii d. in octava corporis Christi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT2",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa totalis omnium prescriptorum que procuravimus a Rudolfo in pannis Sericis facit iC lxxxij̸ lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T22",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus sibi in patavia ii lb. super computacionem"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T23",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea hospes noster Alhartinger dedit sibi xxx lb. d. Wien. eum a monetario pataviensi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T24",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus sibi in monasterio nostro in presencia domini de cella dei et fratris Stepfani prioris nostri iC f. Rhen. qui faciunt in peccunia lxxv lb. Wien.d. et sic obligamur sibi pro finali solucione iC f. Rhen. minus j̸ lb. Wien.d. terminus solucionis martini proxime futuri Acta sunt hec feria 3a post Invencionis sancti Stepfani Anno etc. lvo litteram munitam Secreto nostro dedimus sibi quam restituet tempore solucionis solucionem fecimus loco suo domino Johanni kreuch vicario Ecclesie pataviensis dominica letare Anno etc. lvio littere desuper confecte habentur in truhula in camera"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT3",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa olei facit xxi lb. xvi d. pro viC v libra olei"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT4",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa pro lampadibus lv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T25",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus petro Ampman de chünczen pro lxxxxv libris olei iii lb. xl d. in vigilia Andree libra pro viii d. solvimus sibi totum in presencia linhardi prukner et officialis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T26",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem pro iiiC lxxxx libris olei facit xiii lb. d. Wien. solvimus sibi totum feria quinta ante lucie virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T27",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro xxiiii ulnis de Serico in patavia diversi coloris pro vexillis ac aliis ornamentis vj̸ lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T28",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro xix lampadibus lv d. feria 3a post lucie virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T29",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_küsterdienst",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus pro ii casulis viridi et rubei coloris et pro i cruce friderico Lanndfarer de augusta xiiij̸ f. Rhen. feria sexta ante dominicam oculi facit in peccunia x lb. xxx d. In hoc recepit v f. Rhen. qui faciunt in pecunia iii lb. vi s. d. Et sic remanent vi lb. iii s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T30",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus uni coco xxx d. pro bibalibus feria 4a ante philippi et Jacobi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T31",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item viii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T32",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xxxvi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T33",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T34",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xxiiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T35",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xxiiii"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T36",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T37",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T38",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus uni qui extraxit dentes aliquibus fratribus xx d. feria 2a Rogacionum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T39",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item cellerarius dedit xxx d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T40",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus uni pauperi sacerdoti xii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T41",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xliiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T42",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus famulis domini Althahensis pro bibalibus xv d. feria 3a ante dionisi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T43",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus i f. Rhen. den trumetteren domini ducisludwici in vilshoven feria quarta ante lucie virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T44",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus xxxvi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T45",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro offertorio et pro mercipiteii lb. v d. circa festum Natalis Christi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T46",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xv d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T47",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item vi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T48",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus xxxviii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T49",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus paterno nostro filio Stremui militis wilhelmi de frauenberkch quem levavimus de sacro fonte in Griespach feria 2a post festum omnium sanctorum iii f. Rhen."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T50",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Et obstatrice et pueris xl d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T51",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus in cena domini pauperibus v s. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T52",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus famulo linhardi hollerbekchen et magister Johanni walneatori de vilshoven pro bibalibus xxxi d. in die Geori martyris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T53",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pangracio proprina xxv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T54",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T55",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item v d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T56",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xxxix d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T57",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item xxii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T58",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus nunccio domini Cesariensis xxviii d. in die margrethe virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT5",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_boten_spielleute",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit viii lb. xiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T59",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus Sellatori in patavia pro omnibus laboribus nobis factis pro finali solucione vi s. d. Wien.d. Wien. Sabbato post festum Assumpcionis virginis gloriose"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T60",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "pro equo et mula emptis + Item dedimus pro griseo equo empto a domino abbatte de Campiprincipe tempore capituli generalis xvi f. Rhen. et ii gr. famulo pro bibalibus"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T61",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro mula empta in diviana vi f. Rhen."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T62",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Nicolao Rymer de vilshoven pro frenis et v cuttibus bovinis et cervinis ac aliis suis laboribus ii lb. vi d. feria 2a post dominicam oculi Anno lvio"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T63",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus iii s. d. pro ii Sellis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T64",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Sellatori de pfarkirchen de vi panir semper pro i vii d. xl d. et ii d. pro bibalibus feria quarta ante penthecostes"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T65",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem xv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT6",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_sättel_zäume_ketten_seile_schnüre_divers",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit iii lb. iii s. iii d. et pro equo g... empto xvi f. Rhen. facit xii lb."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T66",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro cultellis feria 4a ante cenam domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T67",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro cingulis sericis calcaribus bursis birettis cultellis et pellibus ovinis pro subduccione tunice omnibus insimul computatis tempore capituli generalis procuratis et emptis vii f. Rhen. et i ort"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T68",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus pro cultellis vi s. d. in die Innocentum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T69",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro cultellis lxxxiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T70",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro cerothecis xxv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T71",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item iii d. pro filo"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT7",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_messer_gürtel_garn_divers",
+    "year": "1455",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit vi lb. vii s. xxvi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T72",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus de xii schaf. ordei i lb.d. Wien. feria quinta ante Laurencii martyris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T73",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea cellerarius dedit eis pro iij̸ lb. minus vii d. Sabbato ante michahelis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T74",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Georio Rintloer de xxxv diebus vi s. minus v d. pro finali solucione solvimus sibi totum in die animarum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T75",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eadem die linhardo hueber de xxxv diebus vi s. minus v d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T76",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eadem die petro oder de xxxv diebus vi s. minus v d. soluti sunt totaliter eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T77",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus diversis trituratoribus xiiii s. ix d. in die sancti thome apostoli"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T78",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus ipsis iii s. ii d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T79",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus iii s. minus vi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T80",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus Johanni hon et sociis suis pro precio de xiiij̸ schaf. tritici facit i lb. iii d. solvimus ipsis totum feria 2a ante Natalis Christi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T81",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1455",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus valentino et sociis suis de xxj̸ schaf. avene pro precio xii s. xviii d. Wien. in Vigilia Nativitatis Christi solvimus ipsis totum eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T82",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus e magister thome aurifabro de ii piccariis parvis argenteis auro decoratis qui habent in pondere i Marcas iij̸ uncias et pro precio et de auracione omnibus insimul computatis x lb. d. Wien. et xl d. Wien. feria 2a penthecostes solvimus sibi totum eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T83",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi angelum deauratum habentem in pondere v lot ij̸"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T84",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi ii parillas et i lapidem et ii ocularia habentes in pondere viii lot minus j̸ et i lapidemparvum pro i annulo apto faciendum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T85",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item idem recepit a cellerario in absencia nostra iiC tritici super computacionem propinavimus sibi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T86",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item calix habet in pondere puri argenti xxvii lot i quittet In hoc sibi defalcavimus v angelum ubi supra qui habuit in pondere v uncias ij̸ quittet et sic remanserunt xxii uncie minus j̸ quittet puri argenti qui faciunt in peccunia vii lb. lx d. x d. et pro precio et de auracione sibi dedimus vi lb. v s. x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT8",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "facit totum xiiii lb. minus x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T87",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item fibule cum annulo sine lapidibus habent in pondere xviii uncias puri argenti pro quibus sibi dedimus cum deauracione ix lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T88",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi pro precio x s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT9",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit x lb. lx d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T89",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi pro ii unciis i quittet wlgariter pükkellein puri argentii vi s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T90",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi pro laboribus lx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT10",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "facit totum i lb. d. solutum est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT11",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa totalis omnium prescriptorum facit xxv lb. .l. d. Wien. et xiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T91",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item masculo suo dedimus pro bibalibus xiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T92",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi i calicem pro reparacione et renovacione qui habet in pondere xix uncias minus i quittet in die margrethe Anno etc. lvio ad futurum computabitur"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T93",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item sibi dedit nobis iij̸ uncias wlgariter pukkelein estimative"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T94",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_goldschmied",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea misit nobis per Scriniatorem ii uncias i quittet in die ypoliti"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T95",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schweine",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus a linhardo hollerenbekch pro vi porcis vii f. Rhen. qui faciunt in peccunia v lb. lx d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T96",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schweine",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "+ Item dedimus linhardo hollerbekch xxiiii porcos i porcum pro xiii gr. facit ix lb. vi s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T97",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schweine",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi vi porcos pro iiij̸ lb. d. feria 3a pasche Anno etc. lviio solvit totum feria 6a ante Geori martyris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT12",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schweine",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit xviiij̸ lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T98",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "+ Item recepimus a linhardo hollerbekch de lxxx ovibus sibi venditis i pro lxv d. Wien. facit in peccunia xx lb. vi s. xxv d. Wien. Sed iii oves sibi propinavimus in prescripta Summa que non sunt taxata Acta sunt hec in die sancti Augustini Anno lvio"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT13",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_eier",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa xx lb vi s. xxv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T99",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_holz",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "+ Item primo recepimus a Johanne unverdorben iii s. d. dominica ante Anthoni confessoris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T100",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_holz",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item idem postea dedit j̸ lb. minus xviii d. dominica post Agathe virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T101",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_holz",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item idem dedit i lb. minus i d. in die cinerum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT14",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_holz",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit xiiii s. xi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T102",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item primo cellerarius dedit ii lb. v s. x d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T103",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item idem dedit pro ovis iiii lb. minus vii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T104",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus i lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T105",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea in agathe lxxxii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T106",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea cellerarius dedit iiiij̸ lb. xxv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT15",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_eier",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit xiij̸ lb. xx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T107",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item primo cellerarius dedit pro xxii libris buttiri j̸ lb. minus x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T108",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus fridrico unverdorben de nidrenod pro xxxvi libris buttiri vi s. d. Wien. feria 3a post Nicolai episcopi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T109",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus christanno praxatori pro buttiro vii s. v d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T110",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro xlii libris buttiri in die agathe x s. xii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T111",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro ij̸ centenariis et xx libris buttiri emptis in patavia v lb. minus iiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT16",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_butter",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit viii lb. iii s. iii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T112",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "+ Item primo dedimus Valentino et christanno de vij̸ sch. ordei j̸ lb. minus iii d. et vii d. pro walneo Sabbato ante laurencii martyris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T113",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus diversis trituratoribus x s. xviii d. in die ypoliti."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T114",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus Valentino et sociis suis de viiij̸ sch. s. iii d. in die Augustini Episcopi /"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T115",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus de x sch. Siliginis vi s. d. Sabbato ante festum Nativitatis virginis gloriose"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T116",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eadem die christanno de chadling xxxv d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T117",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus de iiiij̸ sch. tritici lxxxi d. dominica post xicim milium virginum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T118",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus de ix sch. avene Valentino et sociis suis v s. xii d.feria quarta ante Katherine virginis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T119",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus trituratoribus in newstifft de tota annona xx s. d. dominica ante Nicolai episcopi pro finali solucione"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T120",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Eischiel de xiii diebus eadem die lii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T121",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Valentino et sociis suis de xix sch. utriusque grani xii s. minus xviii d. in vigilia Nativitatis Christi /"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T122",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus de xi sch. avene Johanni hon et sociis suis eadem die vi s. xviii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T123",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Johanni hon de xvii diebus li d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T124",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Seyss de xviii diebus liiii d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T125",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus Valentino et sociis suis de iiij̸ sch. Siliginis v sch. tritici ij̸ sch. pisorum vi s. d. Sabbato post octavam Epiphanie domini /"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T126",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Johanni hon et sociis suis de xiiii sch. avene i lb. xii d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T127",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Johanni hon de viiiij̸ sch. v s. xxi d. in die Agathe"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T128",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Valentino et sociis suis de x sch. vi s. d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T129",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eadem die i lb. vi d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T130",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Johanni Hon et sociis suis de xiiij̸ sch. utriusque grani i lb. iii d. feria 2a post dominicam lme"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T131",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus valentino et sociis suis de xviiij̸ sch. Siliginis et tritici xi s. iii d.Sabbato ante dominicam Invocavit"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT17",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_drescher",
+    "year": "1456",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit xvi lb. iii s. xxiiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T132",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_salz",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item xxx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T133",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_salz",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item xv s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T134",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Summa de primiciis fratrum iiii lb. vii s. iii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T135",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item primo recepimus de offertorio in primiciis fratris Johannis Stabularii ii lb. xiii d. feria 3a ante festum sancti Johannis waptiste"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T136",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de primiciis fratris Andree czawnrid . ii lb.vi s.xx d. dominica ante petri et pauli apostolorum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T137",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de collectis videlicet de ecclesiis parrochialibus xii s. d. in die petri et pauli"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T138",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de propriis hominibus in die petri et pauli xii s. xv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T139",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de cippo sancti Linhardi i lb. minus i d. in die visitacionis virginis gloriose"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T140",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item postea recepimus tempore Stifte vij̸ lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T141",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus a cappelano nostro v s. minus viii d. tempore Stifte"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T142",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de collecta in die sancti Linhardi xxiij̸ d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T143",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de collecta in die sancte Katherine lxi d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T144",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de offertorio custodis v s. minus iii hall. in die sancti Johannis apostoli"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T145",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item postea recepimus ab eodem xlvi d. feria 2a pasche"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T146",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item postea recepimus de cippo sancti Linhardi x s. viii d. feria 6a ante Georii martyris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T147",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de collecta in pleinting in die marci Ewangeliste xxxviii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T148",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus feria 3a Rogacionum xiiii s. xv d. minus i hall."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T149",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_stiftung_diverses",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus de offertorio custodis xxii d. feria 3a penthecostes"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T150",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "dedit Item primo recepimus ab Linhardo hueber de chreusdorff ii f. Rhen. solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T151",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "dedit Item recepimus ab Georio odär iii f. Rhen. solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T152",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "dedit Item recepimus a Schammperger ii f. Rhen."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T153",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus a Struner iii s. d. pro 3a parte annone solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T154",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus x s. d. a linhardo Horndel"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T155",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus ab huber in Egendorff ii f. Rhen."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T156",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus a vidua aygnerin in Iudicio pfarkirchen todfal und züstand vi s. vi d. per hellenöder"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T157",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item recepimus a vidua Goschelhueberin de freindorff i lb. d. dominica vocem Iocunditatis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT18",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_divers_wandel_tod_abgaben",
+    "year": "1457",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa omnium prescriptorum facit x lb. xxx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T158",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bewirtschaftung_weinberge",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro cultura vinearum iC xxviij̸ lb. xiiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#TT19",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bewirtschaftung_weinberge",
+    "year": "1457",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit iC xxviij̸ lb. xiiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T159",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Aspekchen in patavia in lagena vini ytalico ab eo empta super compu- tacionem iiii f. Ung.feria quarta ante marie magdalene solutum est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T160",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Georio Haberkover de Straubingna xiii lb. minus x d. in vino francaneo ab eo empto solvimus sibi totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T161",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro vino empto in prawnaw per vicarium nostrum in münster xi s. minus iii hall."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T162",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro iiii paribus botorum j̸ lb. d. in octava sanctissimi patris nostri bernhardi"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T163",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro xii caseis ad mutas iiii lb. lx d. Wien. feria quinta post Exaltacionis sancti crucis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T164",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item emimus a domino de czwettel v ternarios vini urnam pro i lb. d . Wien. Summa totaliter facit iC xxiii lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T165",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro iiii urnis vini pro replecione vasorum xx s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T166",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus den vasczicheren in partibus inferioribus et in vilshoven xiii s. x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T167",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item pro expensis linhardo prukner descendendo et ascendendo x s."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T168",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Linhardo tolfüss de ayttenpach pro j̸ plaustro vini xiiii lb. d. et pro fectura lx d. solutum est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T169",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Johanni leoni nautte in vilshoven pro ii lagenis wlgariter Ruminirviii lb. d. feria quinta post thome apostoli solvimus sibi totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T170",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Jeronimo Stättner pro iii urnis vini ab eo emptis xviii s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T170a",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Nota frater Stepfanus emit nobis vj̸ ternarios vini pro iC et vi lb. d. a domino preposito sancte dorothe in wyenna In hoc exsolvimus sibi per fratrem Stepfanum et Leonem nautte lx lb. d. ante festum sancti Geori Anno etc. lviiio et sic obligamur sibi xl lb. d. terminus solucionis Cholmanni"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T171",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus linhardo prukner pro expensis ad wyennam pro adduccione vini in die Marci Ewangeliste xj̸ s. d. + Verte folium et invenies plus + Nota solutum est totaliter litteram obligatoriam habemus in mabus nostris"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T172",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus Andrea leoni nautte de vii ternariis nobis adductis xiiii lb. d. Wien."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T173",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus pro muta in patavia de anno preterito et de presenti anno ii lb. xxxiiii d. Wien. et sic tenemur sibi pro finali solucione xi lb. xxxiiii d. Wien. In hoc dedimus sibi vi lb. xxxiiii d. dominica prima adventus domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T174",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus famulis xxx d. et sic obligamur sibi pro finali solucione v lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T175",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item linhardus expedivit in mutis j̸ lb. minus xii d. preter in patavia"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T176",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus pro iii plaustris veteris vini lvii lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T177",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus petro hengel in precio suo xxiiii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T178",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus den vasczeheren et doleatori patavia in x s minus iii d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T179",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus iii s. x d. pro muta in Newnkirchen"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T180",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item vas quod emimus ab Andrea leone de vino alsacie computavimus pro viiij̸ urnis N... mensur... urnam pro xviii s. d. facit xix lb.xxx d. Wien. et si plus continetur tunc plus dabimus sibi si minus tunc defalcabimus sibi in prescripta Summa Et sic obligatur nobis pro finali solucione ut infra"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#N3",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_wein",
+    "year": "1457",
+    "type": "arec:Note",
+    "entry": "Nota Leo Nauta Iunior cum socio suo tenentur nobis adhuc pro finali solucione xviij̸ lb. xxx d. omnibus in simul computatis Idem tenetur pro i sch. Siliginis ii lb. d. et sic tenetur pro finali solucione xxj̸ lb. d. una cum Siligine Acta sunt hec in pataviaferia 2a post dominicam Invocavit Anno etc. lixo in presencia Iudicis nostris Johannis Geyer et Johannis leonis fratris sui"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T181",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_vereinbarung_steinmetz_petrus_kircheweng",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus wysmaier ex iussione sua lx d. feria quarta ante Michahel."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L343GT#T182",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_vereinbarung_steinmetz_petrus_kircheweng",
+    "year": "1457",
+    "type": "bk:Transaction",
+    "entry": "Item emimus i fenestram ab eo dominica adventus domini pro qua dabimus sibi i porcum in pingwatis infra huic et nativitatem Christi satisfecimus sibi in porcum."
+  }
+]

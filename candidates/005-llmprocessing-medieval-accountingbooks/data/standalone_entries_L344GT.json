@@ -1,0 +1,415 @@
+[
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#N1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch",
+    "year": "1458",
+    "type": "arec:Note",
+    "entry": "Nota linhardus hollerbekch tenetur nobis pro porcis pro cuttibus et pro avibus omnibus insimul computatis lxviii f. Rhen. Acta sunt hec feria quinta post festum sancti Bernhardi Abbatis Anno etc. lxo in presencia Iudicis nostri Stepfani Hollerbekch Johannis Horndel etc."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "In hoc dedit xx lb. d. illo liskircher et v lb. d. illo Haberkover"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T2",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedit xv f. Rhen. per Cappelanum nostrum in die sancti Leonhardi Anno etc. lxo"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T3",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedit i lb. xx d. dominica ante festum sancti martini in Eyttenpach magistro curie facit totum in auro cum f. suprascriptis .l. f. Rhen. et sic tenetur nobis pro finali solucione xviii f. in auro Idem dedit nobis xii f. Ung. cum masculo nostro sed unus ex eis videtur satis exilis et sic tenetur solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T4",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "O Stepfanus socius secundi coloni conductus est pro xxiij̸ s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T5",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem vii s. d. in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T6",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem i lb. d. Sabbato post mauricii et sic obligamur sibi pro finali solucione viij̸ s. d. solvimus sibi totum in die sancti blasii Episcopi et sic solutus est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T7",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "OGeorius Loher socius tercii coloni conductus est pro xxiij̸ s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T8",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem xxx d. per magistrum curie in die parascheven"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T9",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item extraximus eum ab hospite pro lxi d. in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T10",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem eadem die j̸ lb. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T11",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem vi s. d. Sabbato post mauricii"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T12",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item extraximus eum ab hospite pro j̸ lb. d. in die sancti Stepfani et sic obligamur sibi pro finali solucione v s. xiiii d. solvimus sibi totum in die sancti blasii Episcopi et sic solutus est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T13",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "OValentinus socius quarti coloni conductus est pro xviii s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T14",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item extraximus eum ab hospite pro j̸ lb. d. in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T15",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem eadem die lx d. eadem die"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T16",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item eum ab hospite pro v s. d. Sabbato post mauricii"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T17",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi eadem die xxx d. per fratrem suum petrum fistulatorem"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T18",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item extraximus eum ab hospite pro v s. d. in die sancti Stepfani et sic obligamur sibi pro finali solucione xxx d. solvimus hospiti nostro pro eo in die sancti blasii Episcopi et sic solutus est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T19",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item cellerarius computavit nobis xiiiij̸ lb. v d. quod recepit et expendit a diversis personis qui prescriptam Summam sibi totaliter exsolverunt preter subnotati qui adhuc tenentur solvere"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T20",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item wolfhardus piscator recepit pro v s. d. videlicet Grumad In hoc dedit cellerario piscos pro v s. d. cellerario et sic solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T21",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "dedit Item primo Rymer in vilshoven tenetur pro i plaustro feni ix s. d. solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T22",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "dedit Item tanner de vilshoven tenetur pro i plaustro feni i lb. d. solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T23",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "dedit Item Linhardus prukner tenetur lx pro iii Schober dedit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T24",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "dedit Item Andreas cerdonis in Chadling tenetur iiij̸ s. d. dedit"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#N2",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "arec:Note",
+    "entry": "Item petrus Stügelhaymer tenetur x s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#N3",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "arec:Note",
+    "entry": "Item petrus piscator tenetur v s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#TT1",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa facit iiii lb. v s. xv d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#TT2",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_heu",
+    "year": "1458",
+    "type": "bk:TotalTransaction",
+    "entry": "Summa totalis facit xix lb. vi s. xx d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T25",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Katherina Selin Swaygerin conducta est pro xv s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T26",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus eidem lx d. per magistrum curie in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T27",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti Mathei apostoli et Ewangeliste"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T28",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem ix s. d. per magistrum curie in die Agathe et sic soluta est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T29",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Margretha filia Seysin conducta est pro xiii s. x d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T30",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus eidem lx d. per magistrum curie in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T31",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti Mathei apostoli et Ewangeliste"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T32",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus eidem per magistrum curie vii s. x d. per magistrum curie in die Agathe et sic soluta est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T33",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Anna filia currificis de penczing conducta est pro xiij̸ s. d."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T34",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus eidem lx d. per magistrum curie in die ascensionis domini"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T35",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti Mathei apostoli et Ewangeliste"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T36",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedimus eidem vij̸ s. d. per magistrum curie in die Agathe et sic soluta est totaliter"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T37",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Martinus opilionis conductus est pro v lb. d. et pro v ulnis grisei panni et i par calciamentorum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T38",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis",
+    "year": "1459",
+    "type": "bk:Transaction",
+    "entry": "Item dedimus sibi v ulnas albi panni Sabbato ante dionisii per Sartorem nostrum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#N4",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis",
+    "year": "1459",
+    "type": "arec:Note",
+    "entry": "Nota computavimus cum martino opilione de omnibus sibi obligatis Et sic obligamur sibi omnibus computatis pro finali solucione xiiii lb. d. Acta sunt hec feria 6a post Agathe Anno etc. lxo in presencia fratris Johannis Chobler Cappellani et magistro curie"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T39",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schaf",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Nota Holderpeck Linhardus tenetur pro lxxi ovis sibi venditis xxvi lb. vi s. Idem tenetur pro xvi cuttis vii lb. Summa totaliter facit xxxiii lb. ii s."
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T40",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schaf",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedit xvi fl. Rhen. qui faciunt in peccunia xiii lb. computando fl. pro vii s. feria sexta ante festum exaltacionis sancti crucis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T41",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schaf",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedit per famulum suum xii fl. Rhen. Sabbatho ante exaltacionem sancte crucis"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T42",
+    "rubric": "https://gams.uni-graz.at/o:arec#einnahmen_schaf",
+    "year": "1458",
+    "type": "bk:Transaction",
+    "entry": "Item postea dedit i lb. pro finali solucione et solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T43",
+    "rubric": "https://gams.uni-graz.at/o:areceinnahmen_schwein",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item vendidimus Linhardo holderberk xxxiii porcos pro xxxii lb. d. Wien. feria quarta post dominicam Judica Anno etc. quo supra solvit totum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T44",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item primo dedimus illo Gleysser i par lintheaminum anno quo supra"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T45",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item dem andern Encken dedimus i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T46",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item dem tritten encken dedimus i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T47",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item coco in curia colonorum i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T48",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item Grunoder stabulario i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T49",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item Stüttner i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T50",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item pewtler i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T51",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item famulo vaccarum in Newnstifft i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T52",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item Swaygerin in Strass i par lintheaminum"
+  },
+  {
+    "id": "https://gams.uni-graz.at/o:arec.L344GT#T53",
+    "rubric": "https://gams.uni-graz.at/o:arec#ausgaben_bedienstete",
+    "year": "1462",
+    "type": "bk:Transaction",
+    "entry": "Item famulo vaccarum in Strass i par lintheaminum"
+  }
+]

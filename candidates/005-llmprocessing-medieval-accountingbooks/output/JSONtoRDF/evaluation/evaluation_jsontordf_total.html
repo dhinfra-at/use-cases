@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>LLM Evaluation – Overall Scores Summary for JSON to RDF encoding</title>
+<style>
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px;
+    background: #eef2f5;
+    margin: 24px;
+    color: #222;
+}
+h1 { color: #1a3a50; margin-bottom: 4px; font-size: 20px; }
+p.subtitle { color: #555; margin-top: 0; margin-bottom: 18px; font-size: 12px; }
+
+/* ---- Controls ----------------------------------------------------------- */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 18px;
+    padding: 12px 16px;
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.ctrl-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.ctrl-label {
+    font-weight: 600;
+    color: #2c3e50;
+    font-size: 12px;
+    margin-right: 2px;
+}
+fieldset {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px 10px 5px 8px;
+    background: #f7f9fb;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+legend {
+    font-weight: 600;
+    color: #2c3e50;
+    padding: 0 4px;
+    font-size: 11px;
+    letter-spacing: .03em;
+}
+label {
+    cursor: pointer;
+    user-select: none;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+input[type=checkbox] { cursor: pointer; }
+
+.btn-group { display: flex; gap: 6px; }
+button {
+    padding: 5px 12px;
+    background: #2c3e50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    white-space: nowrap;
+    transition: background .15s;
+}
+button:hover { background: #3d5a72; }
+button.btn-secondary {
+    background: #546e7a;
+}
+button.btn-secondary:hover { background: #607d8b; }
+
+/* ---- Table -------------------------------------------------------------- */
+.wrapper { overflow-x: auto; }
+
+table {
+    border-collapse: collapse;
+    white-space: nowrap;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+}
+
+th, td {
+    border: 1px solid #c8d4dc;
+    padding: 5px 9px;
+    text-align: center;
+}
+
+/* Header rows */
+th {
+    background: #2c3e50;
+    color: #fff;
+    font-weight: 600;
+}
+th.col-id   { background: #1a2a38; }
+th.group-l2 { background: #3d5470; }
+th.group-l3 { background: #516070; font-weight: 400; font-size: 12px; }
+
+/* Section separators – L1 always visible, l2/l3/data managed by JS */
+th.sec-l1 {
+    border-left: 3px solid #7fb3d3;   /* visible on dark bg */
+}
+.section-sep {
+    border-left: 3px solid #2c3e50 !important;
+}
+
+/* Dataset separator rows */
+tr.ds-header td {
+    background: #d6e8f4;
+    font-weight: 700;
+    font-size: 13px;
+    color: #1a3a50;
+    border-top: 3px solid #2c3e50;
+    border-bottom: 2px solid #2c3e50;
+    text-align: left;
+    padding-left: 12px;
+    letter-spacing: .04em;
+}
+
+/* ID columns */
+td.col-id { font-weight: 600; background: #f0f4f7; }
+td.col-model { text-align: left; }
+td.col-model a { color: #1a6a9a; text-decoration: none; }
+td.col-model a:hover { text-decoration: underline; }
+
+/* Score cells */
+td.score { font-variant-numeric: tabular-nums; }
+td.score-best {
+    background: #b8edb0 !important;
+    font-weight: 700;
+    color: #1a5c14;
+}
+td.score-best-local {
+    background: #fff3b0 !important;
+    font-weight: 700;
+    color: #7a5c00;
+}
+td.score-missing { background: #f0f0f0; color: #aaa; }
+
+/* Alternating rows */
+tr.row-even td.score, tr.row-even td.score-missing { background: #f7f9fb; }
+tr.row-odd  td.score, tr.row-odd  td.score-missing { background: #fff; }
+tr.row-even td.score-best, tr.row-odd td.score-best { background: #b8edb0 !important; }
+tr.row-even td.score-best-local, tr.row-odd td.score-best-local { background: #fff3b0 !important; }
+
+/* ---- Tabs --------------------------------------------------------------- */
+.tab-bar {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 0;
+    margin-top: 18px;
+}
+.tab-btn {
+    padding: 7px 22px;
+    background: #3d5470;
+    color: #fff;
+    border: none;
+    border-radius: 6px 6px 0 0;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    transition: background .15s;
+}
+.tab-btn:hover { background: #4a6585; }
+.tab-btn.active { background: #1a2a38; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* ---- Static panels (Prompt / Parameters) -------------------------------- */
+.tab-panel {
+    padding: 24px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    min-height: 340px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #222;
+}
+.tab-panel h2 {
+    color: #1a3a50;
+    font-size: 15px;
+    margin: 0 0 16px 0;
+}
+.tab-panel pre {
+    white-space: pre-wrap;
+    background: #f7f9fb;
+    border: 1px solid #dce6ed;
+    border-radius: 4px;
+    padding: 14px 16px;
+    margin: 0;
+}
+.tab-panel ul { padding-left: 22px; margin: 0; }
+.tab-panel li { margin-bottom: 4px; }
+
+</style>
+</head>
+<body>
+<h1>LLM Evaluation – Overall Scores Summary for JSON to RDF encoding</h1>
+<p class="subtitle">
+  Summary of all Overall Scores from 20&nbsp;evaluation files &middot;
+  Datasets:&nbsp;L343, L344, L345, L346 &middot;
+  <span style="color:#1a5c14;font-weight:700">Green</span> = best overall &middot;
+  <span style="color:#7a5c00;font-weight:700">Yellow</span> = best local model (vLLM)
+</p>
+<details style="margin-bottom:20px; font-family:Arial, sans-serif;">
+  <summary style="cursor:pointer; font-size:16px; font-weight:bold;">
+    ℹ️ Explanation of Evaluation Metrics
+  </summary>
+  <div style="margin-top:10px; font-size:14px; line-height:1.5;">
+    <h3>Precision and Recall</h3>
+    <ul>
+      <li><b>Precision (P)</b>: Of all items the system produced, what fraction were correct?</li>
+      <li><b>Recall (R)</b>: Of all items in the ground truth, how many did the system reproduce?</li>
+      <br/>
+      <li><b>Structural precision/recall</b> measure correctness and completeness of RDF triples (graph structure).</li>
+      <li><b>Content fidelity precision/recall</b> measure correctness and completeness of literal values, names, amounts, and other identifier strings.</li>
+      <li><b>Exact triple match precision/recall</b> measure correctness and completeness of fully specified RDF statements, evaluated as strict string matches of subject–predicate–object triples.</li>
+    </ul>
+    <h3>Macro- and Micro-Average</h3>
+    <ul>
+      <li><b>Macro-average</b>: Each entry counts equally, regardless of size (average of per-entry scores).</li>
+      <li><b>Micro-average</b>: All items across all entries are pooled, giving larger entries more weight.</li>
+      <br/>
+      <li><b>Macro-average example</b>: If two entries score 1.0 and 0.0, macro-average F1 = (1.0 + 0.0) / 2 = 0.5.</li>
+      <li><b>Micro-average example</b>: If one entry has 100 correct items and another has 0 out of 1, micro recall = 100 / 101 ≈ 0.99.</li>
+    </ul>
+    --------------------------------------------------------------------------------------------------------------------------------------
+  </div>
+</details>
+
+<div class="controls">
+  <fieldset>
+    <legend>Average</legend>
+    <label><input type="checkbox" id="cb-macro" checked onchange="updateTable()"> Macro</label>
+    <label><input type="checkbox" id="cb-micro" checked onchange="updateTable()"> Micro</label>
+  </fieldset>
+  <fieldset>
+    <legend>Metrics</legend>
+    <label><input type="checkbox" id="cb-f1" checked onchange="updateTable()"> F1</label>
+    <label><input type="checkbox" id="cb-p"  checked onchange="updateTable()"> Precision (P)</label>
+    <label><input type="checkbox" id="cb-r"  checked onchange="updateTable()"> Recall (R)</label>
+  </fieldset>
+  <fieldset>
+    <legend>Sections</legend>
+    <label><input type="checkbox" id="cb-sec-overall"        checked onchange="updateTable()"> Overall Score</label>
+    <label><input type="checkbox" id="cb-sec-struct-content" checked onchange="updateTable()"> Struct + Content</label>
+    <label><input type="checkbox" id="cb-sec-structural"     checked onchange="updateTable()"> Structural</label>
+    <label><input type="checkbox" id="cb-sec-content"        checked onchange="updateTable()"> Content Fidelity</label>
+    <label><input type="checkbox" id="cb-sec-exact"          checked onchange="updateTable()"> Exact Triple</label>
+  </fieldset>
+  <div class="btn-group">
+    <button onclick="resetFilters()">Show All</button>
+    <button class="btn-secondary" onclick="f1Only()">F1 Only</button>
+    <button class="btn-secondary" onclick="macroOnly()">Macro Only</button>
+    <button class="btn-secondary" onclick="microOnly()">Micro Only</button>
+    <button class="btn-secondary" onclick="f1MacroOnly()">F1 Macro</button>
+  </div>
+</div>
+
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="detail" onclick="switchTab('detail')">Per Dataset</button>
+  <button class="tab-btn" data-tab="avg" onclick="switchTab('avg')">All Datasets (average)</button>
+  <button class="tab-btn" data-tab="prompt" onclick="switchTab('prompt')">Prompt</button>
+  <button class="tab-btn" data-tab="parameters" onclick="switchTab('parameters')">Parameters</button>
+</div>
+<div id="tab-detail" class="tab-content active wrapper">
+<table id="main-table">
+<thead>
+<tr><th rowspan="3" class="col-id">Model</th><th colspan="2" class="sec-l1" data-cols="0,1" data-section="overall">Overall Score</th><th colspan="2" class="sec-l1" data-cols="2,3" data-section="struct_content">Struct + Content</th><th colspan="6" class="sec-l1" data-cols="4,5,6,7,8,9" data-section="structural">Structural</th><th colspan="6" class="sec-l1" data-cols="10,11,12,13,14,15" data-section="content">Content Fidelity</th><th colspan="6" class="sec-l1" data-cols="16,17,18,19,20,21" data-section="exact">Exact Triple</th></tr>
+<tr><th class="group-l2" colspan="1" data-cols="0" data-section="overall">Macro</th><th class="group-l2" colspan="1" data-cols="1" data-section="overall">Micro</th><th class="group-l2" colspan="1" data-cols="2" data-section="struct_content">Macro</th><th class="group-l2" colspan="1" data-cols="3" data-section="struct_content">Micro</th><th class="group-l2" colspan="3" data-cols="4,5,6" data-section="structural">Macro</th><th class="group-l2" colspan="3" data-cols="7,8,9" data-section="structural">Micro</th><th class="group-l2" colspan="3" data-cols="10,11,12" data-section="content">Macro</th><th class="group-l2" colspan="3" data-cols="13,14,15" data-section="content">Micro</th><th class="group-l2" colspan="3" data-cols="16,17,18" data-section="exact">Macro</th><th class="group-l2" colspan="3" data-cols="19,20,21" data-section="exact">Micro</th></tr>
+<tr><th class="group-l3" data-col="0" data-section="overall">F1</th><th class="group-l3" data-col="1" data-section="overall">F1</th><th class="group-l3" data-col="2" data-section="struct_content">F1</th><th class="group-l3" data-col="3" data-section="struct_content">F1</th><th class="group-l3" data-col="4" data-section="structural">P</th><th class="group-l3" data-col="5" data-section="structural">R</th><th class="group-l3" data-col="6" data-section="structural">F1</th><th class="group-l3" data-col="7" data-section="structural">P</th><th class="group-l3" data-col="8" data-section="structural">R</th><th class="group-l3" data-col="9" data-section="structural">F1</th><th class="group-l3" data-col="10" data-section="content">P</th><th class="group-l3" data-col="11" data-section="content">R</th><th class="group-l3" data-col="12" data-section="content">F1</th><th class="group-l3" data-col="13" data-section="content">P</th><th class="group-l3" data-col="14" data-section="content">R</th><th class="group-l3" data-col="15" data-section="content">F1</th><th class="group-l3" data-col="16" data-section="exact">P</th><th class="group-l3" data-col="17" data-section="exact">R</th><th class="group-l3" data-col="18" data-section="exact">F1</th><th class="group-l3" data-col="19" data-section="exact">P</th><th class="group-l3" data-col="20" data-section="exact">R</th><th class="group-l3" data-col="21" data-section="exact">F1</th></tr>
+</thead>
+<tbody>
+<tr class="ds-header"><td colspan="23">L343</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L343_glm5.1-fp8.html" target="_blank">glm5.1-fp8</a></td><td class="score" data-col="0" data-section="overall">0.805</td><td class="score" data-col="1" data-section="overall">0.783</td><td class="score" data-col="2" data-section="struct_content">0.846</td><td class="score" data-col="3" data-section="struct_content">0.827</td><td class="score" data-col="4" data-section="structural">0.943</td><td class="score" data-col="5" data-section="structural">0.912</td><td class="score" data-col="6" data-section="structural">0.918</td><td class="score" data-col="7" data-section="structural">0.924</td><td class="score" data-col="8" data-section="structural">0.887</td><td class="score" data-col="9" data-section="structural">0.905</td><td class="score" data-col="10" data-section="content">0.795</td><td class="score" data-col="11" data-section="content">0.767</td><td class="score" data-col="12" data-section="content">0.773</td><td class="score" data-col="13" data-section="content">0.764</td><td class="score" data-col="14" data-section="content">0.733</td><td class="score" data-col="15" data-section="content">0.748</td><td class="score" data-col="16" data-section="exact">0.743</td><td class="score" data-col="17" data-section="exact">0.719</td><td class="score" data-col="18" data-section="exact">0.724</td><td class="score" data-col="19" data-section="exact">0.710</td><td class="score" data-col="20" data-section="exact">0.681</td><td class="score" data-col="21" data-section="exact">0.695</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L343_kimi-k2.5.html" target="_blank">kimi-k2.5</a></td><td class="score" data-col="0" data-section="overall">0.809</td><td class="score" data-col="1" data-section="overall">0.788</td><td class="score score-best" data-col="2" data-section="struct_content">0.853</td><td class="score score-best" data-col="3" data-section="struct_content">0.835</td><td class="score" data-col="4" data-section="structural">0.949</td><td class="score score-best" data-col="5" data-section="structural">0.918</td><td class="score score-best" data-col="6" data-section="structural">0.926</td><td class="score" data-col="7" data-section="structural">0.935</td><td class="score score-best" data-col="8" data-section="structural">0.892</td><td class="score score-best" data-col="9" data-section="structural">0.913</td><td class="score" data-col="10" data-section="content">0.801</td><td class="score" data-col="11" data-section="content">0.774</td><td class="score" data-col="12" data-section="content">0.781</td><td class="score" data-col="13" data-section="content">0.775</td><td class="score" data-col="14" data-section="content">0.739</td><td class="score" data-col="15" data-section="content">0.757</td><td class="score" data-col="16" data-section="exact">0.737</td><td class="score" data-col="17" data-section="exact">0.716</td><td class="score" data-col="18" data-section="exact">0.721</td><td class="score" data-col="19" data-section="exact">0.710</td><td class="score" data-col="20" data-section="exact">0.677</td><td class="score" data-col="21" data-section="exact">0.693</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L343_kimi-k2.5_thinking.html" target="_blank">kimi-k2.5_thinking</a></td><td class="score" data-col="0" data-section="overall">0.809</td><td class="score" data-col="1" data-section="overall">0.788</td><td class="score score-best" data-col="2" data-section="struct_content">0.853</td><td class="score" data-col="3" data-section="struct_content">0.834</td><td class="score" data-col="4" data-section="structural">0.953</td><td class="score" data-col="5" data-section="structural">0.916</td><td class="score score-best" data-col="6" data-section="structural">0.926</td><td class="score" data-col="7" data-section="structural">0.939</td><td class="score" data-col="8" data-section="structural">0.888</td><td class="score" data-col="9" data-section="structural">0.912</td><td class="score" data-col="10" data-section="content">0.806</td><td class="score" data-col="11" data-section="content">0.770</td><td class="score" data-col="12" data-section="content">0.781</td><td class="score" data-col="13" data-section="content">0.778</td><td class="score" data-col="14" data-section="content">0.736</td><td class="score" data-col="15" data-section="content">0.756</td><td class="score" data-col="16" data-section="exact">0.740</td><td class="score" data-col="17" data-section="exact">0.714</td><td class="score" data-col="18" data-section="exact">0.721</td><td class="score" data-col="19" data-section="exact">0.716</td><td class="score" data-col="20" data-section="exact">0.677</td><td class="score" data-col="21" data-section="exact">0.695</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L343_qwen3.5-397b.html" target="_blank">qwen3.5-397b</a></td><td class="score" data-col="0" data-section="overall">0.809</td><td class="score" data-col="1" data-section="overall">0.785</td><td class="score" data-col="2" data-section="struct_content">0.851</td><td class="score" data-col="3" data-section="struct_content">0.829</td><td class="score" data-col="4" data-section="structural">0.938</td><td class="score" data-col="5" data-section="structural">0.912</td><td class="score" data-col="6" data-section="structural">0.918</td><td class="score" data-col="7" data-section="structural">0.916</td><td class="score" data-col="8" data-section="structural">0.884</td><td class="score" data-col="9" data-section="structural">0.900</td><td class="score" data-col="10" data-section="content">0.802</td><td class="score score-best" data-col="11" data-section="content">0.778</td><td class="score score-best" data-col="12" data-section="content">0.784</td><td class="score" data-col="13" data-section="content">0.773</td><td class="score score-best" data-col="14" data-section="content">0.746</td><td class="score score-best" data-col="15" data-section="content">0.759</td><td class="score" data-col="16" data-section="exact">0.741</td><td class="score score-best" data-col="17" data-section="exact">0.721</td><td class="score" data-col="18" data-section="exact">0.726</td><td class="score" data-col="19" data-section="exact">0.708</td><td class="score score-best" data-col="20" data-section="exact">0.684</td><td class="score" data-col="21" data-section="exact">0.696</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L343_qwen3.5-397b_thinking.html" target="_blank">qwen3.5-397b_thinking</a></td><td class="score score-best" data-col="0" data-section="overall">0.812</td><td class="score score-best" data-col="1" data-section="overall">0.790</td><td class="score" data-col="2" data-section="struct_content">0.851</td><td class="score" data-col="3" data-section="struct_content">0.832</td><td class="score score-best" data-col="4" data-section="structural">0.954</td><td class="score" data-col="5" data-section="structural">0.902</td><td class="score" data-col="6" data-section="structural">0.919</td><td class="score score-best" data-col="7" data-section="structural">0.941</td><td class="score" data-col="8" data-section="structural">0.871</td><td class="score" data-col="9" data-section="structural">0.904</td><td class="score score-best" data-col="10" data-section="content">0.814</td><td class="score" data-col="11" data-section="content">0.768</td><td class="score" data-col="12" data-section="content">0.783</td><td class="score score-best" data-col="13" data-section="content">0.789</td><td class="score" data-col="14" data-section="content">0.730</td><td class="score score-best" data-col="15" data-section="content">0.759</td><td class="score score-best" data-col="16" data-section="exact">0.761</td><td class="score" data-col="17" data-section="exact">0.719</td><td class="score score-best" data-col="18" data-section="exact">0.733</td><td class="score score-best" data-col="19" data-section="exact">0.735</td><td class="score" data-col="20" data-section="exact">0.680</td><td class="score score-best" data-col="21" data-section="exact">0.706</td></tr><tr class="ds-header"><td colspan="23">L344</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L344_glm5.1-fp8.html" target="_blank">glm5.1-fp8</a></td><td class="score score-best" data-col="0" data-section="overall">0.794</td><td class="score score-best" data-col="1" data-section="overall">0.764</td><td class="score score-best" data-col="2" data-section="struct_content">0.837</td><td class="score" data-col="3" data-section="struct_content">0.810</td><td class="score" data-col="4" data-section="structural">0.911</td><td class="score score-best" data-col="5" data-section="structural">0.961</td><td class="score score-best" data-col="6" data-section="structural">0.928</td><td class="score" data-col="7" data-section="structural">0.856</td><td class="score score-best" data-col="8" data-section="structural">0.945</td><td class="score" data-col="9" data-section="structural">0.898</td><td class="score score-best" data-col="10" data-section="content">0.733</td><td class="score score-best" data-col="11" data-section="content">0.774</td><td class="score score-best" data-col="12" data-section="content">0.747</td><td class="score" data-col="13" data-section="content">0.687</td><td class="score score-best" data-col="14" data-section="content">0.759</td><td class="score score-best" data-col="15" data-section="content">0.721</td><td class="score score-best" data-col="16" data-section="exact">0.696</td><td class="score score-best" data-col="17" data-section="exact">0.734</td><td class="score score-best" data-col="18" data-section="exact">0.708</td><td class="score score-best" data-col="19" data-section="exact">0.641</td><td class="score score-best" data-col="20" data-section="exact">0.707</td><td class="score score-best" data-col="21" data-section="exact">0.672</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L344_kimi-k2.5.html" target="_blank">kimi-k2.5</a></td><td class="score" data-col="0" data-section="overall">0.778</td><td class="score" data-col="1" data-section="overall">0.760</td><td class="score" data-col="2" data-section="struct_content">0.828</td><td class="score score-best" data-col="3" data-section="struct_content">0.814</td><td class="score score-best" data-col="4" data-section="structural">0.912</td><td class="score" data-col="5" data-section="structural">0.950</td><td class="score" data-col="6" data-section="structural">0.924</td><td class="score score-best" data-col="7" data-section="structural">0.884</td><td class="score" data-col="8" data-section="structural">0.934</td><td class="score score-best" data-col="9" data-section="structural">0.908</td><td class="score" data-col="10" data-section="content">0.721</td><td class="score" data-col="11" data-section="content">0.753</td><td class="score" data-col="12" data-section="content">0.732</td><td class="score score-best" data-col="13" data-section="content">0.700</td><td class="score" data-col="14" data-section="content">0.739</td><td class="score" data-col="15" data-section="content">0.719</td><td class="score" data-col="16" data-section="exact">0.667</td><td class="score" data-col="17" data-section="exact">0.699</td><td class="score" data-col="18" data-section="exact">0.678</td><td class="score" data-col="19" data-section="exact">0.635</td><td class="score" data-col="20" data-section="exact">0.671</td><td class="score" data-col="21" data-section="exact">0.652</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L344_kimi-k2.5_thinking.html" target="_blank">kimi-k2.5_thinking</a></td><td class="score" data-col="0" data-section="overall">0.779</td><td class="score" data-col="1" data-section="overall">0.759</td><td class="score" data-col="2" data-section="struct_content">0.828</td><td class="score" data-col="3" data-section="struct_content">0.810</td><td class="score" data-col="4" data-section="structural">0.904</td><td class="score" data-col="5" data-section="structural">0.959</td><td class="score" data-col="6" data-section="structural">0.924</td><td class="score" data-col="7" data-section="structural">0.867</td><td class="score" data-col="8" data-section="structural">0.944</td><td class="score" data-col="9" data-section="structural">0.904</td><td class="score" data-col="10" data-section="content">0.715</td><td class="score" data-col="11" data-section="content">0.762</td><td class="score" data-col="12" data-section="content">0.732</td><td class="score" data-col="13" data-section="content">0.687</td><td class="score" data-col="14" data-section="content">0.748</td><td class="score" data-col="15" data-section="content">0.716</td><td class="score" data-col="16" data-section="exact">0.665</td><td class="score" data-col="17" data-section="exact">0.710</td><td class="score" data-col="18" data-section="exact">0.681</td><td class="score" data-col="19" data-section="exact">0.631</td><td class="score" data-col="20" data-section="exact">0.687</td><td class="score" data-col="21" data-section="exact">0.658</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L344_qwen3.5-397b.html" target="_blank">qwen3.5-397b</a></td><td class="score" data-col="0" data-section="overall">0.751</td><td class="score" data-col="1" data-section="overall">0.727</td><td class="score" data-col="2" data-section="struct_content">0.800</td><td class="score" data-col="3" data-section="struct_content">0.780</td><td class="score" data-col="4" data-section="structural">0.881</td><td class="score" data-col="5" data-section="structural">0.944</td><td class="score" data-col="6" data-section="structural">0.904</td><td class="score" data-col="7" data-section="structural">0.844</td><td class="score" data-col="8" data-section="structural">0.928</td><td class="score" data-col="9" data-section="structural">0.884</td><td class="score" data-col="10" data-section="content">0.678</td><td class="score" data-col="11" data-section="content">0.727</td><td class="score" data-col="12" data-section="content">0.696</td><td class="score" data-col="13" data-section="content">0.645</td><td class="score" data-col="14" data-section="content">0.709</td><td class="score" data-col="15" data-section="content">0.675</td><td class="score" data-col="16" data-section="exact">0.634</td><td class="score" data-col="17" data-section="exact">0.684</td><td class="score" data-col="18" data-section="exact">0.653</td><td class="score" data-col="19" data-section="exact">0.594</td><td class="score" data-col="20" data-section="exact">0.652</td><td class="score" data-col="21" data-section="exact">0.622</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L344_qwen3.5-397b_thinking.html" target="_blank">qwen3.5-397b_thinking</a></td><td class="score" data-col="0" data-section="overall">0.780</td><td class="score" data-col="1" data-section="overall">0.760</td><td class="score" data-col="2" data-section="struct_content">0.826</td><td class="score" data-col="3" data-section="struct_content">0.810</td><td class="score" data-col="4" data-section="structural">0.908</td><td class="score" data-col="5" data-section="structural">0.952</td><td class="score" data-col="6" data-section="structural">0.922</td><td class="score" data-col="7" data-section="structural">0.873</td><td class="score" data-col="8" data-section="structural">0.940</td><td class="score" data-col="9" data-section="structural">0.905</td><td class="score" data-col="10" data-section="content">0.718</td><td class="score" data-col="11" data-section="content">0.755</td><td class="score" data-col="12" data-section="content">0.730</td><td class="score" data-col="13" data-section="content">0.690</td><td class="score" data-col="14" data-section="content">0.743</td><td class="score" data-col="15" data-section="content">0.715</td><td class="score" data-col="16" data-section="exact">0.676</td><td class="score" data-col="17" data-section="exact">0.712</td><td class="score" data-col="18" data-section="exact">0.688</td><td class="score" data-col="19" data-section="exact">0.636</td><td class="score" data-col="20" data-section="exact">0.685</td><td class="score" data-col="21" data-section="exact">0.660</td></tr><tr class="ds-header"><td colspan="23">L345</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L345_glm5.1-fp8.html" target="_blank">glm5.1-fp8</a></td><td class="score score-best" data-col="0" data-section="overall">0.793</td><td class="score score-best" data-col="1" data-section="overall">0.791</td><td class="score score-best" data-col="2" data-section="struct_content">0.833</td><td class="score score-best" data-col="3" data-section="struct_content">0.833</td><td class="score" data-col="4" data-section="structural">0.917</td><td class="score score-best" data-col="5" data-section="structural">0.914</td><td class="score score-best" data-col="6" data-section="structural">0.902</td><td class="score" data-col="7" data-section="structural">0.908</td><td class="score score-best" data-col="8" data-section="structural">0.896</td><td class="score score-best" data-col="9" data-section="structural">0.902</td><td class="score" data-col="10" data-section="content">0.778</td><td class="score score-best" data-col="11" data-section="content">0.775</td><td class="score score-best" data-col="12" data-section="content">0.764</td><td class="score" data-col="13" data-section="content">0.770</td><td class="score score-best" data-col="14" data-section="content">0.759</td><td class="score score-best" data-col="15" data-section="content">0.765</td><td class="score" data-col="16" data-section="exact">0.726</td><td class="score score-best" data-col="17" data-section="exact">0.721</td><td class="score score-best" data-col="18" data-section="exact">0.713</td><td class="score" data-col="19" data-section="exact">0.710</td><td class="score score-best" data-col="20" data-section="exact">0.700</td><td class="score score-best" data-col="21" data-section="exact">0.705</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L345_kimi-k2.5.html" target="_blank">kimi-k2.5</a></td><td class="score" data-col="0" data-section="overall">0.789</td><td class="score" data-col="1" data-section="overall">0.786</td><td class="score" data-col="2" data-section="struct_content">0.830</td><td class="score" data-col="3" data-section="struct_content">0.829</td><td class="score" data-col="4" data-section="structural">0.933</td><td class="score" data-col="5" data-section="structural">0.902</td><td class="score score-best" data-col="6" data-section="structural">0.902</td><td class="score" data-col="7" data-section="structural">0.924</td><td class="score" data-col="8" data-section="structural">0.878</td><td class="score" data-col="9" data-section="structural">0.900</td><td class="score" data-col="10" data-section="content">0.785</td><td class="score" data-col="11" data-section="content">0.757</td><td class="score" data-col="12" data-section="content">0.757</td><td class="score" data-col="13" data-section="content">0.777</td><td class="score" data-col="14" data-section="content">0.738</td><td class="score" data-col="15" data-section="content">0.757</td><td class="score" data-col="16" data-section="exact">0.733</td><td class="score" data-col="17" data-section="exact">0.706</td><td class="score" data-col="18" data-section="exact">0.708</td><td class="score" data-col="19" data-section="exact">0.718</td><td class="score" data-col="20" data-section="exact">0.681</td><td class="score" data-col="21" data-section="exact">0.699</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L345_kimi-k2.5_thinking.html" target="_blank">kimi-k2.5_thinking</a></td><td class="score" data-col="0" data-section="overall">0.791</td><td class="score" data-col="1" data-section="overall">0.787</td><td class="score score-best" data-col="2" data-section="struct_content">0.833</td><td class="score" data-col="3" data-section="struct_content">0.831</td><td class="score" data-col="4" data-section="structural">0.929</td><td class="score" data-col="5" data-section="structural">0.898</td><td class="score score-best" data-col="6" data-section="structural">0.902</td><td class="score" data-col="7" data-section="structural">0.922</td><td class="score" data-col="8" data-section="structural">0.875</td><td class="score" data-col="9" data-section="structural">0.898</td><td class="score" data-col="10" data-section="content">0.787</td><td class="score" data-col="11" data-section="content">0.762</td><td class="score score-best" data-col="12" data-section="content">0.764</td><td class="score" data-col="13" data-section="content">0.785</td><td class="score" data-col="14" data-section="content">0.744</td><td class="score" data-col="15" data-section="content">0.764</td><td class="score" data-col="16" data-section="exact">0.727</td><td class="score" data-col="17" data-section="exact">0.705</td><td class="score" data-col="18" data-section="exact">0.708</td><td class="score" data-col="19" data-section="exact">0.718</td><td class="score" data-col="20" data-section="exact">0.681</td><td class="score" data-col="21" data-section="exact">0.699</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L345_qwen3.5-397b.html" target="_blank">qwen3.5-397b</a></td><td class="score" data-col="0" data-section="overall">0.779</td><td class="score" data-col="1" data-section="overall">0.776</td><td class="score" data-col="2" data-section="struct_content">0.822</td><td class="score" data-col="3" data-section="struct_content">0.820</td><td class="score" data-col="4" data-section="structural">0.907</td><td class="score" data-col="5" data-section="structural">0.895</td><td class="score" data-col="6" data-section="structural">0.887</td><td class="score" data-col="7" data-section="structural">0.890</td><td class="score" data-col="8" data-section="structural">0.876</td><td class="score" data-col="9" data-section="structural">0.883</td><td class="score" data-col="10" data-section="content">0.774</td><td class="score" data-col="11" data-section="content">0.764</td><td class="score" data-col="12" data-section="content">0.756</td><td class="score" data-col="13" data-section="content">0.763</td><td class="score" data-col="14" data-section="content">0.751</td><td class="score" data-col="15" data-section="content">0.757</td><td class="score" data-col="16" data-section="exact">0.709</td><td class="score" data-col="17" data-section="exact">0.700</td><td class="score" data-col="18" data-section="exact">0.694</td><td class="score" data-col="19" data-section="exact">0.692</td><td class="score" data-col="20" data-section="exact">0.681</td><td class="score" data-col="21" data-section="exact">0.687</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L345_qwen3.5-397b_thinking.html" target="_blank">qwen3.5-397b_thinking</a></td><td class="score" data-col="0" data-section="overall">0.788</td><td class="score" data-col="1" data-section="overall">0.784</td><td class="score" data-col="2" data-section="struct_content">0.826</td><td class="score" data-col="3" data-section="struct_content">0.824</td><td class="score score-best" data-col="4" data-section="structural">0.934</td><td class="score" data-col="5" data-section="structural">0.881</td><td class="score" data-col="6" data-section="structural">0.890</td><td class="score score-best" data-col="7" data-section="structural">0.926</td><td class="score" data-col="8" data-section="structural">0.852</td><td class="score" data-col="9" data-section="structural">0.887</td><td class="score score-best" data-col="10" data-section="content">0.802</td><td class="score" data-col="11" data-section="content">0.751</td><td class="score" data-col="12" data-section="content">0.761</td><td class="score score-best" data-col="13" data-section="content">0.794</td><td class="score" data-col="14" data-section="content">0.730</td><td class="score" data-col="15" data-section="content">0.761</td><td class="score score-best" data-col="16" data-section="exact">0.750</td><td class="score" data-col="17" data-section="exact">0.703</td><td class="score score-best" data-col="18" data-section="exact">0.713</td><td class="score score-best" data-col="19" data-section="exact">0.736</td><td class="score" data-col="20" data-section="exact">0.677</td><td class="score score-best" data-col="21" data-section="exact">0.705</td></tr><tr class="ds-header"><td colspan="23">L346</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L346_glm5.1-fp8.html" target="_blank">glm5.1-fp8</a></td><td class="score" data-col="0" data-section="overall">0.846</td><td class="score" data-col="1" data-section="overall">0.841</td><td class="score" data-col="2" data-section="struct_content">0.887</td><td class="score" data-col="3" data-section="struct_content">0.883</td><td class="score" data-col="4" data-section="structural">0.982</td><td class="score score-best" data-col="5" data-section="structural">0.988</td><td class="score score-best" data-col="6" data-section="structural">0.984</td><td class="score" data-col="7" data-section="structural">0.974</td><td class="score score-best" data-col="8" data-section="structural">0.990</td><td class="score" data-col="9" data-section="structural">0.982</td><td class="score" data-col="10" data-section="content">0.787</td><td class="score" data-col="11" data-section="content">0.792</td><td class="score" data-col="12" data-section="content">0.789</td><td class="score" data-col="13" data-section="content">0.778</td><td class="score" data-col="14" data-section="content">0.791</td><td class="score" data-col="15" data-section="content">0.784</td><td class="score" data-col="16" data-section="exact">0.765</td><td class="score" data-col="17" data-section="exact">0.769</td><td class="score" data-col="18" data-section="exact">0.766</td><td class="score" data-col="19" data-section="exact">0.751</td><td class="score" data-col="20" data-section="exact">0.763</td><td class="score" data-col="21" data-section="exact">0.757</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L346_kimi-k2.5.html" target="_blank">kimi-k2.5</a></td><td class="score" data-col="0" data-section="overall">0.880</td><td class="score" data-col="1" data-section="overall">0.876</td><td class="score" data-col="2" data-section="struct_content">0.913</td><td class="score" data-col="3" data-section="struct_content">0.911</td><td class="score" data-col="4" data-section="structural">0.996</td><td class="score" data-col="5" data-section="structural">0.974</td><td class="score" data-col="6" data-section="structural">0.983</td><td class="score" data-col="7" data-section="structural">0.996</td><td class="score" data-col="8" data-section="structural">0.972</td><td class="score score-best" data-col="9" data-section="structural">0.984</td><td class="score" data-col="10" data-section="content">0.854</td><td class="score" data-col="11" data-section="content">0.833</td><td class="score" data-col="12" data-section="content">0.842</td><td class="score" data-col="13" data-section="content">0.848</td><td class="score" data-col="14" data-section="content">0.828</td><td class="score" data-col="15" data-section="content">0.838</td><td class="score" data-col="16" data-section="exact">0.826</td><td class="score" data-col="17" data-section="exact">0.805</td><td class="score" data-col="18" data-section="exact">0.814</td><td class="score" data-col="19" data-section="exact">0.817</td><td class="score" data-col="20" data-section="exact">0.798</td><td class="score" data-col="21" data-section="exact">0.807</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L346_kimi-k2.5_thinking.html" target="_blank">kimi-k2.5_thinking</a></td><td class="score" data-col="0" data-section="overall">0.874</td><td class="score" data-col="1" data-section="overall">0.871</td><td class="score" data-col="2" data-section="struct_content">0.909</td><td class="score" data-col="3" data-section="struct_content">0.908</td><td class="score" data-col="4" data-section="structural">0.994</td><td class="score" data-col="5" data-section="structural">0.957</td><td class="score" data-col="6" data-section="structural">0.971</td><td class="score" data-col="7" data-section="structural">0.990</td><td class="score" data-col="8" data-section="structural">0.957</td><td class="score" data-col="9" data-section="structural">0.973</td><td class="score score-best" data-col="10" data-section="content">0.867</td><td class="score" data-col="11" data-section="content">0.834</td><td class="score" data-col="12" data-section="content">0.846</td><td class="score" data-col="13" data-section="content">0.858</td><td class="score" data-col="14" data-section="content">0.829</td><td class="score" data-col="15" data-section="content">0.843</td><td class="score" data-col="16" data-section="exact">0.826</td><td class="score" data-col="17" data-section="exact">0.793</td><td class="score" data-col="18" data-section="exact">0.806</td><td class="score" data-col="19" data-section="exact">0.809</td><td class="score" data-col="20" data-section="exact">0.783</td><td class="score" data-col="21" data-section="exact">0.796</td></tr><tr class="row-odd"><td class="col-id col-model row-odd"><a href="L346_qwen3.5-397b.html" target="_blank">qwen3.5-397b</a></td><td class="score score-best" data-col="0" data-section="overall">0.885</td><td class="score score-best" data-col="1" data-section="overall">0.881</td><td class="score score-best" data-col="2" data-section="struct_content">0.915</td><td class="score score-best" data-col="3" data-section="struct_content">0.912</td><td class="score" data-col="4" data-section="structural">0.993</td><td class="score" data-col="5" data-section="structural">0.976</td><td class="score score-best" data-col="6" data-section="structural">0.984</td><td class="score" data-col="7" data-section="structural">0.992</td><td class="score" data-col="8" data-section="structural">0.971</td><td class="score" data-col="9" data-section="structural">0.981</td><td class="score" data-col="10" data-section="content">0.854</td><td class="score score-best" data-col="11" data-section="content">0.840</td><td class="score score-best" data-col="12" data-section="content">0.847</td><td class="score" data-col="13" data-section="content">0.853</td><td class="score score-best" data-col="14" data-section="content">0.835</td><td class="score score-best" data-col="15" data-section="content">0.844</td><td class="score" data-col="16" data-section="exact">0.831</td><td class="score score-best" data-col="17" data-section="exact">0.818</td><td class="score score-best" data-col="18" data-section="exact">0.824</td><td class="score" data-col="19" data-section="exact">0.827</td><td class="score score-best" data-col="20" data-section="exact">0.810</td><td class="score score-best" data-col="21" data-section="exact">0.819</td></tr><tr class="row-even"><td class="col-id col-model row-even"><a href="L346_qwen3.5-397b_thinking.html" target="_blank">qwen3.5-397b_thinking</a></td><td class="score" data-col="0" data-section="overall">0.876</td><td class="score" data-col="1" data-section="overall">0.873</td><td class="score" data-col="2" data-section="struct_content">0.904</td><td class="score" data-col="3" data-section="struct_content">0.903</td><td class="score score-best" data-col="4" data-section="structural">0.999</td><td class="score" data-col="5" data-section="structural">0.948</td><td class="score" data-col="6" data-section="structural">0.969</td><td class="score score-best" data-col="7" data-section="structural">0.999</td><td class="score" data-col="8" data-section="structural">0.944</td><td class="score" data-col="9" data-section="structural">0.970</td><td class="score score-best" data-col="10" data-section="content">0.867</td><td class="score" data-col="11" data-section="content">0.821</td><td class="score" data-col="12" data-section="content">0.840</td><td class="score score-best" data-col="13" data-section="content">0.860</td><td class="score" data-col="14" data-section="content">0.813</td><td class="score" data-col="15" data-section="content">0.836</td><td class="score score-best" data-col="16" data-section="exact">0.845</td><td class="score" data-col="17" data-section="exact">0.800</td><td class="score" data-col="18" data-section="exact">0.818</td><td class="score score-best" data-col="19" data-section="exact">0.836</td><td class="score" data-col="20" data-section="exact">0.790</td><td class="score" data-col="21" data-section="exact">0.812</td></tr>
+</tbody>
+</table>
+</div>
+<div id="tab-avg" class="tab-content wrapper">
+<table id="avg-table">
+<thead>
+<tr><th rowspan="3" class="col-id">Model</th><th colspan="2" class="sec-l1" data-cols="0,1" data-section="overall">Overall Score</th><th colspan="2" class="sec-l1" data-cols="2,3" data-section="struct_content">Struct + Content</th><th colspan="6" class="sec-l1" data-cols="4,5,6,7,8,9" data-section="structural">Structural</th><th colspan="6" class="sec-l1" data-cols="10,11,12,13,14,15" data-section="content">Content Fidelity</th><th colspan="6" class="sec-l1" data-cols="16,17,18,19,20,21" data-section="exact">Exact Triple</th></tr>
+<tr><th class="group-l2" colspan="1" data-cols="0" data-section="overall">Macro</th><th class="group-l2" colspan="1" data-cols="1" data-section="overall">Micro</th><th class="group-l2" colspan="1" data-cols="2" data-section="struct_content">Macro</th><th class="group-l2" colspan="1" data-cols="3" data-section="struct_content">Micro</th><th class="group-l2" colspan="3" data-cols="4,5,6" data-section="structural">Macro</th><th class="group-l2" colspan="3" data-cols="7,8,9" data-section="structural">Micro</th><th class="group-l2" colspan="3" data-cols="10,11,12" data-section="content">Macro</th><th class="group-l2" colspan="3" data-cols="13,14,15" data-section="content">Micro</th><th class="group-l2" colspan="3" data-cols="16,17,18" data-section="exact">Macro</th><th class="group-l2" colspan="3" data-cols="19,20,21" data-section="exact">Micro</th></tr>
+<tr><th class="group-l3" data-col="0" data-section="overall">F1</th><th class="group-l3" data-col="1" data-section="overall">F1</th><th class="group-l3" data-col="2" data-section="struct_content">F1</th><th class="group-l3" data-col="3" data-section="struct_content">F1</th><th class="group-l3" data-col="4" data-section="structural">P</th><th class="group-l3" data-col="5" data-section="structural">R</th><th class="group-l3" data-col="6" data-section="structural">F1</th><th class="group-l3" data-col="7" data-section="structural">P</th><th class="group-l3" data-col="8" data-section="structural">R</th><th class="group-l3" data-col="9" data-section="structural">F1</th><th class="group-l3" data-col="10" data-section="content">P</th><th class="group-l3" data-col="11" data-section="content">R</th><th class="group-l3" data-col="12" data-section="content">F1</th><th class="group-l3" data-col="13" data-section="content">P</th><th class="group-l3" data-col="14" data-section="content">R</th><th class="group-l3" data-col="15" data-section="content">F1</th><th class="group-l3" data-col="16" data-section="exact">P</th><th class="group-l3" data-col="17" data-section="exact">R</th><th class="group-l3" data-col="18" data-section="exact">F1</th><th class="group-l3" data-col="19" data-section="exact">P</th><th class="group-l3" data-col="20" data-section="exact">R</th><th class="group-l3" data-col="21" data-section="exact">F1</th></tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="col-id col-model row-even">glm5.1-fp8</td><td class="score" data-col="0" data-section="overall">0.805</td><td class="score" data-col="1" data-section="overall">0.787</td><td class="score" data-col="2" data-section="struct_content">0.846</td><td class="score" data-col="3" data-section="struct_content">0.831</td><td class="score" data-col="4" data-section="structural">0.937</td><td class="score score-best" data-col="5" data-section="structural">0.928</td><td class="score" data-col="6" data-section="structural">0.923</td><td class="score" data-col="7" data-section="structural">0.915</td><td class="score score-best" data-col="8" data-section="structural">0.908</td><td class="score" data-col="9" data-section="structural">0.911</td><td class="score" data-col="10" data-section="content">0.781</td><td class="score" data-col="11" data-section="content">0.772</td><td class="score" data-col="12" data-section="content">0.769</td><td class="score" data-col="13" data-section="content">0.754</td><td class="score" data-col="14" data-section="content">0.748</td><td class="score" data-col="15" data-section="content">0.751</td><td class="score" data-col="16" data-section="exact">0.735</td><td class="score score-best" data-col="17" data-section="exact">0.727</td><td class="score" data-col="18" data-section="exact">0.724</td><td class="score" data-col="19" data-section="exact">0.703</td><td class="score score-best" data-col="20" data-section="exact">0.697</td><td class="score" data-col="21" data-section="exact">0.700</td></tr><tr class="row-odd"><td class="col-id col-model row-odd">kimi-k2.5</td><td class="score" data-col="0" data-section="overall">0.807</td><td class="score" data-col="1" data-section="overall">0.792</td><td class="score" data-col="2" data-section="struct_content">0.851</td><td class="score score-best" data-col="3" data-section="struct_content">0.838</td><td class="score" data-col="4" data-section="structural">0.945</td><td class="score" data-col="5" data-section="structural">0.926</td><td class="score score-best" data-col="6" data-section="structural">0.927</td><td class="score" data-col="7" data-section="structural">0.931</td><td class="score" data-col="8" data-section="structural">0.904</td><td class="score score-best" data-col="9" data-section="structural">0.917</td><td class="score" data-col="10" data-section="content">0.791</td><td class="score" data-col="11" data-section="content">0.773</td><td class="score" data-col="12" data-section="content">0.775</td><td class="score" data-col="13" data-section="content">0.771</td><td class="score" data-col="14" data-section="content">0.748</td><td class="score" data-col="15" data-section="content">0.759</td><td class="score" data-col="16" data-section="exact">0.734</td><td class="score" data-col="17" data-section="exact">0.720</td><td class="score" data-col="18" data-section="exact">0.721</td><td class="score" data-col="19" data-section="exact">0.711</td><td class="score" data-col="20" data-section="exact">0.689</td><td class="score" data-col="21" data-section="exact">0.699</td></tr><tr class="row-even"><td class="col-id col-model row-even">kimi-k2.5_thinking</td><td class="score" data-col="0" data-section="overall">0.807</td><td class="score" data-col="1" data-section="overall">0.792</td><td class="score score-best" data-col="2" data-section="struct_content">0.851</td><td class="score" data-col="3" data-section="struct_content">0.837</td><td class="score" data-col="4" data-section="structural">0.945</td><td class="score" data-col="5" data-section="structural">0.923</td><td class="score" data-col="6" data-section="structural">0.926</td><td class="score" data-col="7" data-section="structural">0.930</td><td class="score" data-col="8" data-section="structural">0.901</td><td class="score" data-col="9" data-section="structural">0.914</td><td class="score" data-col="10" data-section="content">0.794</td><td class="score score-best" data-col="11" data-section="content">0.774</td><td class="score score-best" data-col="12" data-section="content">0.777</td><td class="score" data-col="13" data-section="content">0.773</td><td class="score" data-col="14" data-section="content">0.749</td><td class="score" data-col="15" data-section="content">0.760</td><td class="score" data-col="16" data-section="exact">0.734</td><td class="score" data-col="17" data-section="exact">0.720</td><td class="score" data-col="18" data-section="exact">0.721</td><td class="score" data-col="19" data-section="exact">0.712</td><td class="score" data-col="20" data-section="exact">0.690</td><td class="score" data-col="21" data-section="exact">0.700</td></tr><tr class="row-odd"><td class="col-id col-model row-odd">qwen3.5-397b</td><td class="score" data-col="0" data-section="overall">0.802</td><td class="score" data-col="1" data-section="overall">0.784</td><td class="score" data-col="2" data-section="struct_content">0.844</td><td class="score" data-col="3" data-section="struct_content">0.828</td><td class="score" data-col="4" data-section="structural">0.929</td><td class="score" data-col="5" data-section="structural">0.920</td><td class="score" data-col="6" data-section="structural">0.916</td><td class="score" data-col="7" data-section="structural">0.907</td><td class="score" data-col="8" data-section="structural">0.898</td><td class="score" data-col="9" data-section="structural">0.902</td><td class="score" data-col="10" data-section="content">0.782</td><td class="score" data-col="11" data-section="content">0.774</td><td class="score" data-col="12" data-section="content">0.771</td><td class="score" data-col="13" data-section="content">0.759</td><td class="score score-best" data-col="14" data-section="content">0.750</td><td class="score" data-col="15" data-section="content">0.754</td><td class="score" data-col="16" data-section="exact">0.727</td><td class="score" data-col="17" data-section="exact">0.721</td><td class="score" data-col="18" data-section="exact">0.718</td><td class="score" data-col="19" data-section="exact">0.699</td><td class="score" data-col="20" data-section="exact">0.691</td><td class="score" data-col="21" data-section="exact">0.695</td></tr><tr class="row-even"><td class="col-id col-model row-even">qwen3.5-397b_thinking</td><td class="score score-best" data-col="0" data-section="overall">0.809</td><td class="score score-best" data-col="1" data-section="overall">0.793</td><td class="score" data-col="2" data-section="struct_content">0.848</td><td class="score" data-col="3" data-section="struct_content">0.834</td><td class="score score-best" data-col="4" data-section="structural">0.947</td><td class="score" data-col="5" data-section="structural">0.910</td><td class="score" data-col="6" data-section="structural">0.919</td><td class="score score-best" data-col="7" data-section="structural">0.933</td><td class="score" data-col="8" data-section="structural">0.886</td><td class="score" data-col="9" data-section="structural">0.908</td><td class="score score-best" data-col="10" data-section="content">0.802</td><td class="score" data-col="11" data-section="content">0.768</td><td class="score" data-col="12" data-section="content">0.776</td><td class="score score-best" data-col="13" data-section="content">0.782</td><td class="score" data-col="14" data-section="content">0.740</td><td class="score score-best" data-col="15" data-section="content">0.760</td><td class="score score-best" data-col="16" data-section="exact">0.754</td><td class="score" data-col="17" data-section="exact">0.723</td><td class="score score-best" data-col="18" data-section="exact">0.731</td><td class="score score-best" data-col="19" data-section="exact">0.730</td><td class="score" data-col="20" data-section="exact">0.691</td><td class="score score-best" data-col="21" data-section="exact">0.709</td></tr>
+</tbody>
+</table>
+</div>
+<div id="tab-prompt" class="tab-content">
+  <div class="tab-panel">
+    <h2>Prompt</h2>
+    <pre>You are an expert in annotating and encoding Latin medieval accounting book data into RDF/XML, strictly following the Aldersbach data model. Your task is to transform json objects containing transcriptions of accounting entries into valid, normalized RDF/XML output, adhering to these rules:
+Input/Output:
+Accept only json objects, each containing &quot;id&quot;, &quot;rubric&quot;, &quot;year&quot;, &quot;type&quot;, and &quot;entry&quot;, the full transcription is stored in &quot;entry&quot;. Output only the relevant RDF/XML elements (e.g., &lt;bk:Transaction&gt;, &lt;arec:Note&gt;, &lt;bk:TotalTransaction&gt;) according to the values of &quot;type&quot;, and put the &quot;id&quot; in an attribute &#x27;rdf:about&#x27;. Treat &quot;type&quot; as a strong hint, not a binding order: if it clearly conflicts with the entry, follow the entry. Add &lt;arec:hasRubric rdf:resource=&quot;[value of &#x27;rubric&#x27;]&quot;&gt;.
+Ambiguity:
+For ambiguous input, make minimal assumptions and remain consistent.
+Monetary Rules:
+Normalize amounts using 1 lb = 8 s, 1 s = 30 d, therefore 1 lb = 240 d; 1 gr. = 7.5 d; 1 hall. = 0.5 d; 1 ob. = 0.5 d; 1 ort = a quarter of the currency it follows (i lb. i ort = 1.25 lb). Output only numeric values (j̸ is one sign: the letters before the j give the number, j̸ adds 0.5. j̸ alone = 0.5, vij̸ = vi+½ = 6.5, viij̸ = vii+½ = 7.5, viiij̸ = viii+½ = 8.5). Quantities may be integers or decimals. For additions or subtractions (e.g., 3 lb - 1 lb = 2 lb) calculate the result and output only the final value. For mixed units (e.g., 1 lb minus 10 d), resolve to Denare (e.g., 230 d) using &quot;&lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#d&quot;/&gt;&quot; and output only the total quantity (e.g., 230 d.). Normalization to Denare is only for subtractions.
+Dates: do NOT compute a calendar date. Copy the date phrase out of &quot;entry&quot; into the attribute resolve-from of an EMPTY &lt;bk:when/&gt;, e.g. &lt;bk:when resolve-from=&quot;feria quarta post dominicam Iubilate Anno lvio&quot;/&gt;. The postprocessing resolves the phrase deterministically to YYYY-MM-DD (Julian calendar, use of the Diocese of Passau). Converting it yourself is unnecessary and, measured on this corpus, wrong about two thirds of the time — the recurring error is ante/post landing a week off the feast&#x27;s actual weekday.
+Rules for the phrase:
+- It must occur in &quot;entry&quot; character for character. Do not translate it, do not expand abbreviations, do not normalise the spelling, do not repair a line-break hyphenation (&quot;penthe- costes&quot; stays as it stands).
+- Include everything the date is made of and nothing more: the weekday with ante/post if present (&quot;feria quinta ante dominicam Vocem Iocunditatis&quot;), &quot;in die&quot;/&quot;in festo&quot;/&quot;in vigilia&quot;/&quot;in octava&quot;, and a year stated in the entry (&quot;Anno lvio&quot;). Leave out the surrounding words of the sentence.
+- Choose the day the transaction HAPPENED. An entry may also name a payment deadline (&quot;tempus solucionis ...&quot;, &quot;solucionem faciet ... proxime futuri&quot;) or a settlement day recorded afterwards (&quot;Acta sunt hec ...&quot;). Those are not the date of the transfer.
+- If the entry names no date of its own — including when it names only a deadline, or only a back-reference such as &quot;eodem die&quot; / &quot;eadem die&quot; — write the plain year instead: &lt;bk:when&gt;YYYY&lt;/bk:when&gt;, taken from the &quot;year&quot; field of the json object. Do not guess a day. A later review pass resolves the back-references.
+- A transfer or a debt happens on one day: at most one &lt;bk:when&gt; per &lt;bk:Transfer&gt; / &lt;arec:Debt&gt;. A booking may well carry several different dates, but then one per transfer.
+In cases where &quot;e&quot; is following a number (f.e. ie avene, xvie avene), the &quot;e&quot; has to be treated as a unit (f.e. 5 e of wheat).
+Make sure that bk:from/bk:to relations are correctly encoded: money from A to B usually (but not always) means commodity/service/right from B to A. 
+Be aware that there might also be (early) german or mixes of latin and german entries.
+Transfers:
+One transaction may have multiple &lt;bk:Transfer&gt; elements (e.g., money + commodity). Each &lt;bk:consistsOf&gt; contains one &lt;bk:Transfer&gt;. Encode multiple assets in a &lt;bk:Transfer&gt; as individual &lt;bk:transfers&gt;.
+If an entry refers to a generic role (e.g., &quot;Bäcker,&quot; &quot;Drescher&quot;) without naming the individual, use a generic URI (e.g., #baker, #drescher) — but only if that role is named in the entry itself, never taken from the rubric. Use #anonymous when the agent is not mentioned at all (e.g., &quot;we gave 10 d.&quot;) or only as a back-reference (&quot;idem&quot;, &quot;eidem&quot;, &quot;sibi&quot;, ...): such words name no one, so never build a URI from them. Within &lt;bk:Transaction&gt;, list &lt;bk:consistsOf&gt; containing a money &lt;bk:Transfer&gt; before any commodity/service/right &lt;bk:Transfer&gt;.
+Debts (Transaction vs. Note): A &lt;bk:Transfer&gt; is a completed flow; an &lt;arec:Debt&gt; is an outstanding obligation (&quot;tenetur&quot;, &quot;still owes&quot;). If an entry names two asset classes (e.g. money owed for a commodity), the changed-hands asset is a &lt;bk:Transfer&gt; and the outstanding one an &lt;arec:Debt&gt;, inside a &lt;bk:Transaction&gt;. Use &lt;arec:Note&gt; only when nothing changed hands (a bare obligation, typically one asset class). A settlement word marks a debt as already paid (&quot;solvit&quot;, &quot;solvit totum&quot;, or a leading &quot;dedit&quot; before the &quot;Item&quot;): the amount then counts as a completed &lt;bk:Transfer&gt; in a &lt;bk:Transaction&gt;, not an outstanding &lt;arec:Debt&gt;. arec:hasDebt holds exactly one &lt;arec:Debt&gt; (always arec:ows + bk:debit + bk:credit); never a bare bk:Money/bk:Commodity; repeat arec:hasDebt for several debts.
+Style:
+Preserve Latin tags, reuse URIs, and match the model’s structure for prefixes, properties, and blank nodes.
+Interaction:
+Respond with RDF/XML only. Do not make multi-line comments. Maintain a focused, scholarly tone.
+Data Model:     &lt;bk:Transaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1&quot;&gt;
+        &lt;bk:entry&gt;entire booking entry goes here&lt;/bk:entry&gt;
+        &lt;bk:consistsOf&gt;
+            &lt;!--can contain only one bk:Transfer, but bk:Transfer can contain multiple bk:transfers.--&gt;
+            &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T1&quot;&gt; 
+                &lt;!--example for money transfer--&gt;
+                &lt;bk:transfers&gt;
+                    &lt;!--bk:Commodity | bk:Service | bk:Right | bk:Money is possible. Each has its own bk:consistsOf/bk:Transfer structure--&gt;
+                    &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T1EA1&quot;&gt;
+                        &lt;bk:unit
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit1&quot;/&gt;
+                        &lt;!--if no unit is explicitly specified, use &quot;#piece&quot;--&gt;
+                        &lt;bk:quantity&gt;amount of unit as Arabic numeral&lt;/bk:quantity&gt;
+                    &lt;/bk:Money&gt;
+                &lt;/bk:transfers&gt;
+                &lt;bk:transfers&gt;
+                    &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T1EA2&quot;&gt;
+                        &lt;bk:unit
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit2&quot;/&gt;
+                        &lt;bk:quantity&gt;amount of unit as Arabic numeral&lt;/bk:quantity&gt;
+                    &lt;/bk:Money&gt;
+                &lt;/bk:transfers&gt;
+                &lt;!--define economic agents involved in transfer of money--&gt;
+                &lt;!--One or more economic agents (individuals or groups) are possible for each category (by, from, to, debit, credit)--&gt;
+                &lt;!--Money goes from economic agent 1 to economic agent 2 and vice versa in bk:Commodity because goods are generally swapped for money--&gt;
+                &lt;!--If an agent is unknown, use &quot;#anonymous&quot;. In most cases the monastery of Aldersbach will be one of the agents, so there shouldn&#x27;t be more than one anonymous agent (either in bk:from or in bk:to, the other is aldersbach)--&gt;
+                &lt;bk:from
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent1&quot;/&gt;
+                &lt;!--paying agent--&gt;
+                &lt;bk:to
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent2&quot;/&gt;
+                &lt;!--paid agent--&gt;
+                &lt;bk:by
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent3&quot;/&gt;
+                &lt;!--optional if a transfer occurs through a third party--&gt;
+                &lt;!--bk:by is an INTERMEDIARY who carries out a transfer on behalf of a party
+                    without being the counterparty himself. Aldersbach officials acting for the
+                    monastery (cellerarius/celerarius, granarius, magister curie, procurator) go
+                    in bk:by, NEVER in bk:from/bk:to — they represent the monastery, they are not
+                    the paying/receiving party. So for &quot;quos vendidit cellerarius&quot; or
+                    &quot;cellerarius emit pro nobis / in absencia nostra&quot;: put the official in bk:by;
+                    the non-Aldersbach side is the named external counterparty if the text gives
+                    one, otherwise #anonymous. Never put the same official in both bk:by and
+                    bk:from/bk:to.--&gt;
+                &lt;bk:debit
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent1&quot;/&gt;
+                &lt;!--optional if an economic agent ows something--&gt;
+                &lt;bk:credit
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent2&quot;/&gt;
+                &lt;!--optional if an economic agent is owed something--&gt;
+                &lt;bk:where rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofplace&quot;/&gt;
+                &lt;!--optional: place where transfer took place--&gt;
+                &lt;bk:when resolve-from=&quot;date phrase copied verbatim from the entry&quot;/&gt;
+                &lt;!--optional: the day the transfer took place. Use &lt;bk:when&gt;YYYY&lt;/bk:when&gt;
+                    instead when the entry names no date phrase of its own.--&gt;
+            &lt;/bk:Transfer&gt;
+        &lt;/bk:consistsOf&gt;
+        &lt;bk:consistsOf&gt;
+            &lt;!--example for commodity transfer--&gt;
+            &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T2&quot;&gt;
+                &lt;bk:transfers&gt;
+                    &lt;bk:Commodity rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T2EA1&quot;&gt;
+                        &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofunit&quot;/&gt;
+                        &lt;bk:quantity&gt;amount of unit as Arabic numeral&lt;/bk:quantity&gt;
+                        &lt;bk:classified
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcommodity&quot;
+                        /&gt;
+                    &lt;/bk:Commodity&gt;
+                &lt;/bk:transfers&gt;
+                &lt;bk:transfers&gt;
+		&lt;!--optional: if there is a second commodity transfer--&gt;
+                    &lt;bk:Commodity rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T2EA2&quot;&gt;
+                        &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofunit&quot;/&gt;
+                        &lt;bk:quantity&gt;amount of unit as Arabic numeral&lt;/bk:quantity&gt;
+                        &lt;bk:classified
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcommodity&quot;/&gt;
+                    &lt;/bk:Commodity&gt;
+                &lt;/bk:transfers&gt;
+                &lt;!--define economic agents involved in transfer of commodity--&gt;
+                &lt;!--Same encoding logic as in bk:Money applies--&gt;
+                &lt;!--Commodity|Service goes from economic agent 2 to economic agent 1: reverse to bk:Money as goods are generally swapped for money--&gt;
+                &lt;bk:from
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent2&quot;/&gt;
+                &lt;bk:to
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent1&quot;
+                /&gt;
+                &lt;bk:by
+                    rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent3&quot;
+                /&gt;
+                &lt;bk:where rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofplace&quot;/&gt;
+                &lt;!--optional: place where transfer took place--&gt;
+                &lt;bk:when resolve-from=&quot;date phrase copied verbatim from the entry&quot;/&gt;
+                &lt;!--optional: the day the transfer took place. Use &lt;bk:when&gt;YYYY&lt;/bk:when&gt;
+                    instead when the entry names no date phrase of its own.--&gt;
+            &lt;/bk:Transfer&gt;
+        &lt;/bk:consistsOf&gt;
+        &lt;arec:hasDebt&gt; &lt;!--optional: for an OUTSTANDING obligation stated alongside the transfer(s). F.e. &quot;Item PersonXY paid us 2s but he still owes us 5d.&quot;: 2s is a bk:Transfer, 5d is an arec:Debt here. STRICT RULE: arec:hasDebt contains exactly one arec:Debt and nothing else; an arec:Debt always has arec:ows + bk:debit + bk:credit. Never place a bare bk:Money/bk:Commodity directly under arec:hasDebt. For several debts, repeat arec:hasDebt.--&gt;
+            &lt;arec:Debt&gt;
+                &lt;!--arec:ows behaves like bk:transfers: exactly one asset per arec:ows; repeat the whole arec:ows element for a further asset. A SINGLE owed amount in mixed units (e.g. &quot;xviii s. x d.&quot; = 18 s + 10 d) is ONE arec:Debt with a repeated arec:ows per unit, NOT two arec:Debt. Repeat arec:hasDebt only for genuinely distinct obligations.--&gt;
+                &lt;arec:ows&gt; &lt;!--the owed asset: bk:Money, or bk:Commodity/bk:Service/bk:Right if the good itself is still owed. If someone is explicitly lending money, arec:ows can also be used--&gt;
+                    &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1D1EA1&quot;&gt;
+                        &lt;bk:unit
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit1&quot;/&gt;
+                        &lt;bk:quantity&gt;amount of owed money as Arabic numeral&lt;/bk:quantity&gt;
+                    &lt;/bk:Money&gt;
+                &lt;/arec:ows&gt;
+                &lt;arec:ows&gt; &lt;!--only if the SAME owed amount is stated in a second unit (mixed units); otherwise omit this whole arec:ows--&gt;
+                    &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1D1EA2&quot;&gt;
+                        &lt;bk:unit
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit2&quot;/&gt;
+                        &lt;bk:quantity&gt;amount of owed money as Arabic numeral&lt;/bk:quantity&gt;
+                    &lt;/bk:Money&gt;
+                &lt;/arec:ows&gt;
+                &lt;bk:debit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent1&quot;/&gt;
+                &lt;bk:credit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent2&quot;/&gt;
+            &lt;/arec:Debt&gt;
+        &lt;/arec:hasDebt&gt;
+    &lt;/bk:Transaction&gt;
+    &lt;!--arec:Note is ONLY for entries that state an outstanding obligation and contain NO actual flow (no transfer). Typically a single asset class is mentioned, e.g. &quot;X tenetur ii lb.&quot; with no counter-asset. As soon as an asset has actually changed hands (money, commodity, service or right), the entry is a bk:Transaction (with the flow as bk:Transfer and any outstanding part as arec:hasDebt), NOT an arec:Note. An arec:Note holds one or more arec:hasDebt and nothing that represents a flow.--&gt;
+    &lt;arec:Note rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1&quot;&gt;
+        &lt;bk:entry&gt;entry&lt;/bk:entry&gt;
+        &lt;arec:hasDebt&gt;
+            &lt;!--if there is a debt stated that is not a transfer of some sort or which sum hasn&#x27;t been transferred (as far as it&#x27;s known)--&gt;
+            &lt;arec:Debt rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1D1&quot;&gt;
+                &lt;arec:ows&gt;
+                    &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1D1EA1&quot;&gt;
+                        &lt;bk:quantity&gt;amount of money as Arabic numeral&lt;/bk:quantity&gt;
+                        &lt;bk:unit
+                            rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit&quot;/&gt;
+                    &lt;/bk:Money&gt;
+                &lt;/arec:ows&gt;
+                &lt;bk:debit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent1&quot;/&gt;
+                &lt;bk:credit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#economicagent2&quot;/&gt;
+            &lt;/arec:Debt&gt;
+        &lt;/arec:hasDebt&gt;
+        &lt;bk:where rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofplace&quot;/&gt;
+        &lt;!--optional: mentioned that is just stated in a note--&gt;
+        &lt;bk:when resolve-from=&quot;date phrase copied verbatim from the entry&quot;/&gt;
+        &lt;!--optional: a date merely stated in a note. Use &lt;bk:when&gt;YYYY&lt;/bk:when&gt; instead
+            when the entry names no date phrase of its own.--&gt;
+    &lt;/arec:Note&gt;
+    &lt;!--for entries that represent the total of transactions occurring in a time frame or context. Often starting as &quot;Summa facit&quot; or similar in the data. Use bk:TotalTransaction ONLY for an entry that is itself a period total (e.g. &quot;Summa prescriptorum facit …&quot;). A bare &quot;Summa &lt;amount&gt;&quot; closing a concrete act (e.g. &quot;… ix diebus xlv d. … Summa iii lb. viii d.&quot;) is that act&#x27;s own final total: keep it inside the SAME bk:Transaction and use the Summa amount as the bk:Money bk:quantity (here 3 lb 8 d), NOT a separate bk:TotalTransaction. Never emit a bk:TotalTransaction whose bk:entry duplicates text already carried by a bk:Transaction from the same input object.--&gt;
+    &lt;bk:TotalTransaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1&quot;&gt;
+        &lt;bk:entry&gt;Total value entry&lt;/bk:entry&gt;
+        &lt;arec:hasRubric rdf:resource=&quot;[value of &#x27;rubric&#x27;]&quot;/&gt;
+        &lt;bk:comprises&gt;
+            &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1EA1&quot;&gt;
+                &lt;bk:quantity&gt;amount of money as Arabic numeral&lt;/bk:quantity&gt;
+                &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit1&quot;/&gt;
+            &lt;/bk:Money&gt;
+        &lt;/bk:comprises&gt;
+        &lt;bk:comprises&gt;
+            &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1EA2&quot;&gt;
+                &lt;bk:quantity&gt;amount of money as Arabic numeral&lt;/bk:quantity&gt;
+                &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit2&quot;/&gt;
+            &lt;/bk:Money&gt;
+        &lt;/bk:comprises&gt;
+        &lt;bk:comprises&gt;
+            &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1EA3&quot;&gt;
+                &lt;bk:quantity&gt;amount of money as Arabic numeral&lt;/bk:quantity&gt;
+                &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#idofcurrencyunit3&quot;/&gt;
+            &lt;/bk:Money&gt;
+        &lt;/bk:comprises&gt;
+    &lt;/bk:TotalTransaction&gt;
+Encoding examples: 
+1)    &lt;bk:Transaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1&quot;&gt;
+      &lt;bk:entry&gt;Item postea recepimus a Georio weyshueber zü hintterkirch pro ii schaf. tritici vij̸
+         lb. d. In die Invencionis sancte crucis&lt;/bk:entry&gt;
+      &lt;arec:hasRubric rdf:resource=&quot;https://gams.uni-graz.at/context:arec#tritici&quot;/&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T1&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#lbdwien&quot;/&gt;
+                  &lt;bk:quantity&gt;6.5&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:from
+               rdf:resource=&quot;https://gams.uni-graz.at/context:arec#georioweyshueber&quot;/&gt;
+            &lt;bk:to rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:when resolve-from=&quot;In die Invencionis sancte crucis&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T2&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Commodity rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T1T2EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#schaff&quot;/&gt;
+                  &lt;bk:quantity&gt;2&lt;/bk:quantity&gt;
+                  &lt;bk:classified
+                     rdf:resource=&quot;https://gams.uni-graz.at/context:arec#weizen&quot;/&gt;
+               &lt;/bk:Commodity&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:to
+               rdf:resource=&quot;https://gams.uni-graz.at/context:arec#georioweyshueber&quot;/&gt;
+            &lt;bk:from rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:when resolve-from=&quot;In die Invencionis sancte crucis&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+   &lt;/bk:Transaction&gt;
+2)    &lt;bk:Transaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T2&quot;&gt;
+      &lt;bk:entry&gt;Item dedimus Georio Rintloer de xxxv diebus vi s. minus v d. pro finali solucione
+         solvimus sibi totum in die animarum&lt;/bk:entry&gt;
+      &lt;arec:hasRubric rdf:resource=&quot;https://gams.uni-graz.at/context:arec#arbeit&quot;/&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T2T1&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T2T1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#d&quot;/&gt;
+                  &lt;bk:quantity&gt;175&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:to rdf:resource=&quot;https://gams.uni-graz.at/context:arec#georiorintloer&quot;/&gt;
+            &lt;bk:from rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:when resolve-from=&quot;in die animarum&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T2T2&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Service rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T2T2EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#tag&quot;/&gt;
+                  &lt;bk:quantity&gt;35&lt;/bk:quantity&gt;
+                  &lt;bk:classified
+                     rdf:resource=&quot;https://gams.uni-graz.at/context:arec#arbeit&quot;/&gt;
+               &lt;/bk:Service&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:from
+               rdf:resource=&quot;https://gams.uni-graz.at/context:arec#georiorintloer&quot;/&gt;
+            &lt;bk:to rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:when resolve-from=&quot;in die animarum&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+   &lt;/bk:Transaction&gt;
+3)    &lt;bk:Transaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T3&quot;&gt;
+      &lt;bk:entry&gt;Item postea dedimus diversis trituratoribus x s. xviii d. in die ypoliti.&lt;/bk:entry&gt;
+      &lt;arec:hasRubric rdf:resource=&quot;https://gams.uni-graz.at/context:arec#arbeit&quot;/&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T3T1&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T3T1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#s&quot;/&gt;
+                  &lt;bk:quantity&gt;10&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T3T1EA2&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#d&quot;/&gt;
+                  &lt;bk:quantity&gt;18&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:to rdf:resource=&quot;https://gams.uni-graz.at/context:arec#drescher&quot;/&gt;
+            &lt;bk:from rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:when resolve-from=&quot;in die ypoliti&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+   &lt;/bk:Transaction&gt;
+4)    &lt;bk:TotalTransaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1&quot;&gt;
+      &lt;bk:entry&gt;Summa facit viii lb. xiii d.&lt;/bk:entry&gt;
+      &lt;arec:hasRubric rdf:resource=&quot;https://gams.uni-graz.at/context:arec#arbeit&quot;/&gt;
+      &lt;bk:comprises&gt;
+         &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1EA1&quot;&gt;
+            &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#lbdwien&quot;/&gt;
+            &lt;bk:quantity&gt;8&lt;/bk:quantity&gt;
+         &lt;/bk:Money&gt;
+      &lt;/bk:comprises&gt;
+      &lt;bk:comprises&gt;
+         &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#TT1EA2&quot;&gt;
+            &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#d&quot;/&gt;
+            &lt;bk:quantity&gt;13&lt;/bk:quantity&gt;
+         &lt;/bk:Money&gt;
+      &lt;/bk:comprises&gt;
+   &lt;/bk:TotalTransaction&gt;
+5)   &lt;arec:Note rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1&quot;&gt;
+      &lt;bk:entry&gt;Item prefectus de vilshoven tenetur ii lb.d. Wien.&lt;/bk:entry&gt;
+      &lt;arec:hasDebt&gt;
+         &lt;arec:Debt rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1D1&quot;&gt;
+            &lt;arec:ows&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#N1D1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#lbdwien&quot;/&gt;
+                  &lt;bk:quantity&gt;2&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/arec:ows&gt;
+            &lt;bk:debit
+               rdf:resource=&quot;https://gams.uni-graz.at/context:arec#praefectusvilshofen&quot;/&gt;
+            &lt;bk:credit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+         &lt;/arec:Debt&gt;
+      &lt;/arec:hasDebt&gt;
+   &lt;/arec:Note&gt;
+6)   &lt;bk:Transaction rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T4&quot;&gt;
+      &lt;bk:entry&gt;Item Chunradus Gunczkover tenetur pro i equa xx s. d.&lt;/bk:entry&gt;
+      &lt;arec:hasRubric rdf:resource=&quot;https://gams.uni-graz.at/context:arec#pferde&quot;/&gt;
+      &lt;bk:consistsOf&gt;
+         &lt;bk:Transfer rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T4T1&quot;&gt;
+            &lt;bk:transfers&gt;
+               &lt;bk:Commodity rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T4T1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#piece&quot;/&gt;
+                  &lt;bk:quantity&gt;1&lt;/bk:quantity&gt;
+                  &lt;bk:classified rdf:resource=&quot;https://gams.uni-graz.at/context:arec#equa&quot;/&gt;
+               &lt;/bk:Commodity&gt;
+            &lt;/bk:transfers&gt;
+            &lt;bk:from rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+            &lt;bk:to rdf:resource=&quot;https://gams.uni-graz.at/context:arec#chunradusgunczkover&quot;/&gt;
+         &lt;/bk:Transfer&gt;
+      &lt;/bk:consistsOf&gt;
+      &lt;arec:hasDebt&gt;
+         &lt;arec:Debt rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T4D1&quot;&gt;
+            &lt;arec:ows&gt;
+               &lt;bk:Money rdf:about=&quot;https://gams.uni-graz.at/o:arec.L345#T4D1EA1&quot;&gt;
+                  &lt;bk:unit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#s&quot;/&gt;
+                  &lt;bk:quantity&gt;20&lt;/bk:quantity&gt;
+               &lt;/bk:Money&gt;
+            &lt;/arec:ows&gt;
+            &lt;bk:debit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#chunradusgunczkover&quot;/&gt;
+            &lt;bk:credit rdf:resource=&quot;https://gams.uni-graz.at/context:arec#klosteraldersbach&quot;/&gt;
+         &lt;/arec:Debt&gt;
+      &lt;/arec:hasDebt&gt;
+   &lt;/bk:Transaction&gt;</pre>
+  </div>
+</div>
+<div id="tab-parameters" class="tab-content">
+  <div class="tab-panel">
+    <h2>Parameters</h2>
+    <ul>
+  <li>Temperature: 0</li>
+  <li>max_tokens: 32768</li>
+  <li>objects_per_batch: 1</li>
+</ul>
+
+  </div>
+</div>
+<script>
+
+// Column metadata injected from Python
+const COLUMNS = [{"idx": 0, "section": "overall", "sec_label": "Overall Score", "avg": "macro", "metric": "f1"}, {"idx": 1, "section": "overall", "sec_label": "Overall Score", "avg": "micro", "metric": "f1"}, {"idx": 2, "section": "struct_content", "sec_label": "Struct + Content", "avg": "macro", "metric": "f1"}, {"idx": 3, "section": "struct_content", "sec_label": "Struct + Content", "avg": "micro", "metric": "f1"}, {"idx": 4, "section": "structural", "sec_label": "Structural", "avg": "macro", "metric": "precision"}, {"idx": 5, "section": "structural", "sec_label": "Structural", "avg": "macro", "metric": "recall"}, {"idx": 6, "section": "structural", "sec_label": "Structural", "avg": "macro", "metric": "f1"}, {"idx": 7, "section": "structural", "sec_label": "Structural", "avg": "micro", "metric": "precision"}, {"idx": 8, "section": "structural", "sec_label": "Structural", "avg": "micro", "metric": "recall"}, {"idx": 9, "section": "structural", "sec_label": "Structural", "avg": "micro", "metric": "f1"}, {"idx": 10, "section": "content", "sec_label": "Content Fidelity", "avg": "macro", "metric": "precision"}, {"idx": 11, "section": "content", "sec_label": "Content Fidelity", "avg": "macro", "metric": "recall"}, {"idx": 12, "section": "content", "sec_label": "Content Fidelity", "avg": "macro", "metric": "f1"}, {"idx": 13, "section": "content", "sec_label": "Content Fidelity", "avg": "micro", "metric": "precision"}, {"idx": 14, "section": "content", "sec_label": "Content Fidelity", "avg": "micro", "metric": "recall"}, {"idx": 15, "section": "content", "sec_label": "Content Fidelity", "avg": "micro", "metric": "f1"}, {"idx": 16, "section": "exact", "sec_label": "Exact Triple", "avg": "macro", "metric": "precision"}, {"idx": 17, "section": "exact", "sec_label": "Exact Triple", "avg": "macro", "metric": "recall"}, {"idx": 18, "section": "exact", "sec_label": "Exact Triple", "avg": "macro", "metric": "f1"}, {"idx": 19, "section": "exact", "sec_label": "Exact Triple", "avg": "micro", "metric": "precision"}, {"idx": 20, "section": "exact", "sec_label": "Exact Triple", "avg": "micro", "metric": "recall"}, {"idx": 21, "section": "exact", "sec_label": "Exact Triple", "avg": "micro", "metric": "f1"}];
+
+// Maps section key → checkbox id suffix (replacing underscore with hyphen)
+const SECTION_CB_MAP = {
+    'overall'       : 'cb-sec-overall',
+    'struct_content': 'cb-sec-struct-content',
+    'structural'    : 'cb-sec-structural',
+    'content'       : 'cb-sec-content',
+    'exact'         : 'cb-sec-exact',
+};
+
+function getState() {
+    const state = {
+        macro : document.getElementById('cb-macro').checked,
+        micro : document.getElementById('cb-micro').checked,
+        p     : document.getElementById('cb-p').checked,
+        r     : document.getElementById('cb-r').checked,
+        f1    : document.getElementById('cb-f1').checked,
+    };
+    for (const [sec, cbId] of Object.entries(SECTION_CB_MAP)) {
+        state['sec_' + sec] = document.getElementById(cbId).checked;
+    }
+    return state;
+}
+
+function isColVisible(col, state) {
+    const avgOk = (col.avg === 'macro' && state.macro) ||
+                  (col.avg === 'micro' && state.micro);
+    const metOk = (col.metric === 'precision' && state.p) ||
+                  (col.metric === 'recall'    && state.r) ||
+                  (col.metric === 'f1'        && state.f1);
+    const secOk = state['sec_' + col.section] !== false;
+    return avgOk && metOk && secOk;
+}
+
+function updateTable() {
+    const state = getState();
+    const vis = new Set(COLUMNS.filter(c => isColVisible(c, state)).map(c => c.idx));
+
+    // Individual cells (L3 headers + data cells)
+    document.querySelectorAll('[data-col]').forEach(el => {
+        el.style.display = vis.has(parseInt(el.dataset.col)) ? '' : 'none';
+    });
+
+    // Colspan-bearing headers (L1 section + L2 avg)
+    document.querySelectorAll('[data-cols]').forEach(th => {
+        const cols = th.dataset.cols.split(',').map(Number);
+        const n = cols.filter(i => vis.has(i)).length;
+        if (n === 0) {
+            th.style.display = 'none';
+        } else {
+            th.style.display = '';
+            th.setAttribute('colspan', n);
+        }
+    });
+
+    // Dynamic section-separator borders on first visible col per section
+    document.querySelectorAll('.section-sep').forEach(el => {
+        el.classList.remove('section-sep');
+    });
+    const sections = [...new Set(COLUMNS.map(c => c.section))];
+    for (const sec of sections) {
+        const secCols = COLUMNS.filter(c => c.section === sec);
+        const first = secCols.find(c => vis.has(c.idx));
+        if (first) {
+            document.querySelectorAll(`[data-col="${first.idx}"]`).forEach(el => {
+                el.classList.add('section-sep');
+            });
+            // Also mark the first visible L2 header in this section
+            const l2s = document.querySelectorAll(`[data-section="${sec}"][data-cols]`);
+            let marked = false;
+            l2s.forEach(th => {
+                if (!marked && th.style.display !== 'none') {
+                    th.classList.add('section-sep');
+                    marked = true;
+                }
+            });
+        }
+    }
+}
+
+// Preset buttons
+function resetFilters() {
+    ['cb-macro','cb-micro','cb-p','cb-r','cb-f1',
+     'cb-sec-overall','cb-sec-struct-content','cb-sec-structural',
+     'cb-sec-content','cb-sec-exact'
+    ].forEach(id => {
+        document.getElementById(id).checked = true;
+    });
+    updateTable();
+}
+function f1Only() {
+    document.getElementById('cb-p').checked  = false;
+    document.getElementById('cb-r').checked  = false;
+    document.getElementById('cb-f1').checked = true;
+    updateTable();
+}
+function macroOnly() {
+    document.getElementById('cb-macro').checked = true;
+    document.getElementById('cb-micro').checked = false;
+    updateTable();
+}
+function microOnly() {
+    document.getElementById('cb-macro').checked = false;
+    document.getElementById('cb-micro').checked = true;
+    updateTable();
+}
+function f1MacroOnly() {
+    document.getElementById('cb-macro').checked = true;
+    document.getElementById('cb-micro').checked = false;
+    document.getElementById('cb-p').checked  = false;
+    document.getElementById('cb-r').checked  = false;
+    document.getElementById('cb-f1').checked = true;
+    updateTable();
+}
+
+function switchTab(name) {
+    document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+    document.getElementById('tab-' + name).classList.add('active');
+    document.querySelector('[data-tab="' + name + '"]').classList.add('active');
+    updateTable();
+}
+
+window.addEventListener('DOMContentLoaded', updateTable);
+
+</script>
+</body>
+</html>

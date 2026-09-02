@@ -1,0 +1,34 @@
+# Config file for the JSONtoRDF step of the "Aldersbach Digital" LLM pipeline.
+# Author: Maximilian Vogeltanz, University of Graz, 2026
+#
+# This standalone repository contains ONE workflow — JSONtoRDF — and ONE provider:
+# the DH-Infra cluster of the University of Graz.
+# Put your project bearer token from console.dhinfra.uni-graz.at into .env as DHINFRA_KEY.
+
+accountingbook: L343GT # accounting book to process; used in the run-log filename
+
+paths:
+  # The ground-truth entries to encode.
+  input: data/standalone_entries_L343GT.json
+
+  # Raw LLM output. {MODEL} is replaced by "_<model name>".
+  output: output/JSONtoRDF/raw/L343GT{MODEL}.xml
+
+  # System prompt for the JSONtoRDF encoding step.
+  system_prompt: data/prompts/systemprompt_JSONtoRDF.txt
+
+run:
+  # One entry per request, so a "batch" here is one entry.
+  batch_range: "" # "" = process all entries, "0-100" = entries 1 to 100, "50-100" = entries 51 to 100. Useful for testing or resuming partial runs
+
+  max_workers: 10  # number of parallel workers. Set to 1 for sequential processing. up to 99 possible for now.
+  max_retries: 3 # maximum number of retry attempts if an API call is unsuccessful
+  retry_backoff_base_seconds: 2 # time delay for retry attempts
+  fail_on_empty_response: true  # true = retry if the model returns an empty response
+
+generation:
+  model: qwen3.5-397b # for other models available look at your dhinfra dashboard: https://console.dhinfra.uni-graz.at/console
+  max_tokens: 65536 # maximum output tokens, may not be supported by all models
+  temperature: 0 # recommended = 0, may not be supported by all models
+  thinking:
+    enabled: false  # true or false; the client maps this per model family

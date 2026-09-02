@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:bk="https://gams.uni-graz.at/o:depcha.bookkeeping#" xmlns:arec="https://gams.uni-graz.at/o:arec.ontology#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:depcha="https://gams.uni-graz.at/o:depcha.ontology#" xmlns:functx="http://www.functx.com"
+   xmlns:gams="https://gams.uni-graz.at/o:gams-ontology#"
+   xmlns:gn="http://www.geonames.org/ontology#"
+   xmlns:huc="https://gams.uni-graz.at/o:depcha.huc-ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:t="http://www.tei-c.org/ns/1.0"
+   xmlns:time="http://www.w3.org/2006/time#" xmlns:void="http://rdfs.org/ns/void#">
+
+   <!--todo: Wo commodity kodieren? Ich müsste es whs zu einer Transaktion mit einem arec:hasDebt machen...Denn die commodity wurde ja transferiert aber nicht bezahlt-->
+   <arec:Note rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N1">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch"/>
+      <bk:entry>Nota linhardus hollerbekch tenetur nobis pro porcis pro cuttibus et pro avibus
+         omnibus insimul computatis lxviii f. Rhen. Acta sunt hec feria quinta post festum sancti
+         Bernhardi Abbatis Anno etc. lxo in presencia Iudicis nostri Stepfani Hollerbekch Johannis
+         Horndel etc.</bk:entry>
+      <arec:hasDebt>
+         <arec:Debt
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N1D1">
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N1D1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#frhen"/>
+                  <bk:quantity>68</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:credit rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1460-08-21</bk:when>
+         </arec:Debt>
+      </arec:hasDebt>
+   </arec:Note>
+   
+   <!--Erster Teil einer Rückzahlung von Linhard Hollerbeck, siehe arec:Note (N1). Mehrere Beträge werden in den folgenden Einträgen über Mittelsmänner rückbezahlt-->
+   <!--Habe hier händisch einen 2. Transfer eingefügt, weil es sich um 2 Geldbeträge, separat übermittelt von 2 Personen, handelt. From und to habe ich auch händisch ergänzt, damit es passt-->
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T1">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch"/>
+      <bk:entry>In hoc dedit xx lb. d. illo liskircher et v lb. d. illo Haberkover</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T1T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T1T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>20</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:by rdf:resource="https://gams.uni-graz.at/context:arec#liskircher"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T1T2">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T1T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:by rdf:resource="https://gams.uni-graz.at/context:arec#haberkover"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T2">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch"/>
+      <bk:entry>Item postea dedit xv f. Rhen. per Cappelanum nostrum in die sancti Leonhardi Anno
+         etc. lxo </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T2T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T2T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#frhen"/>
+                  <bk:quantity>15</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#kaplanaldersbach"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1460-11-06</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <!--Habe die Schuldangaben hier weggelassen, es wurde alles bezahlt (solvit totum) -->
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T3">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_linhardushollerbekch"/>
+      <bk:entry>Item postea dedit i lb. xx d. dominica ante festum sancti martini in Eyttenpach
+         magistro curie facit totum in auro v cum f. suprascriptis .l. f. Rhen. et sic tenetur nobis
+         pro finali solucione xviii f. in auro Idem dedit nobis xii f. Ung. cum masculo nostro sed
+         unus ex eis videtur satis exilis et sic tenetur ii f. Rhen. solvit totum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T3T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T3T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>1</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T3T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>20</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T3T1EA4">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#fung"/>
+                  <bk:quantity>12</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-11-05</bk:when>
+            <bk:where rdf:resource="https://gams.uni-graz.at/context:arec#ort_0011"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T4">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius"/>
+      <bk:entry>O Stepfanus socius secundi coloni conductus est pro xxiij̸ s. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T4T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T4T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>22.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#stepfanussociussecundicoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T5">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius"/>
+      <bk:entry>Item dedimus eidem vii s. d. in die ascensionis domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T5T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T5T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>7</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#stepfanussociussecundicoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-05-11</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T6">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_stepfanussocius"/>
+      <bk:entry>Item postea dedimus eidem i lb. d. Sabbato post mauricii et sic obligamur sibi pro
+         finali solucione viij̸ s. d. solvimus sibi totum in die sancti blasii Episcopi et sic
+         solutus est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T6T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T6T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>1</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#stepfanussociussecundicoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-09-23</bk:when>
+            <!--Whs ein anderes Datum gemeint, da dieses nach der vollständigen Bezahlung ist?-->
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T6T2">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T6T2EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>7.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#stepfanussociussecundicoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-02-03</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T7">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>O Georius Loher socius tercii coloni conductus est pro xxiij̸ s. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T7T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T7T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>22.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T8">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>Item dedimus eidem xxx d. per magistrum curie in die parascheven</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T8T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T8T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>30</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-03-31</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T9">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>Item dedimus eidem extraximus eum ab hospite pro lxi d. in die ascensionis
+         domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T9T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T9T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>61</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <!--todo: Ich weiß noch nicht, wie ich diese "Extraximus eum..." Logik am besten kodieren kann.-->
+            <bk:debit rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-05-11</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T10">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>Item dedimus eidem eadem die j̸ lb. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T10T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T10T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-05-11</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T11">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>Item postea dedimus eidem vi s. d. Sabbato post mauricii</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T11T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T11T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>6</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <!--Habe die Transaktion in 2 Transfers aufgeteilt. In der ersten löst Aldersbach den Georius Loher aus, in der anderen wird eine Schuld bezahlt-->
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_georiusloher"/>
+      <bk:entry>Item extraximus eum ab hospite pro j̸ lb. d. in die sancti Stepfani et sic obligamur
+         sibi pro finali solucione v s. xiiii d. solvimus sibi totum in die sancti blasii Episcopi
+         et sic solutus est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:debit rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-08-02</bk:when>
+            
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12T2">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T12T2EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>14</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#georiusloher"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-02-03</bk:when>
+            
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T13">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>O Valentinus socius quarti coloni conductus est pro xviii s. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T13T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T13T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>18</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T14">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>Item extraximus eum ab hospite pro j̸ lb. d. in die ascensionis domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T14T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T14T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-05-11</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T15">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>Item dedimus eidem eadem die lx d. eadem die</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T15T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T15T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>60</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-05-11</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T16">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>Item eum ab hospite pro v s. d. Sabbato post mauricii</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T16T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T16T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T17">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>Item dedimus sibi eadem die xxx d. per fratrem suum petrum fistulatorem</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T17T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T17T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>30</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:by rdf:resource="https://gams.uni-graz.at/context:arec#peterfistulator"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <!--Habe hier wieder in 2 Transfers aufgeteilt, weil unterschiedliche Transfers zu unterschiedlichen Zeiten-->
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T18">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_valentinussocius"/>
+      <bk:entry>Item extraximus eum ab hospite pro v s. d. in die sancti Stepfani et sic obligamur
+         sibi pro finali solucione xxx d. solvimus hospiti nostro pro eo in die sancti blasii
+         Episcopi et sic solutus est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T18T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T18T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#gasthaus_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-08-02</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T18T2">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T18T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>30</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#hospitusaldersbach"/>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#valentinussociusquarticoloni"/>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#hospitusaldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-02-03</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T19">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Item cellerarius computavit nobis xiiiij̸ lb. v d. quod recepit et expendit a
+         diversis personis qui prescriptam Summam sibi totaliter exsolverunt preter pr subnotati qui
+         adhuc tenentur solvere </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T19T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T19T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>14.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T19T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#anonymous"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#kellermeisteraldersbach"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Item wolfhardus piscator recepit pro v s. d. videlicet Grumad In hoc dedit
+         cellerario piscos pro v s. d. cellerario et sic solvit totum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#wolfhardpiscator"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#kellermeisteraldersbach"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#piece"/>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#heu"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#wolfhardpiscator"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T3">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T20T3EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#piece"/>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#fisch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#wolfhardpiscator"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T21">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>dedit Item primo Rymer in vilshoven tenetur pro i plaustro feni ix s. d. solvit
+         totum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T21T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T21T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>9</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#rymervilshoven"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T21T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T21T2EA1">
+                  <bk:unit
+                     rdf:resource="https://gams.uni-graz.at/context:arec#wagenladung"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#heu"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#rymervilshoven"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T22">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>dedit Item tanner de vilshoven tenetur pro i plaustro feni i lb. d. dedit solvit
+         totum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T22T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T22T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>1</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#tannervilshoven"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T22T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T22T2EA1">
+                  <bk:unit
+                     rdf:resource="https://gams.uni-graz.at/context:arec#wagenladung"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#heu"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#tannervilshoven"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T23">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>dedit Item Linhardus prukner tenetur iii s. d. lx pro iii Schober dedit totum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T23T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T23T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>60</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardprukner"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T23T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T23T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#schober"/>
+                  <bk:quantity>3</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#heu"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#linhardprukner"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T24">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>dedit Item Andreas cerdonis in Chadling tenetur iiij̸ s. d. dedit </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T24T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T24T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>3.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#andreasgerberkarling"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <arec:Note rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N2">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Item petrus Stügelhaymer tenetur x s. d. </bk:entry>
+      <arec:hasDebt>
+         <arec:Debt
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N2D1">
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N2D1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>10</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#petrusstügelhaymer"/>
+            <bk:credit rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"
+            />
+         </arec:Debt>
+      </arec:hasDebt>
+   </arec:Note>
+   
+   <arec:Note rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N3">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Item petrus piscator tenetur v s. d.</bk:entry>
+      <arec:hasDebt>
+         <arec:Debt
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N3D1">
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N3D1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#petruspiscator"/>
+            <bk:credit rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"
+            />
+         </arec:Debt>
+      </arec:hasDebt>
+   </arec:Note>
+   
+   <bk:TotalTransaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT1">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Summa facit iiii lb. v s. xv d.</bk:entry>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT1EA1">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+            <bk:quantity>4</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT1EA2">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+            <bk:quantity>5</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT1EA3">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+            <bk:quantity>15</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+   </bk:TotalTransaction>
+   
+   <bk:TotalTransaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT2">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_heu"/>
+      <bk:entry>Summa totalis facit ix lb. xix lb. vi s. xx d.</bk:entry>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT2EA1">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+            <bk:quantity>19</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT2EA2">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+            <bk:quantity>6</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+      <bk:comprises>
+         <bk:Money
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#TT2EA3">
+            <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+            <bk:quantity>20</bk:quantity>
+         </bk:Money>
+      </bk:comprises>
+   </bk:TotalTransaction>
+   
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T25">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin"/>
+      <bk:entry>Katherina Selin Swaygerin conducta est pro xv s. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T25T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T25T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>15</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#katherinaselinswaygerin"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T26">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin"/>
+      <bk:entry>Item primo dedimus eidem lx d. per magistrum curie in die ascensionis
+         domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T26T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T26T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>60</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#katherinaselinswaygerin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-05-03</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T27">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin"/>
+      <bk:entry>Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti
+         Mathei apostoli et Ewangeliste</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T27T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T27T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#katherinaselinswaygerin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T28">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_katherinaselinswaygerin"/>
+      <bk:entry>Item postea dedimus eidem ix s. d. per magistrum curie in die Agathe et sic soluta
+         est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T28T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T28T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>9</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#katherinaselinswaygerin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-02-05</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T29">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin"/>
+      <bk:entry>Margretha filia Seysin conducta est pro xiii s. x d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T29T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T29T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>13</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T29T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>10</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#margrethafiliaseysin"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T30">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin"/>
+      <bk:entry>Item primo dedimus eidem lx d. per magistrum curie in die ascensionis
+         domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T30T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T30T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>60</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#margrethafiliaseysin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-05-03</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T31">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin"/>
+      <bk:entry>Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti
+         Mathei apostoli et Ewangeliste</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T31T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T31T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#margrethafiliaseysin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T32">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_margrethafiliaseysin"/>
+      <bk:entry>Item dedimus eidem per magistrum curie vii s. x d. per magistrum curie in die Agathe
+         et sic soluta est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T32T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T32T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>7</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T32T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>10</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#margrethafiliaseysin"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-02-05</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T33">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis"/>
+      <bk:entry>Anna filia currificis de penczing conducta est pro xiij̸ s. d.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T33T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T33T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>12.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#anna_filia_wagner_penzing"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T34">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis"/>
+      <bk:entry>Item primo dedimus eidem lx d. per magistrum curie in die ascensionis
+         domini</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T34T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T34T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#d"/>
+                  <bk:quantity>60</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#anna_filia_wagner_penzing"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-05-03</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T35">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis"/>
+      <bk:entry>Item postea dedimus eidem j̸ lb. d. per magistrum curie dominica post festum sancti
+         Mathei apostoli et Ewangeliste</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T35T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T35T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>0.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#anna_filia_wagner_penzing"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-09-23</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T36">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_annafiliacurrificis"/>
+      <bk:entry>Item postea dedimus eidem vij̸ s. d. per magistrum curie in die Agathe et sic soluta
+         est totaliter</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T36T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T36T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>6.5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#anna_filia_wagner_penzing"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#hofmeisteraldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-02-05</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis"/>
+      <bk:entry>Martinus opilionis conductus est pro v lb. d. et pro v ulnis grisei panni et i par
+         calciamentorum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>5</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#martinopilionis"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#elle"/>
+                  <bk:quantity>5</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#stoff"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#martinopilionis"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T3">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T37T3EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#schuh"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#martinopilionis"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T38">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis"/>
+      <bk:entry>Item dedimus sibi v ulnas albi panni Sabbato ante dionisii per Sartorem
+         nostrum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T38T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T38T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#elle"/>
+                  <bk:quantity>5</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#stoff"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#martinopilionis"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#schneideraldersbach"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1459-10-06</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+   
+   <arec:Note rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N4">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_anstellungen_armentariastrass_martinusopilionis"/>
+      <bk:entry>Nota computavimus cum martino opilione de omnibus sibi obligatis Et sic obligamur
+         sibi omnibus computatis pro finali solucione xiiii lb. d. Acta sunt hec feria 6a post
+         Agathe Anno etc. lxo in presencia fratris Johannis Chobler Cappellani et magistro
+         curie</bk:entry>
+      <arec:hasDebt>
+         <arec:Debt
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N4D1">
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#N4D1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>14</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <bk:credit
+               rdf:resource="https://gams.uni-graz.at/context:arec#martinopilionis"/>
+            <bk:debit rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1460-02-08</bk:when>
+         </arec:Debt>
+      </arec:hasDebt>
+   </arec:Note>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_schaf"/>
+      <bk:entry>tenetur Nota Holderpeck Linhardus tenetur pro lxxi ovis sibi venditis xxvi lb. vi s.
+         Idem tenetur pro xvi cuttis vii lb. Summa totaliter facit xxxiii lb. ii s.</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#piece"/>
+                  <bk:quantity>71</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#schaf"/>
+               </bk:Commodity>
+            </bk:transfers>
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39T3">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39T3EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#piece"/>
+                  <bk:quantity>16</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#tierhaut"/>
+               </bk:Commodity>
+            </bk:transfers>
+         </bk:Transfer>
+      </bk:consistsOf>
+      <arec:hasDebt>
+         <arec:Debt
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39D1">
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39F1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>26</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <arec:ows>
+               <bk:Moneys
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39F1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>6</bk:quantity>
+               </bk:Moneys>
+            </arec:ows>
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39F1EA3">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>7</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39F1EA4">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>33</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <arec:ows>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T39D1EA5">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>2</bk:quantity>
+               </bk:Money>
+            </arec:ows>
+            <bk:debit
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:credit rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </arec:Debt>
+      </arec:hasDebt>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T40">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_schaf"/>
+      <bk:entry>Item postea dedit xvi fl. Rhen. qui faciunt in peccunia xiii lb. computando fl. pro
+         vii s. feria sexta ante festum exaltacionis sancti crucis </bk:entry>
+      <!--todo: "computando fl. pro"-->
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T40T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T40T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>13</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T40T1EA2">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#s"/>
+                  <bk:quantity>7</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-09-08</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T41">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_schaf"/>
+      <bk:entry>Item postea dedit per famulum suum xii fl. Rhen. Sabbatho ante exaltacionem sancte
+         crucis </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T41T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T41T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#frhen"/>
+                  <bk:quantity>12</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:by
+               rdf:resource="https://gams.uni-graz.at/context:arec#dienerlinhardhollerbeck"/>
+            <bk:when>1458-09-09</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T42">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#einnahmen_schaf"/>
+      <bk:entry>Item postea dedit i lb. pro finali solucione et solvit totum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T42T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T42T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>1</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T43">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:areceinnahmen_schwein"/>
+      <bk:entry>Item vendidimus Linhardo holderberk xxxiii porcos pro xxxii lb. d. Wien. feria
+         quarta post dominicam Judica Anno etc. quo supra solvit totum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T43T1">
+            <bk:transfers>
+               <bk:Money
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T43T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#lbdwien"/>
+                  <bk:quantity>32</bk:quantity>
+               </bk:Money>
+            </bk:transfers>
+            <bk:from
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-03-22</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T43T2">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T43T2EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#piece"/>
+                  <bk:quantity>33</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#schwein"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#linhardhollerbeck"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458-03-22</bk:when>
+            
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T44">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item primo dedimus illo Gleysser i par lintheaminum anno quo supra</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T44T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T44T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#gleysser"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T45">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item dem andern Encken dedimus i par lintheaminum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T45T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T45T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#encke_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T46">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item dem tritten encken dedimus i par lintheaminum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T46T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T46T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#encke_unbekannt"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T47">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item coco in curia colonorum i par lintheaminum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T47T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T47T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#kochhofverwaltungaldersbach"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T48">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item Grunoder stabulario i par lintheaminum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T48T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T48T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#grunoderstabularius"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T49">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item Stüttner i par lintheaminum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T49T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T49T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#stüttner"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T50">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item pewtler i par lintheaminum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T50T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T50T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#pewtler"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T51">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item famulo vaccarum in Newnstifft i par lintheaminum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T51T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T51T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#kuhhirteneustift"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T52">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item Swaygerin in Strass i par lintheaminum </bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T52T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T52T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to
+               rdf:resource="https://gams.uni-graz.at/context:arec#katherinaselinswaygerin"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+   <bk:Transaction
+      rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T53">
+      <gams:isMemberOfCollection rdf:resource="https://gams.uni-graz.at/context:arec"/>
+      <gams:isPartOf
+         rdf:resource="https://gams.uni-graz.at/o:arec.L344GT"/>
+      <arec:hasRubric
+         rdf:resource="https://gams.uni-graz.at/o:arec#ausgaben_bedienstete"/>
+      <bk:entry>Item famulo vaccarum in Strass i par lintheaminum</bk:entry>
+      <bk:consistsOf>
+         <bk:Transfer
+            rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T53T1">
+            <bk:transfers>
+               <bk:Commodity
+                  rdf:about="https://gams.uni-graz.at/o:arec.L344GT#T53T1EA1">
+                  <bk:unit rdf:resource="https://gams.uni-graz.at/context:arec#paar"/>
+                  <bk:quantity>1</bk:quantity>
+                  <bk:classified
+                     rdf:resource="https://gams.uni-graz.at/context:arec#leintuch"/>
+               </bk:Commodity>
+            </bk:transfers>
+            <bk:to rdf:resource="https://gams.uni-graz.at/context:arec#anonymous"/>
+            <bk:from rdf:resource="https://gams.uni-graz.at/context:arec#klosteraldersbach"/>
+            <bk:when>1458</bk:when>
+         </bk:Transfer>
+      </bk:consistsOf>
+   </bk:Transaction>
+
+</rdf:RDF>
