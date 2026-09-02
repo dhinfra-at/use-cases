@@ -10,7 +10,7 @@ data, running a job. This repository holds the larger examples that build on it.
 
 This repository covers the integrated cluster environment: JupyterHub, GPUs, batch jobs,
 shared storage, the model gateway. The other services on [dhinfra.at](https://dhinfra.at) —
-digitisation, scanning hardware, cameras — are out of scope. A use case belongs here if
+digitisation, scanning hardware, cameras — are currently out of scope. For now, a use case belongs here if
 someone can reproduce it by logging in to the cluster.
 
 ## Candidates and curated
