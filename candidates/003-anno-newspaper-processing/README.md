@@ -61,8 +61,8 @@ Open a terminal, move to the location where you want the project to live, and cl
 cd ~/projects
 git clone --filter=blob:none --sparse https://github.com/dhinfra-at/use-cases.git
 cd use-cases
-git sparse-checkout set anno-newspaper-processing
-cd anno-newspaper-processing
+git sparse-checkout set candidates/003-anno-newspaper-processing
+cd candidates/003-anno-newspaper-processing
 ```
 
 Keep every file together in this **single directory**. Do not split them across folders. The directory should contain at least the following:
@@ -81,7 +81,7 @@ After setup runs, you will also see a new `model_dir/` folder (the layout models
 
 ## Setup
 
-You should already be inside the project directory from the previous step. If you opened a new terminal, move back into it first (for example `cd ~/projects/use-cases/anno-newspaper-processing`). Then run these two commands:
+You should already be inside the project directory from the previous step. If you opened a new terminal, move back into it first (for example `cd ~/projects/use-cases/candidates/003-anno-newspaper-processing`). Then run these two commands:
 
 ```bash
 chmod +x setup.sh
