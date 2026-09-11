@@ -97,6 +97,27 @@ script exits with a clear message when they are missing.
 If something did get pushed, tell the Ops team and treat the credential as compromised.
 Rotate it first; cleaning the git history comes after.
 
+## Acknowledging DHinfra
+
+If a use case from here, or work you ran on the cluster, ends up in a paper, a dataset, a
+model or a repository, please acknowledge the infrastructure. Whatever sentence you write,
+keep this string intact:
+
+> Digital Humanities Infrastructure Austria (DHinfra.at)
+
+If you used the GPU systems, please also cite the paper describing the cluster:
+
+> Atzenhofer-Baumgartner, Florian, David Fleischhacker, Max Resch, Lukas Waldhofer, and
+> Michael Otto. 2026. "Design and Operation of a Federated GPU Cluster for Digital
+> Humanities within DHinfra.at." arXiv:2609.10552 [cs.DC].
+> <https://doi.org/10.48550/arXiv.2609.10552>
+
+Suggested wordings and a BibTeX entry are on
+[Acknowledging DHinfra](https://console.dhinfra.uni-graz.at/console/docs/acknowledgement)
+in the console documentation and on <https://www.dhinfra.at/impact#acknowledgement>. The
+same applies to a use case you submit here: the README is a good place for the sentence,
+and the Ops team lists curated use cases on the impact page.
+
 ## Staging on the cluster
 
 Once the process is running, the Ops team will stage the curated use cases on the cluster,
