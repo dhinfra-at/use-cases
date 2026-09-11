@@ -55,4 +55,5 @@ and name the source and licence of any third-party material. See the repository 
 
 ## Credits
 
-Tools, models, and data providers, with links.
+Tools, models, and data providers, with links. If the pipeline ran on the cluster, add the
+acknowledgment from the repository README, and cite the cluster paper if you used the GPUs.
