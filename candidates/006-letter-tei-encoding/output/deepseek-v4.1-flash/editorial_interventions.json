@@ -1,0 +1,86 @@
+{
+  "L21_div1_p3": {
+    "[Lücke]": {
+      "type": "Omission",
+      "tei": "<gap/>"
+    }
+  },
+  "L7271_div1_p1": {
+    "doch hierinn[?]": {
+      "type": "Uncertainty",
+      "tei": "doch <unclear>hierinn</unclear>"
+    }
+  },
+  "L41_div1_opener1_dateline1": {
+    "d[en]": {
+      "type": "Abbreviation",
+      "tei": "<choice><abbr>d</abbr><expan>den</expan></choice>"
+    },
+    "Septemb[er] [17]98": {
+      "type": "Abbreviation; Supplement",
+      "tei": "<choice><abbr>Septemb</abbr><expan>September</expan></choice> <supplied>17</supplied>98"
+    }
+  },
+  "L4908_div1_p1": {
+    "as he did not chuse [sic]": {
+      "type": "Correction",
+      "tei": "as he did not <choice><sic>chuse</sic><corr>choose</corr></choice>"
+    }
+  },
+  "L5487_div1_p2": {
+    "one[?]": {
+      "type": "Uncertainty",
+      "tei": "<unclear>one</unclear>"
+    },
+    "[of]": {
+      "type": "Supplement",
+      "tei": "<supplied>of</supplied>"
+    },
+    "remnant[s]": {
+      "type": "Supplement",
+      "tei": "remnant<supplied>s</supplied>"
+    }
+  },
+  "L7561_div1_p4": {
+    "lautet[:]": {
+      "type": "Supplement",
+      "tei": "lautet<supplied>:</supplied>"
+    },
+    "Wie aller Ehre bar diese Männer[?]": {
+      "type": "Uncertainty",
+      "tei": "Wie aller Ehre bar <unclear>diese Männer</unclear>"
+    },
+    "königl[icher]": {
+      "type": "Abbreviation",
+      "tei": "<choice><abbr>königl</abbr><expan>königlicher</expan></choice>"
+    }
+  },
+  "L418_div1_p8": {
+    "flor[in]": {
+      "type": "Supplement",
+      "tei": "flor<supplied>in</supplied>"
+    }
+  },
+  "L3940_div2_p2_salute1": {
+    "Obbedient[issi]mo": {
+      "type": "Supplement",
+      "tei": "Obbedient<supplied>issi</supplied>mo"
+    }
+  },
+  "L1922_div1_p28": {
+    "Juin et juillet [sic]": {
+      "type": "Correction",
+      "tei": "Juin et <choice><sic>juillet</sic><corr>Juillet</corr></choice>"
+    }
+  },
+  "L6534_div1_p1": {
+    "so that I I [sic]": {
+      "type": "Redundant Text",
+      "tei": "so that I <surplus>I</surplus>"
+    },
+    "might be able to announce their departure to him[?]": {
+      "type": "Uncertainty",
+      "tei": "might be able to announce their departure to him<unclear>?</unclear>"
+    }
+  }
+}

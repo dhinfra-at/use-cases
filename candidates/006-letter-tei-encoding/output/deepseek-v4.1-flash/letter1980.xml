@@ -1,0 +1,13 @@
+<body>
+  <div type="letter">
+    <opener>
+      <dateline>Mailand, am 6. Oktober 1817.</dateline>
+      <salute>Wertester Freund!</salute>
+    </opener>
+    <p>Herr Hager hat mir die hier beiliegende Grammatik mit dem Wunsche übergeben, daß ich sie Ihnen übermachen solle. Ich erfülle seinen Wunsch mit desto grösserem Vergnügen, als ich glaube, daß sie Ihnen bei Ihren gelehrten Forschungen immer von Nutzen sein kann und als ich dadurch die angenehme Gelegenheit erhalte, mich in Ihr Andenken zurück zu rufen.</p>
+    <p>Ihre Erklärung der Hieroglyphen hat bei allen Freunden und Kennern gründlicher Gelehrsamkeit viel Aufsehen gemacht und berechtigt uns zu noch größeren Erwartungen. <salute>Ihr ergebenster Freund</salute></p>
+    <closer>
+      <signed>Saurau</signed>
+    </closer>
+  </div>
+</body>

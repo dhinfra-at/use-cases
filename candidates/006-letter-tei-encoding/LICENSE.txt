@@ -1,0 +1,19 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Applies to the material in this folder, i.e. data/letters/ (the sample letters),
+data/editorial_interventions/ (the sample snippets) and prompts/ (prompt, encoding rules,
+few-shot examples, user message).
+
+Source of the letters:
+Sabrina Strutz, Department for Digital Humanities Graz: Hammer-Purgstall Correspondence TEI
+Evaluation Dataset. https://zenodo.org/records/17643901
+
+Source of the letters (transcriptions) and of the editorial intervention snippets:
+Höflechner, Walter; Scholger, Martina; Wagner, Alexandra; Strutz, Sabrina; Steiner, Elisabeth
+(eds.) 2025: Joseph von Hammer-Purgstall. Korrespondenz. Graz.
+https://gams.uni-graz.at/hpe, hdl.handle.net/11471/559.20 (GAMS 559.20).
+
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The code in this folder (helpers.py and the notebooks) is under Apache-2.0, the licence of
+the repository.
