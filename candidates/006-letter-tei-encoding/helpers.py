@@ -13,7 +13,7 @@ BASE_URL = os.environ.get("DHINFRA_BASE_URL", "https://api.dhinfra.uni-graz.at/v
 
 
 def get_client():
-    """OpenAI client for the DHinfra gateway. The token is read from DHINFRA_KEY (env or .env)."""
+    """OpenAI client for the DHinfra API. The token is read from DHINFRA_KEY (env or .env)."""
     # override=True: a token in .env wins over one already set in the environment.
     load_dotenv(find_dotenv(usecwd=True), override=True)
     key = os.environ.get("DHINFRA_KEY")
