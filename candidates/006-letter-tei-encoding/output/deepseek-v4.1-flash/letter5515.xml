@@ -1,0 +1,15 @@
+<body>
+  <div type="letter">
+    <opener>
+      <salute>My dear Sir</salute>
+    </opener>
+    <p>At length I am enabled to place in your hands a copy of my friend Dr. Buckland’s Treatise of Geology – which he is desirous of presenting in the proper manner to H.I.H. the Arch D John.</p>
+    <p>Will you be so good as to undertake to present it to H.I.H. together with the enclosed Letter, in which Dr Buckland has requested the Arch Duke to do him the honor of accepting his Book.</p>
+    <p>The cause and manner of the publication of this and all the other Bridgewater Treatises is explained in the Introduction. Dr. Buckland as Professor of Mineralogy and Geology at Oxford was selected for this branch of the task.</p>
+    <closer>
+      <salute>Believe me very faithfully<lb/>Your v ot Servt</salute>
+      <signed>W. Fox Strangways</signed>
+      <dateline>Foreign Office<lb/>London 26 Oct 1836</dateline>
+    </closer>
+  </div>
+</body>
