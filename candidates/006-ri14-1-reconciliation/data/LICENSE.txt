@@ -1,0 +1,14 @@
+The files in this folder (catalogue.jsonl, test.jsonl, pilot_50.txt) are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0),
+https://creativecommons.org/licenses/by/4.0/.
+
+They are derived from the RI XIV,1 Register Dataset (Suzana Sagadin, 2026, CC BY 4.0,
+https://github.com/suzanaSagadin/ri14-1_register_dataset), itself derived from Regesta
+Imperii Online / RI Lab data (Akademie der Wissenschaften und der Literatur Mainz,
+CC BY 4.0, https://gitlab.rlp.net/adwmainz/regesta-imperii/lab/regesta-imperii-data).
+
+Attribution: Regesta Imperii XIV,1 (bearb. Hermann Wiesflecker, 1990) and Register der
+Personen- und Ortsnamen 1493–1495 (bearb. Angelika Schuh, 1996), Regesta Imperii Online,
+CC BY 4.0; RI XIV,1 Register Dataset (S. Sagadin, 2026), CC BY 4.0. Changes made: selection
+of the catalogue and test digests, person profiles, mention strings and answer key, as
+described in README.md.
