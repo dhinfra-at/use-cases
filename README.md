@@ -5,12 +5,12 @@ datasets you can open and run.
 
 Start with the console documentation at
 [`console.dhinfra.uni-graz.at/console/docs`](https://console.dhinfra.uni-graz.at/console/docs).
-It already carries a lot of example code — getting a session, requesting a GPU, loading
+It already carries a lot of example code: getting a session, requesting a GPU, loading
 data, running a job. This repository holds the larger examples that build on it.
 
 This repository covers the integrated cluster environment: JupyterHub, GPUs, batch jobs,
-shared storage, the model gateway. The other services on [dhinfra.at](https://dhinfra.at) —
-digitisation, scanning hardware, cameras — are currently out of scope. For now, a use case belongs here if
+shared storage, the model gateway. The other services on [dhinfra.at](https://dhinfra.at)
+(digitisation, scanning hardware, cameras) are out of scope. A use case belongs here if
 someone can reproduce it by logging in to the cluster.
 
 ## Candidates and curated
@@ -32,7 +32,7 @@ renumbers on merge.
 Curation happens in batches, alongside everything else the Ops team does. A candidate that
 has been here a while is waiting, not rejected. Only the Ops team writes to `curated/`. A
 pull request against an existing candidate is welcome and is the fastest way to get it
-curated — fix a broken path, add the missing licence file, clear the notebook outputs.
+curated: fix a broken path, add the missing licence file, clear the notebook outputs.
 
 ## How to submit
 
@@ -44,21 +44,21 @@ curated — fix a broken path, add the missing licence file, clear the notebook 
 5. Open the pull request against `main`.
 
 Keep the sample data small. It is there to make the example runnable. Point at the full
-source — an IIIF endpoint, a Zenodo record, a repository — and ship a slice of it.
+source (an IIIF endpoint, a Zenodo record, a repository) and ship a slice of it.
 
 ## Licence and permission
 
 By opening a pull request you place your submission under these terms and confirm you are
 entitled to do so.
 
-- **Code** — [Apache-2.0](LICENSE), the repository default. A folder may ship its own
+- **Code:** [Apache-2.0](LICENSE), the repository default. A folder may ship its own
   permissive licence file instead, and that file then governs it.
-- **Material** — data, images, models, documentation: under a Creative Commons licence you
+- **Material:** data, images, models, documentation: under a Creative Commons licence you
   name explicitly, in your README and in a `LICENSE.txt` beside the data. `CC BY 4.0` and
   `CC BY-SA 4.0` are the usual choices. "Creative Commons" on its own is not a licence.
-- **Third-party material** — name its source, its licence, and the attribution it
+- **Third-party material:** name its source, its licence, and the attribution it
   requires. Do not re-license someone else's data.
-- **Duration** — the permission is indefinite and irrevocable. DHinfra and the people who
+- **Duration:** the permission is indefinite and irrevocable. DHinfra and the people who
   use the cluster may keep, run, adapt, and redistribute the material for as long as the
   service exists, under the licence you named. Withdrawing a use case later removes it from
   this repository; it does not reach the copies already made.
@@ -127,6 +127,6 @@ the material: clone the repository, copy a notebook, take one function.
 
 ## Contact
 
-Open an issue here, or reach the DHinfra Ops team in Graz. For the cluster itself —
-sessions, GPUs, storage, quotas — the
+Open an issue here, or reach the DHinfra Ops team in Graz. For the cluster itself
+(sessions, GPUs, storage, quotas), the
 [console documentation](https://console.dhinfra.uni-graz.at/console/docs) answers faster.

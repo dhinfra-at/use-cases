@@ -32,7 +32,7 @@ question. Link the project if it has a page.
 
 ## Settings to change before you run
 
-List every value that points at the author's setup — paths, GPU counts, worker counts —
+List every value that points at the author's setup (paths, GPU counts, worker counts),
 with what to set it to. If a reader has to change one thing, say which.
 
 ## What it produces
