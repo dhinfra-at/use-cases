@@ -1,6 +1,7 @@
 # Credentials — never commit these. See the checklist in README.md.
 .env
 .env.*
+!.env.example
 *.pem
 *.key
 credentials.json
