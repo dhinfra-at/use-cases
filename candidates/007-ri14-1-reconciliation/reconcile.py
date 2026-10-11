@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Person reconciliation on RI XIV,1 digests with the DH Infra LLM API.
+"""Person reconciliation on RI XIV,1 digests with the DHinfra LLM API.
 
     python reconcile.py --run pilot                 # the 50 pilot digests
     python reconcile.py --run test --limit 20       # first 20 test digests
@@ -193,7 +193,7 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--only", nargs="*", default=None,
                     help="digest ids to (re)run; their rows replace the ones in the existing predictions file")
-    ap.add_argument("--workers", type=int, default=16, help="parallel requests (the DH Infra docs suggest 16)")
+    ap.add_argument("--workers", type=int, default=16, help="parallel requests (the DHinfra docs suggest 16)")
     ap.add_argument("--model", default=None, help="served model slug (default: see dhinfra.MODEL)")
     ap.add_argument("--thinking", choices=["on", "off"], default="on",
                     help="model reasoning before the answer; on by default, bounded by --thinking-budget")

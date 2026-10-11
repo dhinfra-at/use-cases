@@ -1,6 +1,6 @@
-# Person reconciliation on historical digests with the DH Infra LLM API
+# Person reconciliation on historical digests with the DHinfra LLM API
 
-A small, complete example of using the DH Infra API from Python: link the persons
+A small, complete example of using the DHinfra API from Python: link the persons
 mentioned in a historical text to a catalogue of known persons, or decide that a person is
 new. The texts are digests (*Regesten*) of King Maximilian I., 1493–1495, from the Regesta
 Imperii; the catalogue and the answer key come from the printed index to that volume. Every
@@ -52,13 +52,13 @@ separate task that this example does not cover.
 - **Resources:** no GPU; a few hundred MB of RAM; 3 MB of data; about 140 API calls for the
   pilot and about 2,100 for the full test set.
 - **Software:** Python 3.10 or newer. The setup step installs `openai` and `rapidfuzz`. You
-  need a DH Infra API key.
+  need a DHinfra API key.
 
 ## Quickstart
 
 ```bash
 pip install -r requirements.txt            # openai, rapidfuzz
-cp .env.example .env                       # put your DH Infra API key in .env
+cp .env.example .env                       # put your DHinfra API key in .env
 python dhinfra.py                          # lists the chat models served right now
 python reconcile.py --run pilot            # 50 digests, about 140 API calls, 2 minutes
 python evaluate.py --run pilot             # scores runs/pilot/predictions.jsonl
@@ -67,7 +67,7 @@ python evaluate.py --run pilot             # scores runs/pilot/predictions.jsonl
 `--run test` processes all 668 test digests (about 2,100 calls, 25 minutes with the default
 16 workers). Every response is cached on disk and its token usage recorded; a repeated run
 makes no calls, an interrupted run is resumed by repeating the command, and
-`runs/<run>/run.json` sums what the run consumed. Errors follow the DH Infra docs: a rejected
+`runs/<run>/run.json` sums what the run consumed. Errors follow the DHinfra docs: a rejected
 key or a spent budget aborts the run, rate limits and busy models are retried.
 
 ## What's inside
@@ -85,7 +85,7 @@ key or a spent budget aborts the run, rate limits and busy models are retried.
 
 ## Settings to change before you run
 
-- `.env`: your DH Infra API key, one line, see `.env.example`. Nothing else points at the
+- `.env`: your DHinfra API key, one line, see `.env.example`. Nothing else points at the
   author's setup; all paths are relative to the scripts.
 - `--model SLUG`: a served model. The default in `dhinfra.py` is the one served when this was
   written; `python dhinfra.py` lists what is served now.
@@ -152,8 +152,8 @@ Data: [Regesta Imperii Online](https://www.regesta-imperii.de) and the
 
 **How to cite.** This use case:
 
-- Suzana Sagadin, Person reconciliation on historical digests with the DH Infra LLM API,
-  2026, Apache-2.0 / CC BY 4.0, in: DH Infra use cases, https://github.com/dhinfra-at/use-cases.
+- Suzana Sagadin, Person reconciliation on historical digests with the DHinfra LLM API,
+  2026, Apache-2.0 / CC BY 4.0, in: DHinfra use cases, https://github.com/dhinfra-at/use-cases.
 
 For the data, cite the [RI XIV,1 Register Dataset](https://github.com/suzanaSagadin/ri14-1_register_dataset),
 whose README gives the citations of the Regesta Imperii volume, its index and the RI Online data.

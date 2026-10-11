@@ -1,16 +1,16 @@
-"""Minimal client for the DH Infra LLM API (OpenAI-compatible chat completions).
+"""Minimal client for the DHinfra LLM API (OpenAI-compatible chat completions).
 
 Reads DHINFRA_API_KEY from the environment or a .env file next to this module.
-Uses the openai client as the DH Infra docs show. Every response is cached on
+Uses the openai client as the DHinfra docs show. Every response is cached on
 disk under runs/<run>/cache/, keyed by the full request, so a repeated run
 makes no API calls; token usage is recorded per response and summed per run.
 
-Reasoning: on by default with a thinking budget (DH Infra's
+Reasoning: on by default with a thinking budget (DHinfra's
 `thinking_token_budget`), so the model thinks a bounded amount before the
 answer and `max_tokens` is budget + answer room. `enable_thinking=False`
 turns it off (`chat_template_kwargs`).
 
-Errors, as the DH Infra docs define them: 401 (bad or revoked key) and 402
+Errors, as the DHinfra docs define them: 401 (bad or revoked key) and 402
 (budget spent) abort the run; 429 waits as long as Retry-After says; 503 and
 other 5xx are retried shortly; 404 stops with the list of served models;
 400 is our own mistake and is raised.
